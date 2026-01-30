@@ -1,0 +1,98 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+logs/
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.factorypath
+.apt_generated/
+.apt_generated_tests/
+bin/
+.metadata/
+*.swp
+*.swo
+*~
+
+# VS Code
+.vscode/
+
+# Eclipse
+.metadata
+tmp/
+*.tmp
+*.bak
+local.properties
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Gradle (if used)
+.gradle/
+build/
+
+# Environment and secrets
+.env
+.env.*
+*.env
+secrets/
+credentials/
+*.pem
+*.key
+*.p12
+*.jks
+
+# API Keys - NEVER commit these!
+api-keys.properties
+secrets.properties
+
+# Test output
+test-output/
+surefire-reports/
+failsafe-reports/
+
+# Application data
+data/
+cache/
+
+# Backup files
+*.backup
+*.bak
