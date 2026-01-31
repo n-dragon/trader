@@ -11,7 +11,6 @@ import com.trader.notifications.NotificationService;
 import com.trader.patterns.AdvancedPatternDetector;
 import com.trader.risk.CircuitBreaker;
 import com.trader.risk.RiskManagement;
-import com.trader.security.OrderValidator;
 import com.trader.security.RateLimiter;
 import com.trader.state.TradingStateMachine;
 import com.trader.validation.BacktestValidator;
@@ -45,7 +44,6 @@ public class TradingBot {
     @Getter private final LatencyManager latencyManager;
 
     // Security components
-    @Getter private final OrderValidator orderValidator;
     @Getter private final RateLimiter rateLimiter;
 
     // Notification
@@ -100,7 +98,6 @@ public class TradingBot {
         this.latencyManager = new LatencyManager();
 
         // Initialize security components
-        this.orderValidator = new OrderValidator(5.0, true);
         this.rateLimiter = new RateLimiter(1200);
 
         // Initialize notification service
@@ -226,9 +223,6 @@ public class TradingBot {
                 .exchange(priceData.getExchange())
                 .timestamp(priceData.getTimestamp())
                 .build());
-
-        // Update order validator with current price
-        orderValidator.updateMarketPrice(priceData.getPrice());
 
         // Check if in position and needs to update stop-loss/take-profit
         if (stateMachine.isInPosition()) {

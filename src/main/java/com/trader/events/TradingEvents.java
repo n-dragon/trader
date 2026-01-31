@@ -72,40 +72,6 @@ public class TradingEvents {
     }
 
     /**
-     * Event published when an order is placed.
-     */
-    @Data
-    @EqualsAndHashCode(callSuper = true)
-    public static class OrderPlacedEvent extends TradingEvent {
-        private Order order;
-
-        @Builder
-        public OrderPlacedEvent(Order order) {
-            super("order-manager");
-            this.order = order;
-        }
-    }
-
-    /**
-     * Event published when an order is filled.
-     */
-    @Data
-    @EqualsAndHashCode(callSuper = true)
-    public static class OrderFilledEvent extends TradingEvent {
-        private Order order;
-        private double filledPrice;
-        private double filledQuantity;
-
-        @Builder
-        public OrderFilledEvent(Order order, double filledPrice, double filledQuantity) {
-            super("order-manager");
-            this.order = order;
-            this.filledPrice = filledPrice;
-            this.filledQuantity = filledQuantity;
-        }
-    }
-
-    /**
      * Event published when a position is opened.
      */
     @Data
