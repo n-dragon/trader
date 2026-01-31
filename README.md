@@ -49,7 +49,7 @@ src/main/java/com/trader/
 ## Prerequisites
 
 - Java 17 or higher
-- Maven 3.6+
+- Gradle 8.0+ (or use the wrapper)
 - Binance API credentials (for live trading)
 
 ## Installation
@@ -62,7 +62,7 @@ cd trader
 
 2. Build the project:
 ```bash
-mvn clean package
+./gradlew build
 ```
 
 3. Configure the application:
@@ -103,17 +103,18 @@ notifications.telegram.chat_id=YOUR_CHAT_ID
 ### Running the Bot
 
 ```bash
-# Paper trading mode
-java -jar target/binance-trading-bot-1.0.0-SNAPSHOT.jar config.properties
+# Using Gradle
+./gradlew run --args="config.properties"
 
-# Or with Maven
-mvn exec:java -Dexec.mainClass="com.trader.core.TradingBot"
+# Or using the fat JAR
+./gradlew shadowJar
+java -jar build/libs/binance-trading-bot-1.0.0-SNAPSHOT.jar config.properties
 ```
 
 ### Running Tests
 
 ```bash
-mvn test
+./gradlew test
 ```
 
 ### Running Backtest

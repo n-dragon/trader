@@ -13,17 +13,13 @@ logs/
 *.tar.gz
 *.rar
 
-# Maven
-target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
-release.properties
-dependency-reduced-pom.xml
-buildNumber.properties
-.mvn/timing.properties
-.mvn/wrapper/maven-wrapper.jar
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+gradle-app.setting
+!**/src/main/**/build/
+!**/src/test/**/build/
 
 # IDE
 .idea/
@@ -65,10 +61,6 @@ Desktop.ini
 # Linux
 *~
 
-# Gradle (if used)
-.gradle/
-build/
-
 # Environment and secrets
 .env
 .env.*
@@ -86,8 +78,6 @@ secrets.properties
 
 # Test output
 test-output/
-surefire-reports/
-failsafe-reports/
 
 # Application data
 data/

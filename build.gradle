@@ -1,0 +1,91 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'com.github.johnrengelman.shadow' version '8.1.1'
+}
+
+group = 'com.trader'
+version = '1.0.0-SNAPSHOT'
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_17
+    targetCompatibility = JavaVersion.VERSION_17
+}
+
+application {
+    mainClass = 'com.trader.core.TradingBot'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Binance API
+    implementation 'com.binance:binance-connector-java:3.1.0'
+
+    // HTTP Client
+    implementation 'com.squareup.okhttp3:okhttp:4.12.0'
+
+    // JSON Processing
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.15.3'
+    implementation 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.15.3'
+
+    // Logging
+    implementation 'org.slf4j:slf4j-api:2.0.9'
+    implementation 'ch.qos.logback:logback-classic:1.4.11'
+
+    // NTP Client for time synchronization
+    implementation 'commons-net:commons-net:3.10.0'
+
+    // Apache Commons for utilities
+    implementation 'org.apache.commons:commons-math3:3.6.1'
+    implementation 'org.apache.commons:commons-lang3:3.14.0'
+
+    // Lombok for boilerplate reduction
+    compileOnly 'org.projectlombok:lombok:1.18.30'
+    annotationProcessor 'org.projectlombok:lombok:1.18.30'
+    testCompileOnly 'org.projectlombok:lombok:1.18.30'
+    testAnnotationProcessor 'org.projectlombok:lombok:1.18.30'
+
+    // WebSocket support
+    implementation 'org.java-websocket:Java-WebSocket:1.5.4'
+
+    // Telegram Bot API for notifications
+    implementation 'org.telegram:telegrambots:6.8.0'
+
+    // Email support
+    implementation 'com.sun.mail:jakarta.mail:2.0.1'
+
+    // Testing
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.10.1'
+    testImplementation 'org.mockito:mockito-core:5.7.0'
+    testImplementation 'org.assertj:assertj-core:3.24.2'
+}
+
+tasks.named('test') {
+    useJUnitPlatform()
+}
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+shadowJar {
+    archiveBaseName.set('binance-trading-bot')
+    archiveClassifier.set('')
+    archiveVersion.set(version)
+
+    manifest {
+        attributes 'Main-Class': application.mainClass
+    }
+}
+
+// Create logs directory before run
+tasks.register('createLogsDir') {
+    doLast {
+        mkdir 'logs'
+    }
+}
+
+run.dependsOn createLogsDir
