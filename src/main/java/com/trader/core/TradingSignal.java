@@ -29,11 +29,13 @@ public class TradingSignal {
     private SignalStrength strength;
 
     public enum SignalType {
-        ENTRY_LONG,
-        ENTRY_SHORT,
-        EXIT_LONG,
-        EXIT_SHORT,
-        NEUTRAL
+        BULLISH,        // Bullish signal detected
+        BEARISH,        // Bearish signal detected
+        ENTRY_LONG,     // Entry long signal (for order execution)
+        ENTRY_SHORT,    // Entry short signal (for order execution)
+        EXIT_LONG,      // Exit long signal (for order execution)
+        EXIT_SHORT,     // Exit short signal (for order execution)
+        NEUTRAL         // No clear signal
     }
 
     public enum SignalAction {
@@ -65,6 +67,28 @@ public class TradingSignal {
             if (confidence >= MODERATE.minConfidence) return MODERATE;
             return WEAK;
         }
+    }
+
+    /**
+     * Returns true if this is a detection signal (bullish or bearish).
+     */
+    public boolean isDetectionSignal() {
+        return type == SignalType.BULLISH || type == SignalType.BEARISH;
+    }
+
+    /**
+     * Returns true if this is a bullish signal.
+     */
+    public boolean isBullish() {
+        return type == SignalType.BULLISH || type == SignalType.ENTRY_LONG;
+    }
+
+    /**
+     * Returns true if this is a bearish signal.
+     */
+    public boolean isBearish() {
+        return type == SignalType.BEARISH || type == SignalType.ENTRY_SHORT ||
+               type == SignalType.EXIT_LONG;
     }
 
     /**

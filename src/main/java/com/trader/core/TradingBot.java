@@ -88,8 +88,8 @@ public class TradingBot {
                 this::handleCircuitBreakerAlert
         );
 
-        // Initialize state machine
-        this.stateMachine = new TradingStateMachine(riskManagement, circuitBreaker);
+        // Initialize state machine (signal detection only)
+        this.stateMachine = new TradingStateMachine(circuitBreaker);
 
         // Initialize analysis components
         this.indicators = new AdaptiveIndicators();
@@ -169,11 +169,6 @@ public class TradingBot {
         running = false;
         logger.info("Stopping Trading Bot...");
 
-        // Close any open positions (in paper mode, just log)
-        if (stateMachine.isInPosition()) {
-            logger.warn("Bot stopping with open position - consider closing manually");
-        }
-
         notificationService.sendCustomMessage("Trading Bot stopped",
                 NotificationService.NotificationPriority.HIGH);
 
@@ -223,18 +218,6 @@ public class TradingBot {
                 .exchange(priceData.getExchange())
                 .timestamp(priceData.getTimestamp())
                 .build());
-
-        // Check if in position and needs to update stop-loss/take-profit
-        if (stateMachine.isInPosition()) {
-            TradingSignal priceSignal = TradingSignal.builder()
-                    .symbol(priceData.getSymbol())
-                    .price(priceData.getPrice())
-                    .type(TradingSignal.SignalType.NEUTRAL)
-                    .timestamp(Instant.now())
-                    .build();
-
-            stateMachine.handleSignal(priceSignal);
-        }
     }
 
     /**
@@ -297,10 +280,11 @@ public class TradingBot {
             // Notify
             notificationService.sendSignalAlert(signal);
 
-            // Handle signal in state machine
-            TradingStateMachine.StateTransitionResult result = stateMachine.handleSignal(signal);
+            // Process signal in state machine (detection only)
+            TradingStateMachine.SignalResult result = stateMachine.processSignal(signal);
 
-            logger.info("Signal processed: {} -> {}", signal.getType(), result.getMessage());
+            logger.info("Signal processed: {} -> {} (accepted: {})",
+                    signal.getType(), result.getMessage(), result.isAccepted());
         }
     }
 
@@ -358,22 +342,19 @@ public class TradingBot {
             }
         }
 
-        // Determine signal type
+        // Determine signal type based on confidence score
         TradingSignal.SignalType signalType = TradingSignal.SignalType.NEUTRAL;
         TradingSignal.SignalAction action = TradingSignal.SignalAction.HOLD;
 
         double threshold = tradingConfig.getThreshold();
 
-        if (!stateMachine.isInPosition()) {
-            if (confidenceScore >= threshold) {
-                signalType = TradingSignal.SignalType.ENTRY_LONG;
-                action = TradingSignal.SignalAction.BUY;
-            }
-        } else {
-            if (confidenceScore <= -threshold) {
-                signalType = TradingSignal.SignalType.EXIT_LONG;
-                action = TradingSignal.SignalAction.SELL;
-            }
+        // Signal detection only - no position state check
+        if (confidenceScore >= threshold) {
+            signalType = TradingSignal.SignalType.BULLISH;
+            action = TradingSignal.SignalAction.BUY;
+        } else if (confidenceScore <= -threshold) {
+            signalType = TradingSignal.SignalType.BEARISH;
+            action = TradingSignal.SignalAction.SELL;
         }
 
         if (signalType == TradingSignal.SignalType.NEUTRAL) {
@@ -431,8 +412,8 @@ public class TradingBot {
                 .running(running)
                 .mode(config.isPaperTrading() ? "PAPER" : "LIVE")
                 .currentState(stateMachine.getCurrentState())
-                .inPosition(stateMachine.isInPosition())
-                .openPosition(stateMachine.getOpenPosition())
+                .canProcess(stateMachine.canProcess())
+                .lastSignal(stateMachine.getLastSignal())
                 .riskMetrics(riskManagement.getRiskMetrics())
                 .circuitBreakerState(circuitBreaker.getState())
                 .tradeCount(tradeHistory.size())
@@ -518,8 +499,8 @@ public class TradingBot {
         private boolean running;
         private String mode;
         private TradingStateMachine.TradingState currentState;
-        private boolean inPosition;
-        private Position openPosition;
+        private boolean canProcess;
+        private TradingSignal lastSignal;
         private RiskManagement.RiskMetrics riskMetrics;
         private CircuitBreaker.CircuitBreakerState circuitBreakerState;
         private int tradeCount;
