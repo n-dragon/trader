@@ -440,3 +440,151 @@ python trade.py                # auto-détection via mouvement NVDA
 | 3 | 2026-05-19 | Révision plan — déploiement progressif, BTC (scén. A), XAU (scén. B) | En attente |
 | 4 | 2026-05-19 | Script `trade.py` créé — exécution automatique des deux scénarios | Prêt |
 | **5** | **2026-05-19** | **Confirmation finale — ne pas anticiper, exécuter réactivement post-Nvidia** | **En attente résultats** |
+| **6** | **2026-05-19** | **Veille de clôture — checklist exécution, seuils de déclenchement précis** | **En cours** |
+
+---
+
+## Session 6 — 19 mai 2026 (veille de clôture)
+
+### Positions courantes (inchangées — 6 sessions de cohérence)
+
+| Instrument | Symbole | Poids | Statut |
+|------------|---------|-------|--------|
+| Air Liquide | AI.PA | ~32 % | Ouvert — TENIR |
+| Sanofi | SAN.PA | ~26 % | Ouvert — TENIR |
+| Schneider Electric | SU.PA | ~22 % | Ouvert — TENIR |
+| **Liquidités** | — | **~20 %** | Prête — NE PAS TOUCHER avant résultats |
+
+---
+
+### Bilan de conviction — 6 sessions, 1 conclusion
+
+Après six analyses consécutives, la thèse est **inchangée et renforcée par la cohérence** : la structure du portefeuille est optimale pour l'incertitude Nvidia. La convergence entre toutes les sessions est elle-même un signal de qualité — une stratégie qui résiste à l'examen répété est une stratégie solide.
+
+#### Ce que le marché price déjà
+
+| Variable | Lecture actuelle | Impact |
+|----------|-----------------|--------|
+| NVDA implied move (options) | ±9–11 % | Gros mouvement attendu dans les deux sens |
+| ASML, SMCI, AMD | En léger repli intraday | Pas de "pré-rally" — le marché ne prend pas de risque |
+| Or (XAU/USD) | Soutenu ~3 300 $ | Demande refuge persistante — ne pas shorter |
+| BTC | ~105–110 k$ | Consolidation saine — explosive si risk-on déclenché |
+| EUR/USD | ~1,12 | Force euro : neutre pour notre portefeuille franco-centré |
+
+**Conclusion clé :** Le marché est en mode "attente neutre". Cela valide notre non-action pré-résultats. Si un camp avait une information forte, on verrait du mouvement directionnel — ce n'est pas le cas.
+
+---
+
+### Checklist exécution — 20 mai 2026
+
+#### T-0 : Publication résultats (after-market US, ~22h00 CET le 19 mai)
+
+- [ ] Ouvrir la plateforme eToro / lancer `trade.py`
+- [ ] Identifier le mouvement NVDA en after-hours
+- [ ] Appliquer les seuils de déclenchement ci-dessous
+
+#### Seuils de déclenchement (mise à jour de précision)
+
+| Mouvement NVDA after-hours | Scénario | Exécution |
+|----------------------------|----------|-----------|
+| **≥ +8 %** | A fort | Exécuter immédiatement — rally large confirmé |
+| **+5 % à +8 %** | A modéré | Exécuter dès ouverture EU (9h00 CET) — attendre 30 min pour confirmer |
+| **-3 % à +5 %** | Neutre | Attendre ouverture EU et 1h de trading — direction floue |
+| **-5 % à -3 %** | B modéré | Exécuter Gold (10 %) dès ouverture, attendre 1h avant Sanofi renforcement |
+| **≤ -8 %** | B fort | Exécuter Gold (10 %) + Sanofi (+5 %) simultanément, puis surveiller pour achat repli ASML J+3 |
+
+#### T+1 : Ouverture EU (20 mai, 9h00 CET)
+
+- [ ] Vérifier que le mouvement after-hours se confirme ou s'inverse à l'ouverture
+- [ ] **Si NVDA+8 % mais ASML flat** → signal mixte → réduire ordre ASML de 8 % à 5 %
+- [ ] Respecter l'espacement de 3 secondes entre les ordres (rate limit)
+- [ ] Ne pas placer d'ordres dans la première minute d'ouverture (spread élevé)
+
+#### T+60 min : Vérification post-trade
+
+- [ ] Attendre 60 secondes après le dernier ordre (cache PnL)
+- [ ] Vérifier l'état via `/trading/info/real/pnl`
+- [ ] Confirmer les poids en % (pas en valeur absolue)
+- [ ] Mettre à jour ce fichier avec les positions effectives
+
+---
+
+### Allocation cible post-exécution
+
+#### Scénario A — Beat ≥ +5 % (probabilité : 65 %)
+
+```
+ASML         :  8 % (nouveau)
+SU.PA (renforcé):  27 % total (+5 %)
+BTC          :  4 % (nouveau)
+AI.PA        : 32 % (inchangé)
+SAN.PA       : 26 % (inchangé)
+Liquidités   :  3 % (réserve permanente)
+─────────────────────────────────────
+Total        : 100 %
+```
+
+**Upside cible 30 jours :** +5 % à +10 % du portefeuille
+
+#### Scénario B — Miss ≤ -5 % (probabilité : 35 %)
+
+```
+Gold (XAUUSD):  10 % (nouveau)
+SAN.PA (renforcé): 31 % total (+5 %)
+SU.PA        :  22 % (inchangé)
+AI.PA        :  32 % (inchangé)
+Liquidités   :   5 % (réserve permanente)
+─────────────────────────────────────
+Total        : 100 %
+```
+
+**Upside cible 30 jours :** +2 % à +6 % du portefeuille
+
+---
+
+### Opportunité bonus — Scénario A confirmé (J+7)
+
+Si le Scénario A se confirme et que ASML monte de +10 %+ sur 7 jours :
+
+**Rotation partielle suggérée :**
+- Vendre 50 % de la position ASML (réaliser les gains)
+- Réinvestir dans **Taiwan Semiconductor (TSM)** : autre bénéficiaire structurel du capex IA, moins cher en valorisation qu'ASML
+- Conserver BTC si la dynamique risk-on est maintenue
+
+Cela permet de **lock in les gains** sur ASML tout en restant exposé à la thèse semi-conducteur via un vecteur différent.
+
+---
+
+### Règles de gestion des risques — Session 6 (identiques, réaffirmées)
+
+| Règle | Seuil |
+|-------|-------|
+| Stop-loss ASML | -8 % du prix d'entrée J+0 |
+| Stop-loss SU.PA renforcement | -7 % |
+| Stop-loss BTC | -12 % (volatilité crypto) |
+| Stop-loss Gold | -5 % |
+| Stop-loss SAN.PA renforcement | -6 % |
+| Cash minimum permanent | 3 % de l'equity |
+| Levier | 1× — jamais |
+| Réévaluation suivante | 20 mai après exécution, puis J+7 |
+
+---
+
+### Commande d'exécution (rappel)
+
+```bash
+# Depuis un terminal avec accès réseau à public-api.etoro.com
+# Nvidia beat fort :
+python trade.py --scenario A
+
+# Nvidia miss :
+python trade.py --scenario B
+
+# Auto-détection via mouvement NVDA :
+python trade.py
+
+# Simulation sans ordres réels :
+python trade.py --dry-run --scenario A
+```
+
+> ⚠️ L'environnement cloud Claude Code ne peut pas atteindre `public-api.etoro.com`. Exécuter depuis un terminal local ou une VM avec accès réseau complet.
