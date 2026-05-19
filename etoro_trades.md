@@ -260,3 +260,109 @@ POST /api/v1/trading/execution/market-open-orders/by-amount
 | 1 | 2026-05-19 | Ouverture : AI.PA (32%), SAN.PA (26%), SU.PA (22%), Cash (20%) | En cours |
 | 2 | 2026-05-19 | Analyse stratégique, plan pré/post-Nvidia | En attente d'exécution |
 | 3 | 2026-05-19 | Révision plan — déploiement progressif, ajout BTC (scén. A) et XAU (scén. B) | En attente résultats Nvidia (20 mai) |
+| 4 | 2026-05-19 | Script `trade.py` créé — exécution automatique des deux scénarios | Prêt à lancer |
+
+---
+
+## Session 4 — 19 mai 2026
+
+### Positions courantes (état connu)
+
+| Instrument | Symbole | Poids | Thèse |
+|------------|---------|-------|-------|
+| Air Liquide | AI.PA | ~32 % | Défensif, pricing power, dividende stable |
+| Sanofi | SAN.PA | ~26 % | Rendement ~5,15 %, santé, décorélé du macro |
+| Schneider Electric | SU.PA | ~22 % | IA + transition énergétique |
+| **Liquidités** | — | **~20 %** | Munition tactique pré-Nvidia — intacte |
+
+---
+
+### Analyse de marché — Mise à jour session 4
+
+#### Conviction finale avant Nvidia (20 mai au soir)
+
+Les 3 sessions précédentes convergent vers la même conclusion : le portefeuille actuel est **correctement positionné** pour absorber les deux scénarios. La poche cash de 20 % est la pièce maîtresse — elle doit être déployée **réactivement**, pas de manière préventive.
+
+| Signal | Lecture mise à jour |
+|--------|---------------------|
+| Corrections CAC (-6 sem.) | Support tenu → zone d'achat confirmée sur défensives |
+| Consensus Nvidia data-center +120 % YoY | Barre très haute → **beat modeste ≠ rally** |
+| Volatilité implicite NVDA (options) | Élevée → marché anticipe un gros mouvement |
+| Or (XAU) | Proche des ATH → hedge coûteux si scén. A |
+| BTC | Consolidation — prêt à exploser si risk-on confirmé |
+
+**Règle d'or de cette session :** Ne pas anticiper le résultat. Exécuter **après** l'ouverture du marché le 20 mai, quand la direction est claire.
+
+---
+
+### Stratégie maximisation des gains — Version finale
+
+#### Allocation cible post-Nvidia
+
+| Scénario A — Beat fort (prob. 65 %) | Scénario B — Miss / guidance prudente (prob. 35 %) |
+|---|---|
+| ASML : +8 % | Gold (XAUUSD) : +10 % |
+| Schneider renforcement : +5 % | Sanofi renforcement : +5 % |
+| BTC : +4 % | Cash résiduel : +5 % |
+| Cash résiduel : ~3 % | Cash résiduel : ~5 % |
+
+#### Pourquoi cette allocation est optimale
+
+**Scénario A — Asymétrie offensive :**
+- **ASML** (8 %) : seul fabricant mondial de machines EUV. Chaque dollar de capex supplémentaire de TSMC/Samsung est du revenu pour ASML. Upside cible +12–18 % sur 30 j.
+- **BTC** (4 %) : corrélation narrative IA/tech en risk-on. Bêta élevé = multiplicateur de gains si le rally tech est large. Stop large (-12 %) pour laisser respirer la volatilité.
+- **Schneider** (+5 %) : data centers = clients directs. Double bénéfice capex IA + transition énergie. Moins volatile qu'ASML.
+
+**Scénario B — Défense asymétrique :**
+- **Gold** (10 %) : valeur refuge classique. ATH récents indiquent une demande soutenue des banques centrales. Corrélation négative en stress tech.
+- **Sanofi** (+5 %) : le rendement élevé attire les flux de rotation anti-tech en cas de sell-off. Position défensive renforcée.
+- Ne pas toucher à ASML ou NVDA tant que la panique n'est pas passée (J+3 à J+7).
+
+---
+
+### Script d'exécution automatique
+
+Le fichier `trade.py` à la racine du dépôt implémente la logique complète :
+
+```bash
+# Installation
+pip install requests
+
+# Simulation (sans passer d'ordres réels)
+python trade.py --dry-run --scenario A
+
+# Exécution réelle après résultats Nvidia — scénario A (beat)
+python trade.py --scenario A
+
+# Exécution réelle — scénario B (miss)
+python trade.py --scenario B
+
+# Auto-détection (examine le cash disponible)
+python trade.py
+```
+
+> ⚠️ **Important :** Exécuter depuis un environnement avec accès réseau à `public-api.etoro.com`. L'environnement d'exécution cloud de Claude Code bloque les appels sortants vers cet hôte.
+
+#### Ce que fait le script
+
+1. **Fetch** l'état courant du portfolio via `/trading/info/real/pnl`
+2. **Calcule** equity, cash disponible, PnL non-réalisé
+3. **Résout** les `instrumentId` dynamiquement via `/market-data/search`
+4. **Place** les ordres d'achat espacés de 3s (respect rate-limit 20 req/min)
+5. **Attend** 60s (cache PnL) puis vérifie l'état post-trade
+6. **Met à jour** `etoro_trades.md` avec les nouvelles positions
+
+---
+
+### Règles de gestion des risques — Finales
+
+| Règle | Seuil |
+|-------|-------|
+| Stop-loss ASML | -8 % du prix d'entrée |
+| Stop-loss Schneider | -7 % du prix d'entrée |
+| Stop-loss BTC | -12 % (volatilité élevée) |
+| Stop-loss Gold | -5 % |
+| Stop-loss Sanofi | -6 % |
+| Cash minimum | 3 % de l'equity (réserve permanente) |
+| Levier | 1× uniquement — jamais de levier |
+| Réévaluation | J+7 après l'exécution des ordres |
