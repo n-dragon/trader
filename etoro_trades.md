@@ -366,3 +366,77 @@ python trade.py
 | Cash minimum | 3 % de l'equity (réserve permanente) |
 | Levier | 1× uniquement — jamais de levier |
 | Réévaluation | J+7 après l'exécution des ordres |
+
+---
+
+## Session 5 — 19 mai 2026
+
+### Positions courantes
+
+Accès API toujours bloqué depuis l'environnement cloud — état inchangé depuis session 4.
+
+| Instrument | Symbole | Poids estimé | Statut |
+|------------|---------|-------------|--------|
+| Air Liquide | AI.PA | ~32 % | Ouvert — tenir |
+| Sanofi | SAN.PA | ~26 % | Ouvert — tenir |
+| Schneider Electric | SU.PA | ~22 % | Ouvert — tenir |
+| **Liquidités** | — | **~20 %** | Intacte — prête au déploiement |
+
+---
+
+### Analyse de marché — Session 5
+
+C'est le dernier run avant les résultats Nvidia (publication ce soir / demain matin heure EU). Le portefeuille n'a pas bougé — c'est voulu. Voici le bilan de conviction final.
+
+#### Signaux consolidés
+
+| Signal | Direction | Poids dans la décision |
+|--------|-----------|------------------------|
+| CAC 40 en zone support (7 800–7 900 pts) | Haussier | Élevé |
+| Consensus Nvidia data-center +120 % YoY | Barre haute | Moyen — risque de "sell the news" |
+| Flux institutionnels pré-résultats sur ASML, SMCI, ETF semi | Haussier faible | Moyen |
+| Or aux ATH historiques (~3 300 $) | Neutre / coûteux comme hedge | Faible — hedge cher |
+| BTC en consolidation (~105–110 k$) | Haussier si risk-on | Moyen |
+| Volatilité implicite NVDA options élevée | Gros mouvement attendu | Signal d'exécution — attendre la direction |
+
+#### Décision de cette session
+
+**Maintenir le portefeuille actuel sans modification préventive.**
+
+Raisonnement :
+1. **Anticiper le résultat = jouer à pile ou face.** Le marché a déjà intégré un beat — si Nvidia livre exactement les attentes, le rally sera modeste. Acheter ASML *avant* les résultats revient à payer une prime d'incertitude.
+2. **La poche cash à 20 % est l'atout.** Elle permet d'agir vite et au bon prix *après* la publication. Les marchés sur-réagissent systématiquement les premières heures — mieux vaut acheter la détente à J+0 10h que le pic à J+0 ouverture.
+3. **Le portefeuille défensif encaisse les deux scénarios.** AI.PA + SAN.PA ne baisseront pas significativement même en cas de sell-off tech — ils agissent comme un plancher de valeur.
+
+---
+
+### Plan d'exécution — Session 5 (inchangé, confirmé)
+
+#### Déclencheurs
+
+| Condition | Action immédiate |
+|-----------|-----------------|
+| NVDA +5 % ou plus en after-market | Exécuter Scénario A (ASML 8 %, SU.PA +5 %, BTC 4 %) |
+| NVDA -5 % ou moins en after-market | Exécuter Scénario B (Gold 10 %, SAN.PA +5 %) |
+| NVDA entre -5 % et +5 % | Attendre l'ouverture EU et confirmer la direction 30 min après open |
+
+#### Commande d'exécution
+
+```bash
+# Depuis un terminal avec accès réseau complet
+python trade.py --scenario A   # si beat fort
+python trade.py --scenario B   # si miss
+python trade.py                # auto-détection via mouvement NVDA
+```
+
+---
+
+### Historique mis à jour
+
+| Session | Date | Action | Résultat |
+|---------|------|--------|---------|
+| 1 | 2026-05-19 | Ouverture : AI.PA (32%), SAN.PA (26%), SU.PA (22%), Cash (20%) | En cours |
+| 2 | 2026-05-19 | Analyse stratégique, plan pré/post-Nvidia | En attente |
+| 3 | 2026-05-19 | Révision plan — déploiement progressif, BTC (scén. A), XAU (scén. B) | En attente |
+| 4 | 2026-05-19 | Script `trade.py` créé — exécution automatique des deux scénarios | Prêt |
+| **5** | **2026-05-19** | **Confirmation finale — ne pas anticiper, exécuter réactivement post-Nvidia** | **En attente résultats** |
