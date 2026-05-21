@@ -6,14 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 163,80 | +3,60 | +1,11% |
-| Sanofi | SAN.PA | 3 | 87,00 | 87,40 | +1,20 | +0,46% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 227,50 | +7,50 | +3,41% |
-| STMicroelectronics | STM.PA | 3 | 28,00 | 28,00 | 0,00 | 0,00% |
+| Air Liquide | AI.PA | 2 | 162,00 | 164,10 | +4,20 | +1,30% |
+| Sanofi | SAN.PA | 3 | 87,00 | 87,85 | +2,55 | +0,98% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 228,50 | +8,50 | +3,86% |
+| STMicroelectronics | STM.PA | 3 | 28,00 | 28,70 | +2,10 | +2,50% |
 
 **Liquidités disponibles :** 111,00 €  
-**Valeur investie :** 902,90 €  
-**Valeur totale du portefeuille :** 1 013,90 € (**+1,39 %** depuis ouverture)
+**Valeur investie :** 906,35 €  
+**Valeur totale du portefeuille :** 1 017,35 € (**+1,74 %** depuis ouverture)
+
+> Stops actifs : STM.PA 27,00 € · SU.PA 216,00 € · STM/SU en mode trailing. Mise à jour : 2026-05-21 09:40 CET.
 
 ---
 
@@ -90,5 +92,37 @@ P&L latent de **+13,90 € (+1,39 %)** dès la première vraie journée de march
 **Stop-loss STM.PA** : -8 % du prix d'entrée = **25,76 €**. Au-delà, sortie sèche.
 
 **Réévaluation suivante** : 21 mai (J+1) pour suivre la consolidation post-Nvidia, puis 27 mai (J+7) pour rotation éventuelle selon plan Session 6.
+
+---
+
+### 2026-05-21 09:40 — Réévaluation J+1 post-Nvidia (session 8)
+
+#### Contexte de marché
+
+- **Nvidia** : après le bond de +7,5 % d'hier, rend une partie en séance régulière mais clôture **+2 %** — digestion saine, pas de « sell the news » violent. La hausse tient.
+- **Nasdaq** : +0,4 % — consolidation, l'élan se poursuit mais la largeur de marché se resserre (rotation vers les leaders IA).
+- **S&P 500** : +0,2 %. **CAC 40** : +0,3 % à ~7 990 pts.
+- **STMicroelectronics** : **+2,5 %** à 28,70 € — suivi haussier (follow-through) de l'écosystème semi après le beat Nvidia. La thèse capex IA se diffuse.
+- **Schneider Electric** : +0,4 % à 228,50 € — consolide après le +3,4 % d'hier, sans rendre ses gains. Thèse data centers intacte.
+- **Air Liquide** : +0,2 % à 164,10 €. **Sanofi** : +0,5 % à 87,85 € (léger bid défensif).
+
+#### Décisions
+
+**CONSERVE — toutes les positions.** Aucune vente. Les quatre thèses se confirment à J+1 : les défensives (AI.PA, SAN.PA) tiennent leur plancher, Schneider matérialise sa double thèse, et STM valide le pari semi avec un follow-through net. On ne coupe pas des gagnants au lendemain d'un catalyseur confirmé.
+
+**PAS D'ACHAT aujourd'hui — décision disciplinée.** Mon plan de la session 7 réservait les 111 € de cash pour (i) renforcer STM **uniquement sur consolidation/repli**, (ii) la rotation J+7. Or aujourd'hui STM **monte** (+2,5 %), il ne consolide pas → je ne cours pas après le titre (pas d'« averaging up » sur une mèche haussière). Les diversifiants de qualité (ASML ~720 €, TSM, autres) restent inaccessibles avec 111 € pour 1 unité. Conclusion : je garde la poudre sèche plutôt que de forcer un trade médiocre.
+
+**GESTION DU RISQUE — relèvement des stops (mouvement actif du jour) :**
+- **STM.PA** : stop relevé de **25,76 € → 27,00 €**. À 28,70 € cela verrouille un trailing de -5,9 % ; le risque vs prix d'entrée (28,00 €) tombe à -3,6 %. On protège le gain naissant contre un retournement « sell the news » sur les semis.
+- **SU.PA** : ajout d'un stop trailing à **216,00 €** (-5,4 % du cours, -1,8 % de l'entrée). Protège l'essentiel du +3,9 % latent tout en laissant respirer le titre.
+- **AI.PA / SAN.PA** : pas de stop serré — ce sont les ancres défensives, on accepte leur volatilité naturellement faible.
+
+**CASH CONSERVÉ : 111,00 €** (10,9 %). Inchangé. Munition pour : (i) ajout STM sur repli vers ~27,5 €, (ii) rotation J+7 (cf. plan session 6 : prise de bénéfices semi → TSM ou renfort défensives).
+
+#### Stratégie
+
+Journée de **gestion plutôt que de transaction**. Le portefeuille progresse à **+17,35 € (+1,74 %)**, tiré par Schneider (+3,86 %) et désormais STM (+2,50 %). La discipline du jour : laisser courir les gagnants, remonter les stops pour transformer des gains latents en gains protégés, et refuser de chasser un titre qui s'envole. C'est exactement ce que mon propre plan prescrivait — ne renforcer STM que sur faiblesse, pas sur force.
+
+**Prochaine réévaluation** : 22 mai (J+2) pour surveiller si le follow-through semi tient ou s'essouffle, puis **27 mai (J+7)** pour la rotation tactique (lock-in semi → TSM / renfort défensif) prévue en session 6. Déclencheurs stops actifs en continu d'ici là.
 
 ---
