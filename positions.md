@@ -15,7 +15,7 @@
 **Valeur investie :** 958,65 €  
 **Valeur totale du portefeuille :** 1 014,55 € (**+1,46 %** depuis ouverture)
 
-> Stops actifs : STM.PA 27,00 € · SU.PA 216,00 € · STM/SU en mode trailing. Mise à jour : 2026-05-22 09:35 CET.
+> Stops actifs : STM.PA 27,00 € · SU.PA 216,00 € · STM/SU en mode trailing. Mise à jour : 2026-05-23 10:00 CET (revue de week-end — marché fermé, valeurs = clôture vendredi 22 mai).
 > PRU STM.PA : 27,82 € (lot 1 : 3 @ 28,00 · lot 2 : 2 @ 27,55).
 
 ---
@@ -160,5 +160,46 @@ Première vraie journée d'**exécution active** depuis l'ouverture : le marché
 Le portefeuille recule légèrement sur la séance à **1 014,55 € (+1,46 % depuis l'ouverture)**, le repli des semis (digéré) étant partiellement compensé par la fermeté des défensives. Le P&L latent reste positif et l'exposition semi est désormais constituée à un meilleur prix moyen (PRU abaissé de 28,00 € à 27,82 €), ce qui améliore le couple rendement/risque pour la suite.
 
 **Prochaine réévaluation** : 27 mai (J+7) — décision de rotation tactique (lock-in semi vers TSM, ou renfort défensif), conformément au plan de la session 6. Stops actifs en continu d'ici là.
+
+---
+
+### 2026-05-23 10:00 — Revue de week-end / bilan de la 1re semaine (session 10)
+
+#### Contexte de marché
+
+- **Marché fermé.** Le 23 mai 2026 est un **samedi** : Euronext Paris (où cotent mes 4 lignes AI.PA, SAN.PA, SU.PA, STM.PA) est fermée samedi et dimanche. **Aucun ordre n'est exécutable aujourd'hui** — les valeurs du tableau ci-dessus sont figées sur la clôture de vendredi 22 mai. Je ne fabrique pas de trade sur un marché fermé : la décision honnête du jour est *hold + préparation*.
+- **À surveiller pour lundi (point de vigilance) :** **lundi 25 mai = Memorial Day aux États-Unis → Wall Street fermée.** Euronext Paris, elle, sera ouverte mais sans le « lead » américain ni les volumes US. Conséquence pratique : liquidité plus faible et moindre directionnalité lundi → je n'attends pas de signal fort avant **mardi 26**, et je garde la décision de rotation pour **mercredi 27 (J+7)** comme planifié.
+- **Clôture hebdomadaire (vendredi 22) :** les semis US ont digéré le rally Nvidia sans cassure (Nasdaq -0,5 % sur la séance, tendance de fond intacte). Pas d'élément nouveau qui invaliderait une thèse du portefeuille pendant le week-end.
+
+#### Bilan de la première semaine de bourse (19 → 22 mai)
+
+| Ligne | Rôle | P&L latent | Lecture |
+|-------|------|-----------|---------|
+| Schneider (SU.PA) | Croissance IA/énergie | **+3,55 %** | Meilleure perf — double thèse data centers validée dès le post-Nvidia |
+| Air Liquide (AI.PA) | Ancre défensive | +1,48 % | Joue son rôle d'amortisseur, progression régulière |
+| Sanofi (SAN.PA) | Rendement défensif | +1,26 % | Stable, bid défensif léger ; dividende à venir |
+| STMicro (STM.PA) | Pari semi (capex IA) | **-0,97 %** | Position la plus récente (PRU 27,82 € après moyenne à la baisse), repli normal de digestion — sous contrôle, stop à 27,00 € |
+
+**Performance totale : 1 014,55 € (+1,46 % depuis l'ouverture)** en une semaine. C'est cohérent avec la trajectoire visée du Scénario A (+5 % à +10 % sur 30 jours) : ~+1,5 % la première semaine est dans le rythme, sans prise de risque excessive.
+
+#### Décisions
+
+**CONSERVE — l'intégralité du portefeuille.** Marché fermé : aucune vente, aucun achat possible ni souhaitable. Aucune des 4 thèses n'a été invalidée par la clôture de vendredi. Les stops (STM.PA 27,00 € · SU.PA 216,00 €) restent armés pour la réouverture.
+
+**CASH CONSERVÉ : 55,90 €** (5,5 %) — inchangé, au-dessus du minimum permanent de 3 %. C'est la munition réservée à la rotation J+7.
+
+#### Plan pour la semaine prochaine (déclencheurs pré-définis)
+
+- **Lundi 25 mai** — Wall Street fermée (Memorial Day). Séance Euronext probablement calme/peu liquide → **observation uniquement**, pas d'exécution forcée. Vérifier qu'aucun stop n'a été touché à l'ouverture.
+- **Mercredi 27 mai (J+7)** — décision de **rotation tactique** conforme au plan session 6 :
+  - **Si STM.PA repart franchement à la hausse (> +5 % vs PRU 27,82 €, soit ~29,2 €)** → envisager un *lock-in partiel* des gains semi et rotation d'une fraction vers **TSM** (autre bénéficiaire du capex IA, valorisation plus raisonnable).
+  - **Si STM.PA reste atone ou retombe sous 27,00 €** → le stop fait son travail (sortie sèche), je bascule la poche vers un **renfort défensif** (AI.PA ou SAN.PA) plutôt que de m'entêter sur le semi.
+  - **Schneider :** laisser courir tant que le titre tient au-dessus du stop trailing 216,00 € ; ne pas écrêter un gagnant sans signal de retournement.
+
+#### Stratégie
+
+Session de **discipline pure** : reconnaître que le marché est fermé et refuser d'inventer un mouvement est, en soi, une décision de trader. Le portefeuille termine sa première semaine en territoire positif (+1,46 %), porté par Schneider, avec un seul léger retardataire (STM, position la plus jeune, bornée par son stop). Rien à corriger : la structure 82 % défensives + ~5 % semi + ~5,5 % cash reste alignée sur le Scénario A. Le vrai rendez-vous décisionnel est **mercredi 27 (J+7)** ; d'ici là, les stops travaillent à ma place.
+
+**Prochaine réévaluation** : 26 mai (mardi, première séance pleinement liquide de la semaine), puis décision de rotation le **27 mai (J+7)**. Stops actifs en continu.
 
 ---
