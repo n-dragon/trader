@@ -12,6 +12,7 @@ Requirements:
 
 import argparse
 import json
+import os
 import sys
 import time
 import uuid
@@ -20,9 +21,15 @@ from datetime import datetime, timezone
 import requests
 
 # ── Credentials ────────────────────────────────────────────────────────────────
-API_KEY = "REMOVED_API_KEY"
-AGENT_KEY = "REMOVED_AGENT_KEY"
+# Load from environment. Never hard-code secrets in source.
+#   export ETORO_API_KEY=...
+#   export ETORO_AGENT_KEY=...
+API_KEY = os.environ.get("ETORO_API_KEY")
+AGENT_KEY = os.environ.get("ETORO_AGENT_KEY")
 BASE_URL = "https://public-api.etoro.com/api/v1"
+
+if not API_KEY or not AGENT_KEY:
+    sys.exit("Missing credentials: set ETORO_API_KEY and ETORO_AGENT_KEY in the environment.")
 
 # ── Strategy config ─────────────────────────────────────────────────────────────
 # Weights must sum to <= 1.0 (remainder = cash)
