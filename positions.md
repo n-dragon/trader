@@ -15,7 +15,7 @@
 **Valeur investie :** 958,65 €  
 **Valeur totale du portefeuille :** 1 014,55 € (**+1,46 %** depuis ouverture)
 
-> Stops actifs : STM.PA 27,00 € · SU.PA 216,00 € · STM/SU en mode trailing. Mise à jour : 2026-05-23 10:00 CET (revue de week-end — marché fermé, valeurs = clôture vendredi 22 mai).
+> Stops actifs : STM.PA 27,00 € · SU.PA 216,00 € · STM/SU en mode trailing. Mise à jour : 2026-05-24 11:00 CET (dimanche — marché fermé, valeurs = clôture vendredi 22 mai).
 > PRU STM.PA : 27,82 € (lot 1 : 3 @ 28,00 · lot 2 : 2 @ 27,55).
 
 ---
@@ -201,5 +201,47 @@ Le portefeuille recule légèrement sur la séance à **1 014,55 € (+1,46 % de
 Session de **discipline pure** : reconnaître que le marché est fermé et refuser d'inventer un mouvement est, en soi, une décision de trader. Le portefeuille termine sa première semaine en territoire positif (+1,46 %), porté par Schneider, avec un seul léger retardataire (STM, position la plus jeune, bornée par son stop). Rien à corriger : la structure 82 % défensives + ~5 % semi + ~5,5 % cash reste alignée sur le Scénario A. Le vrai rendez-vous décisionnel est **mercredi 27 (J+7)** ; d'ici là, les stops travaillent à ma place.
 
 **Prochaine réévaluation** : 26 mai (mardi, première séance pleinement liquide de la semaine), puis décision de rotation le **27 mai (J+7)**. Stops actifs en continu.
+
+---
+
+### 2026-05-24 11:00 — Dimanche : préparation de semaine & carnet d'ordres conditionnels (session 11)
+
+#### Contexte de marché
+
+- **Marché fermé.** Le 24 mai 2026 est un **dimanche** : Euronext Paris (AI.PA, SAN.PA, SU.PA, STM.PA) ne cote pas le week-end. **Aucun ordre exécutable aujourd'hui.** Les valeurs du tableau restent figées sur la clôture de vendredi 22 mai. Comme hier, je refuse de fabriquer un trade fictif sur un marché fermé.
+- **Rappel calendrier de la semaine :**
+  - **Lundi 25 mai** — Wall Street fermée (Memorial Day). Euronext ouverte mais sans le « lead » US ni les volumes américains → séance probablement peu liquide, faible directionnalité. **Observation seulement.**
+  - **Mardi 26 mai** — première séance pleinement liquide (retour de Wall Street) → première vraie lecture de la semaine.
+  - **Mercredi 27 mai (J+7)** — rendez-vous décisionnel : rotation tactique conforme au plan session 6.
+- **Aucun élément nouveau** sur le week-end qui invaliderait une des 4 thèses. La tendance de fond des semis reste intacte après la digestion saine du rally Nvidia.
+
+#### Décisions
+
+**CONSERVE — l'intégralité du portefeuille.** Marché fermé : ni vente ni achat possibles. Les 4 thèses tiennent. Stops armés pour la réouverture (STM.PA 27,00 € · SU.PA 216,00 €).
+
+**CASH CONSERVÉ : 55,90 €** (5,5 %) — inchangé, au-dessus du minimum permanent de 3 %.
+
+#### Travail du jour : carnet d'ordres conditionnels pré-armé pour la semaine
+
+Le travail utile d'un dimanche, ce n'est pas de trader — c'est de transformer le plan en seuils chiffrés et exécutables, pour réagir vite et sans émotion à la réouverture. Voici les ordres conditionnels que je m'engage à exécuter selon les déclencheurs :
+
+| # | Déclencheur (à partir de mardi 26) | Action | Taille | Logique |
+|---|-----------------------------------|--------|--------|---------|
+| 1 | STM.PA **< 27,00 €** en séance | **VENTE des 5 STM** (stop sec) | 5 titres → ~135 € cash | Discipline du stop : la thèse semi ne tient plus à court terme, je ne m'entête pas. |
+| 2 | STM.PA **> 29,20 €** (> +5 % vs PRU 27,82 €) | **VENTE partielle 2 STM** + bascule vers TSM/renfort SU | ~58 € | Lock-in partiel du gain semi, conserve 3 STM pour laisser courir. |
+| 3 | STM.PA entre **27,00 et 29,20 €** | **CONSERVE** les 5 STM | — | Zone neutre : ni cassure du stop ni signal de prise de bénéfices. Laisser travailler. |
+| 4 | SU.PA **< 216,00 €** | **VENTE de la position** (trailing stop) | 1 titre → ~216 € | Protège le gros du gain latent (+3,5 %) en cas de retournement data-centers. |
+| 5 | SU.PA **> 235,00 €** (> +6,8 %) | **CONSERVE + relève stop à 224 €** | — | Laisser courir le meilleur performer, mais sécuriser davantage. |
+| 6 | Repli marché large + AI.PA **< 160 €** ou SAN.PA **< 85 €** | **ACHAT défensif** avec les 55,90 € de cash | 1 titre | Déployer le cash sur faiblesse d'une ancre de qualité, pas sur force. |
+
+> Règle qui prime sur tout : **acheter la faiblesse, pas la force** ; et **ne jamais descendre un stop trailing**. Ces ordres sont conditionnels — je ne force aucune exécution si aucun seuil n'est touché.
+
+#### Stratégie
+
+Deuxième session de discipline de week-end. Le portefeuille reste à **1 014,55 € (+1,46 % depuis l'ouverture)**, valeurs gelées à vendredi. Plutôt que de répéter passivement « hold », j'ai converti le plan en un **carnet d'ordres chiffré et pré-armé** : à la réouverture, je n'aurai pas à réfléchir sous le coup de l'émotion, juste à constater quel seuil est touché et exécuter. C'est la vraie valeur ajoutée d'un dimanche de marché fermé.
+
+Structure inchangée : ~82 % défensives + ~5 % semi + ~5,5 % cash — alignée sur le Scénario A.
+
+**Prochaine réévaluation** : mardi 26 mai (première séance liquide ; vérifier qu'aucun stop n'a sauté lundi), puis décision de rotation le **27 mai (J+7)**. Stops et ordres conditionnels actifs en continu.
 
 ---
