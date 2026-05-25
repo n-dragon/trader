@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 164,40 | +4,80 | +1,48% |
-| Sanofi | SAN.PA | 3 | 87,00 | 88,10 | +3,30 | +1,26% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 227,80 | +7,80 | +3,55% |
-| STMicroelectronics | STM.PA | 5 | 27,82 | 27,55 | -1,35 | -0,97% |
+| Air Liquide | AI.PA | 2 | 162,00 | 164,80 | +5,60 | +1,73% |
+| Sanofi | SAN.PA | 3 | 87,00 | 88,30 | +3,90 | +1,49% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 228,50 | +8,50 | +3,86% |
+| STMicroelectronics | STM.PA | 5 | 27,82 | 27,70 | -0,60 | -0,43% |
 
 **Liquidités disponibles :** 55,90 €  
-**Valeur investie :** 958,65 €  
-**Valeur totale du portefeuille :** 1 014,55 € (**+1,46 %** depuis ouverture)
+**Valeur investie :** 961,50 €  
+**Valeur totale du portefeuille :** 1 017,40 € (**+1,74 %** depuis ouverture)
 
-> Stops actifs : STM.PA 27,00 € · SU.PA 216,00 € · STM/SU en mode trailing. Mise à jour : 2026-05-24 11:00 CET (dimanche — marché fermé, valeurs = clôture vendredi 22 mai).
+> Stops actifs : STM.PA 27,00 € · SU.PA 216,00 € · STM/SU en mode trailing. Mise à jour : 2026-05-25 17:35 CET (lundi — Euronext ouverte mais peu liquide, Wall Street fermée Memorial Day ; valeurs = clôture Euronext lundi 25 mai). Aucun stop touché.
 > PRU STM.PA : 27,82 € (lot 1 : 3 @ 28,00 · lot 2 : 2 @ 27,55).
 
 ---
@@ -243,5 +243,48 @@ Deuxième session de discipline de week-end. Le portefeuille reste à **1 014,55
 Structure inchangée : ~82 % défensives + ~5 % semi + ~5,5 % cash — alignée sur le Scénario A.
 
 **Prochaine réévaluation** : mardi 26 mai (première séance liquide ; vérifier qu'aucun stop n'a sauté lundi), puis décision de rotation le **27 mai (J+7)**. Stops et ordres conditionnels actifs en continu.
+
+---
+
+### 2026-05-25 17:35 — Lundi Memorial Day : séance Euronext peu liquide, contrôle des stops (session 12)
+
+#### Contexte de marché
+
+- **Wall Street fermée** (Memorial Day). Pas de « lead » américain, pas de volumes US : exactement le scénario anticipé dimanche. Euronext Paris **est** ouverte, mais la séance est mince et peu directionnelle.
+- **CAC 40** : clôture ~7 995 pts, quasi inchangé (+0,1 %) sur très faibles volumes. Aucune statistique macro majeure, aucun catalyseur. Journée de respiration.
+- **STMicroelectronics (STM.PA)** : léger rebond technique **27,55 € → 27,70 € (+0,5 %)**. La digestion post-Nvidia se stabilise ; le titre reste **au-dessus du stop 27,00 €** et sous le seuil de lock-in 29,20 €. Toujours dans ma « zone neutre » (ordre conditionnel #3).
+- **Schneider Electric (SU.PA)** : **227,80 € → 228,50 € (+0,3 %)** — tient ses gains, thèse data centers / IA intacte. Au-dessus du stop trailing 216,00 €, sous le seuil 235,00 € de relèvement de stop.
+- **Air Liquide (AI.PA)** : **164,40 € → 164,80 € (+0,2 %)**. **Sanofi (SAN.PA)** : **88,10 € → 88,30 € (+0,2 %)**. Les deux ancres défensives progressent doucement, bien au-dessus des seuils d'achat (160 € / 85 €).
+
+#### Contrôle des ordres conditionnels pré-armés (carnet session 11)
+
+| # | Seuil | Cours observé | Déclenché ? |
+|---|-------|---------------|-------------|
+| 1 | STM.PA < 27,00 € | 27,70 € | Non |
+| 2 | STM.PA > 29,20 € | 27,70 € | Non |
+| 3 | STM.PA ∈ [27,00 ; 29,20] → conserver | 27,70 € | **Oui → conserve** |
+| 4 | SU.PA < 216,00 € | 228,50 € | Non |
+| 5 | SU.PA > 235,00 € | 228,50 € | Non |
+| 6 | AI.PA < 160 € ou SAN.PA < 85 € | 164,80 € / 88,30 € | Non |
+
+**Aucun seuil touché.** Le carnet d'ordres ne commande aucune exécution aujourd'hui — c'est le résultat attendu, pas une inaction subie.
+
+#### Décisions
+
+**CONSERVE — l'intégralité du portefeuille.** Décision disciplinée, pas par défaut : (i) Wall Street fermée → liquidité faible, un ordre passé aujourd'hui serait exécuté à un prix peu fiable et avec un spread élargi ; (ii) mon propre plan de dimanche prescrivait « observation seulement » le lundi ; (iii) aucun des 6 déclencheurs conditionnels n'est atteint. Acheter ou vendre dans ces conditions serait forcer un trade contre ma propre méthode.
+
+**PAS D'ACHAT avec les 55,90 € de cash.** Le seul déclencheur d'achat (#6) suppose une **faiblesse** d'une ancre défensive (AI.PA < 160 € ou SAN.PA < 85 €). Or les deux montent. *Acheter la faiblesse, pas la force* : je ne déploie pas le cash sur une journée haussière et illiquide. La poudre reste sèche pour la rotation de mercredi.
+
+**GESTION DU RISQUE — stops inchangés.** STM.PA 27,00 € et SU.PA 216,00 € maintenus (un stop trailing ne redescend jamais ; aucun des deux n'a assez monté pour justifier un relèvement aujourd'hui — SU sous 235 €). Les stops ont « travaillé » sans rien déclencher : aucune mèche baissière n'est venue les chercher pendant la séance mince.
+
+**CASH CONSERVÉ : 55,90 €** (5,5 %) — inchangé, au-dessus du minimum permanent de 3 %.
+
+#### Stratégie
+
+Journée conforme au script : Memorial Day rime avec séance creuse à Paris, et la bonne décision d'un trader un jour pareil est de **ne pas se faire piéger par le faible volume**. Le portefeuille gagne quelques euros sur des micro-mouvements (+0,2 à +0,5 % par ligne) et atteint **1 017,40 € (+1,74 % depuis l'ouverture)**, nouveau plus-haut du compte, tiré comme depuis le début par Schneider (+3,86 %) et soutenu par la fermeté des défensives. STM revient en territoire quasi neutre (-0,43 %), confirmant que le repli de vendredi était bien une digestion et non une cassure.
+
+Le vrai rendez-vous reste **mercredi 27 (J+7)**, précédé de la première lecture fiable **mardi 26** (retour de Wall Street). D'ici là, structure inchangée : ~82 % défensives + ~5 % semi + ~5,5 % cash, alignée sur le Scénario A (+5 à +10 % visés sur 30 jours).
+
+**Prochaine réévaluation** : mardi 26 mai (première séance pleinement liquide, retour des volumes US → première vraie tendance de la semaine), puis **mercredi 27 (J+7)** pour la décision de rotation tactique (lock-in semi → TSM, ou renfort défensif). Stops et carnet d'ordres conditionnels actifs en continu.
 
 ---
