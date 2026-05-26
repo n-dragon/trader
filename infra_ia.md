@@ -5,8 +5,15 @@
 > marché** alors qu'ils jouent — ou vont jouer — un rôle critique. Document de travail destiné à
 > alimenter les décisions du journal de trading (`positions.md`, `etoro_trades.md`).
 >
-> **Date :** 26 mai 2026 — **édition approfondie** (v2). Première version : 25 mai 2026.
+> **Date :** 26 mai 2026 — **édition valorisée** (v3). v2 (approfondie) : 26 mai. v1 : 25 mai 2026.
 > **Auteur :** analyse « picks-and-shovels » de l'écosystème IA.
+>
+> **Nouveauté v3.** Ajout d'une **couche quantitative** : pour chaque acteur, un **multiple de valorisation
+> (PER avant — *forward P/E* —, parfois EV/EBITDA ou rendement) au ~25 mai 2026** et un **indice de
+> sous-évaluation de 0 à 10** (10 = très sous-évalué / fort couple criticité-décote ; 0 = cher / déjà
+> pleinement pricé). Voir la **§4 bis** pour le tableau maître trié et la méthodologie. Deux pistes
+> nouvelles explorées : le **foncier du calcul (REIT data centers)** et les **monopoles/OEM « pas chers
+> en pleine vue »** (TSMC, Dell, TE Connectivity).
 >
 > **Avertissement d'honnêteté intellectuelle.** En mai 2026, l'ensemble du complexe « infra IA »
 > s'est **déjà fortement revalorisé** (Nvidia ~47× les bénéfices futurs ; en Europe : STMicro a plus
@@ -315,16 +322,106 @@ de croissance grâce aux DC, à des multiples d'infrastructure (et souvent un re
 | ★ **Monolithic Power** | MPWR | VRM (~70 % des sockets gén. Rubin) | Qualité, mais valorisation élevée → sur repli |
 | ★ **Vicor / Infineon** | VICR / IFX.DE | Modules de puissance / CoolGaN | Leviers 800 VDC plus « industriels » ; Infineon = grande cap décotée vs pairs US |
 
+### ★ Poche G — Le **foncier du calcul** : REIT data centers (NOUVELLE v3)
+Piste peu présente dans le débat « semis » : qui **possède et loue les murs** où tourne l'IA. Ces REIT
+encaissent des baux longs indexés, profitent de la rareté de la puissance raccordée (un site « powered
+shell » prêt à l'emploi vaut une prime), et se traitent à des multiples **plus raisonnables** que le
+reste du complexe IA — plusieurs synthèses de mai 2026 les qualifient d'« attractivement valorisés ».
+
+| Acteur | Ticker | Rôle | Angle de décote |
+|---|---|---|---|
+| **Digital Realty** | DLR | REIT data centers (wholesale + colocation, hyperscale) | Pré-loue sa capacité ; valorisation de REIT (FFO) bien sous les semis pour un même vent porteur. |
+| **Equinix** | EQIX | Interconnexion / colocation premium (effet de réseau) | Douve « écosystème » (cross-connects) ; croissance AFFO régulière, multiple < complexe IA. |
+| **Iron Mountain** | IRM | Stockage + data centers en forte croissance | Branche DC sous-appréciée derrière l'activité historique ; dérivée plus discrète. |
+| **Prologis** | PLD | Logistique convertissant du foncier/énergie en data centers | Optionalité « power bank » foncière (sites raccordables) encore peu pricée. |
+
+### ★ Poche H — Monopoles & OEM « **pas chers en pleine vue** » (NOUVELLE v3)
+Le paradoxe de 2026 : certains des actifs **les plus critiques** se traitent à des multiples *modestes*
+parce qu'ils sont mal classés (« fonderie cyclique », « OEM matériel à faible marge ») alors que leur
+rôle est irremplaçable.
+
+| Acteur | Ticker | Rôle (criticité) | Pourquoi « pas cher en pleine vue » |
+|---|---|---|---|
+| **TSMC** | TSM / 2330.TW | **Monopole de fait** de la fonderie ≤3 nm + CoWoS | PER ~28–29× : **le multiple le plus bas du sommet de la pile** pour l'acteur sans qui *rien* n'existe. |
+| **Dell** | DELL | OEM serveurs IA (n°1 sur les racks GB200/300) | **PER avant ~13–14×** pour ~17 %/an de croissance de BPA : la « pelle » la moins chère de la liste. |
+| **TE Connectivity** | TEL | Connecteurs/câblage haute densité (rack & réseau) | **PER avant ~19×** : le moins cher du groupe connecteurs/optique, exposition DC croissante. |
+
+---
+
+## 4 bis. ★ Tableau de valorisation chiffrée & indice de sous-évaluation (v3)
+
+> **Méthodologie de l'indice (0–10).** Composite *qualitatif* combinant : (i) la **cherté du multiple
+> rapportée à la croissance et aux pairs** (un PER de 50× pour +40 %/an est « moins cher » qu'un PER de
+> 25× pour +5 %/an — logique PEG) ; (ii) le **degré de sous-possession / d'invisibilité** (moins le titre
+> est « crowded », plus l'indice monte) ; (iii) la **criticité/douve** du rôle dans la pile. On *pénalise*
+> les noms déjà ×2–×5 en 2026 et les multiples qui pricent l'exécution parfaite. **10 = très sous-évalué
+> au regard de son rôle ; 0 = cher / pleinement pricé / spéculatif sans marge.**
+>
+> **⚠️ Avertissements.** (1) Les multiples sont des **instantanés d'agrégateurs publics** (GuruFocus,
+> Yahoo Finance, stockanalysis, MarketScreener…) autour du **25 mai 2026**, arrondis, et **bougent vite**.
+> (2) Le PER avant des semis **cycliques** (STM, Micron) peut paraître élevé/bas selon que le BPA est
+> déprimé ou au pic — d'où le croisement avec EV/EBITDA et la croissance. (3) L'indice est un **jugement
+> d'analyse, pas une recommandation** ; un indice élevé peut s'accompagner d'un **risque élevé** (signalé).
+
+| Acteur | Ticker | Couche / rôle | PER avant (≈) | Autre repère | Indice 0–10 | Lecture |
+|---|---|---|---:|---|:---:|---|
+| **SK Hynix** | 000660.KS | Leader HBM | **~6×** (NTM) | Marge op. ~72 %, +198 % CA YoY | **9** | Pure-play HBM **le moins cher** ; décote « cyclique coréen » injustifiée |
+| **Micron** | MU | HBM + DRAM/NAND | **~11×** | HBM « sold out » 2026 ; +70 % YTD | **8** | Qualité en solde ; multiple bas pour la croissance |
+| **Energy Transfer** | ET | Gas-to-power midstream | **~11,5×** | **Rdt ~6,7 %**, MLP | **8** | Dérivée DC **la moins chère** ; 1er contrat off-grid (1,2 GW) |
+| **Dell** | DELL | Serveurs/racks IA (OEM) | **~13–14×** | Croissance BPA ~17 %/an | **7** | La « pelle » la moins chère ; ⚠️ marges fines, mix |
+| **AT&S** | ATS.VI | Substrats ABF | n.s. (pertes) | EV/ventes faible, deep value | **7** | Contrarian fort levier packaging ; ⚠️ dette/exécution |
+| **Nexans** | NEX.PA | Câbles réseau/DC | **~20,5×** | EV/EBITDA ~11,9× | **7** | *Laggard* value vs Prysmian (fwd ~33,5×) ; **top pick EU** |
+| **HD Hyundai Electric** | 267260.KS | Transfos pure-play | **~25–28×** | Marge op. 24–26 %, carnet ~7,9 Md$ | **7** | Levier transfo **le plus pur** ; capacité US fin 2026 |
+| **TE Connectivity** | TEL | Connecteurs HD (rack/réseau) | **~19×** | — | **7** | Le moins cher du groupe connecteurs ; piste v3 |
+| **Vistra** | VST | Nucléaire / IPP | **~18×** | EV/EBITDA ~10×, FCF yield élevé | **7** | Optionalité PPA nucléaire ; moins cher que CEG |
+| **Kinder Morgan** | KMI | Gaz midstream (40 % du gaz US) | **~23×** | **Rdt ~3,5 %**, carnet >10 Md$ | **6** | Dérivée DC à multiple d'infra + rendement |
+| **TSMC** | TSM | Fonderie ≤3 nm (monopole de fait) | **~28–29×** | — | **6** | **Monopole le moins cher du sommet de pile** |
+| **Constellation Energy** | CEG | Nucléaire (PPA hyperscalers) | **~26×** | EV/EBITDA ~13× ; **-20 % YTD** | **6** | Repli = point d'entrée ; visibilité PPA 20 ans |
+| **Digital Realty / Equinix** | DLR / EQIX | REIT data centers | — | Multiples FFO/AFFO < complexe IA | **6 / 5** | « Foncier du calcul » attractivement valorisé (piste v3) |
+| **Disco** | 6146.T | Découpe/meulage (quasi-monopole) | **~43×** | **ROIC ~54 %, net cash** | **5** | Qualité rare ; prime largement justifiée → faible décote |
+| **Infineon** | IFX.DE | Semis de puissance (800 VDC + auto) | **~37×** | — | **5** | Décoté vs pairs power US ; cyclique |
+| **Air Liquide** | AI.PA | Gaz spéciaux fabs | **~24–25×** | **Rdt ~2,1 %**, payout ~60 % | **5** | Décote de **perception** (« défensive » ≠ « play IA ») |
+| **STMicroelectronics** | STM.PA | Semis power/analog (liste 800 VDC) | **~47×** (BPA déprimé) | — | **5** | Optionalité **reprise cyclique** ; pas « cher » sur mid-cycle |
+| **Talen Energy** | TLN | Nucléaire IPP (campus AWS) | n.d. | Special situation | **5** | Précédent data center nucléaire ; volatil |
+| **VAT Group** | VACN.SW | Vannes à vide (quasi-monopole) | **~40×+** | — | **4** | Monopole réel, mais prime de qualité ; sur repli |
+| **Advantest** | 6857.T | Test HBM/SoC (quasi-monopole) | **~53×** | — | **4** | Gagnant structurel **mais** cher ; sur repli |
+| **Schneider Electric** | SU.PA | Power + cooling DC | **~28×** | — | **4** | Cœur de thèse, qualité, **pas donné** (détenu) |
+| **Broadcom** | AVGO | ASIC (TPU/Maia) + réseau | **~37×** | ~médiane semis | **4** | Croissance forte ; multiple raisonnable pour la qualité |
+| **ASML** | ASML.AS | Litho EUV (monopole) | **~56×** (TTM) | +55 % vs moyenne hist. | **4** | Monopole absolu **mais** cher vs son propre historique |
+| **Delta Electronics** | 2308.TW | Alim/cooling (~60 % power shelf) | **~42×** | Marge brute record 37 % | **4** | Dominant ; déjà ~100 Md$ de cap. |
+| **Williams** | WMB | Gas-to-power on-site | **~34,5×** | **Rdt ~2,7 %** | **4** | Re-raté « croissance » ; plus cher que ET/KMI |
+| **Hanmi Semiconductor** | 042700.KS | TC bonder HBM (~71 %) | n.d. | — | **4** | Pure-play ; ⚠️ **risque de concentration client** (SK Hynix) |
+| **Hammond Power** | HPS.A.TO | Transfos NA (n°1) | n.d. | **+111 % YTD**, carnet +122 % | **3** | Excellent mais **déjà couru** → repli seulement |
+| **Prysmian** | PRY.MI | Câbles (leader mondial) | **~33,5×** | EV/EBITDA ~17,5× | **3** | A déjà couru vs Nexans |
+| **Amphenol** | APH | Connecteurs HD | **~29×** | — | **3** | Qualité au juste prix |
+| **Marvell** | MRVL | ASIC + optique | **~47–51×** | — | **3** | Riche pour le secteur |
+| **Vertiv** | VRT | Power + cooling (leader) | **~48×** | EV/EBITDA ~51× ; carnet >15 Md$ | **3** | Carnet soutient mais multiple **élevé** → seulement sur capitulation |
+| **Monolithic Power** | MPWR | VRM (~70 % sockets Rubin) | élevé | — | **3** | Qualité chère ; sur repli |
+| **Lasertec** | 6920.T | Inspection masques EUV (>90 %) | **~44×** | Très volatil | **3** | Monopole réel **mais** volatil/cher → repli marqué |
+| **GE Vernova** | GEV | Turbines + transfos (Prolec) | **~55–69×** | médiane indus. ~22× | **2** | Exécution parfaite déjà pricée ; acheter **gros** replis |
+| **Siemens Energy** | ENR.DE | Turbines + réseau | **~69×** | post-turnaround | **2** | Re-rating spectaculaire déjà fait |
+| **Corning** | GLW | Fibre / CPO (accord Meta 6 Md$) | **~55×** | — | **2** | Riche |
+| **Navitas** | NVTS | GaN 800 VDC | **déficitaire** | PT consensus **< cours** | **2** | Pari pur 800 VDC ; **spéculatif**, pas « sous-évalué » |
+| **Coherent** | COHR | Optique / CPO | **~159×** (CY26) | ~41× sur CY27 | **1** | Extrêmement cher ; tout le succès est pricé |
+| **Lumentum** | LITE | Optique / CPO (EML 200G) | **~159×** | +1 269 % sur 1 an | **1** | Idem ; momentum extrême, marge d'erreur nulle |
+
+> **Lecture du tableau.** Le **gisement net** (indice ≥ 7) se concentre sur : **la mémoire HBM mal-aimée**
+> (SK Hynix, Micron), **le gaz-to-power et le réseau sous-possédés** (Energy Transfer, Nexans, HD Hyundai,
+> Vistra), et **les « pelles » peu chères en pleine vue** (Dell, TE Connectivity, + TSMC à 6). À l'inverse,
+> l'**optique/CPO et les turbines** (Coherent, Lumentum, GE Vernova, Siemens Energy, Corning) pricent déjà
+> la perfection : indice ≤ 2, à n'aborder que sur **forte** correction. Les **monopoles japonais/suisses**
+> (Advantest, Disco, VAT, Lasertec) sont des actifs superbes mais **pas des aubaines** aux cours actuels.
+
 ---
 
 ## 5. Lien avec le portefeuille actuel (≈ 1 017 €, eToro / Euronext)
 
-| Ligne détenue | Lecture « infra IA » | Action suggérée |
-|---|---|---|
-| **Air Liquide (AI.PA)** | **Vrai play infra IA sous-apprécié** : gaz spéciaux indispensables aux fabs (consommation ↑ avec chaque fab). Le marché la traite en « défensive » → décote de perception. | **Conserver** — réévaluer comme ligne IA, pas seulement défensive |
-| **Schneider (SU.PA)** | Cœur du goulet **power + cooling** data center (UPS, switchgear, Motivair, CDU). Thèse validée (meilleur performeur du portefeuille). | **Conserver / laisser courir** |
-| **STMicro (STM.PA)** | Semi power/analog, **désormais sur la liste 800 VDC de Nvidia** → exposition renforcée à la bascule électrique des racks. | Conserver dans la zone neutre (cf. carnet d'ordres) |
-| **Sanofi (SAN.PA)** | **Hors thème IA** — pure défensive/rendement. | Candidate à rotation si une idée infra à meilleur couple rendement/risque se présente |
+| Ligne détenue | PER avant (≈) · indice | Lecture « infra IA » | Action suggérée |
+|---|---|---|---|
+| **Air Liquide (AI.PA)** | ~24–25× · **5** | **Vrai play infra IA sous-apprécié** : gaz spéciaux indispensables aux fabs (consommation ↑ avec chaque fab). Le marché la traite en « défensive » → décote de perception. | **Conserver** — réévaluer comme ligne IA, pas seulement défensive |
+| **Schneider (SU.PA)** | ~28× · **4** | Cœur du goulet **power + cooling** data center (UPS, switchgear, Motivair, CDU). Thèse validée (meilleur performeur du portefeuille). | **Conserver / laisser courir** |
+| **STMicro (STM.PA)** | ~47× (BPA déprimé) · **5** | Semi power/analog, **désormais sur la liste 800 VDC de Nvidia** → exposition renforcée à la bascule électrique des racks. Optionalité reprise cyclique. | Conserver dans la zone neutre (cf. carnet d'ordres) |
+| **Sanofi (SAN.PA)** | ~12–13× · n/a | **Hors thème IA** — pure défensive/rendement. | Candidate à rotation si une idée infra à meilleur couple rendement/risque se présente |
 
 ### Candidats de rotation **réalistes pour ce compte** (Euronext/accessibles, taille ~1 share)
 Le compte est petit ; privilégier des titres à prix d'action modéré et accessibles, sur les goulets
@@ -384,7 +481,7 @@ les moins « crowded » :
 
 ---
 
-## 8. Synthèse en une phrase
+## 8. Synthèse — et ce que disent les chiffres (v3)
 
 > En 2026, l'argent « facile » sur Nvidia et les semis européens est fait ; le **rendement ajusté du
 > risque** se trouve désormais (1) dans les **dislocations tactiques** de qualité (Micron, Vertiv,
@@ -394,6 +491,19 @@ les moins « crowded » :
 > avec prudence sur la concentration client — Hanmi sur le packaging HBM) — en achetant toujours
 > **la faiblesse, pas la force**, et en gardant à l'esprit que la panique « OpenAI » de mai price
 > un excès qui, sur la plupart des goulets, n'existe pas (offre contrainte, pas surcapacité).
+
+**Ce que la couche chiffrée v3 ajoute :** une fois les multiples posés (§4 bis), trois constats tranchent
+le récit. **(a)** La **mémoire HBM** est l'anomalie la plus criante — SK Hynix à **~6× les bénéfices** et
+Micron à **~11×** sont des leaders à multiples de valeur, là où l'optique (Coherent/Lumentum **~159×**) et
+les turbines (GE Vernova/Siemens Energy **~55–69×**) pricent l'exécution parfaite. **(b)** Le **gaz-to-power
+le moins cher est Energy Transfer (~11,5×, ~6,7 % de rendement)**, pas Williams (~34×) déjà re-raté. **(c)**
+Des actifs **critiques restent « pas chers en pleine vue »** par simple erreur de catégorie : **TSMC ~28×**
+(monopole de fait), **Dell ~13–14×** (la pelle la moins chère), **TE Connectivity ~19×**. À l'opposé, les
+**monopoles japonais/suisses** (Advantest ~53×, Disco ~43×, VAT >40×, Lasertec ~44×) sont superbes mais
+**déjà bien valorisés** : on les veut sur repli, pas au cours. Le couple **criticité × décote** le plus
+favorable (indice ≥ 7) pointe vers **SK Hynix, Micron, Energy Transfer, Nexans, HD Hyundai Electric,
+Vistra, TE Connectivity, Dell** — sans jamais oublier que l'indice intègre un risque (cyclicité mémoire,
+MLP, exécution AT&S, marges Dell) qu'il faut accepter sciemment.
 
 ---
 
@@ -430,5 +540,25 @@ les moins « crowded » :
 - [AI Capex Risk: Why AI Infrastructure Stocks Sold Off (OpenAI revenue) — heygotrade](https://www.heygotrade.com/en/blog/ai-capex-risk-openai-revenue-report/)
 - [Vertiv Raises 2026 Guidance to $14B as AI Backlog Surges 80% — TechJack](https://techjacksolutions.com/ai-brief/vertiv-raises-2026-guidance-to-14b-as-ai-data-center-backlog/)
 - [The AI Data Center Buildout: Nuclear Could Be the Most Underowned Piece — 24/7 Wall St.](https://247wallst.com/investing/2026/05/22/the-ai-data-center-buildout-is-accelerating-and-nuclear-could-be-the-most-underowned-piece-of-the-puzzle/)
+
+### v3 (26 mai 2026 — couche valorisation & indice de sous-évaluation)
+- [SK Hynix: Trading At A Mere 7x With Growing HBM Complexity — Seeking Alpha](https://seekingalpha.com/article/4837148-sk-hynix-trading-7x-growing-hbm-complexity)
+- [Micron Earnings Power Still Looks Undervalued at 10.7x Forward PE — Investing.com](https://www.investing.com/analysis/micron-earnings-power-still-looks-undervalued-at-107x-forward-pe-200676559)
+- [Micron Technology: HBM Sold Out For 2026, Wall Street Is Still Underpricing — Seeking Alpha](https://seekingalpha.com/article/4881338-micron-technology-hbm-sold-out-for-2026-wall-street-is-still-underpricing)
+- [Vertiv Holdings Co (VRT) Statistics & Valuation — stockanalysis.com](https://stockanalysis.com/stocks/vrt/statistics/)
+- [GE Vernova Forward PE Ratio — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/GEV)
+- [Constellation Energy vs. Vistra: Which Nuclear-Powered Utility Has More Upside? — TIKR](https://www.tikr.com/blog/constellation-energy-vs-vistra-which-nuclear-powered-utility-has-more-upside)
+- [Nexans EV-to-EBITDA & valuation — GuruFocus / valueinvesting.io](https://valueinvesting.io/NEX.PA/valuation/ev_ebitda-multiples)
+- [Prysmian S.p.A. Valuation Measures — Yahoo Finance](https://finance.yahoo.com/quote/PRY.MI/key-statistics/)
+- [HD Hyundai Electric: 27.6% Margin, Backlog — MoatAlpha](https://moatalpha.com/hd-hyundai-electric-analysis-2026/)
+- [Disco (TYO:6146) Statistics & Valuation Metrics — stockanalysis.com](https://stockanalysis.com/quote/tyo/6146/statistics/)
+- [Advantest Corp (6857.T) Forward P/E — valueinvesting.io](https://valueinvesting.io/6857.T/metric/forward-pe)
+- [Amphenol / TE Connectivity / Corning Forward PE — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/TEL)
+- [Broadcom / Marvell / TSMC Forward PE — GuruFocus / Multiples.vc](https://www.gurufocus.com/term/forward-pe-ratio/AVGO)
+- [Air Liquide Forward PE Ratio & Dividend — GuruFocus / stocksguide](https://www.gurufocus.com/term/forward-pe-ratio/AIQUY)
+- [Williams / Kinder Morgan / Energy Transfer dividend & P/E — Morningstar / Dividend.com](https://www.morningstar.com/stocks/xnys/et/quote)
+- [The Best Under-the-Radar AI Stocks to Buy in 2026 (Dell, DLR, EQIX) — Motley Fool](https://www.fool.com/investing/2026/05/10/the-best-under-the-radar-ai-stocks-to-buy-in-2026/)
+- [Navitas Semiconductor (NVTS) Valuation — Simply Wall St](https://simplywall.st/stocks/us/semiconductors/nasdaq-nvts/navitas-semiconductor/news/a-look-at-navitas-semiconductor-nvts-valuation-after-ai-data)
+- [Which Optics Stock Has Dominated in 2026 (Coherent ~159x) — 24/7 Wall St.](https://247wallst.com/investing/2026/05/12/which-optics-stock-has-dominated-in-2026-applied-optoelectronics-lumentum-or-coherent/)
 </content>
 </invoke>
