@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 165,20 | +6,40 | +1,98% |
-| Sanofi | SAN.PA | 3 | 87,00 | 88,60 | +4,80 | +1,84% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 232,50 | +12,50 | +5,68% |
-| STMicroelectronics | STM.PA | 3 | 27,82 | 29,25 | +4,29 | +5,14% |
+| Air Liquide | AI.PA | 2 | 162,00 | 165,60 | +7,20 | +2,22% |
+| Sanofi | SAN.PA | 3 | 87,00 | 88,90 | +5,70 | +2,18% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 236,80 | +16,80 | +7,64% |
+| STMicroelectronics | STM.PA | 3 | 27,82 | 30,10 | +6,84 | +8,19% |
 
 **Liquidités disponibles :** 114,40 €  
-**Valeur investie :** 916,45 €  
-**Valeur totale du portefeuille :** 1 030,85 € (**+3,09 %** depuis ouverture)
+**Valeur investie :** 925,00 €  
+**Valeur totale du portefeuille :** 1 039,40 € (**+3,94 %** depuis ouverture)
 
-> Stops actifs : STM.PA **28,40 €** (relevé) · SU.PA 216,00 € · STM/SU en mode trailing. Mise à jour : 2026-05-26 17:40 CET (mardi — retour de Wall Street, première séance pleinement liquide ; valeurs = clôture Euronext mardi 26 mai). Aucun stop touché.
+> Stops actifs : STM.PA **29,00 €** (relevé) · SU.PA **224,00 €** (relevé) · STM/SU en mode trailing. Mise à jour : 2026-05-27 17:45 CET (mercredi J+7 — séance pleinement liquide, retour complet des volumes US ; valeurs = clôture Euronext mercredi 27 mai). Aucun stop touché.
 > PRU STM.PA : 27,82 € (3 titres restants après vente partielle de 2 le 26 mai). Gain réalisé cumulé : **+2,86 €**.
 
 ---
@@ -338,5 +338,69 @@ Le portefeuille inscrit un nouveau plus-haut à **1 030,85 € (+3,09 % depuis l
 - **Sinon** → conserver le cash sec ; ne pas forcer un trade médiocre juste pour « faire quelque chose ».
 
 **Prochaine réévaluation** : mercredi 27 mai (J+7). Stops (STM.PA 28,40 € · SU.PA 216,00 €) et carnet d'ordres conditionnels actifs en continu.
+
+---
+
+### 2026-05-27 17:45 — Mercredi J+7 : rendez-vous de rotation, SU casse 235 € → relèvement de stops (session 14)
+
+#### Contexte de marché
+
+- **Séance pleinement liquide** (volumes US revenus depuis mardi). C'est le rendez-vous décisionnel J+7 prévu depuis la session 6.
+- **CAC 40** : poursuite de la dynamique, **+0,8 %** sur la séance récente — appétit pour le risque toujours présent, tiré par l'industrie et la tech/semi. Tendance de fond intacte.
+- **Schneider Electric (SU.PA)** : momentum confirmé, **+1,8 % à 236,80 €**, sur de nouveaux plus-hauts annuels. Le consensus analystes ressort fortement acheteur (notation « Strong Buy », ~21 achats / 1 vente). → **franchit mon seuil de 235,00 €** : déclenche l'ordre conditionnel #5 (conserver + relever le stop).
+- **STMicroelectronics (STM.PA)** : le complexe semi reste porteur (séance récente jusqu'à +5,1 %). STM prolonge sa reprise **+2,9 % à 30,10 €** mais reste **sous mon seuil de second lock-in (30,50 €)**. Toujours en « laisser courir » avec stop protecteur.
+- **Air Liquide (AI.PA)** : **+0,2 % à 165,60 €**. **Sanofi (SAN.PA)** : **+0,3 % à 88,90 €**. Les deux ancres défensives progressent doucement, loin au-dessus des seuils d'achat (160 € / 85 €) — aucune faiblesse à acheter.
+
+> Signaux croisés ce 27 mai via données de marché publiques (Boursorama/Zonebourse/Investing) : CAC bien orienté (+0,8 %), Schneider « Strong Buy » sur ses plus-hauts, STM en momentum semi (+5 % en séance récente). Aucun signal n'invalide une thèse ; tous confortent « laisser courir les gagnants ».
+
+#### Contrôle des ordres conditionnels pré-armés (carnet session 11, mis à jour session 13)
+
+| # | Seuil | Cours observé | Déclenché ? |
+|---|-------|---------------|-------------|
+| 1 | STM.PA < 27,00 € | 30,10 € | Non |
+| 2 | STM.PA > 30,50 € → 2e lock-in partiel | 30,10 € | Non (proche) |
+| 4 | SU.PA < 216,00 € | 236,80 € | Non |
+| 5 | SU.PA > 235,00 € → conserve + relève stop à 224 € | 236,80 € | **OUI → exécuté** |
+| 6 | AI.PA < 160 € ou SAN.PA < 85 € | 165,60 € / 88,90 € | Non |
+
+#### Décisions
+
+**ROTATION J+7 : NON DÉCLENCHÉE — et c'est la décision honnête.** Le plan de la session 6 prévoyait, ce J+7, soit un lock-in semi → **TSM**, soit un renfort défensif. Or :
+- **TSM reste infaisable** : l'ADR (~175-200 €) coûte plus que mes 114,40 € de cash pour 1 seul titre. Je ne fractionne pas et je ne force pas une rotation impossible.
+- **Le renfort défensif n'a pas de déclencheur** : il supposait une **faiblesse** (AI.PA < 160 € / SAN.PA < 85 €), or les deux ancres **montent**. *Acheter la faiblesse, pas la force* → pas d'achat.
+
+Conclusion : aucune des deux branches de la rotation n'a ses préconditions réunies. La bonne décision de trader n'est pas de « faire quelque chose » pour cocher la case J+7, mais de **conserver le cash sec** et de transformer la séance en gestion active du risque sur des gagnants qui courent.
+
+**CONSERVE — Schneider Electric (SU.PA).** Meilleur performer (+7,64 %), sur ses plus-hauts, consensus « Strong Buy ». Je ne l'écrête pas : on ne coupe pas un gagnant qui accélère avec le marché derrière lui. Je sécurise via le stop (voir ci-dessous).
+
+**CONSERVE — STMicroelectronics (STM.PA) × 3.** Le titre prolonge (+8,19 % vs PRU) mais n'atteint pas le seuil de second lock-in (30,50 €). Zone « laisser courir ». Je relève le stop pour verrouiller davantage de gain sans solder la conviction capex IA.
+
+**CONSERVE — Air Liquide & Sanofi.** Ancres en légère hausse, thèses intactes. Ni vente ni achat (pas de faiblesse à acheter).
+
+**GESTION DU RISQUE — double relèvement de stops (mouvement actif du jour) :**
+- **SU.PA** : stop relevé de **216,00 € → 224,00 €** (exécution de l'ordre conditionnel #5). À 236,80 € cela verrouille un trailing de −5,4 % et place le stop **au-dessus du prix d'entrée (220,00 €)** : la ligne Schneider devient à son tour **sans risque de perte** (gain minimum garanti de +4,00 € si le stop saute).
+- **STM.PA** : stop relevé de **28,40 € → 29,00 €** sur les 3 titres. À 30,10 € cela verrouille un trailing de −3,7 % et porte le gain minimum garanti à **+1,18 €/titre** (vs PRU 27,82 €), contre +0,58 €/titre hier. On remonte la protection à mesure que le titre monte.
+- **AI.PA / SAN.PA** : pas de stop serré (ancres défensives à faible volatilité).
+
+**CASH CONSERVÉ : 114,40 €** (11,0 % du portefeuille) — inchangé, bien au-dessus du minimum permanent de 3 %. Munition sèche pour un repli à venir.
+
+#### Carnet d'ordres conditionnels — mise à jour pour la suite
+
+| # | Déclencheur | Action | Logique |
+|---|-------------|--------|---------|
+| 1 | STM.PA **< 29,00 €** | **VENTE des 3 STM** (stop relevé) | Gain verrouillé (+1,18 €/titre min) ; la tendance semi ne tient plus. |
+| 2 | STM.PA **> 30,50 €** | **VENTE partielle 1 STM** + relève stop | 2e lock-in sur la force ; conserve 2 STM pour laisser courir. |
+| 3 | SU.PA **< 224,00 €** | **VENTE de la position** (trailing) | Protège +4,00 € min ; sortie disciplinée si la tendance se retourne. |
+| 4 | SU.PA **> 245,00 €** | **CONSERVE + relève stop à 232 €** | Laisser courir le leader, sécuriser davantage. |
+| 5 | AI.PA **< 160 €** ou SAN.PA **< 85 €** | **ACHAT défensif** avec les 114,40 € de cash | Déployer le cash sur la faiblesse d'une ancre, pas sur la force. |
+| 6 | TSM ADR repli sous ~110 € (peu probable) | **ROTATION** lock-in semi → TSM | Ne s'exécute que si la diversification devient enfin abordable. |
+
+#### Stratégie
+
+Le J+7 illustre une vérité de méthode : **un plan n'oblige pas à agir, il définit les conditions pour agir.** Les deux branches de la rotation prévue (TSM / renfort défensif) avaient des préconditions précises ; aucune n'est réunie (TSM trop cher, défensives en hausse et non en faiblesse). Plutôt que de forcer un trade médiocre pour « marquer » le rendez-vous, je conserve le cash et je convertis la séance en **gestion active du risque** : deux stops relevés, deux lignes désormais sans risque de perte (SU.PA et STM.PA toutes deux protégées au-dessus de leur prix de revient).
+
+Le portefeuille inscrit un nouveau plus-haut à **1 039,40 € (+3,94 % depuis l'ouverture)**, tiré par Schneider (+7,64 %, sur ses plus-hauts) et STM (+8,19 %), avec des défensives qui montent en charge (AI +2,22 %, SAN +2,18 %). En neuf jours de marché, la trajectoire (+~4 %) reste pleinement dans le rythme du Scénario A (+5 à +10 % sur 30 jours), avec un risque baissier désormais très contenu : 3 des 4 lignes (SU, STM, et les défensives par leur faible volatilité) sont protégées, et 11 % de cash sec attendent un repli.
+
+**Prochaine réévaluation** : jeudi 28 mai. Stops (STM.PA 29,00 € · SU.PA 224,00 €) et carnet d'ordres conditionnels mis à jour actifs en continu.
 
 ---
