@@ -5,7 +5,8 @@
 > marché** alors qu'ils jouent — ou vont jouer — un rôle critique. Document de travail destiné à
 > alimenter les décisions du journal de trading (`positions.md`, `etoro_trades.md`).
 >
-> **Date :** 26 mai 2026 — **édition valorisée** (v3). v2 (approfondie) : 26 mai. v1 : 25 mai 2026.
+> **Date :** 27 mai 2026 — **édition v4** (nouvelles poches). v3 (valorisée) : 26 mai. v2 (approfondie) :
+> 26 mai. v1 : 25 mai 2026.
 > **Auteur :** analyse « picks-and-shovels » de l'écosystème IA.
 >
 > **Nouveauté v3.** Ajout d'une **couche quantitative** : pour chaque acteur, un **multiple de valorisation
@@ -14,6 +15,17 @@
 > pleinement pricé). Voir la **§4 bis** pour le tableau maître trié et la méthodologie. Deux pistes
 > nouvelles explorées : le **foncier du calcul (REIT data centers)** et les **monopoles/OEM « pas chers
 > en pleine vue »** (TSMC, Dell, TE Connectivity).
+>
+> **Nouveauté v4 (27 mai).** Sept **poches encore sous-couvertes** ouvertes et chiffrées (§9) : **(I)** le
+> *test/inspection du packaging avancé & probe cards* (Technoprobe — pure-play **européen** coté à Milan,
+> FormFactor, Camtek, Photronics) ; **(J)** les *passifs & le mécanique du rack* (Nidec sur les
+> ventilateurs/CDU **décoté de ~28 %**, MLCC Murata/TDK en pénurie) ; **(K)** l'*eau* — angle quasi ignoré
+> (Veolia **~13–14× et français**, Xylem) ; **(L)** la *renaissance du stockage* (Seagate/WDC, mais
+> **déjà très chers**) ; **(M)** les *semis de puissance SiC/GaN décotés/distressed* (onsemi ~23× avant,
+> Power Integrations, Wolfspeed post-Chapter 11) ; **(N)** les *moteurs/gensets gaz de secours* (Wärtsilä) ;
+> **(O)** les *services électriques & utilities régulées exposés à la charge data center* (SPIE **~16×
+> français**, NKT 3ᵉ câblier EU, fusion **NextEra–Dominion 67 Md$ du 18 mai**, Southern, AEP). Objectif :
+> dénicher des leviers **accessibles à un petit compte Euronext** (Veolia, SPIE, Technoprobe, Siltronic).
 >
 > **Avertissement d'honnêteté intellectuelle.** En mai 2026, l'ensemble du complexe « infra IA »
 > s'est **déjà fortement revalorisé** (Nvidia ~47× les bénéfices futurs ; en Europe : STMicro a plus
@@ -507,6 +519,144 @@ MLP, exécution AT&S, marges Dell) qu'il faut accepter sciemment.
 
 ---
 
+## 9. ★★ Édition v4 (27 mai 2026) — sept poches encore sous-couvertes
+
+> Le but de la v4 n'est pas de réécrire la thèse (intacte : *l'IA est d'abord un trade énergie + composants
+> oligopolistiques, à acheter sur faiblesse*) mais d'**élargir le filet** vers des couches que les v1–v3
+> n'avaient qu'effleurées, en privilégiant ce qui est **réellement accessible à un petit compte Euronext**.
+> Chaque poche est chiffrée (PER avant / repère + indice 0–10, même méthodologie qu'en §4 bis).
+
+### ★ Poche I — Test, inspection & *probe cards* du packaging avancé (le « contrôle qualité » de l'IA)
+Chaque die logique, chaque pile HBM et — désormais — chaque assemblage 2.5D/3D doit être **sondé, inspecté
+et mesuré**. Plus le packaging se complexifie (chiplets, hybrid bonding, jusqu'à ~500 M de micro-bumps),
+plus ces étapes deviennent un goulet à forte valeur ajoutée. Couche distincte des *bonders* (Poche E) et du
+test final (Advantest, Poche C) : ici c'est l'**interface puce↔testeur** et la **métrologie/inspection**.
+
+| Acteur | Ticker | Rôle (criticité) | PER avant (≈) | Indice | Lecture / nuance |
+|---|---|---|---:|:---:|---|
+| **Technoprobe** | **TPRO.MI** (Milan) | **~60 % du haut de gamme des *probe cards* MEMS verticales** ; entre sur la *probe card* HBM (TAM ~600 M$ en 2028, ~20 % visé) | **~55×** (avant) ; trailing ~113× | **4** | **Pure-play coté en Europe** (Borsa Italiana, donc *accessible*). 3ᵉ relèvement de guidance en 13 mois, T1-26 record. **Mais cher** → sur repli, pas au cours. |
+| **FormFactor** | FORM | Hégémon des *probe cards* logique avancée + leadership **HBM4 chiplet** | élevé (cyclique) | **4** | ASP en hausse avec HBM4 ; gagnant structurel US, valorisation tendue. |
+| **Camtek** | CAMT | **Leader métrologie/inspection packaging avancé** (plateformes Hawk/Eagle G5 ; HBM, hybrid bonding) | **~25×** (avant) | **5** | >3 000 outils installés. Multiple avant raisonnable **si** l'accélération S2-26 se confirme ; sinon compression brutale (T1 en repli). |
+| **Onto Innovation** | ONTO | Métrologie/inspection AP (lithographie packaging, *bumps*) | moyen-élevé | **4** | Concurrent direct de Camtek ; exposé au même cycle AP/HBM. |
+| **Photronics** | PLAB | **Photomasques** (high-end IC, virage masques IA petits nœuds) | **~23×** (avant) ; **TTM ~14,5× vs pairs ~48×** | **6** | *Deep-reasonable value* sous le radar : décote massive vs pairs semis. ⚠️ capex ~330 M$ en 2026 (×2) pèse sur le BPA court terme. |
+
+### ★ Poche J — Passifs, ventilateurs & mécanique du rack (le contenu « ennuyeux » qui explose au rack)
+Chaque carte d'accélérateur et chaque rack 100 kW+ embarque **plus de MLCC, plus de ventilateurs, plus de
+modules de puissance** que jamais. Marché japonais dominant, peu « crowded » côté narratif IA.
+
+| Acteur | Ticker | Rôle | PER avant (≈) | Indice | Lecture / nuance |
+|---|---|---|---:|:---:|---|
+| **Nidec** | 6594.T (Tokyo) | **Ventilateurs serveurs IA** (8 modèles 38–120 mm) **+ chaîne liquid-cooling** (In-Rack/In-Row CDU, *cold plates*, manifolds, *quick disconnects*, prototype CDU spec Google OCP) + moteurs | **~11×** (avant) ; trailing ~19× | **7** | **Titre battu (~-28 % sur 1 an)** sur un *overhang* gouvernance (révélation d'irrégularités de contrôle qualité) qui masque une **exposition cooling IA pleine** → couple décote × criticité élevé. ⚠️ risque gouvernance à surveiller. |
+| **Murata** | 6981.T (Tokyo) | **N°1 MLCC** ; demande MLCC serveurs IA **×3,3 d'ici FY30** ; hausses de prix 15–35 % (avr. 26) ; modules de puissance IA (¥50 Md visés FY27) | moyen (~20×) | **5** | Pénurie MLCC = *pricing power* retrouvé ; grande cap de qualité, pas une aubaine mais levier propre. |
+| **TDK** | 6762.T (Tokyo) | MLCC + batteries (BBU de rack) | moyen | **4** | Même vent MLCC ; mix plus diversifié (batteries) → levier IA plus dilué. |
+
+### ★ Poche K — L'**eau** : l'angle quasi totalement ignoré du marché
+La demande d'eau (data centers + fabs + production électrique) pourrait croître de **~130 %**. Quasi personne
+ne traite l'IA comme une *water story* — le rachat de CoolIT par Ecolab a commencé à réveiller le thème.
+**Atout pour ce compte : Veolia est française, cotée à Paris, et bon marché.**
+
+| Acteur | Ticker | Rôle | PER avant (≈) | Indice | Lecture |
+|---|---|---|---:|:---:|---|
+| **Veolia** | **VIE.PA** (Paris) | Gestion/traitement d'eau de refroidissement DC, monitoring continu, chimie des tours | **~13–14×** | **6** | **Le levier eau-IA le moins cher et le plus accessible (Euronext).** Thème naissant, décote « utility » → optionalité gratuite. |
+| **Xylem** | XYL | Pompes, traitement, *metering* (eau côté DC) | **~23–25×** | **4** | Levier US plus pur sur l'eau, mais déjà valorisé comme une qualité industrielle. |
+| **Ecolab** | ECL | Chimie de l'eau + **CoolIT** (direct-to-chip) | élevé | **3** | Intègre eau + cooling ; multiple premium déjà reconnu. |
+
+### ★ Poche L — Renaissance du **stockage** (HDD nearline) — *intéressant mais déjà couru*
+Toute donnée d'entraînement/inférence finit stockée à froid sur **HDD nearline**. Duopole STX/WDC
+**vendu jusqu'à fin 2026** (POs fermes), prix +~50 %, transition HAMR. **Mais les titres ont déjà flambé.**
+
+| Acteur | Ticker | Rôle | PER avant (≈) | Indice | Lecture |
+|---|---|---|---:|:---:|---|
+| **Seagate** | STX | HDD nearline (HAMR ; ~50 % des EB nearline en HAMR fin 2026) | **~52×** ; **+322 % vs moy. 10 ans** | **3** | Duopole + sold-out, **mais** valorisation au pic du cycle ; n'acheter que sur repli. |
+| **Western Digital** | WDC | HDD nearline (+ NAND via SanDisk scindé) | **~47–48×** ; **+115 % YTD** | **3** | Idem : qualité du cycle reconnue, marge d'erreur faible désormais. |
+| **Sandisk** | SNDK | NAND (scission WDC) | n.d. | **3** | Pure-play NAND ; levier cyclique mémoire de 2ᵉ ordre. |
+
+### ★ Poche M — Semis de puissance **SiC/GaN** décotés / *distressed* (la bascule 800 VDC, côté value)
+Complément « value » de la Poche D (v2). Le contenu *power* par rack **double** (GB200→Rubin : ×4 à ×11,5 ;
+onsemi : 50 k$ → 100 k$ par rack 1 MW). Mais les BPA sont au **creux cyclique** → certains multiples *avant*
+sont déjà raisonnables alors que le *trailing* paraît absurde.
+
+| Acteur | Ticker | Rôle | PER avant (≈) | Indice | Lecture / nuance |
+|---|---|---|---:|:---:|---|
+| **onsemi** | ON | **SiC** (étage AC/DC → 800 VDC) ; contenu/rack ×2 | **~22–23×** (avant) ; trailing ~228× (BPA déprimé) | **6** | Levier **reprise cyclique + 800 VDC** ; le *forward* est déjà digeste pour un leader SiC. ⚠️ pari sur le creux du cycle. |
+| **Power Integrations** | POWI | **PowiGaN 1250 V** pour 800 VDC (densité > SiC stacké) | élevé (~40×+) | **3** | Techno bien placée mais multiple riche ; momentum récent (+~18 %). |
+| **Wolfspeed** | WOLF | Matériaux/modules **SiC** purs | n.s. (post-restructuration) | **2** | **Sortie de Chapter 11**, +~150 % en mai : *turnaround* hautement spéculatif, pas « sous-évalué » au sens fondamental. |
+
+### ★ Poche N — Moteurs & *gensets* gaz : la puissance **off-grid** rapide
+Faute de raccordement réseau, les moteurs alternatifs **gaz** (démarrage rapide, modulaires) deviennent une
+solution de base/secours pour campus IA. Complément « machines » de la Poche F (midstream/gas-to-power).
+
+| Acteur | Ticker | Rôle | PER avant (≈) | Indice | Lecture |
+|---|---|---|---:|:---:|---|
+| **Wärtsilä** | WRT1V.HE (Helsinki) | Moteurs gaz **50SG/34SG** pour centrales DC *off-grid* (790 MW Texas, 412 MW US, ~800 MW de commandes DC 2025) | **~25–28×** | **5** | Nouveau venu DC à traction rapide ; levier *flexible power* peu pricé. Coté Helsinki (accès courtier-dépendant). |
+| **Cummins / Caterpillar / Generac** | CMI / CAT / GNRC | Groupes électrogènes de secours (diesel/gaz) | ~14–22× | **4** | Dérivées *backup power* de qualité ; CMI le moins cher, levier DC encore sous-apprécié. |
+
+### ★ Poche O — Services électriques & **utilities régulées** exposés à la charge data center
+Au-delà des IPP/nucléaire (v2 : CEG/VST/TLN), deux familles sous-couvertes : **(1)** l'**ingénierie
+électrique multi-technique** (installation/maintenance des salles et raccordements) et **(2)** les
+**utilities régulées** dont la base d'actifs gonfle avec la charge DC — à des multiples bien plus bas que
+les semis. **Fait marquant v4 : fusion NextEra–Dominion (67 Md$, 18 mai 2026)** → 1ʳᵉ utility régulée
+mondiale, *pipeline* de charge >130 GW ; Dominion +9 %, NextEra -4 % à l'annonce.
+
+| Acteur | Ticker | Rôle | PER avant (≈) | Indice | Lecture |
+|---|---|---|---:|:---:|---|
+| **SPIE** | **SPIE.PA** (Paris) | **Services multi-techniques** énergie/élec. (installation, maintenance salles & raccordements DC) | **~16×** (avant) | **6** | **Français, accessible Euronext, bon marché** : levier *picks-and-shovels* sur le déploiement physique, peu « crowded ». |
+| **NKT** | NKT.CO (Copenhague) | **3ᵉ câblier HT/HVDC européen** (carnet Transmission ~13,5 Md€, >95 % TSO européens) | **PER ~25–30×** (TTM, ~25 % > médiane) | **5** | Complète Nexans/Prysmian ; **mais** au plus-haut et au-dessus de sa médiane → moins décoté que Nexans. |
+| **Southern Company** | SO | Utility régulée (8 GW contractés DC, *pipeline* >50 GW, +8 %/an) | **~20×** | **5** | Croissance de charge réglementée visible ; multiple d'utility. |
+| **AEP** | AEP | Utility régulée (capex 5 ans 72 Md$, +33 %) | **~17–18×** | **5** | Forte base d'actifs en expansion ; levier transmission/DC peu cher. |
+| **Dominion / NextEra** | D / NEE | Utilities régulées (fusion 67 Md$, *pipeline* >130 GW) | D ~17× / NEE ~19× | **5 / 4** | *Situation spéciale* fusion ; Dominion repricé à la hausse, NEE digère la dilution. |
+
+### 9 bis. Tableau v4 trié par indice (nouveaux noms uniquement)
+
+| Acteur | Ticker | Couche / rôle | PER avant (≈) | Indice | Accès Euronext ? |
+|---|---|---|---:|:---:|:---:|
+| **Nidec** | 6594.T | Ventilateurs + liquid cooling rack | **~11×** | **7** | Non (Tokyo) |
+| **Photronics** | PLAB | Photomasques IA (deep value) | **~23×** (TTM ~14,5×) | **6** | Non (Nasdaq) |
+| **Veolia** | **VIE.PA** | Eau de refroidissement DC | **~13–14×** | **6** | **Oui (Paris)** |
+| **onsemi** | ON | SiC / 800 VDC (reprise cyclique) | **~22–23×** | **6** | Non (Nasdaq) |
+| **SPIE** | **SPIE.PA** | Services électriques DC | **~16×** | **6** | **Oui (Paris)** |
+| **Camtek** | CAMT | Inspection/métrologie packaging | **~25×** | **5** | Non (Nasdaq) |
+| **Murata** | 6981.T | MLCC (pénurie, pricing power) | **~20×** | **5** | Non (Tokyo) |
+| **Wärtsilä** | WRT1V.HE | Gensets gaz off-grid DC | **~25–28×** | **5** | Partiel (Helsinki) |
+| **NKT** | NKT.CO | 3ᵉ câblier HVDC européen | **~25–30×** | **5** | Partiel (Copenhague) |
+| **Southern / AEP** | SO / AEP | Utilities régulées charge DC | **~17–20×** | **5** | Non (NYSE) |
+| **Technoprobe** | **TPRO.MI** | Probe cards MEMS (pure-play EU) | **~55×** | **4** | **Oui (Milan)** |
+| **FormFactor** | FORM | Probe cards HBM4 | élevé | **4** | Non (Nasdaq) |
+| **Xylem** | XYL | Eau côté DC | **~23–25×** | **4** | Non (NYSE) |
+| **TDK** | 6762.T | MLCC + BBU | moyen | **4** | Non (Tokyo) |
+| **Cummins** | CMI | Gensets de secours | **~14–16×** | **4** | Non (NYSE) |
+| **Seagate / WDC** | STX / WDC | HDD nearline (sold-out **mais cher**) | **~47–52×** | **3** | Non (Nasdaq) |
+| **Power Integrations** | POWI | GaN 800 VDC | **~40×+** | **3** | Non (Nasdaq) |
+| **Ciena** | CIEN | DCI / optique cohérente ZR | **~82–111×** | **2** | Non (NYSE) |
+| **Wolfspeed** | WOLF | SiC post-Chapter 11 (spéculatif) | n.s. | **2** | Non (NYSE) |
+
+> **Lecture v4.** Le **meilleur couple décote × criticité parmi les nouveaux noms** sort sur **Nidec** (~11×,
+> battu sur un sujet gouvernance qui masque une exposition cooling pleine), **Photronics** (photomasques IA
+> à ~14,5× *trailing* vs pairs ~48×), **onsemi** (SiC à ~23× *avant*, pari reprise cyclique) et — surtout
+> pour *ce* compte — deux **français bon marché et accessibles** : **Veolia (~13–14×, l'eau)** et
+> **SPIE (~16×, services électriques DC)**. À l'inverse, **stockage (STX/WDC) et optique (Ciena)** ont déjà
+> couru : on les classe « tard », pas « tôt ». **Technoprobe** est le pure-play *probe card* européen le plus
+> élégant, mais **cher** (~55×) → à n'aborder que sur correction.
+
+### 9 ter. Mise à jour du lien avec le portefeuille (candidats de rotation **réalistes**, Euronext)
+La v4 ajoute **trois** idées directement exécutables sur un petit compte eToro/Euronext, au-delà de Nexans
+(toujours *top pick* EU de la §5) :
+
+1. **Veolia (VIE.PA)** — *l'eau de l'IA*, **~13–14×**, décote « utility » : optionalité thème naissant, prix
+   d'action modeste. **Nouveau candidat phare value EU de la v4.**
+2. **SPIE (SPIE.PA)** — services électriques/raccordements DC, **~16×**, *picks-and-shovels* peu « crowded ».
+3. **Siltronic (WAF.DE)** *(cf. §0 Couche 0)* — wafers silicium en **creux cyclique** (pertes TTM, sous la
+   valeur comptable) : *deep value* contrarian à fort levier de reprise, **risque élevé** (comme AT&S).
+4. *(Watchlist, accès courtier-dépendant)* **Technoprobe (TPRO.MI)** sur repli, **NKT (NKT.CO)**, **Nidec
+   (6594.T)**, **onsemi (ON)**, **Photronics (PLAB)**.
+
+> Cohérence inchangée : **acheter la faiblesse, pas la force.** La v4 ne renie rien ; elle ajoute des
+> leviers *value* et *accessibles* (eau, services élec., SiC en creux, passifs battus) là où la v3
+> concluait que le « propre » se trouvait surtout dans la mémoire HBM, le gaz-to-power et les pelles peu
+> chères en pleine vue.
+
+---
+
 ## Sources
 
 ### v1 (25 mai 2026)
@@ -560,5 +710,38 @@ MLP, exécution AT&S, marges Dell) qu'il faut accepter sciemment.
 - [The Best Under-the-Radar AI Stocks to Buy in 2026 (Dell, DLR, EQIX) — Motley Fool](https://www.fool.com/investing/2026/05/10/the-best-under-the-radar-ai-stocks-to-buy-in-2026/)
 - [Navitas Semiconductor (NVTS) Valuation — Simply Wall St](https://simplywall.st/stocks/us/semiconductors/nasdaq-nvts/navitas-semiconductor/news/a-look-at-navitas-semiconductor-nvts-valuation-after-ai-data)
 - [Which Optics Stock Has Dominated in 2026 (Coherent ~159x) — 24/7 Wall St.](https://247wallst.com/investing/2026/05/12/which-optics-stock-has-dominated-in-2026-applied-optoelectronics-lumentum-or-coherent/)
-</content>
-</invoke>
+
+### v4 (27 mai 2026 — sept poches sous-couvertes)
+- [Technoprobe: The Hidden Picks-and-Shovels Monopoly of the AI Test Era — Crack the Market](https://crackthemarket.substack.com/p/technoprobe-the-hidden-picks-and)
+- [UBS initiates Technoprobe coverage at "buy," highlights AI-driven growth — Investing.com](https://www.investing.com/news/stock-market-news/ubs-initiates-technoprobe-coverage-at-buy-highlights-aidriven-growth-4244392)
+- [Technoprobe (BIT:TPRO) Statistics & Valuation Metrics — stockanalysis.com](https://stockanalysis.com/quote/bit/TPRO/statistics/)
+- [The Testing Wall: FormFactor (FORM) in the HBM4 Era — FinancialContent](https://markets.financialcontent.com/stocks/article/finterra-2026-3-25-the-testing-wall-a-comprehensive-analysis-of-formfactor-inc-form-in-the-hbm4-era)
+- [Camtek (CAMT): Navigating the HBM Cycle Reset / Advanced Packaging Dominance — AInvest](https://www.ainvest.com/news/camtek-nasdaq-camt-navigating-hbm-cycle-reset-capitalize-advanced-packaging-dominance-2506/)
+- [CAMT (Camtek) Forward PE Ratio — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/CAMT)
+- [Photronics: Growth Ahead At A Deeply Reasonable Price (PLAB) — Seeking Alpha](https://seekingalpha.com/article/4823960-photronics-growth-ahead-at-a-deeply-reasonable-price)
+- [PLAB (Photronics) Forward PE Ratio — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/PLAB)
+- [Nidec Launches Standard Fans for AI Servers (DigiKey, Mouser) — Nidec](https://www.mynewsdesk.com/us/nidec/pressreleases/nidec-launches-standard-fans-for-ai-servers-at-major-electronics-distributors-digikey-and-mouser-3421652)
+- [Nidec Prototypes Project Deschutes CDU (Google OCP spec) — Nidec](https://www.nidec.com/en/product/news/2025/news1203-01/)
+- [Nidec (TYO:6594) Statistics & Valuation Metrics — stockanalysis.com](https://stockanalysis.com/quote/tyo/6594/statistics/)
+- [Murata Explores Raising Prices of Key AI Server Component (MLCC) — Bloomberg](https://www.bloomberg.com/news/articles/2026-02-17/murata-explores-raising-prices-of-ai-server-ceramic-capacitors)
+- [Murata to Mass Produce AI Server Power Modules in 2026, Targets ¥50B by FY27 — TrendForce](https://www.trendforce.com/news/2025/12/17/news-murata-reportedly-to-mass-produce-ai-server-power-modules-in-2026-targets-%C2%A550b-by-fy27)
+- [Data center water demand +130%; AI as a "water story" (Ecolab-CoolIT) — MarketWise](https://marketwise.com/investing/ai-data-center-cooling-stocks-ecolab-coolit/)
+- [Veolia Environnement (VIE.PA) Forward P/E — valueinvesting.io](https://valueinvesting.io/VIE.PA/metric/forward-pe)
+- [Efficient Data Center Cooling & Water Management — Xylem](https://www.xylem.com/en-us/markets/buildings-facilities/data-centers/)
+- [Seagate and Western Digital: AI Storage Demand Shows Up in Pricing Power — 24/7 Wall St.](https://247wallst.com/investing/2026/05/16/seagate-and-western-digital-ai-storage-demand-is-now-showing-up-in-pricing-power/)
+- [Western Digital Forward PE Ratio (47.61) — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/WDC)
+- [Seagate Forward P/E (52.43) — valueinvesting.io](https://valueinvesting.io/STX/metric/forward-pe)
+- [Power Semis in the AI Data Center (SiC/GaN, content per rack) — Tech Fund](https://www.techinvestments.io/p/power-semis-in-the-ai-data-center)
+- [ON (ON Semiconductor) Forward PE Ratio (22.73) — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/ON)
+- [Power Integrations 1250V/1700V PowiGaN for 800VDC AI data centers — Semiconductor Today](https://www.semiconductor-today.com/news_items/2025/oct/power-integrations-141025.shtml)
+- [Wärtsilä 790 MW data center order in Texas (50SG engines) — Wärtsilä](https://www.wartsila.com/media/news/23-04-2026-wartsila-continues-to-expand-its-data-center-footprint-with-new-790-mw-order-in-texas-the-next-data-center-alley-3744599)
+- [Part 1: Where Carel Sees Data Center Cooling Headed (CDU/immersion controls) — NaturalRefrigerants](https://naturalrefrigerants.com/news/part-1-after-decades-in-data-center-cooling-this-is-where-carel-sees-the-industry-headed-next/)
+- [NextEra Energy to acquire Dominion ($67B), creating world's largest regulated utility — DataCenterDynamics](https://www.datacenterdynamics.com/en/news/nextera-energy-to-acquire-dominion-energy-creating-worlds-largest-regulated-electrical-utility/)
+- [Combined NextEra-Dominion would have 130-GW large-load pipeline — Utility Dive](https://www.utilitydive.com/news/nextera-dominion-merger-would-create-worlds-largest-regulated-electric-ut/820457/)
+- [NKT Shares Hit a Fresh High as Record Cable Orders Reframe the 2026 Story — TS2](https://ts2.tech/en/nkt-shares-hit-a-fresh-high-as-record-cable-orders-reframe-the-2026-story/)
+- [FRA:NKT PE Ratio (TTM) 30.29 — GuruFocus](https://www.gurufocus.com/term/pettm/FRA:NKT)
+- [SPIE (HAM:4SP) Forward PE Ratio (16.29) — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/HAM:4SP)
+- [Switchgear, Cables, and Gensets: The Quiet Winners of the AI Data Center Boom — Medium/MH](https://medium.com/@_mh/switchgear-cables-and-gensets-the-quiet-winners-of-the-ai-data-center-boom-1c01bd41a67c)
+- [Ciena Forward PE Ratio (82.53) — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/CIEN)
+- [Semtech (SMTC) Valuation After OFC 2026 AI / Active Copper Interconnects — Webull](https://www.webull.com/news/14571612518491136)
+- [Siltronic AG (WAF.DE) Valuation Measures — Yahoo Finance](https://finance.yahoo.com/quote/WAF.DE/key-statistics/)
