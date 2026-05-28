@@ -5,8 +5,8 @@
 > marché** alors qu'ils jouent — ou vont jouer — un rôle critique. Document de travail destiné à
 > alimenter les décisions du journal de trading (`positions.md`, `etoro_trades.md`).
 >
-> **Date :** 27 mai 2026 — **édition v4** (nouvelles poches). v3 (valorisée) : 26 mai. v2 (approfondie) :
-> 26 mai. v1 : 25 mai 2026.
+> **Date :** 28 mai 2026 — **édition v5** (six poches inédites : voir §10). v4 (sept poches) : 27 mai.
+> v3 (valorisée) : 26 mai. v2 (approfondie) : 26 mai. v1 : 25 mai 2026.
 > **Auteur :** analyse « picks-and-shovels » de l'écosystème IA.
 >
 > **Nouveauté v3.** Ajout d'une **couche quantitative** : pour chaque acteur, un **multiple de valorisation
@@ -26,6 +26,19 @@
 > **(O)** les *services électriques & utilities régulées exposés à la charge data center* (SPIE **~16×
 > français**, NKT 3ᵉ câblier EU, fusion **NextEra–Dominion 67 Md$ du 18 mai**, Southern, AEP). Objectif :
 > dénicher des leviers **accessibles à un petit compte Euronext** (Veolia, SPIE, Technoprobe, Siltronic).
+>
+> **Nouveauté v5 (28 mai).** Six **poches encore absentes des v1–v4** ouvertes et chiffrées (§10) : **(P)** le
+> *compute « stranded-power »* — les **mineurs de bitcoin reconvertis en hébergeurs IA/HPC** (IREN, Core
+> Scientific, TeraWulf, Cipher, Hut 8, Applied Digital) avec >70 Md$ de contrats HPC signés ; **(Q)** les
+> *superalliages & coulées de précision* qui **conditionnent la production de turbines à gaz** (Howmet, ATI,
+> Carpenter, Haynes) — le goulet *derrière* le goulet énergie ; **(R)** les *pompes à vide & sous-systèmes
+> de fab* (Ebara **CMP+vide+abatement**, Atlas Copco/Edwards) ; **(S)** les *consommables du packaging
+> avancé* — **EMC, die-attach, slurry CMP, TIM** (Resonac **~11–12× avant**, Sumitomo Bakelite, Henkel,
+> Indium) ; **(T)** les *céramiques techniques & chucks électrostatiques* (Ferrotec **~14× avant**, NGK
+> Insulators **~18,7× + stockage réseau**, Kyocera) ; **(U)** le *stockage d'énergie data center (BESS /
+> ride-through)* (Fluence, Bloom Energy — déjà cher, NGK NAS). Le vrai gisement *value* de la v5 sort sur
+> **Resonac, Ferrotec et NGK Insulators** ; la poche mineurs-IA est un pari **fort levier / fort risque**
+> (rôle « nouvellement critique » plus que multiple bas) ; superalliages = critiques **mais déjà chers**.
 >
 > **Avertissement d'honnêteté intellectuelle.** En mai 2026, l'ensemble du complexe « infra IA »
 > s'est **déjà fortement revalorisé** (Nvidia ~47× les bénéfices futurs ; en Europe : STMicro a plus
@@ -657,6 +670,180 @@ La v4 ajoute **trois** idées directement exécutables sur un petit compte eToro
 
 ---
 
+## 10. ★★★ Édition v5 (28 mai 2026) — six poches inédites
+
+> Même méthode (PER avant / repère + indice 0–10, cf. §4 bis), même discipline (« acheter la faiblesse,
+> pas la force »). La v5 ne touche pas aux conclusions v1–v4 ; elle **complète la cartographie** sur des
+> couches que les éditions précédentes n'avaient **pas du tout** abordées. Pour honorer l'objectif
+> « *identifier tous les acteurs et tous les composants* », chaque poche précise **où elle se branche dans
+> la pile** (renvoi §2). ⚠️ Multiples = instantanés d'agrégateurs publics (~26–28 mai 2026), arrondis.
+
+### 10.0 — Rattachement à la cartographie (§2)
+| Poche v5 | Couche de la pile (§2) | Nature du goulet ajouté |
+|---|---|---|
+| **P** — Mineurs BTC → IA/HPC | Couche 8 (cloud/capacité) + Couche 6a (énergie) | **Puissance déjà raccordée** revendue en compute — arbitrage *stranded power* |
+| **Q** — Superalliages & coulées | Couche 0 (matériaux) → amont **Couche 6a** (turbines) | Le **goulet derrière le goulet énergie** : sans aubes/coulées, pas de turbine |
+| **R** — Pompes à vide & sous-systèmes | Couche 1 (WFE) | Brique présente sur *chaque* outil dépôt/etch (comme VAT, en complément) |
+| **S** — Consommables packaging avancé | Couche 0 + Couche 3 (packaging) | **EMC, die-attach, slurry CMP, TIM** — la *chimie* du 2.5D/3D & HBM |
+| **T** — Céramiques & chucks ESC | Couche 1 (WFE, sous-systèmes) | Pièces critiques d'usure (chucks, quartz, *feedthroughs*) |
+| **U** — Stockage d'énergie (BESS) | Couche 6a (énergie DC) | *Ride-through*, écrêtage, accès file d'interconnexion |
+
+### ★ Poche P — Mineurs de bitcoin reconvertis en hébergeurs **IA / HPC** (le *compute « stranded-power »*)
+La transformation la plus rapide de 2026 : des mineurs assis sur des **gigawatts déjà raccordés** (la
+ressource la plus rare du secteur, cf. §1) convertissent leurs campus en hébergement GPU. **>70 Md$ de
+contrats HPC** déjà signés sur le secteur coté ; pour IREN, Core Scientific et TeraWulf, le HPC vise **~70 %
+du CA dès fin 2026**. Lecture clé : ce n'est **pas** une poche « multiple bas » — la plupart ont explosé —
+mais une poche « **rôle nouvellement critique** » à fort bêta, où la *valeur d'option* tient au **backlog
+contracté rapporté à l'EV** et à la puissance sécurisée, pas au PER.
+
+| Acteur | Ticker | Rôle / atout | Valorisation (≈) | Indice | Lecture / **risque** |
+|---|---|---|---:|:---:|---|
+| **Core Scientific** | CORZ | Conversion Pecos (300 MW) ; ~590 MW contractés avec **CoreWeave** ; levée 3,3 Md$ | *Special situation* (saga rachat CoreWeave) | **5** | Le pari **événementiel** le plus pur ; ⚠️ issue de l'opération CoreWeave = binaire |
+| **TeraWulf** | WULF | **Sortie totale du BTC en 2026** ; **12,8 Md$** de contrats HPC (Fluidstack/Core42) ; site Kentucky ~1 GW | EV/backlog faible | **5** | Pivot le plus « pure-play » ; ⚠️ exécution capex + dilution |
+| **Cipher Mining** | CIFR | **9,3 Md$** de backlog (AWS 300 MW + Fluidstack *Google-backstopped*) | ~plus-haut historique | **4** | Backlog adossé à des contreparties solides ; ⚠️ déjà couru |
+| **Applied Digital** | APLD | Hébergement HPC + neocloud (déjà §8) | Volatil | **4** | Levier capacité ; ⚠️ endettement, bêta extrême |
+| **Hut 8** | HUT | Mix BTC + HPC, campus haute densité | ~plus-haut historique | **3** | Qualité de sites ; ⚠️ valorisation tendue |
+| **IREN** | IREN | **Leader** : deal **Microsoft** ~1,94 Md$/an (≈85 % marge EBITDA projet), pipeline **4,5 GW**, extension **Dell** | **PER ~205×**, **+657 % sur 1 an** | **3** | Meilleurs fondamentaux du groupe **mais** déjà *priced for perfection* → repli seulement |
+
+> **Lecture P.** Le couple risque/rendement le moins « déjà fait » se trouve sur les **situations
+> spéciales / pivots purs** (Core Scientific, TeraWulf) où l'EV reste basse vs le backlog signé, **pas**
+> sur IREN/Hut 8 qui ont déjà fait ×5–×7. **Poche entière = haut risque** (financement circulaire, bêta
+> crypto résiduel, exécution capex) → taille de position spéculative uniquement, cohérente avec la §7.
+
+### ★ Poche Q — Superalliages & **coulées de précision** : le goulet *derrière* la turbine à gaz
+La v2 a identifié le gaz-to-power et les turbines (GE Vernova, Siemens Energy) ; mais ces turbines ne se
+fabriquent pas sans **aubes, distributeurs et coulées en superalliages Ni/Co**. Le marché des superalliages
+passe de **~10,2 Md$ (2026) à ~23 Md$ (2036)** ; le sous-marché *power generation* progresse explicitement
+« *driven by data centers* », et la **chaîne de coulées (aubes/vanes) est le point d'étranglement** qui peut
+retarder les plans d'expansion turbine. Couche 0 (matériaux) en amont direct de la Couche 6a.
+
+| Acteur | Ticker | Rôle (criticité) | PER avant (≈) | Indice | Lecture / nuance |
+|---|---|---|---:|:---:|---|
+| **ATI Inc.** | ATI | Superalliages Ni/Co (aéro + **énergie/power-gen**) | **~36×** | **4** | Le **moins cher** du trio ; mix énergie en hausse, mais déjà bien valorisé |
+| **Carpenter Technology** | CRS | Alliages spéciaux (aéro + énergie) | **~39×** (avant) ; trailing ~50× | **3** | Bénéfices records ; **~22 % au-dessus** de sa médiane 5 ans → cher |
+| **Haynes International** | (privé/HAYN) | Superalliages haute température | n.d. | **3** | Pur acteur alliages ; accès/liquidité limités |
+| **Howmet Aerospace** | HWM | **Coulées de précision** (aubes/vanes) — quasi-incontournable | **~55×** (avant) | **2** | Goulet réel des coulées **mais** exécution parfaite déjà pricée |
+
+> **Lecture Q.** Poche **critique mais déjà découverte** : tout le trio s'est re-raté (HWM ~55×, CRS ~50×
+> trailing). On la **cartographie** comme dérivée de 3ᵉ ordre du capex énergie, à n'aborder que sur **fort
+> repli** ; **ATI** est le seul à un multiple « relativement » digeste pour qui veut le levier coulées/alliages.
+
+### ★ Poche R — Pompes à vide & **sous-systèmes** de fab (le complément de VAT)
+La v2 a posé VAT (vannes à vide, quasi-monopole). En amont/aval immédiat se trouvent les **pompes à vide
+sèches**, l'**abatement de gaz** et le **CMP** — présents sur *chaque* chambre de dépôt/etch. Marché
+oligopolistique, peu « crowded » côté narratif IA.
+
+| Acteur | Ticker | Rôle | PER avant (≈) | Indice | Lecture |
+|---|---|---|---:|:---:|---|
+| **Ebara** | 6361.T (Tokyo) | **Pompes à vide sèches + CMP + abatement + plating** — large pan de la fab | **~26×** (norm.) ; certaines mesures ~34× | **5** | Étendue rare (vide *et* CMP *et* abatement) ; qualité japonaise sous-suivie ; PT relevés |
+| **Atlas Copco** | ATCO-A.ST (Stockholm) | Propriétaire d'**Edwards Vacuum** (~5 Md$ de CA vide) + compresseurs | **~25,5×** (avant) | **4** | *Compounder* de qualité, levier semi via Edwards ; prime de qualité (~peers +28 %) |
+
+> **Lecture R.** **Ebara** est le levier le plus *concentré* sur la fab (vide + CMP + abatement) à un
+> multiple raisonnable pour la qualité ; **Atlas Copco** dilue le thème dans un conglomérat industriel mais
+> apporte liquidité + accès européen (Stockholm). Ni l'un ni l'autre n'est une aubaine, mais tous deux
+> complètent VAT/Comet (Poche C) sur le **vide & sous-systèmes**.
+
+### ★ Poche S — Consommables du **packaging avancé** : EMC, die-attach, slurry CMP, **TIM**
+Les v2/v4 ont couvert les *machines* (bonders, découpe, inspection). Manquait la **chimie consommable** qui
+part à chaque wafer/boîtier 2.5D/3D et HBM : **epoxy molding compound (EMC)**, **films de die-attach**,
+**slurry/pads CMP**, et **matériaux d'interface thermique (TIM)** côté refroidissement. Récurrent, à forte
+marge, et indexé sur les *volumes* d'IA (pas seulement le capex).
+
+| Acteur | Ticker | Rôle | PER (≈) | Indice | Lecture / nuance |
+|---|---|---|---:|:---:|---|
+| **Resonac** | 4004.T (Tokyo) | **Leader mondial EMC** + top-3 **slurry CMP** + die-attach ; matériaux AP **+~30 %/an** ; **spin-off pétrochimie (Crasus) 2026** = catalyseur de re-rating | **avant ~11–12×** ; trailing distordu (~15–104× selon source, *restructuration*) | **7** | **Meilleure trouvaille *value* de la v5** : leader des consommables AP/HBM à multiple *avant* bas + catalyseur de scission. ⚠️ trailing optiquement élevé (one-offs) ; cyclicité pétrochimie résiduelle |
+| **Sumitomo Bakelite** | 4203.T (Tokyo) | EMC / résines d'encapsulation | moyen (~13–15×) | **5** | Co-leader EMC, value japonaise discrète ; mix plus large |
+| **Indium Corp.** | (privé) | **TIM** haute perf. (indium, *liquid metal*) pour GPU/HBM | n.d. | n/a | Pure-play TIM mais **non coté** — à connaître, pas investissable en direct |
+| **Henkel** | HEN3.DE (Francfort) | TIM + adhésifs « AI data center » (centre Bengaluru 2026) | **~16–17×** | **5** | Levier TIM **coté en Europe** dilué dans un grand groupe ; value raisonnable |
+| **Honeywell / DuPont / Shin-Etsu** | HON / DD / 4063.T | TIM, *greases*, films | divers (~18–24×) | **3–4** | Exposition TIM réelle mais **diluée** ; pas des pure-plays |
+
+> **Lecture S.** **Resonac** ressort comme le **vrai pari value** de la v5 (leader EMC/CMP, ~11–12× avant,
+> catalyseur scission) ; **Sumitomo Bakelite** et **Henkel** complètent à moindre conviction. Le TIM le plus
+> « pur » (**Indium Corp.**) n'est **pas coté** — utile à la cartographie, pas au portefeuille.
+
+### ★ Poche T — **Céramiques techniques & chucks électrostatiques** (les pièces d'usure de la fab)
+Sous-systèmes Couche 1 que les v1–v4 n'avaient pas isolés : **chucks électrostatiques (ESC)**, **quartz**,
+**feedthroughs**, anneaux et pièces fines en céramique qui tiennent le wafer et s'**usent** (donc à
+récurrence). Marché dominé par le Japon ; NGK Insulators + Shinko ≈ **>35 %** des ESC.
+
+| Acteur | Ticker | Rôle | PER (≈) | Indice | Lecture / nuance |
+|---|---|---|---:|:---:|---|
+| **Ferrotec** | 6890.T (Tokyo) | ESC, quartz, *feedthroughs*, thermo-électrique ; consommables fab | **avant ~14×** ; trailing ~26× | **6** | *Value* la plus marquée de la poche ; large exposition consommables. ⚠️ **forte exposition Chine** (géopolitique) |
+| **NGK Insulators** | 5333.T (Tokyo) | **Co-leader ESC** + **stockage réseau NAS** (batteries sodium-soufre) | **avant ~18,7×** ; trailing ~27× | **6** | **Double levier IA** (chucks *et* stockage réseau, cf. Poche U) à multiple modéré ; qualité sous-suivie |
+| **Kyocera** | 6971.T (Tokyo) | Composants céramiques fab + condensateurs + connectique | **~30×** (trailing) | **4** | Très diversifié (levier IA dilué) ; **+46 % sur 1 an** → moins décoté |
+
+> **Lecture T.** **Ferrotec (~14× avant)** et **NGK Insulators (~18,7× avant, + optionalité stockage
+> réseau)** sont les deux **vraies idées value** de la poche ; **Kyocera** est de qualité mais trop
+> diversifié et déjà couru. Ces noms complètent VAT/Comet/Ebara (Poches C & R) sur les **sous-systèmes
+> consommables** — la partie « lames de rasoir » du WFE.
+
+### ★ Poche U — **Stockage d'énergie** data center (BESS / *ride-through*)
+Complément direct de la Couche 6a : entre le réseau saturé (transfos à 24–36 mois, §1) et les groupes de
+secours, le **BESS** offre *ride-through*, écrêtage de pointe et **accélère la file d'interconnexion** (en
+réduisant l'appel de puissance ferme). Thème naissant, déjà partiellement pricé sur les noms vedettes.
+
+| Acteur | Ticker | Rôle | Valorisation (≈) | Indice | Lecture / **risque** |
+|---|---|---|---:|:---:|---|
+| **Fluence Energy** | FLNC | BESS *grid-scale* ; **MSA avec deux hyperscalers** (mai 2026), prises de commandes ×2 | rebond +78 % à l'annonce ; PT médian ~18,5 $ (9–28 $) | **4** | *Turnaround* + entrée DC réelle ; ⚠️ consensus « Hold », conformité FEOC, exécution |
+| **NGK Insulators** | 5333.T | **Batteries NAS** longue durée (réseau / DC) | cf. Poche T (~18,7× avant) | **6** | **Levier BESS le moins cher**, adossé à une activité ESC rentable → double thèse |
+| **Bloom Energy** | BE | Piles à combustible on-site (≠ BESS pur, mais *firm power* DC) | **~149× BPA**, **~27× ventes**, ~87× *book* | **1** | Croissance réelle (CA ×1,3 a/a) **mais** valorisation **spéculative** ; tout est pricé |
+| **Tesla / Stem / EnerSys** | TSLA / STEM / ENS | Megapack / logiciel BESS / BBU | divers | **2–3** | Leviers indirects ; EnerSys (BBU/réseau) le plus « value » mais exposition DC diluée |
+
+> **Lecture U.** Le levier BESS-IA le **moins cher** n'est pas un pure-play américain (Fluence déjà rebondi,
+> Bloom déjà cher) mais **NGK Insulators** (Poche T) via ses **batteries NAS**, adossées à une base ESC
+> profitable. **Bloom Energy** illustre le travers de 2026 : un excellent récit **entièrement pricé**.
+
+### 10 bis. Tableau v5 trié par indice (nouveaux noms uniquement)
+| Acteur | Ticker | Couche / rôle | PER (≈) | Indice | Accès Euronext ? |
+|---|---|---|---:|:---:|:---:|
+| **Resonac** | 4004.T | Consommables packaging (EMC/CMP/die-attach) | **avant ~11–12×** | **7** | Non (Tokyo) |
+| **Ferrotec** | 6890.T | Chucks ESC / quartz / consommables fab | **avant ~14×** | **6** | Non (Tokyo) |
+| **NGK Insulators** | 5333.T | ESC **+ stockage réseau NAS** (double levier) | **avant ~18,7×** | **6** | Non (Tokyo) |
+| **Core Scientific** | CORZ | Mineur→IA (situation spéciale CoreWeave) | special situation | **5** | Non (Nasdaq) |
+| **TeraWulf** | WULF | Mineur→IA pur (12,8 Md$ backlog) | EV/backlog bas | **5** | Non (Nasdaq) |
+| **Ebara** | 6361.T | Pompes à vide + CMP + abatement | **~26×** (norm.) | **5** | Non (Tokyo) |
+| **Sumitomo Bakelite** | 4203.T | EMC / résines | **~13–15×** | **5** | Non (Tokyo) |
+| **Henkel** | HEN3.DE | TIM + adhésifs DC | **~16–17×** | **5** | **Oui (Francfort)** |
+| **Daikin** | 6367.T | HVAC/chillers DC (unité dédiée 2026) | **~mid-20×** | **5** | Non (Tokyo) |
+| **Cipher Mining** | CIFR | Mineur→IA (9,3 Md$ backlog) | ~ATH | **4** | Non (Nasdaq) |
+| **Applied Digital** | APLD | Hébergement HPC / neocloud | volatil | **4** | Non (Nasdaq) |
+| **ATI Inc.** | ATI | Superalliages énergie/aéro | **~36×** | **4** | Non (NYSE) |
+| **Atlas Copco** | ATCO-A.ST | Vide (Edwards) + compresseurs | **~25,5×** | **4** | Partiel (Stockholm) |
+| **Kyocera** | 6971.T | Céramiques fab (diversifié) | **~30×** | **4** | Non (Tokyo) |
+| **Fluence** | FLNC | BESS grid-scale (MSA hyperscalers) | turnaround | **4** | Non (Nasdaq) |
+| **IREN** | IREN | Mineur→IA leader (Microsoft/Dell) | **~205×**, +657 % | **3** | Non (Nasdaq) |
+| **Hut 8** | HUT | Mineur→IA (ATH) | ~ATH | **3** | Non (Nasdaq) |
+| **Carpenter Tech.** | CRS | Alliages spéciaux énergie/aéro | **~39×** | **3** | Non (NYSE) |
+| **Keysight** | KEYS | Test/validation 800G/1.6T DC | **~40×** | **3** | Non (NYSE) |
+| **Howmet** | HWM | Coulées de précision turbines | **~55×** | **2** | Non (NYSE) |
+| **Bloom Energy** | BE | Firm power on-site (cher) | **~149× BPA** | **1** | Non (NYSE) |
+
+> **Lecture v5.** Le **gisement net** (indice ≥ 6) tient en **trois noms japonais sous-suivis** : **Resonac**
+> (consommables packaging à ~11–12× avant + catalyseur scission), **Ferrotec** (chucks/quartz à ~14× avant)
+> et **NGK Insulators** (ESC + stockage réseau à ~18,7× avant). La poche **mineurs→IA** est la plus
+> *spectaculaire* mais la moins « bon marché » (rôle nouvellement critique, fort bêta) : n'y aller qu'en
+> taille spéculative, et plutôt sur les **pivots purs / situations spéciales** (Core Scientific, TeraWulf)
+> que sur les têtes déjà ×5–×7 (IREN, Hut 8). Les **superalliages** (Howmet/CRS/ATI) sont **critiques mais
+> déjà chers** ; on les retient surtout comme **cartographie** du goulet « derrière » les turbines.
+
+### 10 ter. Mise à jour du lien avec le portefeuille (réalisme Euronext)
+**Constat d'honnêteté :** la v5 est **pauvre en leviers directement exécutables sur Euronext** — l'essentiel
+des trouvailles est à **Tokyo** (Resonac, Ferrotec, NGK, Ebara, Daikin) ou aux **États-Unis** (mineurs→IA,
+superalliages). Pour *ce* compte (~1 017 €, eToro/Euronext), les candidats accessibles restent ceux des v3/v4 :
+
+1. **Veolia (VIE.PA)** et **SPIE (SPIE.PA)** — toujours les **meilleurs leviers value français** (eau & services électriques DC).
+2. **Nexans (NEX.PA)** — *top pick* EU inchangé (câbles réseau/DC).
+3. **Henkel (HEN3.DE)** — *seule nouveauté v5 cotée en zone euro* : levier **TIM / adhésifs DC** à ~16–17×, accessible (Francfort), mais exposition IA **diluée** dans un grand groupe → conviction modérée.
+4. *(Watchlist, accès courtier-dépendant)* **Resonac (4004.T)**, **Ferrotec (6890.T)**, **NGK Insulators (5333.T)** sur tout repli ; **Core Scientific / TeraWulf** en louche **spéculative** uniquement.
+
+> Cohérence inchangée depuis v1 : **acheter la faiblesse, pas la force**, **offre contrainte ≠ surcapacité**,
+> et **taille spéculative** pour les paris à fort bêta (mineurs→IA, BESS *turnaround*). La v5 élargit la
+> *carte* (compute stranded-power, superalliages, vide, consommables packaging, céramiques, BESS) ; elle
+> confirme que le **value « propre »** se loge désormais dans les **consommables japonais sous-suivis**
+> (Resonac/Ferrotec/NGK) et que les couches énergie restent le fil conducteur de toute la thèse.
+
+---
+
 ## Sources
 
 ### v1 (25 mai 2026)
@@ -745,3 +932,35 @@ La v4 ajoute **trois** idées directement exécutables sur un petit compte eToro
 - [Ciena Forward PE Ratio (82.53) — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/CIEN)
 - [Semtech (SMTC) Valuation After OFC 2026 AI / Active Copper Interconnects — Webull](https://www.webull.com/news/14571612518491136)
 - [Siltronic AG (WAF.DE) Valuation Measures — Yahoo Finance](https://finance.yahoo.com/quote/WAF.DE/key-statistics/)
+
+### v5 (28 mai 2026 — six poches inédites)
+- [Bitcoin miners pivot to AI and HPC as cryptocurrency market slumps — S&P Global Market Intelligence](https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/02/bitcoin-miners-pivot-to-ai-and-hpc-as-cryptocurrency-market-slumps)
+- [Bitcoin Miners Pivot to AI Data Centers: The 2026 Shift — Intellectia](https://intellectia.ai/blog/bitcoin-miners-ai-pivot-2026)
+- [Bitcoin miners are becoming AI companies and selling BTC to fund the transition — CoinDesk](https://www.coindesk.com/markets/2026/03/27/bitcoin-miners-are-becoming-ai-companies-and-selling-their-btc-to-fund-the-transition)
+- [Miners Beat Bitcoin by 70% in 2026 as TeraWulf Locks $12.8B in AI Contracts — Bitcoin.com](https://news.bitcoin.com/miners-beat-bitcoin-by-70-in-2026-as-terawulf-locks-12-8b-in-ai-contracts/)
+- [From Bitcoin To AI: How IREN and Cipher Are Hosting Nvidia-Powered AI Workloads — Benzinga](https://www.benzinga.com/markets/tech/25/10/48082517/from-bitcoin-to-ai-how-iren-and-cipher-are-hosting-nvidia-powered-ai-workloads)
+- [Bitcoin miner-to-AI boom sends stocks soaring as Cipher and Hut 8 hit fresh highs — The Block](https://www.theblock.co/post/402773/bitcoin-miner-ai-boom-stocks-soaring-cipher-hut-8-fresh-highs)
+- [Core Scientific Q1 FY2026 earnings (Pecos conversion, CoreWeave) — SEC 8-K](https://www.sec.gov/Archives/edgar/data/0001839341/000162828026031246/q12026corescientificinc-ea.htm)
+- [IREN (NASDAQ:IREN) Stock Analysis — Simply Wall St](https://simplywall.st/stocks/us/software/nasdaq-iren/iren)
+- [Surging Gas Turbine Demand Fueled by Data Center, AI Growth — Turbomachinery Magazine](https://www.turbomachinerymag.com/view/surging-gas-turbine-demand-fueled-by-data-center-ai-growth)
+- [Global Superalloys Market Trends 2036 (Carpenter, Haynes, ATI) — WFMZ](https://www.wfmz.com/online_features/press_releases/global-superalloys-market-trends-2036-carpenter-technology-corporation-haynes-international-driving-aerospace-demand/article_cd95c409-8bb9-57bb-8f6a-5c75fde8265e.html)
+- [Howmet Aerospace (HWM) Statistics & Valuation — stockanalysis.com](https://stockanalysis.com/stocks/hwm/statistics/)
+- [ATI Forward PE Ratio (36.02) — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/ATI)
+- [Carpenter Technology (CRS) Statistics & Valuation — stockanalysis.com](https://stockanalysis.com/stocks/crs/statistics/)
+- [Ebara Corp (6361) CMP / dry vacuum pumps / abatement — Ebara](https://www.ebara.com/global-en/precision/)
+- [Ebara (TSE:6361) price target lifted to ¥3,944 — Simply Wall St](https://simplywall.st/stocks/jp/capital-goods/tse-6361/ebara-shares/news/earnings-update-heres-why-analysts-just-lifted-their-ebara-c)
+- [Atlas Copco AB (ATCO A) Forward PE Ratio (25.54) — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/OSTO:ATCO%20A)
+- [Resonac advanced packaging materials (EMC, die-attach, CMP slurry) — Resonac](https://www.resonac.com/products/semi-backend-process/76)
+- [Resonac Holdings (TYO:4004) Statistics & Valuation — stockanalysis.com](https://stockanalysis.com/quote/tyo/4004/statistics/)
+- [Semiconductor TIM Market Led by Honeywell, DuPont, Indium, Shin-Etsu, Henkel — openPR](https://www.openpr.com/news/4122101/semiconductor-thermal-interface-materials-market-to-grow)
+- [Material solutions for AI data center (TIM) — Henkel Adhesives](https://next.henkel-adhesives.com/us/en/brochures/material-solutions-for-ai-data-center.html)
+- [Electrostatic Chucks: NGK Insulators + Shinko >35% share — IntelMarketResearch](https://www.intelmarketresearch.com/electrostatic-chuck-for-semiconductor-process-market-35590)
+- [NGK Insulators (TYO:5333) Statistics & Valuation (fwd PE 18.71) — stockanalysis.com](https://stockanalysis.com/quote/tyo/5333/statistics/)
+- [Ferrotec (TYO:6890) Statistics & Valuation (fwd PE 14.18) — stockanalysis.com](https://stockanalysis.com/quote/tyo/6890/statistics/)
+- [Kyocera (TSE:6971) Valuation after 46% rally — Yahoo Finance / Simply Wall St](https://finance.yahoo.com/news/too-consider-kyocera-tse-6971-081316520.html)
+- [Fluence signs master supply agreements with two hyperscalers — Utility Dive](https://www.utilitydive.com/news/fluence-energy-signs-master-supply-agreements-with-two-major-hyperscalers/820016/)
+- [Fluence doubles order intake, expects first big data centre deal — Energy-Storage.News](https://www.energy-storage.news/fluence-doubles-order-intake-expects-to-book-first-big-data-centre-deal-this-quarter/)
+- [Fluence Energy (FLNC) Stock Forecast & Price Target — MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/FLNC/forecast/)
+- [Bloom Energy: valuation up 1,400%, 149x EPS / 27x sales / 87x book — TIKR / Seeking Alpha](https://www.tikr.com/blog/bloom-energy-stock-is-up-over-1400-in-one-year-heres-what-the-valuation-says-now)
+- [Keysight: The AI Infrastructure Winner Most Investors Miss (fwd PE 40.4x) — Seeking Alpha](https://seekingalpha.com/article/4902206-keysight-technologiesthe-ai-infrastructure-winner-most-investors-miss)
+- [Daikin Applied Powering Data Centers for AI Era (modular plants) — ACHR News](https://www.achrnews.com/articles/165431-daikin-applied-powering-data-centers-for-ai-era)
