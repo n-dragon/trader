@@ -5,8 +5,8 @@
 > marché** alors qu'ils jouent — ou vont jouer — un rôle critique. Document de travail destiné à
 > alimenter les décisions du journal de trading (`positions.md`, `etoro_trades.md`).
 >
-> **Date :** 28 mai 2026 — **édition v5** (six poches inédites : voir §10). v4 (sept poches) : 27 mai.
-> v3 (valorisée) : 26 mai. v2 (approfondie) : 26 mai. v1 : 25 mai 2026.
+> **Date :** 29 mai 2026 — **édition v6** (huit poches inédites — « la pile profonde » : voir §11).
+> v5 (six poches) : 28 mai. v4 (sept poches) : 27 mai. v3 (valorisée) : 26 mai. v2 (approfondie) : 26 mai. v1 : 25 mai 2026.
 > **Auteur :** analyse « picks-and-shovels » de l'écosystème IA.
 >
 > **Nouveauté v3.** Ajout d'une **couche quantitative** : pour chaque acteur, un **multiple de valorisation
@@ -39,6 +39,22 @@
 > ride-through)* (Fluence, Bloom Energy — déjà cher, NGK NAS). Le vrai gisement *value* de la v5 sort sur
 > **Resonac, Ferrotec et NGK Insulators** ; la poche mineurs-IA est un pari **fort levier / fort risque**
 > (rôle « nouvellement critique » plus que multiple bas) ; superalliages = critiques **mais déjà chers**.
+>
+> **Nouveauté v6 (29 mai).** Huit **poches encore jamais ouvertes** (§11) — on **descend d'un cran sous les
+> couches déjà cartographiées**, vers la « pile profonde » : **(V)** les *blanks* de masques EUV, pellicules
+> & sources lumineuses (duopole **Hoya/AGC ~93 %** *en amont d'ASML*) ; **(W)** les *cibles de pulvérisation
+> & métaux électroniques* (**JX Advanced Metals ~60 %**, consommées à chaque wafer) ; **(X)** la *plomberie
+> électrique du bâtiment DC* (conduit/chemins de câbles/busways : Atkore, nVent, Belden, + substrats
+> céramiques de puissance Rogers) ; **(Y)** la *connectique fluidique du liquid cooling* (**Dover via CPC**,
+> Parker, Donaldson, Stäubli privé) ; **(Z)** les *épiwafers composés & substrats III-V* sous l'optique (AXT,
+> IQE, Sumitomo Electric) ; **(AA)** les *horloges & timing de précision* (SiTime, Microchip) ; **(BB)** la
+> *fibre longue distance / DCI* inter-campus (**Lumen** *special situation*, Nokia, Cogent, Zayo privé) ;
+> **(CC)** la *robotique de manutention de wafers & l'automation fab* (Rorze, Daihen, Yaskawa, Azenta). Le
+> vrai gisement *value* de la v6 sort sur **JX Advanced Metals** (cibles PVD sous-suivies), **Dover** (raccords
+> liquid cooling les moins chers via CPC), **Microchip** (timing, reprise cyclique), **Lumen** (fibre DCI
+> désendettée) et **Rorze** (robots wafers) ; le reste de la pile profonde **a déjà été revalorisé** (Hoya,
+> SiTime, Nokia, Parker, nVent, Materion) ou est un *value trap* (AXT). **Honnêteté : aucune idée v6 n'est
+> cotée à Paris/Amsterdam** — la v6 enrichit surtout la *carte* et la watchlist courtier-dépendante.
 >
 > **Avertissement d'honnêteté intellectuelle.** En mai 2026, l'ensemble du complexe « infra IA »
 > s'est **déjà fortement revalorisé** (Nvidia ~47× les bénéfices futurs ; en Europe : STMicro a plus
@@ -114,6 +130,9 @@ Cette révision **approfondit** la v1 sans renier ses conclusions. Les ajouts ma
 | Substrats spéciaux (SOI, photonique) | **Soitec (SOI.PA)** |
 | Photorésines & chimie | JSR, Tokyo Ohka, Shin-Etsu, **Entegris (ENTG)**, DuPont, Merck KGaA |
 | CMP / filtration / matériaux process | Entegris, Cabot Microelectronics |
+| ★ **Blanks de masques EUV & pellicules** (v6) | **Hoya (7741.T) >75 % blanks**, **AGC (5201.T) ~59 %**, Mitsui Chemicals (pellicules), S&S Tech |
+| ★ **Cibles de pulvérisation (PVD) & métaux électroniques** (v6) | **JX Advanced Metals (5016.T) ~60 %**, Materion (MTRN), Honeywell |
+| ★ **Substrats composés III-V (InP/GaAs) & épiwafers** (v6) | **AXT (AXTI)** (InP), Sumitomo Electric (5802.T), **IQE (IQE.L)** (épiwafers) |
 | ★ Verre & fibre optique (DC interconnect) | **Corning (GLW)** (accord Meta jusqu'à 6 Md$, fibre multicœur, CPO), Sumitomo Electric, Fujikura |
 | ★ Fluides de refroidissement (diélectriques) | Chemours (Opteon), Solvay/Syensqo, Honeywell, 3M (sortie en cours) |
 | Cuivre (câbles, busbars, bobinages) | Freeport-McMoRan (FCX) et miniers cuivre |
@@ -136,6 +155,8 @@ Cette révision **approfondit** la v1 sans renier ses conclusions. Les ajouts ma
 | Alimentation RF / plasma | **Comet (COTN.SW)**, Advanced Energy (AEIS), MKS Instruments (MKSI) |
 | Sous-systèmes / sous-traitance outils | Ultra Clean Holdings (UCTT), MKS |
 | **Test de puces (SoC + HBM)** | **Advantest (6857.T) — quasi-monopole test HBM/AI**, Teradyne (TER) |
+| ★ **Sources lumineuses litho (EUV/DUV)** (v6) | Cymer (capté par ASML), Gigaphoton (Komatsu 6301.T), **Ushio (6925.T)** |
+| ★ **Robotique de manutention wafers / EFEM** (v6) | **Rorze (6323.T)**, Daihen (6622.T), Yaskawa (6506.T), Brooks/Azenta (AZTA) |
 
 ### Couche 2 — Conception & propriété intellectuelle
 | Sous-segment | Acteurs clés |
@@ -165,6 +186,7 @@ Cette révision **approfondit** la v1 sans renier ses conclusions. Les ajouts ma
 | DRAM / NAND classiques | Mêmes + Kioxia |
 | Stockage (HDD/SSD haute capacité) | Western Digital (WDC), Seagate (STX), Kioxia |
 | ★ **Gestion de puissance / VRM (sur le die / le rack)** | **Monolithic Power (MPWR) ~70 % des sockets VRM gén. Rubin**, **Infineon (IFX.DE)**, **Vicor (VICR)**, Renesas, TI, ADI |
+| ★ **Horloges / timing de précision (serveurs & switchs IA)** (v6) | **SiTime (SITM)** (oscillateurs MEMS), **Microchip (MCHP)**, Renesas, TI |
 
 ### Couche 5 — Réseau & interconnexion (le « tissu » du cluster)
 | Sous-segment | Acteurs clés |
@@ -176,6 +198,7 @@ Cette révision **approfondit** la v1 sans renier ses conclusions. Les ajouts ma
 | Fabrication optique sous contrat | **Fabrinet (FN)** |
 | Photonique sur silicium / substrats | Nvidia+TSMC, GlobalFoundries, **Soitec (SOI.PA)** (substrats), Ayar Labs (privé) |
 | Connecteurs & câblage cuivre haute densité | **Amphenol (APH)**, **TE Connectivity (TEL)**, Molex |
+| ★ **Fibre longue distance / DCI (interconnexion inter-campus)** (v6) | **Lumen (LUMN)** (« Private Connectivity Fabric »), **Zayo** (privé), **Nokia/ASN (NOK)** (sous-marin), Cogent (CCOI), Uniti |
 
 ### Couche 6 — Infrastructure physique du data center
 **6a. Énergie (production → réseau → distribution dans la salle)**
@@ -189,6 +212,8 @@ Cette révision **approfondit** la v1 sans renier ses conclusions. Les ajouts ma
 | Câbles électriques & grid (HT/MT) | **Prysmian (PRY.MI)**, **Nexans (NEX.PA)** |
 | Appareillage / switchgear | ABB, Eaton, **Schneider (SU.PA)**, **Powell Industries (POWL)**, Hubbell (HUBB) |
 | Onduleurs (UPS) / PDU / busways | **Vertiv (VRT)**, **Schneider (SU.PA / APC)**, Eaton, Legrand (LR.PA) |
+| ★ **Conduit / chemins de câbles / busways (balance-of-plant élec.)** (v6) | **Atkore (ATKR)**, **nVent (NVT)**, **Belden (BDC)**, Legrand, Hubbell |
+| ★ **Substrats céramiques modules de puissance (DBC/AMB)** (v6) | **Rogers (ROG)** (curamik), Kyocera, Ferrotec (6890.T), Heraeus (privé) |
 | Alimentations serveur / power shelf | ★ **Delta Electronics (2308.TW) ~60 % du marché**, Lite-On (2301.TW), Vertiv |
 | Groupes électrogènes / backup | Cummins (CMI), Caterpillar (CAT), Generac (GNRC), Rolls-Royce (mtu) |
 
@@ -206,6 +231,7 @@ Cette révision **approfondit** la v1 sans renier ses conclusions. Les ajouts ma
 | Refroidissement air/liquide DC | **Munters (MTRS.ST)**, **nVent (NVT)** (CDU 5× pour GB200/GB300), Modine (MOD), SPX Technologies (SPXC), Stulz, Rittal |
 | CVC / thermique de grand bâtiment | Johnson Controls (JCI), Trane (TT), Carrier (CARR) |
 | Direct-to-chip / immersion / cold plates | ★ **Boyd (racheté par Eaton, 9,5 Md$, mars 2026)**, **CoolIT (repris par Ecolab/ECL)**, Asetek, Chilldyne, Schneider (Motivair) |
+| ★ **Raccords rapides / manifolds / connectique fluidique** (v6) | **CPC/Colder (Dover, DOV)**, **Stäubli** (privé, *Nvidia-approved*), **Parker Hannifin (PH)**, filtration **Donaldson (DCI)** |
 
 **6c. Bâtiment, foncier & construction**
 | Sous-segment | Acteurs clés |
@@ -844,6 +870,215 @@ superalliages). Pour *ce* compte (~1 017 €, eToro/Euronext), les candidats acc
 
 ---
 
+## 11. ★★★★ Édition v6 (29 mai 2026) — huit poches inédites (« la pile profonde »)
+
+> Même méthode et même discipline que v1–v5 (PER avant / repère + indice 0–10 ; « acheter la faiblesse,
+> pas la force » ; « offre contrainte ≠ surcapacité »). La v6 ne révise aucune conclusion antérieure : elle
+> **descend d'un cran sous les couches déjà cartographiées** pour atteindre les composants les plus
+> « profonds » et les moins médiatisés de la pile — *blanks* de masques EUV, cibles de pulvérisation,
+> connectique fluidique du liquid cooling, substrats III-V *sous* l'optique, horloges de précision, fibre
+> longue distance, robotique de manutention de wafers — là où subsistent encore quelques anomalies de
+> valorisation. **Le fil rouge de la v6 :** une grande partie de cette pile profonde **a déjà été revalorisée**
+> (le « pas cher » se raréfie), et les rares aubaines sont **hors zone euro**. ⚠️ Multiples = instantanés
+> d'agrégateurs publics (~mi/fin-mai 2026), arrondis et **volatils** ; l'indice est un jugement d'analyse,
+> pas une recommandation (un indice élevé peut s'accompagner d'un risque élevé, signalé).
+
+### 11.0 — Rattachement à la cartographie (§2)
+| Poche v6 | Couche de la pile (§2) | Nature du goulet / composant ajouté |
+|---|---|---|
+| **V** — *Blanks* de masques EUV, pellicules & sources | Couche 0 (matériaux) + Couche 1 (litho) | La **matière et la lumière *en amont d'ASML*** — duopole quasi invisible Hoya/AGC |
+| **W** — Cibles de pulvérisation & métaux électroniques | Couche 0 (matériaux) | **Consommable de *chaque* étape de dépôt PVD** — quasi-monopole JX |
+| **X** — Conduit, chemins de câbles, busways (+ substrats de puissance) | Couche 6 (infra physique) | La **« plomberie » électrique** du bâtiment DC |
+| **Y** — Connectique fluidique & filtration (liquid cooling) | Couche 6b (refroidissement) | **Raccords rapides / manifolds** des boucles direct-to-chip |
+| **Z** — Épiwafers composés & substrats III-V | Couche 0 (matériaux) | Le **matériau *sous* les lasers/EML** de l'optique (Couche 5) |
+| **AA** — Horloges & timing de précision | Couche 4/5 (composants/réseau) | Le **« battement »** de chaque serveur/switch IA |
+| **BB** — Fibre longue distance / DCI | Couche 5 (réseau) | Les **« veines » inter-campus** (situations spéciales) |
+| **CC** — Robotique de manutention wafers & automation fab | Couche 1 (WFE) | **Dérivée directe du capex WFE** (EFEM, robots de transfert) |
+
+### ★ Poche V — *Blanks* de masques EUV, pellicules & sources lumineuses (les consommables de la litho)
+ASML (Couche 1) capte l'attention, mais **avant** que la lumière EUV n'expose un masque, il faut un *blank*
+de masque (substrat quartz + multicouches réfléchissantes) et une pellicule de protection. Le marché des
+*blanks* EUV est un **quasi-duopole Hoya/AGC (~93 % combiné)**, totalement sous le radar « IA ». Couche 0 +
+Couche 1, en amont direct du monopole litho.
+
+| Acteur | Ticker | Rôle (criticité) | PER (≈) | Indice | Lecture / nuance |
+|---|---|---|---:|:---:|---|
+| **Hoya** | 7741.T (Tokyo) | **>75 % des *blanks* de masques EUV** (substrat quartz + multicouches) — indispensable < 7 nm / High-NA ; aussi substrats HDD | **avant ~35×** ; EV/EBITDA ~23× | **4** | Quasi-monopole réel ; Morningstar (fév. 26) note une *visibilité demande blanks EUV jusqu'en 2027, tirée par l'IA*. **Mais pleinement pricé** — qualité, pas valeur. |
+| **AGC** | 5201.T (Tokyo) | ~59 % des *blanks* EUV — **noyé dans un conglomérat** verre/chimie/santé | **avant ~14,5×** ; PEG ~0,96 | **5** | Statistiquement **le moins cher** de la poche, mais l'EUV n'est qu'une fine tranche → décote de **conglomérat cyclique** plus que pur play IA. |
+| **Mitsui Chemicals** | 4183.T (Tokyo) | **Pellicules EUV** (~70-80 % d'un petit marché ~200 M$) ; pellicules CNT haute puissance (avec imec) | ~28× (TTM) ; rdt ~3,7 % | **4** | Optionalité pellicule réelle mais pas encore *earnings-moving* ; cyclique chimie → **attendre**. |
+| **Ushio** | 6925.T (Tokyo) | Sources/lampes UV & litho (aux côtés de Cymer/Gigaphoton) | **avant ~16,6×** | **4** | Multiple raisonnable mais exposition IA/litho **partielle** → juste prix. |
+| **Gigaphoton** | (Komatsu 6301.T) | Sources DUV (leader excimer) / EUV *also-ran* derrière ASML-Cymer | proxy | n/a | **Cartographie uniquement** : non coté séparément ; Komatsu = proxy dilué. |
+
+> **Lecture V.** Poche **critique mais déjà chère sur le seul vrai pure-play (Hoya, ~35×)**. Le couple
+> décote × criticité « le moins mauvais » est **AGC (~14,5×)** — à condition d'accepter la dilution
+> conglomérat. L'apport principal est **cartographique** : les *blanks* EUV sont un **duopole en amont
+> d'ASML** que les v1–v5 n'avaient pas isolé. Peu d'aubaine nette.
+
+### ★ Poche W — Cibles de pulvérisation & métaux électroniques (le consommable de *chaque* dépôt)
+À chaque étape de dépôt **PVD** (métallisation, barrières), une **cible de pulvérisation** est consommée :
+c'est une « lame de rasoir » récurrente, indexée sur les *volumes* de wafers IA. Marché très concentré.
+
+| Acteur | Ticker | Rôle (criticité) | PER (≈) | Indice | Lecture / nuance |
+|---|---|---|---:|:---:|---|
+| **JX Advanced Metals** | 5016.T (Tokyo) | **~60 % des cibles de pulvérisation** mondiales + feuille Ti-Cu pour connecteurs serveurs IA ; participation Rapidus (~5 Md¥) ; capacité ×1,6 vs FY23 | **avant ~24×** (vs métaux JP ~15×) | **6** | **La trouvaille la plus « propre » de la v6** : monopole de fait, levier IA **direct**, et **encore sous-suivi** (IPO mars 2025). Prime justifiée par la part de marché ; ⚠️ flottant post-IPO réduit, accès Tokyo. |
+| **Materion** | MTRN (NYSE) | Matériaux avancés/électroniques (béryllium, alliages, cibles) | **~45×** (TTM) | **3** | Dynamique forte (CA T1-26 +31 %, marge EM record 27,1 %) **mais** richement valorisé vs pairs ~24×. |
+
+> **Lecture W.** **JX Advanced Metals** est le **seul vrai gisement value sous-couvert de la v6** dans les
+> matériaux : un quasi-monopole des cibles PVD (consommées à chaque wafer) qui n'a pas encore le multiple
+> « narratif IA » de ses pairs WFE. **Materion** est de qualité mais déjà cher.
+
+### ★ Poche X — Conduit, chemins de câbles & busways : la « plomberie » électrique du bâtiment DC
+Au-delà des transfos/switchgear (v2) et des UPS/PDU (v1), un data center engloutit des kilomètres de
+**conduit, chemins de câbles, busways** et de **substrats céramiques** pour modules de puissance. Couche 6.
+
+| Acteur | Ticker | Rôle | PER (≈) | Indice | Lecture / nuance |
+|---|---|---|---:|:---:|---|
+| **Atkore** | ATKR (NYSE) | Conduit électrique, chemins de câbles, *framing* métallique | **avant ~15,9×** (vs médiane 5 ans ~7,5×) | **4** | ⚠️ **Le « pas cher » est trompeur** : le BPA *baisse* (FY26 EPS ~-10 %, T1-26 0,83 $ vs 1,63 $ a/a) → le multiple s'est *dilaté* sur des bénéfices en chute. Pari **re-rating cyclique**, pas value propre. |
+| **nVent Electric** | NVT (NYSE) | Enclos, busbar, distribution, **CDU/liquid cooling** ; partenaire Nvidia (>1 GW déployé) | **avant ~27-34×** | **3** | **Meilleure exposition DC** du groupe **mais** ~41 % au-dessus des pairs → déjà pricé. |
+| **Belden** | BDC (NYSE) | Connectique cuivre/fibre DC (segment Smart Infra) ; partenariat OptiCool ; rachat RUCKUS (~1,85 Md$) | **avant ~19-23×** | **4** | À peu près *in-line* (~20× pairs) → **raisonnable**, sans être une aubaine. Le moins cher *ajusté qualité* de la poche. |
+| **AMETEK** | AME (NYSE) | Instruments de précision + thermique | **avant ~27×** | **3** | Prime de *compounder* ; lien DC **ténu**. |
+| **Rogers** | ROG (NYSE) | **Substrats céramiques (curamik DBC/AMB)** des modules SiC/GaN (racks 800 VDC) | **avant ~40-45×** (BPA déprimé) | **3** | Optionalité 800 VDC/EV réelle **mais** pari de **redressement de marge**, pas statistiquement bon marché (trailing ~75×). |
+
+> **Lecture X.** La poche « ennuyeuse » de l'électricité de bâtiment est **moins une aubaine qu'espéré** :
+> **Atkore** (le candidat « ~10-12× ») se révèle un **cyclique dont le multiple a *gonflé* sur des bénéfices
+> en baisse** — pas la value qu'annonçait sa réputation. Le moins cher *ajusté de la qualité* est **Belden**
+> (~20×, in-line) ; **nVent** a la meilleure histoire DC mais le prix qui va avec. **Rogers** complète la
+> cartographie 800 VDC (substrats de puissance), mais cher.
+
+### ★ Poche Y — Connectique fluidique & filtration du liquid cooling (raccords rapides / manifolds)
+Le basculement vers le direct-to-chip (Blackwell ~120 kW, Rubin au-delà) fait exploser la demande de
+**raccords rapides (UQD), manifolds, flexibles et filtration** des boucles de refroidissement. Couche 6b,
+en complément de Vertiv/nVent/Boyd/CoolIT déjà couverts (machines), ici la **connectique fluidique**.
+
+| Acteur | Ticker | Rôle | PER (≈) | Indice | Lecture / nuance |
+|---|---|---|---:|:---:|---|
+| **Dover** | DOV (NYSE) | Possède **CPC (Colder Products)** — leader des **raccords rapides (UQD)** du liquid cooling — + échangeurs **SWEP** | **avant ~20,2×** | **6** | **Le levier liquid-cooling le plus sous-apprécié** : guidance **>1 Md$ de CA FY26 IA + power-gen**, *bookings* T1-26 +24 % ; **~5 tours moins cher** que Parker pour un meilleur mix DC. **Le proxy coté le plus proche de Stäubli.** |
+| **Parker Hannifin** | PH (NYSE) | Raccords rapides/manifolds (divisions Quick Coupling & HP Connectors) | **avant ~25,8×** | **4** | Qualité ; guidance FY26 relevée sur la demande *AI cooling* **mais** dilué (aéro/industriel dominent) et cher (« significantly overvalued » selon GuruFocus). |
+| **Donaldson** | DCI (NYSE) | **Filtration des boucles** de refroidissement liquide (skids modulaires) | **avant ~27,8×** | **3** | Angle DC réel mais **émergent/petit** ; pleinement pricé. |
+| **Stäubli** | (privé, CH) | Raccords UQD/UQDB — **liste de fournisseurs recommandés Nvidia** | n/a | n/a | **Cartographie uniquement** : franchise de référence, **non cotée** (familiale, ~1,4 Md CHF). |
+
+> **Lecture Y.** **Dover** ressort comme **un des deux vrais paris value de la v6** : via **CPC**, c'est le
+> proxy coté le plus pur de la connectique fluidique (le « Stäubli investissable »), à ~20× — **moins cher**
+> que Parker (~26×) et Donaldson (~28×) — avec un marqueur explicite **>1 Md$ de CA infra-IA**. Le pure-play
+> idéal (Stäubli) reste privé.
+
+### ★ Poche Z — Épiwafers composés & substrats III-V (le matériau *sous* l'optique)
+Les transceivers 800G/1,6T (Couche 5, déjà couverte : Coherent/Lumentum…) reposent sur des lasers/EML dont
+le **substrat InP** et l'**épitaxie III-V** sont fabriqués par une poignée d'acteurs. Couche 0, en amont de
+l'optique. **Conclusion clé : belle carte, mauvaise affaire en mai 2026.**
+
+| Acteur | Ticker | Rôle (criticité) | Valorisation (≈) | Indice | Lecture / **risque** |
+|---|---|---|---:|:---:|---|
+| **AXT** | AXTI (Nasdaq) | **Substrat InP** (~30-35 % du marché marchand occidental) — obligatoire pour lasers/EML 800G/1,6T ; capacité ×2 en 2026-27 | n.s. (BPA ~0) ; **GF Value ~2,4 $ ≪ cours** | **3** | Thèse de goulet crédible **mais** valorisation **détachée** après un parcours extrême, **risque export Chine aigu** (commandes de déc. non livrables) → *value trap* sur le multiple, pas deep value. |
+| **IQE** | IQE.L (Londres/AIM) | Fonderie d'**épiwafers** (InP/GaAs/GaN) pour VCSEL/lasers/photonique | cap ~£450-470 M ; déficitaire ; EV/ventes ~4-5× | **4** | Bilan **assaini** (levée £81 M + entrée stratégique **MACOM** & contrat d'approvisionnement), guidance **>20 % de croissance 2026** sur la demande InP IA/datacenter/défense. **Turnaround spéculatif**, pas marge de sécurité. |
+| **Sumitomo Electric** | 5802.T (Tokyo) | Substrats InP + EML + fibre optique | **avant ~30×** | **3** | Techno réelle **mais** conglomérat dilué (autos/câbles/énergie), >80 % au-dessus de sa médiane 10 ans. |
+
+> **Lecture Z.** Le « matériau sous l'optique » est une **belle carte mais une mauvaise affaire** fin mai
+> 2026 : **AXT** est la franchise la plus pure mais au pire prix d'entrée (+ risque Chine) ; **IQE** est le
+> plus *battu* mais reste une **spéculation de redressement** déficitaire. **Aucun n'est une deep value
+> crédible *maintenant*** — à surveiller sur capitulation / preuve d'exécution.
+
+### ★ Poche AA — Horloges & timing de précision (le « battement » de chaque serveur/switch IA)
+Chaque carte, switch et lien optique IA a besoin d'un *timing* de plus en plus précis (jitter, synchro
+PTP). Niche peu suivie côté narratif IA. Couche 4/5.
+
+| Acteur | Ticker | Rôle (criticité) | PER (≈) | Indice | Lecture / nuance |
+|---|---|---|---:|:---:|---|
+| **Microchip** | MCHP (Nasdaq) | Horloges/timing (fabs Alabama) + microcontrôleurs ; **reprise cyclique** | **avant ~22×** (FY27) | **5** | **Le seul vrai angle *value* de la poche** : ~22× *avant* sur reprise cyclique (T4 CA +35 % a/a) ; exposition timing-IA **modeste mais réelle**. |
+| **SiTime** | SITM (Nasdaq) | **Oscillateurs MEMS de précision** ; segment datacenter/IA (CED) **+100 % YoY** sur 6 trimestres | **avant ~103×** ; trailing ~257× | **2** | Meilleure **dynamique fondamentale** (deal timing Renesas ~+300 M$) **mais** *priced for perfection*. |
+
+> **Lecture AA.** Le pure-play (**SiTime**) est superbe mais **entièrement pricé** (~103× avant). L'angle
+> *value* contrarian est **Microchip** (~22× avant, reprise cyclique) — exposition timing-IA diluée mais
+> multiple raisonnable et bilan en redressement.
+
+### ★ Poche BB — Fibre longue distance / DCI (les « veines » inter-campus — situations spéciales)
+Relier des campus IA distants exige des **quantités massives de fibre intercité** (un goulet de capacité).
+Couche 5, complément de l'optique intra-cluster déjà couverte. **Le pure-play idéal (Zayo) est privé.**
+
+| Acteur | Ticker | Rôle (criticité) | Valorisation (≈) | Indice | Lecture / **risque** |
+|---|---|---|---:|:---:|---|
+| **Lumen** | LUMN (NYSE) | Réseau fibre longue distance ; **« Private Connectivity Fabric » (PCF)** pour hyperscalers | EV ~22,8 Md$ ; **EV/EBITDA ~14,6×** ; levier <4× ; FCF ~1 Md$ | **5** | **Situation spéciale crédible** : carnet PCF **~13 Md$** (Microsoft/AWS/Meta), désendettement (cession AT&T mass-markets 5,75 Md$ → dette -4,8 Md$, intérêts -45 %). ⚠️ Pari de **conversion de carnet + désendettement**, pas de multiple ; exécution/refinancement risqués. |
+| **Nokia** | NOK (NYSE/Helsinki) | Optique cohérente **1,6T** + **Alcatel Submarine Networks** (câbles sous-marins) | **avant ~38×** | **2** | Histoire DCI/IA réelle (pluggables 1,6T, GA H2-2027) **mais** ~38× ≫ médiane matériel ~25× → pricé pour le supercycle. |
+| **Cogent** | CCOI (Nasdaq) | Backbone IP + *wavelengths* ; **rdt ~10,7 %** | EV/EBITDA ~19,8× | **2** | Cœur de métier en **déclin** → *yield trap*, pas value. |
+| **Zayo** | (privé, EQT/DigitalBridge) | **Meilleure exposition pure « AI long-haul »** (+5 000 miles, ~4 Md$) | n/a | n/a | **Cartographie uniquement** : pure-play idéal **non coté** ; lecture indirecte via Lumen/EQT. |
+
+> **Lecture BB.** Le proxy coté le plus crédible est **Lumen** — *special situation* désendettée dont le
+> carnet PCF (~13 Md$) donne une **option equity** réelle, mais une **exécution/refinancement encore
+> risquée** (spéculatif-à-spécial, pas value « propre »). **Nokia** et **Cogent** sont chers / pièges.
+
+### ★ Poche CC — Robotique de manutention de wafers & automation fab (dérivée du capex WFE)
+Toute nouvelle ligne de fab ou de packaging avancé achète des **robots de transfert de wafers / EFEM** —
+une dérivée directe du capex WFE (ASML/AMAT/LRCX…). Couche 1, sous-systèmes.
+
+| Acteur | Ticker | Rôle (criticité) | PER (≈) | Indice | Lecture / nuance |
+|---|---|---|---:|:---:|---|
+| **Rorze** | 6323.T (Tokyo) | **Robots de transfert de wafers / EFEM** (top-5 ~80 % avec Brooks, Daihen, Hirata, Yaskawa) | **avant ~23,6×** ; trailing ~34× | **5** | **Le meilleur *value* pure-play** de la robotique fab : multiple le plus bas du trio japonais pour le levier WFE/IA **le plus direct**. |
+| **Daihen** | 6622.T (Tokyo) | Robots de transfert wafers + équipement de soudage | **~25×** | **4** | Quasi-pure-play proche de Rorze, **un peu plus cher** (vs médiane élec. JP ~17×). |
+| **Yaskawa** | 6506.T (Tokyo) | Robots/servo (fabs + industriel large) | **avant ~35×** | **3** | Exposition semi **diluée** (robots industriels dominent) et le plus cher du trio. |
+| **Azenta** | AZTA (Nasdaq) | Automation semi + gestion d'échantillons | EV/EBITDA ~7,7× | **3** | Statistiquement le moins cher **mais** pivot *life-sciences* → lien semi désormais **ténu** : *cheap-for-a-reason*. |
+
+> **Lecture CC.** Le meilleur couple value × pureté est **Rorze (~23,6×, EFEM)** ; **Daihen** est proche
+> mais plus cher ; **Yaskawa** est dilué ; **Azenta** est « pas cher pour de mauvaises raisons » (devenu
+> life-sciences).
+
+### 11 bis. Tableau v6 trié par indice (nouveaux noms uniquement)
+| Acteur | Ticker | Couche / rôle | PER (≈) | Indice | Accès Euronext ? |
+|---|---|---|---:|:---:|:---:|
+| **JX Advanced Metals** | 5016.T | Cibles de pulvérisation (~60 %) | **avant ~24×** | **6** | Non (Tokyo) |
+| **Dover** | DOV | Raccords liquid cooling (CPC) + SWEP | **avant ~20×** | **6** | Non (NYSE) |
+| **AGC** | 5201.T | *Blanks* EUV (~59 %, conglomérat) | **avant ~14,5×** | **5** | Non (Tokyo) |
+| **Microchip** | MCHP | Timing/clocks (reprise cyclique) | **avant ~22×** | **5** | Non (Nasdaq) |
+| **Lumen** | LUMN | Fibre DCI (situation spéciale) | EV/EBITDA ~14,6× | **5** | Non (NYSE) |
+| **Rorze** | 6323.T | Robots transfert wafers / EFEM | **avant ~23,6×** | **5** | Non (Tokyo) |
+| **Hoya** | 7741.T | *Blanks* EUV (>75 %, monopole) | **avant ~35×** | **4** | Non (Tokyo) |
+| **Mitsui Chemicals** | 4183.T | Pellicules EUV | ~28× (TTM) | **4** | Non (Tokyo) |
+| **Ushio** | 6925.T | Sources/lampes litho | **avant ~16,6×** | **4** | Non (Tokyo) |
+| **Atkore** | ATKR | Conduit/chemins de câbles | **avant ~15,9×** | **4** | Non (NYSE) |
+| **Belden** | BDC | Connectique cuivre/fibre DC | **avant ~20×** | **4** | Non (NYSE) |
+| **Parker Hannifin** | PH | Raccords liquid cooling | **avant ~25,8×** | **4** | Non (NYSE) |
+| **IQE** | IQE.L | Épiwafers III-V (turnaround) | EV/ventes ~4-5× | **4** | Non (Londres) |
+| **Daihen** | 6622.T | Robots transfert wafers | **~25×** | **4** | Non (Tokyo) |
+| **Materion** | MTRN | Matériaux avancés / cibles | ~45× (TTM) | **3** | Non (NYSE) |
+| **nVent** | NVT | Enclos / busbar / CDU | **~27-34×** | **3** | Non (NYSE) |
+| **AMETEK** | AME | Instruments + thermique | **~27×** | **3** | Non (NYSE) |
+| **Rogers** | ROG | Substrats céramiques SiC (800 VDC) | **~40-45×** | **3** | Non (NYSE) |
+| **AXT** | AXTI | Substrat InP (optique) | n.s. (*value trap*) | **3** | Non (Nasdaq) |
+| **Donaldson** | DCI | Filtration liquid cooling | **~27,8×** | **3** | Non (NYSE) |
+| **Sumitomo Electric** | 5802.T | InP/EML (conglomérat) | **~30×** | **3** | Non (Tokyo) |
+| **Yaskawa** | 6506.T | Robots (dilué) | **~35×** | **3** | Non (Tokyo) |
+| **Azenta** | AZTA | Automation semi (pivot life-sci) | EV/EBITDA ~7,7× | **3** | Non (Nasdaq) |
+| **SiTime** | SITM | Oscillateurs MEMS (cher) | **~103×** | **2** | Non (Nasdaq) |
+| **Nokia** | NOK | Optique 1,6T + sous-marin | **~38×** | **2** | Partiel (Helsinki) |
+| **Cogent** | CCOI | Backbone IP (*yield trap*) | EV/EBITDA ~19,8× | **2** | Non (Nasdaq) |
+
+> **Lecture v6.** Le **gisement net** (indice ≥ 5) tient en six noms : **JX Advanced Metals** (cibles PVD,
+> quasi-monopole sous-suivi post-IPO), **Dover** (raccords liquid cooling via CPC, le moins cher du groupe
+> thermique avec >1 Md$ de CA infra-IA), **Microchip** (timing, reprise cyclique à ~22×), **Lumen** (fibre
+> DCI désendettée, *special situation*), **Rorze** (robots wafers, le moins cher du trio) et — avec la
+> réserve « conglomérat » — **AGC** (*blanks* EUV à ~14,5×). À l'inverse, la majeure partie de la pile
+> profonde **price déjà la perfection ou est un piège** : **Hoya, SiTime, Nokia, Parker, nVent, Materion,
+> Rogers** (chers) et **AXT, Cogent** (*value traps*). Constat structurel : fin mai 2026, **le value « propre »
+> se raréfie** à mesure qu'on descend dans la pile — les anomalies survivantes sont **lointaines et hors euro**.
+
+### 11 ter. Mise à jour du lien avec le portefeuille (réalisme Euronext)
+**Constat d'honnêteté (le plus marqué de toutes les éditions) :** la v6 est **entièrement hors Euronext
+Paris/Amsterdam** — Tokyo (Hoya, AGC, JX, Mitsui, Ushio, Rorze, Daihen, Yaskawa, Sumitomo), États-Unis
+(Dover, Atkore, nVent, Belden, AMETEK, Rogers, Materion, AXT, SiTime, Microchip, Lumen, Cogent, Azenta),
+Londres (IQE), Helsinki (Nokia). Pour *ce* compte (~1 017 €, eToro/Euronext) :
+
+1. **Aucune nouveauté v6 n'est directement exécutable sur Euronext Paris/Amsterdam.** Les meilleurs leviers
+   *value* français/accessibles restent **inchangés** : **Veolia (VIE.PA)**, **SPIE (SPIE.PA)**, **Nexans (NEX.PA)**.
+2. *(Watchlist courtier-dépendante, sur repli uniquement)* **Dover (DOV)** et **Microchip (MCHP)** — les deux
+   *value* les plus « investissables » de la v6 sur un courtier US ; **Lumen (LUMN)** en **louche spéculative**
+   (situation spéciale / fort levier) ; **JX Advanced Metals (5016.T)** et **Rorze (6323.T)** si accès Tokyo.
+
+> Cohérence inchangée depuis v1 : **acheter la faiblesse, pas la force** ; **offre contrainte ≠ surcapacité** ;
+> **taille spéculative** pour les paris de redressement (Lumen, IQE, AXT). La v6 confirme que, fin mai 2026,
+> le value « propre » se fait **rare et lointain** (matériaux/composants japonais et US sous-suivis), pendant
+> que les couches accessibles **en euros** restent celles déjà identifiées (eau, services électriques, câbles).
+
+---
+
 ## Sources
 
 ### v1 (25 mai 2026)
@@ -964,3 +1199,53 @@ superalliages). Pour *ce* compte (~1 017 €, eToro/Euronext), les candidats acc
 - [Bloom Energy: valuation up 1,400%, 149x EPS / 27x sales / 87x book — TIKR / Seeking Alpha](https://www.tikr.com/blog/bloom-energy-stock-is-up-over-1400-in-one-year-heres-what-the-valuation-says-now)
 - [Keysight: The AI Infrastructure Winner Most Investors Miss (fwd PE 40.4x) — Seeking Alpha](https://seekingalpha.com/article/4902206-keysight-technologiesthe-ai-infrastructure-winner-most-investors-miss)
 - [Daikin Applied Powering Data Centers for AI Era (modular plants) — ACHR News](https://www.achrnews.com/articles/165431-daikin-applied-powering-data-centers-for-ai-era)
+
+### v6 (29 mai 2026 — huit poches inédites, « la pile profonde »)
+- [Hoya: improved demand visibility on EUV blanks through 2027, driven by AI — Morningstar](https://www.morningstar.com/company-reports/1422925-hoya-earnings-improved-demand-visibility-on-euv-blanks-and-hdd-substrates-through-2027-driven-by-ai)
+- [Hoya (TYO:7741) Statistics & Valuation (fwd P/E ~34.9x) — stockanalysis.com](https://stockanalysis.com/quote/tyo/7741/statistics/)
+- [Hoya expands EUV photomask blank capabilities — Semiconductor Insight](https://semiconductorinsight.com/blog/hoya-expands-euv-photomask-blank-capabilities-strengthening-global-semiconductor-supply-chain/)
+- [AGC (TYO:5201) Statistics & Valuation (fwd P/E ~14.5x, PEG ~0.96) — stockanalysis.com](https://stockanalysis.com/quote/tyo/5201/statistics/)
+- [imec & Mitsui Chemicals partnership to commercialize CNT EUV pellicle — imec](https://www.imec-int.com/en/press/imec-and-mitsui-chemicals-sign-strategic-partnership-agreement-commercialize-cnt-pellicle)
+- [Ushio FY3/26 operating profit +35.5% — BigGo / JPX TDnet](https://finance.biggo.com/news/jpx_tdnet_140120260423509670)
+- [Ushio Inc (6925) overview & valuation — Investing.com](https://www.investing.com/equities/ushio-inc)
+- [Gigaphoton (Komatsu) DUV/EUV light sources — optics.org](https://optics.org/news/6/12/18)
+- [JX Advanced Metals: AI data center surge powers squeeze on critical materials (~60% sputtering targets) — AInvest](https://www.ainvest.com/news/jx-advanced-metals-ai-data-center-surge-powers-strategic-squeeze-critical-semiconductor-materials-2603/)
+- [JX Advanced Metals plans ¥5B investment in Rapidus — TrendForce](https://www.trendforce.com/news/2026/01/21/news-jx-advanced-metals-reportedly-plans-%C2%A55b-investment-in-rapidus-along-with-critical-materials-supply/)
+- [JX Advanced Metals (TSE:5016) — Simply Wall St](https://simplywall.st/stocks/jp/materials/tse-5016/jx-advanced-metals-shares)
+- [Materion Q1 2026 results (sales +31% YoY, EM EBITDA margin 27.1%) — SEC 8-K](https://www.sec.gov/Archives/edgar/data/0001104657/000110465726000026/q12026pressrelease.htm)
+- [Materion (MTRN) valuation after earnings turnaround (~44.8x vs peers 23.9x) — Simply Wall St](https://simplywall.st/stocks/us/materials/nyse-mtrn/materion/news/a-look-at-materion-mtrn-valuation-after-earnings-turnaround)
+- [Atkore (ATKR) forward P/E ratio — YCharts](https://ycharts.com/companies/ATKR/forward_pe_ratio)
+- [Atkore Q1 2026 earnings call (EPS $0.83 vs $1.63) — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/02/03/atkore-atkr-q1-2026-earnings-call-transcript/)
+- [Atkore GF Value & price — GuruFocus](https://www.gurufocus.com/news/8878366/)
+- [nVent (NVT) forward P/E — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/NVT)
+- [nVent added to NVIDIA partner network, liquid cooling — StockTitan](https://www.stocktitan.net/news/NVT/)
+- [Belden (BDC) valuation & RUCKUS acquisition — Simply Wall St](https://simplywall.st/stocks/us/tech/nyse-bdc/belden)
+- [AMETEK (AME) valuation after Q1 beat — Sahm Capital](https://www.sahmcapital.com/news/content/a-look-at-ametek-ame-valuation-after-strong-q1-beat-and-upgraded-2026-outlook-2026-05-05)
+- [Rogers (ROG) Statistics & Valuation — stockanalysis.com](https://stockanalysis.com/stocks/rog/statistics/)
+- [Rogers (ROG) stock forecast & targets — WallStreetZen](https://www.wallstreetzen.com/stocks/us/nyse/rog/stock-forecast)
+- [Dover Q1 2026 earnings call (>$1B FY26 AI + power-gen revenue) — Motley Fool](https://www.fool.com/earnings/call-transcripts/2026/04/23/dover-dov-q1-2026-earnings-call-transcript/)
+- [Dover Q4/FY2025 results — PR Newswire](https://www.prnewswire.com/news-releases/dover-reports-fourth-quarter-and-full-year-2025-results-302673314.html)
+- [Dover (DOV) forward P/E ~20x — GuruFocus](https://www.gurufocus.com/term/forwardPE/DOV/Forward-PE-Ratio/Dover)
+- [Parker Hannifin (PH) forward P/E — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/PH)
+- [Stäubli expands US manufacturing for liquid cooling (NVIDIA recommended vendor) — PR Newswire](https://www.prnewswire.com/news-releases/staubli-expands-us-manufacturing-and-reinforces-leadership-in-liquid-cooling-302612065.html)
+- [Donaldson data center filtration — Donaldson](https://info.donaldson.com/en-amer-data-centers.html)
+- [Donaldson (DCI) P/E ratio — GuruFocus](https://www.gurufocus.com/stock/DCI/data/pe-ratio)
+- [AXT InP bottleneck deep dive — PhotonCap](https://photoncap.net/p/axt-inc-axti-deep-dive-the-hidden)
+- [AXT doubles indium phosphide capacity — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/axt-doubles-indium-phosphide-capacity-140718065.html)
+- [AXT (AXTI) Statistics & Valuation — stockanalysis.com](https://stockanalysis.com/stocks/axti/statistics/)
+- [IQE strengthens balance sheet with £81m fundraise as AI photonics demand expands — ADVFN](https://uk.advfn.com/market-news/article/16391/iqe-strengthens-balance-sheet-with-81-million-fundraise-as-ai-photonics-demand-expands-iqe)
+- [IQE H2 2025 AI/datacenter demand — Semiconductor Today](https://www.semiconductor-today.com/news_items/2026/jan/iqe-120126.shtml)
+- [Sumitomo Electric (TYO:5802) valuation — stockanalysis.com](https://stockanalysis.com/quote/tyo/5802/statistics/)
+- [SiTime (SITM) valuation after strong AI data center growth (CED +100% YoY) — Simply Wall St](https://simplywall.st/stocks/us/semiconductors/nasdaq-sitm/sitime/news/assessing-sitime-sitm-valuation-after-strong-ai-data-center/amp)
+- [Microchip Q4 FY26 results (rev +35% YoY) — SEC 8-K](https://www.sec.gov/Archives/edgar/data/0000827054/000082705426000012/exhibit991q4fy26.htm)
+- [Lumen Q1 2026 8-K (PCF backlog, deleveraging) — SEC](https://www.sec.gov/Archives/edgar/data/0000018926/000001892626000045/lumen1q26quarterlyresult.htm)
+- [Lumen (LUMN) valuation as AI connectivity backlog (~$13B PCF) grows — Simply Wall St](https://simplywall.st/stocks/us/telecom/nyse-lumn/lumen-technologies/news/a-look-at-lumen-technologies-lumn-valuation-as-ai-connectivi)
+- [Microsoft & Lumen partner to power the future of AI (PCF) — Microsoft](https://news.microsoft.com/source/2024/07/24/microsoft-and-lumen-technologies-partner-to-power-the-future-of-ai-and-enable-digital-transformation-to-benefit-hundreds-of-millions-of-customers/)
+- [Nokia launches application-optimized optical solutions for AI-era networks (1.6T) — Nokia](https://www.globenewswire.com/news-release/2026/03/16/3256383/0/en/Nokia-launches-suite-of-application-optimized-optical-solutions-for-AI-era-networks.html)
+- [Zayo's fiber bet: scaling long-haul & metro for AI data centers — Data Center Frontier](https://www.datacenterfrontier.com/network/article/55274499/zayos-fiber-bet-scaling-long-haul-and-metro-networks-for-ai-data-centers)
+- [Crown Castle completes $8.5B sale of fiber solutions & small cell to Zayo/EQT — QuiverQuant](https://www.quiverquant.com/news/Crown+Castle+Inc.+Completes+$8.5+Billion+Sale+of+Fiber+Solutions+and+Small+Cell+Businesses)
+- [Rorze (TSE:6323) forward P/E — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/TSE:6323)
+- [Yaskawa Electric (TSE:6506) valuation — Simply Wall St](https://simplywall.st/stocks/jp/capital-goods/tse-6506/yaskawa-electric-shares)
+- [Daihen (TSE:6622) valuation — Simply Wall St](https://simplywall.st/stocks/jp/capital-goods/tse-6622/daihen-shares/news/assessing-daihen-tse6622-valuation-after-recent-share-price)
+- [Azenta (AZTA) Statistics & Valuation — stockanalysis.com](https://stockanalysis.com/stocks/azta/statistics/)
+- [Semiconductor wafer-transfer robots market (top-5 ~80%) — Market Research Future](https://www.marketresearchfuture.com/reports/semiconductor-wafer-transfer-robots-market/companies)
