@@ -5,8 +5,8 @@
 > marché** alors qu'ils jouent — ou vont jouer — un rôle critique. Document de travail destiné à
 > alimenter les décisions du journal de trading (`positions.md`, `etoro_trades.md`).
 >
-> **Date :** 29 mai 2026 — **édition v6** (huit poches inédites — « la pile profonde » : voir §11).
-> v5 (six poches) : 28 mai. v4 (sept poches) : 27 mai. v3 (valorisée) : 26 mai. v2 (approfondie) : 26 mai. v1 : 25 mai 2026.
+> **Date :** 29 mai 2026 — **édition v7** (la *lentille concurrentielle* : douve & coût d'entrée + réévaluation de tous les indices : voir §12).
+> v6 (huit poches — « la pile profonde ») : 29 mai. v5 (six poches) : 28 mai. v4 (sept poches) : 27 mai. v3 (valorisée) : 26 mai. v2 (approfondie) : 26 mai. v1 : 25 mai 2026.
 > **Auteur :** analyse « picks-and-shovels » de l'écosystème IA.
 >
 > **Nouveauté v3.** Ajout d'une **couche quantitative** : pour chaque acteur, un **multiple de valorisation
@@ -55,6 +55,26 @@
 > désendettée) et **Rorze** (robots wafers) ; le reste de la pile profonde **a déjà été revalorisé** (Hoya,
 > SiTime, Nokia, Parker, nVent, Materion) ou est un *value trap* (AXT). **Honnêteté : aucune idée v6 n'est
 > cotée à Paris/Amsterdam** — la v6 enrichit surtout la *carte* et la watchlist courtier-dépendante.
+>
+> **Nouveauté v7 (29 mai).** Changement d'**angle** plutôt que de couche : la v7 introduit la **lentille
+> concurrentielle** (§12). Pour chaque idée, on chiffre désormais deux sous-scores explicites — **(a)
+> barrière à l'entrée / coût d'entrée (0–5)** (capex, IP/brevets, temps de qualification, réglementaire,
+> verrouillage client) et **(b) intensité concurrentielle (0–5, *inversé* : 5 = peu de rivaux crédibles,
+> pas de menace chinoise/nouvel entrant)** — qui **alimentent et corrigent l'indice de sous-évaluation**.
+> Logique : *un multiple élevé adossé à une douve quasi-imprenable est « moins cher » qu'un multiple bas sur
+> un marché que cinq nouveaux entrants peuvent inonder.* La v7 (i) **réévalue l'indice de toutes les entrées
+> v3→v6** à travers ce prisme (§12.3, ancien → nouveau), et (ii) ouvre **huit poches « douve »** encore
+> absentes (§12.1) : **(DD)** le *duopole EDA + l'IP* (Synopsys, Cadence, ARM) — la douve logicielle la plus
+> imprenable de toute la pile ; **(EE)** les *photorésines & la chimie de litho avancée* (oligopole japonais
+> JSR/TOK/Shin-Etsu/Fujifilm) ; **(FF)** les *wafers de silicium 300 mm* (duopole Shin-Etsu/SUMCO) ; **(GG)**
+> les *substrats ABF/FC-BGA* (verrou Ajinomoto : Ibiden, Shinko, Unimicron, AT&S) ; **(HH)** la *pureté &
+> filtration* (Entegris) ; **(II)** la *connectivité scale-up & retimers* (Astera Labs, Arista) ; **(JJ)**
+> l'*enrichissement d'uranium & le combustible* (Centrus, Cameco) — barrière réglementaire extrême ;
+> **(KK)** les *fluides diélectriques / d'immersion* (Chemours, 3M, Shell, Cargill). **Conclusion v7 :** les
+> meilleures douves de la pile (EDA, ASML, TSMC, wafers, ABF, vide, test) **justifient** une partie de leur
+> prime ; la *vraie* anomalie 2026 est un **monopole/duopole qui a corrigé** — d'où la promotion de
+> **Synopsys** (duopole EDA **−23 %** depuis son plus-haut) et de **TSMC** (le monopole le moins cher du
+> sommet de pile) dans le haut du tableau réévalué.
 >
 > **Avertissement d'honnêteté intellectuelle.** En mai 2026, l'ensemble du complexe « infra IA »
 > s'est **déjà fortement revalorisé** (Nvidia ~47× les bénéfices futurs ; en Europe : STMicro a plus
@@ -1079,6 +1099,215 @@ Londres (IQE), Helsinki (Nokia). Pour *ce* compte (~1 017 €, eToro/Euronext) :
 
 ---
 
+## 12. ★★★★★ Édition v7 (29 mai 2026) — la lentille concurrentielle (douve & coût d'entrée)
+
+> **Pourquoi cette édition.** Les v1→v6 ont cartographié la pile et chiffré un indice de sous-évaluation,
+> mais traitaient la **concurrence** et la **barrière à l'entrée** de façon implicite. La v7 les **rend
+> explicites et quantifiées**, parce que c'est *le* facteur qui sépare durablement un goulet « cher mais
+> imprenable » (qui mérite sa prime et peut la conserver dix ans) d'un goulet « pas cher mais attaquable »
+> (où le multiple bas est un piège : la marge sera arbitrée dès que la capacité ou un concurrent chinois
+> arrive). **Fil rouge :** dans l'infra IA de mai 2026, *l'offre est contrainte non pas parce que c'est
+> difficile à vouloir, mais parce que c'est difficile à* ***refaire*** *— le coût d'entrée est la vraie
+> rareté.* ⚠️ Multiples = instantanés d'agrégateurs publics (~mi/fin-mai 2026), arrondis, volatils.
+
+### 12.0 — Méthodologie : deux sous-scores qui corrigent l'indice
+On conserve l'indice 0–10 des éditions précédentes (cf. §4 bis) mais on l'**ajuste** par deux notes :
+
+| Sous-score | Échelle | Ce qu'il mesure | Tire l'indice **vers le haut** quand… |
+|---|:---:|---|---|
+| **Barrière à l'entrée / coût d'entrée** | **0–5** | Capex d'usine, IP/brevets & savoir-faire, **temps de qualification** (mois→années) chez le client, contraintes réglementaires/géopolitiques, verrouillage (*design-in*) | …elle est **élevée** : un nouvel entrant mettrait des années et des milliards à répliquer la position |
+| **Intensité concurrentielle** *(inversé)* | **0–5** | Nombre de rivaux **crédibles**, menace de **capacité chinoise / nouvel entrant**, pouvoir de fixation des prix, risque de guerre des prix | …elle est **faible** (note haute) : monopole/duopole, pas de menace d'inondation de capacité |
+
+> **Règle d'arbitrage v7.** *Indice révisé ≈ indice « valorisation » des v3→v6, **rehaussé** d'un cran si
+> (Barrière + Concurrence) ≥ 8/10 et que le titre a **corrigé**, **abaissé** d'un cran si la douve est plus
+> fine qu'annoncée OU si une menace concurrentielle nouvelle apparaît (ex. Samsung qui rattrape sur HBM4 ;
+> Nvidia qui internalise le réseau/CPO ; capacité chinoise sur SiC/optique/connecteurs).* Un multiple riche
+> **n'interdit pas** un indice moyen si la douve est quasi-imprenable (ASML, TSMC, EDA, vide, test).
+
+### 12.1 — Huit poches « douve » (rattachement à la cartographie §2)
+| Poche v7 | Couche (§2) | Douve / nature de la barrière |
+|---|---|---|
+| **DD** — EDA + IP cœur | Couche 2 (conception/IP) | **Switching costs** extrêmes + 70–80 % de revenus récurrents : *aucune* puce avancée ne se conçoit sans Synopsys **ou** Cadence (duopole) ; ARM = standard d'ISA |
+| **EE** — Photorésines & chimie litho | Couche 0 → Couche 1 | **Oligopole japonais** (JSR/TOK/Shin-Etsu/Fujifilm) ; qualifié *par recette* pour chaque nœud → quasi-impossible à substituer en cours de run |
+| **FF** — Wafers silicium 300 mm | Couche 0 | **Duopole Shin-Etsu/SUMCO** (>50 % du 300 mm ; top-5 ~82 %) ; capex et pureté = barrière, mais **cyclicité** du prix |
+| **GG** — Substrats ABF / FC-BGA | Couche 3 (packaging) | **Verrou Ajinomoto** (licence + chimie 30 ans) : 5 fabricants (Ibiden/Shinko/Unimicron/Nan Ya/AT&S) **prépayés** par Nvidia/AMD pour réserver la capacité |
+| **HH** — Pureté & filtration | Couche 0/1 (matériaux/WFE) | **Design-in** dans la ligne + qualification longue (Entegris : >3 200 brevets) ; rival sérieux = Pall (Danaher) |
+| **II** — Connectivité scale-up & retimers | Couche 5 (réseau) | *Time-to-market* PCIe/scale-up (Astera) ; **mais douve plus fine** — Nvidia (NVLink/Spectrum-X), Broadcom, Marvell attaquent |
+| **JJ** — Enrichissement uranium & combustible | Couche 6a (énergie) | **Barrière réglementaire extrême** (licences, non-prolifération) ; oligopole occidental Centrus/Urenco/Orano vs Rosatom ; HALEU = quasi-monopole US (Centrus) |
+| **KK** — Fluides diélectriques / immersion | Couche 6b (refroidissement) | Chimie + **homologation PFAS-free** ; **mais** marché jeune, fragmenté, exposition **diluée** dans de grands groupes (3M, Chemours, Shell, Cargill) |
+
+#### Notes par poche (l'essentiel)
+- **DD — EDA & IP.** La **douve la plus imprenable de toute la pile** : concevoir une puce ≤3 nm sans
+  Synopsys/Cadence est *impossible* (modèles de signoff, IP, signoff timing). Barrière ≈ 5/5, concurrence
+  ≈ 5/5 (duopole de fait, Siemens EDA loin derrière). L'anomalie 2026 : **Synopsys a corrigé (−23 % depuis
+  son plus-haut, NTM ~33–34×, entrée activiste Elliott)** alors que sa douve est intacte → meilleur couple
+  *douve × décote* de l'édition. **Cadence** (P/E ~87×) et **ARM** (P/E ~279×, royalties data center ×2 YoY)
+  ont la même douve mais **pricent déjà la perfection**.
+- **EE — Photorésines.** ~50 % du marché tenu par 5 noms ; **EUV** quasi-exclusivement **JSR + Shin-Etsu**.
+  Problème d'**investissabilité** : **JSR a été retirée de la cote (rachat JIC)** → reste **TOK (4186.T,
+  P/E ~34×)** comme pure-play coté, **Fujifilm** (exposition diluée), **Shin-Etsu** (cf. poche FF).
+- **FF — Wafers.** Duopole structurel **Shin-Etsu/SUMCO** ; SUMCO sort du 200 mm pour se concentrer sur le
+  300 mm « AI-grade ». **Mais** le prix du wafer est **cyclique** et la barrière n'empêche pas la guerre de
+  volumes en bas de cycle → barrière haute, *pricing power* moyen. **Siltronic/GlobalWafers** = leviers de
+  reprise plus *distressed* (déjà notés en §0/§9 ter).
+- **GG — Substrats ABF.** Le **goulet packaging** par excellence : Nvidia/AMD **prépaient** la capacité ;
+  **Ibiden (4062.T)** engage **~3,3 Md$** sur 3 ans. Barrière = verrou Ajinomoto + capex + qualification.
+  **Shinko (6967.T)** est en **rachat (consortium JIC/JSR)** → *special situation*, accès incertain. **AT&S**
+  (déjà §4 bis, indice 7) reste le levier européen coté, *deep value* mais endetté.
+- **HH — Entegris.** Filtration/pureté *design-in* : douve réelle (qualif longue, switching costs) **mais**
+  **valorisation tendue** (P/E TTM ~75×, fwd ~34–39×) et **un vrai rival** (Pall/Danaher, ~35 % de la
+  filtration). Barrière haute, concurrence moyenne, prix riche → indice moyen.
+- **II — Connectivité.** **Astera Labs** : croissance spectaculaire (CA +93 % YoY, marge brute 76 %) mais
+  **+227 % sur 1 an, au-dessus du PT consensus**, et **douve plus fine** (Nvidia NVLink Fusion, Broadcom,
+  Marvell visent le scale-up) → momentum, pas value. **Arista** : exécution superbe (CA +35 %, marge op.
+  ~43 %) mais menace **Nvidia Spectrum-X** sur l'Ethernet IA → prime à surveiller.
+- **JJ — Uranium/enrichissement.** Barrière la plus **réglementaire** de la pile (licences NRC,
+  non-prolifération). **Centrus (LEU)** : seul enrichisseur **US** (HALEU pour SMR), backlog LEU **~2,3 Md$**,
+  **awards DOE (~0,9 Md$)** — *special situation* à très haute barrière, mais **titre déjà très monté**.
+  **Cameco (CCJ)** : mine d'uranium de qualité **mais P/E ~99–112× (TTM)** → **cher** ; GF Value le dit
+  surévalué. Le combustible est un *vrai* goulet long terme du « nucléaire pour l'IA », rarement chiffré.
+- **KK — Fluides d'immersion.** Marché en forte croissance (densité 40–100 kW/rack) **mais** petit en
+  valeur et **dilué** dans des conglomérats : **Chemours, 3M (retrait Novec 2028), Shell, Cargill
+  (NatureCool), Engineered Fluids/GRC (privés)**. Exposition trop diluée + passif PFAS → indice bas malgré
+  un thème porteur ; à suivre comme *carte*, pas comme levier pur.
+
+### 12.2 — Tableau v7 des **nouveaux** noms (douve & coût d'entrée)
+> *Barrière (B) et Concurrence (C) notées 0–5 (C inversé : 5 = peu de rivaux). Indice 0–10 net.*
+
+| Acteur | Ticker | Couche / rôle | PER (≈) | **B** | **C** | Indice | Lecture / **risque** |
+|---|---|---|---:|:---:|:---:|:---:|---|
+| **Synopsys** | SNPS | EDA (duopole) | **~33–34×** (NTM) | **5** | **5** | **8** | **Top pick v7** : douve quasi-imprenable **+ correction −23 %** + activiste Elliott. Récurrent 70–80 % |
+| **Ibiden** | 6062.T / 4062.T | Substrats ABF (verrou Ajinomoto) | **~28–32×** | **5** | **4** | **7** | Goulet packaging **prépayé** par Nvidia/AMD ; capex 3,3 Md$ ; ⚠️ cyclique, cher en absolu |
+| **Shin-Etsu Chemical** | 4063.T | Wafers Si + photorésines EUV | **~20–22×** | **5** | **4** | **7** | **Double douve** (wafers *et* résine EUV), bilan net cash, diversifié, moins cyclique que SUMCO |
+| **Tokyo Ohka Kogyo** | 4186.T | Photorésines (EUV/ArF) | **~34×** | **4** | **4** | **6** | Pure-play résine coté (JSR délistée) ; ⚠️ multiple monté, exposition mémoire/logique |
+| **SUMCO** | 3436.T | Wafers 300 mm (duopole) | **cyclique** (creux BPA) | **4** | **4** | **6** | Pure-play wafers en **bas de cycle** → levier de reprise ; ⚠️ *pricing* volatil |
+| **Centrus Energy** | LEU | Enrichissement uranium / HALEU | **élevé** (BPA naissant) | **5** | **4** | **5** | Barrière réglementaire extrême, seul enrichisseur US ; ⚠️ *special situation*, déjà très monté |
+| **Cadence** | CDNS | EDA (duopole) | **~87×** | **5** | **5** | **4** | Même douve que Synopsys mais **price la perfection** → repli seulement |
+| **Entegris** | ENTG | Pureté / filtration semi | **~34–39×** (fwd) | **4** | **3** | **4** | Douve *design-in* réelle **mais** rival Pall + multiple riche |
+| **Arista** | ANET | Switchs réseau IA (Ethernet) | **~35–40×** | **3** | **3** | **4** | Exécution superbe ; ⚠️ menace **Nvidia Spectrum-X** sur la douve |
+| **ARM Holdings** | ARM | IP / ISA (royalties DC ×2) | **~70–80×** (fwd) | **5** | **4** | **3** | Douve d'écosystème énorme **mais** ~279× TTM = perfection pricée |
+| **Astera Labs** | ALAB | Retimers PCIe / fabric scale-up | **très élevé** | **3** | **2** | **2** | Hyper-croissance **mais** +227 %/an, au-dessus du PT, douve attaquée |
+| **Cameco** | CCJ | Mine d'uranium | **~99–112×** (TTM) | **4** | **3** | **2** | Goulet combustible réel **mais** surévalué (GF Value) |
+| **Fujifilm** | 4901.T | Photorésines (dilué) | **~17–19×** | **4** | **3** | **3** | Exposition résine **diluée** dans un conglomérat imagerie/santé |
+| **Chemours** | CC | Fluides diélectriques (dilué) | bas / *distressed* | **2** | **2** | **2** | Thème immersion porteur **mais** exposition diluée + passif PFAS |
+| **3M** | MMM | Fluides Novec (retrait 2028) | moyen | **2** | **2** | **2** | Sort du marché (Novec retiré 2028) → *anti-levier* |
+
+> **Lecture 12.2.** Le **gisement net** (indice ≥ 6) tient en cinq noms à **douve haute** : **Synopsys**
+> (duopole EDA qui a corrigé — la meilleure anomalie de l'édition), **Ibiden** et **Shin-Etsu** (verrous
+> packaging et wafers/résine), puis **TOK** et **SUMCO** (résine et wafers, plus cycliques). Tout le reste a
+> soit une **douve plus fine** (Astera, Arista, fluides), soit une **valorisation qui price déjà la douve**
+> (Cadence, ARM, Entegris, Cameco). **Confirmation du fil rouge :** payer pour la **douve** est rationnel ;
+> payer pour la **perfection** ne l'est pas.
+
+### 12.3 — Réévaluation de **toutes les entrées v3→v6** à la lentille concurrentielle
+> On conserve chaque entrée et on **réajuste l'indice** (ancien → nouveau) selon la douve (B) et la
+> concurrence (C). « = » : inchangé. Les mouvements sont **petits** (±1, parfois ±2) et motivés par : (i)
+> qualité de la douve mieux pricée ; (ii) nouvelles données de mai 2026 ; (iii) menaces concurrentielles
+> nouvelles.
+
+| Acteur | Ticker | Indice **avant** | **B** | **C** | Indice **v7** | Motif (douve / concurrence / data mai 2026) |
+|---|---|:---:|:---:|:---:|:---:|---|
+| **TSMC** | TSM | 6 | **5** | **5** | **7 ▲** | Monopole de fait ≤3 nm, barrière **insurmontable** (Intel/Samsung loin), multiple raisonnable → promu |
+| **SK Hynix** | 000660.KS | 9 | **4** | **3** | **8 ▼** | Toujours leader HBM **mais** Samsung rattrape (1er en prod. HBM4/HBM4E), titre **+15 % à un plus-haut** → moins « solde » |
+| **Energy Transfer** | ET | 8 | **5** | **4** | **8 =** | Douve midstream (droits de passage) ; contrats DC Texas ramp 2026 ; rdt ~6,8–8 % |
+| **Micron** | MU | 8 | **4** | **3** | **8 =** | Oligopole 3 acteurs ; HBM4 part faible mais croissante ; reste la « qualité en solde » |
+| **Nexans** | NEX.PA | 7 | **4** | **4** | **7 =** | Oligopole câbles HV (barrière usines/agréments) ; *laggard* value vs Prysmian → **top pick EU** maintenu |
+| **HD Hyundai Electric** | 267260.KS | 7 | **4** | **3** | **7 =** | Carnet transfo pluriannuel ; concurrence Hyosung/Hitachi/GE mais capacité saturée |
+| **Vistra** | VST | 7 | **4** | **4** | **7 =** | Parc nucléaire **non-réplicable** (barrière réglementaire) ; FCF yield élevé |
+| **Dell** | DELL | 7 | **2** | **2** | **6 ▼** | « Pelle » peu chère **mais** douve faible (ODM, marges fines, concurrence Supermicro/HPE) → léger retrait |
+| **TE Connectivity** | TEL | 7 | **3** | **3** | **6 ▼** | Le moins cher des connecteurs, mais concurrence Amphenol/Molex → recadré |
+| **AT&S** | ATS.VI | 7 | **3** | **3** | **6 ▼** | Levier ABF coté EU **mais** endettement + 5 rivaux substrats → risque concurrentiel pris en compte |
+| **Kinder Morgan** | KMI | 6 | **5** | **4** | **7 ▲** | ~70 % de la demande DC future dans ses États ; douve pipeline ; Creekside Q4 2026 → promu |
+| **Constellation Energy** | CEG | 6 | **4** | **4** | **6 =** | PPA nucléaire 20 ans, barrière réglementaire ; repli = entrée |
+| **Digital Realty** | DLR | 6 | **3** | **3** | **6 =** | Foncier du calcul ; douve foncier/raccordement mais concurrence hyperscalers en propre |
+| **Veolia** | VIE.PA | 6 | **3** | **3** | **6 =** | « L'eau de l'IA », ~13–14×, accessible Paris ; douve concession moyenne |
+| **SPIE** | SPIE.PA | 6 | **2** | **2** | **6 =** | Services élec. DC ~16×, peu *crowded* ; douve faible mais valorisation basse compense |
+| **onsemi** | ON | 6 | **3** | **3** | **6 =** | SiC/800 VDC, reprise cyclique ; ⚠️ **capacité chinoise SiC** (concurrence ↑) → pas relevé |
+| **Photronics** | PLAB | 6 | **3** | **4** | **6 =** | Photomasques *deep value* ; oligopole photomasques captifs/marchands |
+| **Resonac** | 4004.T | 7 | **4** | **4** | **7 =** | Consommables packaging à ~11–12× + catalyseur scission ; douve chimie + oligopole |
+| **Ferrotec** | 6890.T | 6 | **4** | **3** | **6 =** | Chucks ESC/quartz ~14× ; douve consommable, concurrence asiatique |
+| **NGK Insulators** | 5333.T | 6 | **4** | **4** | **6 =** | ESC + stockage NAS, double levier ~18,7× ; douve céramique |
+| **Nidec** | 6594.T | 7 | **3** | **3** | **6 ▼** | Cooling/ventilateurs ~11× **mais** gouvernance + concurrence Delta/Sanyo → léger retrait |
+| **JX Advanced Metals** | 5016.T | 6 | **5** | **4** | **6 =** | Cibles PVD ~60 %, quasi-monopole post-IPO sous-suivi ; douve matériau |
+| **Dover** | DOV | 6 | **3** | **4** | **6 =** | Raccords liquid cooling (CPC) les moins chers ; douve standard CPC |
+| **AGC** | 5201.T | 5 | **4** | **4** | **5 =** | *Blanks* EUV ~59 % mais conglomérat verre → exposition diluée |
+| **Microchip** | MCHP | 5 | **3** | **3** | **5 =** | Timing/clocks, reprise cyclique ~22× ; concurrence MCU large |
+| **Lumen** | LUMN | 5 | **3** | **4** | **5 =** | Fibre DCI désendettée, *special situation* ; barrière fibre longue distance |
+| **Rorze** | 6323.T | 5 | **4** | **3** | **5 =** | Robots wafers/EFEM ~24×, le moins cher du trio |
+| **Murata** | 6981.T | 5 | **4** | **4** | **5 =** | MLCC, pénurie + *pricing power* ; oligopole Murata/TDK/Samsung EM |
+| **Sumitomo Bakelite** | 4203.T | 5 | **4** | **3** | **5 =** | EMC/résines packaging ~13–15× ; douve chimie |
+| **Henkel** | HEN3.DE | 5 | **3** | **3** | **5 =** | TIM/adhésifs DC ~16–17×, **coté zone euro** ; exposition diluée |
+| **Air Liquide** | AI.PA | 5 | **4** | **4** | **6 ▲** | Gaz spéciaux fabs : douve **réseau/sur-site** sous-estimée (oligopole AL/Linde/AP) → relevé |
+| **STMicroelectronics** | STM.PA | 5 | **3** | **3** | **5 =** | Power/analog, liste 800 VDC Nvidia ; optionalité reprise cyclique |
+| **Daikin** | 6367.T | 5 | **3** | **3** | **5 =** | HVAC/chillers DC ; concurrence Trane/Johnson Controls |
+| **Disco** | 6146.T | 5 | **5** | **5** | **6 ▲** | **Quasi-monopole** découpe/meulage, ROIC ~54 %, net cash : douve **exceptionnelle** → relevé |
+| **VAT Group** | VACN.SW | 4 | **5** | **5** | **5 ▲** | Monopole vannes à vide ; douve quasi-imprenable → la prime se justifie |
+| **Advantest** | 6857.T | 4 | **5** | **4** | **5 ▲** | Quasi-monopole test HBM/SoC ; douve réelle → relevé d'un cran |
+| **ASML** | ASML.AS | 4 | **5** | **5** | **5 ▲** | **Monopole absolu** EUV/High-NA ; barrière la plus haute de la pile → la prime est « méritée » |
+| **Infineon** | IFX.DE | 5 | **3** | **3** | **5 =** | Power 800 VDC + auto ; concurrence ON/STM/Wolfspeed |
+| **Schneider Electric** | SU.PA | 4 | **4** | **3** | **5 ▲** | Power+cooling DC ; douve installée + carnet ; concurrence Vertiv/Eaton → léger relèvement |
+| **Broadcom** | AVGO | 4 | **4** | **4** | **5 ▲** | ASIC (TPU/Maia) + réseau ; douve IP/relations hyperscalers → relevé |
+| **Hanmi Semiconductor** | 042700.KS | 4 | **3** | **2** | **4 =** | TC bonder HBM ~71 % **mais** risque concentration client (SK Hynix diversifie) |
+| **Delta Electronics** | 2308.TW | 4 | **4** | **3** | **4 =** | ~60 % du power shelf ; douve réelle mais cap. ~100 Md$ (peu de décote) |
+| **Williams** | WMB | 4 | **5** | **4** | **5 ▲** | Gas-to-power on-site ; douve pipeline ; re-raté « croissance » → relevé |
+| **Ebara** | 6361.T | 5 | **4** | **3** | **5 =** | Pompes à vide + CMP + abatement ; complément de VAT |
+| **Atlas Copco** | ATCO-A.ST | 4 | **4** | **3** | **4 =** | Vide (Edwards) + compresseurs ; qualité au juste prix |
+| **Camtek** | CAMT | 5 | **3** | **3** | **5 =** | Inspection/métrologie packaging ; concurrence KLA/Onto |
+| **Technoprobe** | TPRO.MI | 4 | **4** | **3** | **4 =** | Probe cards MEMS, pure-play EU **mais** ~55× → sur repli |
+| **FormFactor** | FORM | 4 | **4** | **3** | **4 =** | Probe cards HBM4 ; oligopole avec Technoprobe |
+| **Monolithic Power** | MPWR | 3 | **4** | **3** | **4 ▲** | VRM ~70 % des sockets Rubin ; douve *design-in* meilleure qu'estimée |
+| **Prysmian** | PRY.MI | 3 | **4** | **4** | **4 ▲** | Leader câbles, douve oligopole ; a déjà couru vs Nexans |
+| **Amphenol** | APH | 3 | **3** | **3** | **3 =** | Connecteurs HD, qualité au juste prix |
+| **Hammond Power** | HPS.A.TO | 3 | **3** | **3** | **3 =** | Transfos NA n°1 mais **déjà couru** (+111 % YTD) → repli seulement |
+| **Marvell** | MRVL | 3 | **3** | **3** | **3 =** | ASIC + optique ; concurrence Broadcom |
+| **Vertiv** | VRT | 3 | **3** | **3** | **3 =** | Leader power+cooling **mais** multiple ~48× ; concurrence Schneider/Eaton |
+| **Lasertec** | 6920.T | 3 | **5** | **5** | **4 ▲** | Inspection masques EUV >90 % : douve quasi-monopole → relevé malgré volatilité |
+| **GE Vernova** | GEV | 2 | **5** | **5** | **3 ▲** | Turbines à gaz : oligopole GE/Siemens/Mitsubishi **sold-out** ; douve **excellente**, prix tendu |
+| **Siemens Energy** | ENR.DE | 2 | **5** | **5** | **3 ▲** | Même oligopole turbines ; re-rating fait mais douve durable |
+| **Corning** | GLW | 2 | **4** | **3** | **2 =** | Fibre/CPO ; douve verre réelle mais cher |
+| **NKT** | NKT.CO | 5 | **4** | **4** | **5 =** | 3ᵉ câblier HVDC EU ; oligopole, carnet long |
+| **Howmet** | HWM | 2 | **5** | **4** | **3 ▲** | Coulées de précision turbines : goulet *derrière* le goulet ; douve haute mais ~55× |
+| **ATI / Carpenter** | ATI / CRS | 4 / 3 | **4** | **4** | **4 / 3 =** | Superalliages : critiques, oligopole, mais déjà chers |
+| **IREN / Hut 8** | IREN / HUT | 3 | **2** | **2** | **3 =** | Mineurs→IA : *rôle* critique mais **douve faible** (puissance réplicable) ; déjà ×5–×7 |
+| **Core Scientific / TeraWulf** | CORZ / WULF | 5 | **2** | **2** | **4 ▼** | Pivots purs ; **douve = la puissance raccordée**, mais réplicable → léger retrait |
+| **Fluence** | FLNC | 4 | **2** | **2** | **3 ▼** | BESS *turnaround* ; marché concurrentiel (CATL/Tesla) → retrait |
+| **Navitas / Power Int. / onsemi(GaN)** | NVTS / POWI | 2–3 | **2** | **2** | **2 =** | GaN/SiC : capacité chinoise = menace concurrentielle forte |
+| **Coherent / Lumentum** | COHR / LITE | 1 | **3** | **2** | **1 =** | Optique/CPO ; menace **Nvidia CPO** + valorisations extrêmes |
+| **Seagate / WDC** | STX / WDC | 3 | **4** | **4** | **4 ▲** | HDD nearline : duopole, barrière réelle ; *sold-out* → relevé malgré le prix |
+| **Hoya** | 7741.T | 4 | **5** | **5** | **5 ▲** | *Blanks* EUV >75 %, **monopole** ; douve exceptionnelle → la prime se justifie |
+| **SiTime / Cogent / AXT / Nokia** | — | 1–2 | **2–3** | **2** | **2 =** | Douve fine et/ou *value traps* / cher : inchangés |
+
+> **Lecture 12.3.** Le réajustement **récompense la douve** : montent **TSMC, Kinder Morgan, Air Liquide,
+> Disco, Williams, ASML, VAT, Advantest, Lasertec, Hoya, Broadcom, Schneider, GE Vernova, Siemens Energy**
+> (barrières quasi-imprenables, certaines enfin recadrées à la hausse même si chères). Descendent ceux dont
+> la **douve est plus fine que le multiple ne le suggérait** : **Dell, TE Connectivity, AT&S, Nidec**
+> (concurrence) et **Core Scientific/TeraWulf, Fluence** (capacité réplicable). **SK Hynix** recule d'un cran
+> (Samsung rattrape **et** le titre a fortement monté) tout en restant haut. Le message d'investissement
+> n'est pas bouleversé — il est **affermi** : *le couple décote × douve* pointe vers **(1)** le **duopole EDA
+> corrigé (Synopsys)**, **(2)** les **monopoles « pas chers en pleine vue »** (TSMC), **(3)** les **dérivées
+> gaz/réseau à douve d'infrastructure** (ET, KMI, Williams, Nexans, Air Liquide) et **(4)** les **verrous
+> matériaux/packaging** (Ibiden, Shin-Etsu, Resonac, JX, Disco).
+
+### 12.4 — Lien avec le portefeuille & candidats réalistes (Euronext) — vue v7
+La lentille « douve » **renforce** les conclusions des éditions précédentes pour *ce* compte (~1 017 €,
+eToro/Euronext) :
+
+1. **Air Liquide (AI.PA)** *(détenu)* — **relevé 5 → 6** : la douve **réseau de gaz spéciaux on-site** des
+   fabs est sous-appréciée (oligopole mondial à 3). À réévaluer comme **vraie ligne infra IA**.
+2. **Schneider (SU.PA)** *(détenu)* — **relevé 4 → 5** : douve installée power+cooling + carnet ; laisser courir.
+3. **Nexans (NEX.PA)** — **top pick EU maintenu (7)** : oligopole câbles HV, *laggard* vs Prysmian.
+4. **Veolia (VIE.PA)** / **SPIE (SPIE.PA)** — leviers *value* français accessibles (eau, services élec. DC).
+5. *(Watchlist courtier-dépendante, douve haute)* **Synopsys (SNPS)** sur tout maintien de la correction —
+   **la meilleure idée « douve × décote » de l'édition** ; **TSMC (TSM)** comme monopole le moins cher du
+   sommet de pile ; **Ibiden (6062.T)** / **Shin-Etsu (4063.T)** si accès Tokyo (verrous packaging/wafers).
+
+> Cohérence inchangée depuis v1 : **acheter la faiblesse, pas la force** ; **offre contrainte ≠ surcapacité**.
+> La v7 y ajoute une maxime : **« payer pour la douve, pas pour la perfection »** — préférer un monopole/duopole
+> qui a *corrigé* (Synopsys) à un hyper-momentum sans marge d'erreur (ARM, Astera, Coherent), et se méfier des
+> multiples bas sur des marchés que la **capacité réplicable** (mineurs→IA, BESS, GaN/SiC chinois) peut inonder.
+
+---
+
 ## Sources
 
 ### v1 (25 mai 2026)
@@ -1249,3 +1478,33 @@ Londres (IQE), Helsinki (Nokia). Pour *ce* compte (~1 017 €, eToro/Euronext) :
 - [Daihen (TSE:6622) valuation — Simply Wall St](https://simplywall.st/stocks/jp/capital-goods/tse-6622/daihen-shares/news/assessing-daihen-tse6622-valuation-after-recent-share-price)
 - [Azenta (AZTA) Statistics & Valuation — stockanalysis.com](https://stockanalysis.com/stocks/azta/statistics/)
 - [Semiconductor wafer-transfer robots market (top-5 ~80%) — Market Research Future](https://www.marketresearchfuture.com/reports/semiconductor-wafer-transfer-robots-market/companies)
+
+### v7 (29 mai 2026 — lentille concurrentielle : douve & coût d'entrée + réévaluation des indices)
+- [Citi starts Cadence and Synopsys at Buy as EDA enters new growth cycle — Investing.com](https://www.investing.com/news/stock-market-news/citi-starts-cadence-and-synopsys-at-buy-as-eda-industry-enters-new-growth-cycle-4375213)
+- [Synopsys stock down 23% from 52-week high — what Elliott's stake could mean — TIKR](https://www.tikr.com/blog/synopsys-stock-is-down-23-from-its-52-week-high-heres-what-elliotts-stake-could-mean)
+- [Synopsys (SNPS) trades 30% above DCF floor as EDA dominance meets valuation reality — Foreign Policy Journal](https://www.foreignpolicyjournal.com/2026/04/21/synopsys-nasdaq-snps-stock-price-trades-30-above-key-dcf-floor-as-eda-dominance-meets-valuation-reality-check/)
+- [Cadence (CDNS) stock analysis & key metrics 2026 (P/E ~87, duopoly moat) — KoalaGains](https://koalagains.com/stocks/NASDAQ/CDNS)
+- [Shin-Etsu / SUMCO silicon wafer duopoly (>50% of 300mm, top-5 ~82%) — ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/ueberblick/shin-etsu-chemical-co-ltd-stock-jp3358000002-is-its-silicon-wafer/69256129)
+- [SUMCO exits 200mm to focus on AI-grade 300mm; TSMC 2026 capex $52-56B — Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/semiconductor-silicon-wafer-market)
+- [The MSG monopoly: Ajinomoto ABF chokepoint inside every AI chip — Next Financial](https://nextfinancial.substack.com/p/the-msg-monopoly-how-a-japanese-food)
+- [Ibiden channels US$3.3bn into IC substrate expansion for AI servers — DigiTimes](https://www.digitimes.com/news/a20260204PD227/ibiden-expansion-capacity-production-plant.html)
+- [ABF substrate market: Unimicron/Ibiden/AT&S/Nan Ya/Shinko ~74% share — Wonderful PCB](https://www.wonderfulpcb.com/blog/top-abf-substrate-manufacturers-and-market-leaders/)
+- [Japanese companies monopolize the EUV photoresist supply market — Fountyl](https://www.fountyltech.com/news/japanese-companies-monopolize-the-euv-photoresist-supply-market/)
+- [Japan ramps photoresist investment for 2nm — TOK, JSR lead — TrendForce](https://www.trendforce.com/news/2025/11/06/news-japan-ramps-up-photoresist-investment-for-2nm-chips-tokyo-ohka-kogyo-jsr-lead-the-charge/)
+- [Tokyo Ohka Kogyo (4186.T) quote (EPS ¥327, ¥1tn cap) — Yahoo Finance](https://finance.yahoo.com/quote/4186.T/)
+- [Entegris valuation: P/E TTM ~75x / fwd ~34-39x, 3,200+ patents, switching costs — Simply Wall St](https://simplywall.st/stocks/us/semiconductors/nasdaq-entg/entegris/news/assessing-entegris-entg-valuation-after-recent-volatility-an/amp)
+- [Entegris (ENTG) statistics & valuation — stockanalysis.com](https://stockanalysis.com/stocks/entg/statistics/)
+- [Astera Labs record Q1 2026 (rev +93% YoY, GM 76.3%, +227%/yr, above PT) — TIKR](https://www.tikr.com/blog/astera-labs-stock-is-up-227-in-one-year-heres-whats-driving-the-rally)
+- [Arista Networks Q1 2026 8-K (rev +35.1% YoY, op. margin ~43%) — SEC](https://www.sec.gov/Archives/edgar/data/0001596532/000159653226000074/ex991q126-earningsrelease.htm)
+- [ARM Q4 FY2026 record results (P/E ~279, DC royalties ×2 YoY) — Investing.com transcript](https://www.investing.com/news/transcripts/earnings-call-transcript-arm-holdings-reports-record-q4-fy2026-results-93CH-4665853)
+- [Arm stock up 32% in 2026, $251 valuation debate — TIKR](https://www.tikr.com/blog/arm-stock-is-up-32-in-2026-can-a-251-valuation-keep-the-rally-going)
+- [Centrus reports Q1 2026 results ($2.3B LEU backlog) — PR Newswire](https://www.prnewswire.com/news-releases/centrus-reports-first-quarter-2026-results-302763250.html)
+- [Centrus awarded $900M to expand uranium enrichment in Ohio (HALEU) — Centrus IR](https://investors.centrusenergy.com/news-releases/news-release-details/centrus-awarded-900-million-expand-uranium-enrichment-ohio)
+- [Cameco PE ratio ~99-112 (TTM), GF Value significantly overvalued — MacroTrends/GuruFocus](https://www.macrotrends.net/stocks/charts/CCJ/cameco/pe-ratio)
+- [SK Hynix / Samsung / Micron HBM4 market share (~50-55 / 35-40 / 5-10%), shortage to 2028 — TradingKey](https://www.tradingkey.com/analysis/stocks/more/261879241-sk-hynix-hbm-shortage-samsung-tracker-valuation-tradingkey)
+- [Samsung first to deliver HBM4E samples, accelerating pursuit of SK Hynix — TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/261934980-samsung-skhynix-dram-mu-hbm4e-tradingkey)
+- [Energy Transfer: capturing data center natural gas demand at ~8% yield — Investing.com](https://www.investing.com/analysis/energy-transfer-capturing-data-center-natural-gas-demand-at-8-yield-200673699)
+- [Kinder Morgan: ~70% of future power demand from data centers in served states; Creekside Q4 2026 — SEC 8-K](https://www.sec.gov/Archives/edgar/data/0001506307/000150630726000033/kmi2026q18-kex991.htm)
+- [Data center immersion cooling fluids: 3M (Novec retire 2028), Shell, Chemours, Cargill — openPR](https://www.openpr.com/news/4530313/data-center-immersion-cooling-fluid-market-to-reach-usd-1-24)
+- [AI capex cycle 2026: ~$725B hyperscaler buildout, power is the gating constraint — AL Capital Advisory](https://alcapitaladvisory.com/research/intelligence/ai-infrastructure.html)
+- [AI capex risk: why AI infrastructure stocks sold off (OpenAI miss, 28 April 2026) — HeyGoTrade](https://www.heygotrade.com/en/blog/ai-capex-risk-openai-revenue-report/)
