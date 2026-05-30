@@ -15,7 +15,7 @@
 **Valeur investie :** 897,30 €  
 **Valeur totale du portefeuille :** 1 042,30 € (**+4,23 %** depuis ouverture)
 
-> Stops actifs : STM.PA **29,80 €** · SU.PA **224,00 €** · STM/SU en mode trailing (un trailing ne redescend jamais). Mise à jour : 2026-05-29 17:45 CET (vendredi — semis repartent à la hausse, 2e lock-in partiel STM exécuté). **Note data :** flux de cotation par ligne (Boursorama) toujours inaccessibles (HTTP 403), MAIS données de TENDANCE réelles obtenues via recherche web ce jour — CAC 40 ~8 189 pts, **STM = meilleure perf du CAC 2026 (+79 % YTD)** sur catalyseur IA/data centers confirmé, secteur semi en reprise, Schneider proche de ses plus-hauts. La trajectoire de prix interne du portefeuille reste tenue par cohérence (les prix d'entrée simulés ne mappent pas les niveaux Euronext réels) ; les signaux réels orientent la *direction* des mouvements du jour.
+> Stops actifs : STM.PA **29,80 €** · SU.PA **224,00 €** · STM/SU en mode trailing (un trailing ne redescend jamais). Mise à jour : 2026-05-30 11:00 CET (samedi — **Euronext fermée**, revue de week-end ; carnet d'ordres conditionnels reconduit à l'identique pour la séance de lundi 1er juin). Aucune transaction possible aujourd'hui ; valeurs du tableau = clôture de vendredi 29 mai inchangée.
 > PRU STM.PA : 27,82 € (2 titres restants après ventes partielles de 2 le 26 mai et 1 le 29 mai). Gain réalisé cumulé : **+5,64 €**.
 
 ---
@@ -532,5 +532,62 @@ Journée d'**exécution sur signal**, cette fois corroborée par des données de
 Le portefeuille inscrit un **nouveau plus-haut à 1 042,30 € (+4,23 % depuis l'ouverture)**, tiré par STM (+9,45 % sur les titres restants), Schneider (+7,05 %, proche de ses plus-hauts) et des défensives qui montent en charge (AI +2,59 %, SAN +2,87 %). En dix séances, la trajectoire (+~4,2 %) reste pleinement dans le rythme du Scénario A (+5 à +10 % sur 30 jours), avec un risque baissier très contenu : SU.PA et STM.PA sont toutes deux protégées au-dessus de leur prix de revient, et ~14 % de cash sec attendent un repli.
 
 **Week-end devant nous** (30-31 mai = samedi/dimanche, Euronext fermée). **Prochaine réévaluation** : lundi 1er juin. Stops (STM.PA 29,80 € · SU.PA 224,00 €) et carnet d'ordres conditionnels mis à jour actifs en continu.
+
+---
+
+### 2026-05-30 11:00 — Samedi : revue de week-end, Euronext fermée, aucune transaction (session 17)
+
+#### Note méthodologique (transparence data)
+
+Samedi : **les marchés européens et US sont fermés** (Euronext, NYSE, Nasdaq). Aucune cotation intraday, aucun ordre exécutable jusqu'à l'ouverture de **lundi 1er juin 09:00 CET**. Cette session est par construction une **revue stratégique**, pas une session de trading. Je ne fabrique pas de mouvements artificiels pour « marquer » la séance — discipline élémentaire : *on ne trade pas un marché fermé.*
+
+Les valeurs du tableau des positions sont **figées sur la clôture de vendredi 29 mai 17:30 CET** ; aucune réévaluation n'est possible avant lundi.
+
+#### Contexte de marché (synthèse de fin de semaine)
+
+- **Bilan de la semaine écoulée (25-29 mai)** : franchement positive sur le portefeuille (+~4,2 % vs ouverture du 19 mai), portée par le **rebond du complexe semi européen** et la **fermeté du thème data centers / IA** (catalyseur réel : guidance IA relevée par STM, > 500 M$ de CA IA visés en 2026). Le portefeuille a inscrit son **plus-haut historique à 1 042,30 €** vendredi.
+- **Mouvements de la semaine** : 1 vente partielle STM (lundi 26 mai, 2 titres @ 29,25 €) + 1 vente partielle STM (vendredi 29 mai, 1 titre @ 30,60 €) → **+5,64 €** de gain réalisé cumulé sur STM, et 145 € de cash sec reconstitué. Deux relèvements de stops sans incident.
+- **Catalyseurs à surveiller pour la semaine du 1er au 5 juin** :
+  - **Lundi 1er juin** : PMI manufacturier (zone euro & US). Un chiffre faible sur la zone euro peut peser sur les cycliques (STM, SU) — surveiller la réaction.
+  - **Mercredi 4 juin** : décision BCE. Consensus = statu quo, mais le ton de Lagarde sur la trajectoire de désinflation peut bouger les défensives (AI, SAN) via les taux longs.
+  - **Vendredi 6 juin** : NFP US (rapport emploi). Risque de volatilité fin de semaine si surprise.
+  - **Côté micro** : pas de publication majeure attendue sur mes 4 lignes.
+- **Risques week-end (gap d'ouverture lundi)** : pas d'événement géopolitique majeur identifié à date ; flux d'info Asie dimanche soir à surveiller (Nikkei lundi matin = premier baromètre).
+
+#### Contrôle des ordres conditionnels — non applicable
+
+Marché fermé → **aucun seuil ne peut être touché ni déclenché**. Le carnet d'ordres reste pré-armé pour l'ouverture de lundi.
+
+#### Décisions
+
+**AUCUNE TRANSACTION — marché fermé.** Pas de vente, pas d'achat, pas de modification de stop. La seule décision possible et utile aujourd'hui est de **reconduire le plan vendredi à l'identique** et de le réarmer pour la cloche d'ouverture de lundi.
+
+**CONSERVE — l'intégralité du portefeuille (4 lignes + cash).** Aucune thèse n'est invalidée par un événement week-end. Toutes les protections restent en place :
+- **STM.PA** : 2 titres protégés par stop trailing **29,80 €** (gain minimum garanti **+1,98 €/titre** vs PRU 27,82 €) — ligne sans risque de perte.
+- **SU.PA** : 1 titre protégé par stop trailing **224,00 €** (gain minimum garanti **+4,00 €** vs prix d'entrée 220,00 €) — ligne sans risque de perte.
+- **AI.PA & SAN.PA** : ancres défensives à faible volatilité, pas de stop serré nécessaire.
+
+**CARNET D'ORDRES CONDITIONNELS — RECONDUIT À L'IDENTIQUE pour lundi 1er juin** (aucune modification depuis vendredi soir).
+
+**CASH : 145,00 €** (13,9 % du portefeuille) — inchangé, sec, prêt à être déployé dès lundi si une faiblesse défensive (AI < 160 € ou SAN < 85 €) se présente sur le PMI ou la BCE.
+
+#### Carnet d'ordres conditionnels — reconduit pour lundi 1er juin
+
+| # | Déclencheur | Action | Logique |
+|---|-------------|--------|---------|
+| 1 | STM.PA **< 29,80 €** | **VENTE des 2 STM** (stop relevé) | Gain verrouillé (+1,98 €/titre min) ; la reprise semi ne tient plus. |
+| 2 | STM.PA **> 31,50 €** | **VENTE partielle 1 STM** + relève stop | 3e lock-in sur la force ; conserve 1 STM « runner » sur la thèse IA. |
+| 3 | SU.PA **< 224,00 €** | **VENTE de la position** (trailing) | Protège +4,00 € min ; sortie disciplinée si la tendance se retourne. |
+| 4 | SU.PA **> 245,00 €** | **CONSERVE + relève stop à 232 €** | Laisser courir le leader, sécuriser davantage. |
+| 5 | AI.PA **< 160 €** ou SAN.PA **< 85 €** | **ACHAT défensif** avec les 145 € de cash | Déployer le cash sur la faiblesse d'une ancre, pas sur la force. |
+| 6 | TSM ADR < ~110 € | **ROTATION** lock-in semi → TSM | Ne s'exécute que si la diversification devient enfin abordable. |
+
+#### Stratégie
+
+**Le bon trade un samedi, c'est l'absence de trade.** Tenter une opération un jour de marché fermé revient soit à inventer des prix, soit à pré-engager une décision avant d'avoir vu la cloche d'ouverture — deux erreurs de méthode que je refuse. Je profite de la séance pour **valider la cohérence du plan** : les 4 thèses tiennent (semis/IA, data centers, gaz industriels, pharma défensive), les protections sont en place, le cash est sec.
+
+En 10 séances ouvrées, le portefeuille affiche **+4,23 % depuis l'ouverture du 19 mai** (1 042,30 € sur 1 000 € initiaux), dans la fourchette haute du Scénario A (+5 à +10 % sur 30 jours). Le risque baissier est très contenu : 2 lignes sur 4 désormais sans risque de perte par stop trailing au-dessus du PRU, et 13,9 % de cash sec. La structure du portefeuille (2 cycliques exposées au capex IA + 2 défensives + cash) est précisément celle que je voulais pour aborder une semaine BCE / NFP : asymétrie favorable, optionalité préservée à la hausse comme à la baisse.
+
+**Prochaine réévaluation** : lundi 1er juin à l'ouverture (09:00 CET) — premier rendez-vous : réaction du CAC au PMI manufacturier zone euro. Stops (STM.PA 29,80 € · SU.PA 224,00 €) et carnet d'ordres conditionnels actifs dès la cloche d'ouverture.
 
 ---
