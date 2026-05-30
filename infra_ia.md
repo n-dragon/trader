@@ -5,8 +5,8 @@
 > marché** alors qu'ils jouent — ou vont jouer — un rôle critique. Document de travail destiné à
 > alimenter les décisions du journal de trading (`positions.md`, `etoro_trades.md`).
 >
-> **Date :** 29 mai 2026 — **édition v7** (la *lentille concurrentielle* : douve & coût d'entrée + réévaluation de tous les indices : voir §12).
-> v6 (huit poches — « la pile profonde ») : 29 mai. v5 (six poches) : 28 mai. v4 (sept poches) : 27 mai. v3 (valorisée) : 26 mai. v2 (approfondie) : 26 mai. v1 : 25 mai 2026.
+> **Date :** 30 mai 2026 — **édition v8** (la *chaîne électromécanique & le balance-of-plant* : EPC, appareillage, cooling, gensets, SMR, cuivre, optique CM + réévaluation des indices : voir §13).
+> v7 (lentille concurrentielle — douve & coût d'entrée) : 29 mai. v6 (huit poches — « la pile profonde ») : 29 mai. v5 (six poches) : 28 mai. v4 (sept poches) : 27 mai. v3 (valorisée) : 26 mai. v2 (approfondie) : 26 mai. v1 : 25 mai 2026.
 > **Auteur :** analyse « picks-and-shovels » de l'écosystème IA.
 >
 > **Nouveauté v3.** Ajout d'une **couche quantitative** : pour chaque acteur, un **multiple de valorisation
@@ -1308,6 +1308,209 @@ eToro/Euronext) :
 
 ---
 
+## 13. ★★★★★★ Édition v8 (30 mai 2026) — la **chaîne électromécanique & le balance-of-plant** (du 765 kV au cold-plate)
+
+> **Pourquoi cette édition.** Les v1→v7 ont disséqué le **silicium** (fab, mémoire, packaging, matériaux,
+> WFE) puis la **lentille concurrentielle**. Restait sous-analysée — listée en §2 (Couche 6) mais jamais
+> **chiffrée à l'indice** — toute la **couche physique « non-silicium »** : les **EPC** qui *construisent* le
+> data center et le *réseau*, l'**appareillage électrique** (switchgear/PDU/busway), les **OEM de
+> refroidissement**, les **gensets/moteurs**, le **nucléaire SMR & combustible**, le **cuivre & les aimants**,
+> et la **fabrication sous-traitée optique/PCB**. C'est *là* que part une part énorme des ~725 Md$ de capex
+> hyperscaler 2026 — mais c'est aussi là que le marché a déjà **violemment repricé**. ⚠️ Multiples =
+> instantanés d'agrégateurs publics (~mi/fin-mai 2026), arrondis, volatils ; sur des BPA souvent **cycliques
+> ou en forte montée**, croiser PER avant/EV-EBITDA/carnet.
+
+### 13.0 — Le fil rouge v8 : *rôle critique ≠ aubaine* (et le coût d'entrée n'est pas du capital)
+Trois constats structurants pour cette couche, qui prolongent la maxime v7 (« payer pour la douve, pas pour la perfection ») :
+
+1. **La douve de la plupart des EPC est la main-d'œuvre qualifiée et le carnet, pas le capital.** Monter une
+   société de tuyauterie/électricité de chantier ne coûte pas des milliards ; ce qui est rare, ce sont les
+   **électriciens/tuyauteurs qualifiés**, les **agréments** et un **carnet pluriannuel**. Barrière *réelle*
+   mais **fine et imitable** à terme → marge arbitrable dès que la formation rattrape. Or ces titres (FIX, STRL,
+   PWR, MYRG) sont déjà à **35–50× et ×2 en un an** : le marché *paie déjà* la pénurie de main-d'œuvre.
+2. **Là où le coût d'entrée est vraiment élevé** — IP moteur + réseau de service (Cummins/CAT), base installée
+   + certification (Eaton), oligopole turbines (Mitsubishi Heavy), **gisement** (Freeport), **monopole nucléaire
+   naval** (BWXT) — **le multiple est souvent resté plus raisonnable** parce que ces noms ne sont pas perçus
+   comme « play IA pur ». **C'est là qu'est la valeur relative de l'édition.**
+3. **La consolidation du refroidissement rebat les cartes :** **Eaton a racheté Boyd (9,5 Md$, mars 2026)** et
+   **Ecolab a repris CoolIT** → la douve « direct-to-chip » de Vertiv/Schneider est désormais **contestée par
+   des géants**. L'intensité concurrentielle du cooling **monte** (note C ↓), ce qui plafonne les indices du segment.
+
+### 13.1 — Neuf poches « balance-of-plant » (rattachement à la cartographie §2)
+> *On poursuit l'alphabet des poches : v6 = V→CC, v7 = DD→KK, **v8 = LL→TT**.*
+
+| Poche v8 | Couche (§2) | Douve / nature de la barrière | Verdict douve |
+|---|---|---|---|
+| **LL** — EPC mécanique/électrique de chantier DC | 6c | Main-d'œuvre qualifiée + carnet + relations hyperscalers ; **capital faible** | Fine (labor), déjà pricée |
+| **MM** — EPC réseau & transmission (grid) | 6a/6c | *Self-perform* à l'échelle (Quanta), flotte, agréments utilities | Moyenne (échelle), pricée |
+| **NN** — Appareillage & distribution (switchgear/PDU/busway) | 6a | **Base installée** + certification + *lead times* 50+ sem. ; *design-in* | Moyenne-haute |
+| **OO** — OEM de refroidissement DC (air→liquide, CDU) | 6b | Techno propriétaire (Airedale/CDU) + **capacité réservée** ; mais géants entrent | Moyenne, sous pression |
+| **PP** — Gensets & moteurs (backup + on-site gas) | 6a | **IP moteur + réseau de service mondial** + émissions ; *lead times* 18 mois | **Haute** (duopole CAT/CMI) |
+| **QQ** — SMR & combustible / R&D nucléaire | 6a | **Barrière réglementaire extrême** (NRC) ; naval = monopole (BWXT) | Très haute mais pré-revenu |
+| **RR** — Cuivre & terres rares / aimants | 0 | **Gisement irremplaçable** (décennies de permitting) ; aimants = arme géopolitique | Très haute (matière), mais *price-taker* |
+| **SS** — Sous-traitance optique & PCB haute-couche IA | 5/3 | Précision + confiance client + yields (Fabrinet) ; PCB 20+ couches (TTM) | Moyenne-haute, mais chère |
+| **TT** — Turbines à gaz (3ᵉ OEM) | 6a | **Oligopole mondial GE/Siemens/MHI**, *sold-out* jusqu'en 2029 | **Excellente** |
+
+#### Notes par poche (l'essentiel)
+- **LL — EPC bâtiment DC.** **Comfort Systems (FIX)** : carnet **12,45 Md$** (mars 2026, vs 11,9 Md$ fin
+  2025 ; **tech = 45 %**), *same-store* quasi-doublé en un an — exécution magistrale, **mais ~44–47× fwd** =
+  cycle industriel déjà célébré. **EMCOR (EME)** est le **moins cher du trio (~20×)** pour une exposition très
+  proche → meilleur couple value/qualité de la poche. **Sterling (STRL)** : pivot DC réussi mais **~43–50×**.
+  Douve = **rareté de main-d'œuvre**, *réelle mais réplicable* → indice plafonné malgré le rôle central.
+- **MM — EPC réseau.** **Quanta (PWR)** : carnet **record 48,5 Md$**, *self-perform* (vrai différenciateur
+  d'échelle), **~35× fwd**. **MasTec (MTZ)** : carnet 20,3 Md$, EBITDA +73 % YoY, guide ~1,5 Md$ — un cran
+  moins cher. **MYR Group (MYRG)** : marges en hausse mais **+105 % YTD**, proche du plus-haut → momentum.
+- **NN — Appareillage.** **Eaton (ETN)** : **commandes data center +240 % YoY**, CA DC +50 %, carnet 22,8 Md$,
+  **base installée dominante** en Amérique du Nord, **fwd ~31×** = raisonnable pour la croissance + douve →
+  *le pick de qualité de la couche bâtiment*. **Powell (POWL)** : switchgear MV, carnet 1,8 Md$, **méga-commande
+  DC >400 M$**, **split 3-pour-1** (signal de surchauffe), ~30× fwd. **nVent (NVT)** : enclosures + **CDU liquid
+  cooling** + busbar, objectifs 10–13 %/an, ~34× fwd. **Legrand (LR.PA)** : **coté Paris (CAC 40)**, busway/PDU
+  (« white space power »), **DC = 20 % des ventes**, rachat **Kratos** + invest. **Accelsius (cooling biphasé)**,
+  **TTM ~32×** → **le levier appareillage le plus accessible pour ce compte Euronext**. **Hubbell (HUBB)** : utility
+  + électrique, ~24×.
+- **OO — Cooling OEM.** **Modine (MOD)** : pure-play DC le plus net (Airedale), **accord-capacité 4 Md$**
+  (acompte 165 M$, jusqu'en 2029), CA DC +119 % à 644 M$ (FY25), cible **>2 Md$ en FY28**, **~½ du multiple de
+  Vertiv** → meilleure *value* cooling. **Munters (MTRS.ST)** / **SPX (SPXC)** : air/thermique, ~25–30×.
+  ⚠️ **Eaton-Boyd + Ecolab-CoolIT** intensifient la concurrence direct-to-chip → C plafonné pour tout le segment.
+- **PP — Gensets & moteurs.** **Cummins (CMI)** : Power Systems record, expansion **QSK95** (150 M$, MN),
+  *lead times* **18 mois**, **~18–20×** = le **moins cher et le plus sous-perçu comme « play IA »** de l'édition
+  → *value pick du balance-of-plant*. **Caterpillar (CAT)** : **commande 2 GW** de G3516 gaz (campus Monarch),
+  duopole gensets (CAT 18 % / CMI 16 %), **~32×** = qualité déjà bien pricée, méga-cap. **Generac (GNRC)** : ~95×
+  (BPA déprimé), exposition DC réelle mais marginale. **Bloom Energy (BE)** : piles à combustible on-site
+  (Equinix SV11), **déficitaire / P-E n.s.** → pari, pas value.
+- **QQ — SMR & combustible.** **BWX Technologies (BWXT)** : **monopole des réacteurs navals US** + SMR
+  (BWRX-300) + HALEU, carnet **7,26 Md$ (+50 %)**, **fwd ~42×** = la façon **la plus « sûre »** de jouer le
+  nucléaire-IA, mais déjà chère. **NuScale (SMR)** : seul **design approuvé NRC**, mais **non-commercialisé,
+  pertes, −29 %/an** (class action) → *special situation distressed*. **Oklo (OKLO)** : **pré-revenu**, pipeline
+  ~14 GW (Switch 12 GW), **+167 %/an** → spéculatif. **Talen (TLN)** *(déjà indexé v3=5)* : flotte nucléaire
+  **non-réplicable**, campus AWS, mais **BPA TTM −5,13 $** (volatil) → conservé en *special situation*.
+- **RR — Cuivre & aimants.** **Freeport (FCX)** : le **goulet matière** de toute la grille et du DC (« il faut
+  ~tonnes de cuivre par MW »), gisement = barrière décennale, **mais *price-taker*** et choc Grasberg → cyclique ;
+  **sous-possédé comme « play IA/grille »**. **MP Materials (MP)** : seul aimant NdFeB **US** (Mountain Pass +
+  Independence TX, prod. déc. 2025), **stratégique mais cher/spéculatif** (la domination chinoise est *à la fois*
+  la thèse et le risque).
+- **SS — Optique & PCB sous-traités.** **Fabrinet (FN)** : « moteur de précision » de l'optique IA (DCI 1,6T/
+  CPO), Q3-FY26 record (CA ~1,21 Md$, **+39 % YoY**), **mais ~45–62× (TTM)**. **TTM (TTMI)** : PCB haute-couche
+  pour réseau IA/défense, DC&networking = 36 % du CA (+30 % YoY), **mais ~50×+** et GF Value très en dessous.
+  Rôle critique, **valorisations tendues** → indices modestes.
+- **TT — Turbines (3ᵉ OEM).** **Mitsubishi Heavy (7011.T)** : 3ᵉ pied de l'**oligopole turbines sold-out**
+  (GE Vernova/Siemens Energy/MHI), carnet énergie **~3,6 T¥ (~23 Md$, +40 %)**, **doublement de capacité**,
+  **~40× (TTM)** = **moins cher relativement que GEV/ENR** pour la *même* douve → levier turbine *value*.
+
+### 13.2 — Tableau v8 des **nouveaux** noms (douve & coût d'entrée)
+> *Barrière (B) et Concurrence (C) notées 0–5 (C inversé : 5 = peu de rivaux). Indice 0–10 net. ▲/▼ = vs perception de marché.*
+
+| Acteur | Ticker | Couche / rôle | PER (≈) | **B** | **C** | Indice | Lecture / **risque** |
+|---|---|---|---:|:---:|:---:|:---:|---|
+| **Cummins** | CMI | Gensets/Power Systems (duopole) | **~18–20×** | **4** | **3** | **6** | **Top pick v8** : moteur+service = vraie douve, *lead* 18 mois, **pas perçu « IA »** → le moins cher |
+| **Eaton** | ETN | Switchgear/UPS/PDU (base installée) | **~31×** (fwd) | **4** | **3** | **5** | Commandes DC **+240 %**, carnet 22,8 Md$ ; multiple raisonnable pour la croissance + douve |
+| **Mitsubishi Heavy** | 7011.T | Turbines à gaz (3ᵉ OEM oligopole) | **~40×** | **5** | **5** | **5** | Oligopole *sold-out* ; **moins cher que GEV/ENR** ; ⚠️ conglomérat (défense/naval dilue) |
+| **Freeport-McMoRan** | FCX | Cuivre (goulet matière grille/DC) | **~30–35×** (cyclique) | **5** | **4** | **5** | Goulet cuivre **sous-possédé comme play IA** ; ⚠️ *price-taker*, choc Grasberg |
+| **Legrand** | LR.PA | PDU/busway « white space » | **~32×** | **3** | **3** | **5** | **Accessible Euronext (CAC 40)**, DC=20 % ventes, push cooling (Accelsius) ; douve installée |
+| **Modine** | MOD | Cooling DC (Airedale/CDU) | **~30–35×** (fwd) | **3** | **3** | **5** | Pure-play cooling à **½ du multiple Vertiv** ; accord 4 Md$ ; ⚠️ Eaton-Boyd entre |
+| **EMCOR** | EME | EPC mécanique/électrique DC | **~20×** | **2** | **2** | **4** | **Le moins cher des EPC** pour une expo proche de FIX ; douve = main-d'œuvre (fine) |
+| **Quanta Services** | PWR | EPC réseau (*self-perform*) | **~35×** (fwd) | **3** | **3** | **4** | Carnet record 48,5 Md$, vraie douve d'échelle ; ⚠️ déjà bien pricé |
+| **MasTec** | MTZ | EPC infrastructure/réseau | **~moyen** | **2** | **2** | **4** | Carnet 20,3 Md$, EBITDA +73 % ; un cran sous Quanta en prix |
+| **nVent** | NVT | Enclosures + CDU + busbar | **~34×** (fwd) | **3** | **3** | **4** | Levier cooling+busbar ; objectifs 10–13 %/an ; douve moyenne |
+| **Powell Industries** | POWL | Switchgear MV (custom) | **~30×** (fwd) | **3** | **3** | **4** | Carnet 1,8 Md$, méga-commande DC >400 M$ ; ⚠️ **déjà très monté** (split 3:1) |
+| **BWX Technologies** | BWXT | Nucléaire naval + SMR + HALEU | **~42×** (fwd) | **5** | **4** | **4** | « SMR le plus sûr » (monopole naval) ; ⚠️ cher en absolu |
+| **Caterpillar** | CAT | Gensets gaz (commande 2 GW) | **~32×** (fwd) | **4** | **3** | **4** | Duopole gensets ; qualité **déjà pricée**, méga-cap |
+| **Hubbell** | HUBB | Électrique/utility + DC | **~24×** | **3** | **3** | **4** | Exposition grid/DC correcte au juste prix |
+| **Munters** | MTRS.ST | Air/cooling DC | **~25×** | **3** | **3** | **4** | Cooling secondaire ; ⚠️ concurrence Vertiv/Modine/SPX |
+| **SPX Technologies** | SPXC | Cooling/HVAC DC | **~30×** | **3** | **3** | **4** | Thermique bâtiment ; douve moyenne |
+| **Comfort Systems** | FIX | EPC mécanique DC | **~44–47×** (fwd) | **2** | **2** | **3** | Exécution magistrale (carnet 12,45 Md$) **mais** cycle déjà célébré ; douve fine |
+| **Sterling Infrastructure** | STRL | EPC civil/DC site | **~43–50×** | **2** | **2** | **3** | Pivot DC réussi **mais** très cher ; douve labor |
+| **MYR Group** | MYRG | EPC T&D | **élevé** | **2** | **2** | **3** | Marges en hausse **mais** +105 % YTD au plus-haut |
+| **NuScale** | SMR | SMR (seul design NRC) | **n.s.** (pertes) | **4** | **3** | **3** | *Special situation distressed* ; pertes, class action, −29 %/an |
+| **Generac** | GNRC | Backup power | **~95×** (BPA déprimé) | **3** | **3** | **3** | Expo DC marginale ; cher sur BPA déprimé |
+| **MP Materials** | MP | Aimants NdFeB (terres rares US) | **très élevé** | **4** | **4** | **3** | Stratégique (seul aimant US) **mais** cher/spéculatif ; thèse = risque (Chine) |
+| **Fabrinet** | FN | Sous-traitance optique IA | **~45–62×** (TTM) | **4** | **3** | **3** | Goulet d'assemblage optique réel **mais** valorisation tendue |
+| **TTM Technologies** | TTMI | PCB haute-couche IA/défense | **~50×+** | **3** | **3** | **3** | Interconnect IA/défense ; GF Value très en dessous du cours |
+| **Oklo** | OKLO | SMR (pré-revenu) | **n.s.** (pré-rev.) | **4** | **3** | **2** | Pipeline 14 GW **mais** pré-revenu, +167 %/an → spéculatif |
+| **Bloom Energy** | BE | Piles à combustible on-site | **n.s.** (pertes) | **3** | **3** | **2** | Optionalité on-site **mais** déficitaire → pari |
+
+> **Lecture 13.2.** Le **gisement net** de cette couche est **étroit** : un seul nom à 6 (**Cummins** —
+> douve moteur+service *et* multiple bas *et* sous-perçu comme play IA), puis une grappe à 5 où une **vraie
+> barrière** coïncide avec un **multiple encore digeste** (**Eaton**, **Mitsubishi Heavy**, **Freeport**,
+> **Legrand**, **Modine**). **Tout le bloc EPC** (FIX, STRL, PWR, MYRG) — pourtant *au cœur* de la
+> construction IA — plafonne à **3–4** : rôle critique, **douve de main-d'œuvre réplicable**, et surtout
+> **multiples de 35–50× qui pricent déjà le supercycle**. Les **SMR/optique/aimants** (Oklo, Bloom, MP, FN,
+> TTMI, NuScale) sont **chers ou spéculatifs** malgré un rôle réel. **Confirmation du fil rouge v7 :** la
+> couche « non-silicium » est *indispensable* mais le marché l'a **déjà repricée** — l'alpha est dans les
+> **moteurs, l'appareillage à base installée, la turbine n°3 et le cuivre**, pas dans les contractants à 50×.
+
+### 13.3 — Réévaluation des **entrées v3→v7** à la lumière des données de mai 2026
+> On **conserve** chaque entrée et on **réajuste** l'indice (v7 → v8). Comme la v7 date du 29 mai, les
+> mouvements v8 sont **rares et petits**, motivés par des **faits nouveaux de fin mai 2026** : consolidation
+> du cooling (Eaton-Boyd / Ecolab-CoolIT), intensité du capex réseau (Eaton DC +240 %), turbines (3ᵉ OEM MHI
+> ajouté), et l'entrée formelle d'acteurs jusque-là seulement cités. « = » : inchangé.
+
+| Acteur | Ticker | Indice **v7** | **v8** | Motif (fait nouveau fin mai 2026) |
+|---|---|:---:|:---:|---|
+| **Synopsys** | SNPS | 8 | **8 =** | Top pick « douve × décote » réaffirmé (duopole EDA corrigé, Elliott) |
+| **SK Hynix** | 000660.KS | 8 | **8 =** | Leader HBM ; Samsung rattrape mais pénurie HBM jusqu'en 2028 |
+| **Energy Transfer** | ET | 8 | **8 =** | Gas-to-power midstream le moins cher, rdt ~8 % ; ramp DC Texas |
+| **Micron** | MU | 8 | **8 =** | Oligopole DRAM/HBM ; « qualité en solde » |
+| **TSMC** | TSM | 7 | **7 =** | Monopole ≤3 nm, multiple raisonnable |
+| **Nexans** | NEX.PA | 7 | **7 =** | Top pick EU câbles HV (laggard vs Prysmian) |
+| **Vistra** | VST | 7 | **7 =** | Parc nucléaire non-réplicable ; demande puissance ↑ |
+| **HD Hyundai Electric** | 267260.KS | 7 | **7 =** | Carnet transfo saturé pluriannuel |
+| **Kinder Morgan** | KMI | 7 | **7 =** | ~70 % de la demande DC future dans ses États ; Creekside Q4 2026 |
+| **Resonac** | 4004.T | 7 | **7 =** | Consommables packaging ~11–12× + catalyseur scission |
+| **Dell** | DELL | 6 | **6 =** | « Pelle » peu chère, douve faible (ODM) |
+| **TE Connectivity** | TEL | 6 | **6 =** | Le moins cher des connecteurs ; concurrence Amphenol/Molex |
+| **AT&S** | ATS.VI | 6 | **6 =** | Levier ABF EU *deep value*, endetté |
+| **Constellation Energy** | CEG | 6 | **6 =** | PPA nucléaire 20 ans ; repli = entrée |
+| **Digital Realty** | DLR | 6 | **6 =** | Foncier du calcul ; concurrence hyperscalers en propre |
+| **Air Liquide** | AI.PA | 6 | **6 =** | Gaz spéciaux on-site (oligopole à 3) — ligne infra IA détenue |
+| **Veolia / SPIE** | VIE.PA / SPIE.PA | 6 / 6 | **6 / 6 =** | Eau & services élec. DC, accessibles Paris |
+| **onsemi** | ON | 6 | **6 =** | SiC/800 VDC ; ⚠️ capacité chinoise |
+| **Photronics** | PLAB | 6 | **6 =** | Photomasques *deep value* |
+| **Disco** | 6146.T | 6 | **6 =** | Quasi-monopole découpe ; douve exceptionnelle |
+| **Ferrotec / NGK / JX / Dover** | — | 6 | **6 =** | Consommables/céramiques/cibles/raccords : douves matériau |
+| **GE Vernova** | GEV | 3 | **3 =** | Turbines sold-out ; **MHI ajouté comme alternative moins chère** (cf. 13.2) |
+| **Siemens Energy** | ENR.DE | 3 | **3 =** | Idem oligopole turbines ; re-rating fait |
+| **Vertiv** | VRT | 3 | **3 =** | ⚠️ **Eaton-Boyd + Ecolab-CoolIT** contestent la douve cooling → reste bas |
+| **Delta Electronics** | 2308.TW | 4 | **4 =** | ~60 % du power shelf ; cap ~100 Md$ |
+| **Schneider Electric** | SU.PA | 5 | **5 =** | Power+cooling installé ; ⚠️ Legrand/Eaton/Vertiv se densifient |
+| **ASML / VAT / Advantest / Lasertec / Hoya / Disco** | — | 4–6 | **= ** | Monopoles WFE/inspection/blanks : douves quasi-imprenables, primes méritées |
+| **Broadcom** | AVGO | 5 | **5 =** | ASIC + réseau ; douve IP/hyperscalers |
+| **Williams** | WMB | 5 | **5 =** | Gas-to-power on-site ; re-raté croissance |
+| **Howmet / GE Vernova superalliages** | HWM | 3 | **3 =** | Coulées turbines : goulet derrière le goulet, ~55× |
+| **IREN / Hut 8 / Core Scientific / TeraWulf** | — | 3–4 | **= ** | Mineurs→IA : rôle réel mais **puissance réplicable** ; déjà ×5–×7 |
+| **Coherent / Lumentum / Corning** | COHR/LITE/GLW | 1–2 | **= ** | Optique/CPO : menace Nvidia CPO + valorisations extrêmes |
+| **Seagate / WDC** | STX / WDC | 4 | **4 =** | HDD nearline duopole *sold-out* |
+| *(toutes les autres lignes v3→v7)* | — | — | **= ** | **Conservées et réaffirmées** à leur niveau v7 (pas de fait nouveau matériel au 30 mai) |
+
+> **Lecture 13.3.** La v8 **ne bouleverse rien** — elle *complète* la carte par sa couche manquante et
+> **confirme** la hiérarchie : (1) **duopole EDA corrigé** (Synopsys), (2) **mémoire HBM mal-aimée** (SK Hynix,
+> Micron), (3) **dérivées gaz/réseau sous-possédées** (ET, KMI, Nexans, Air Liquide, HD Hyundai) et **verrous
+> matériaux/packaging** (Ibiden, Shin-Etsu, Resonac, Disco, JX). Le seul **ajustement qualitatif** v8 est la
+> **pression concurrentielle nouvelle sur le refroidissement** (Eaton/Boyd, Ecolab/CoolIT) qui **valide** de
+> garder Vertiv bas et plafonne les OEM cooling (Modine/Munters/SPX/nVent) à 4–5.
+
+### 13.4 — Lien avec le portefeuille & candidats réalistes (Euronext) — vue v8
+Pour *ce* compte (~1 017 €, eToro/Euronext), la couche balance-of-plant ajoute **un seul vrai candidat
+accessible Paris** et **renforce** deux lignes détenues :
+
+1. **Legrand (LR.PA)** — **NOUVEAU candidat EU (indice 5)** : PDU/busway « white space », DC = 20 % des ventes,
+   poussée cooling (Accelsius), **CAC 40, ~32×**. Le moyen le plus **liquide et accessible** de jouer
+   l'appareillage DC depuis Paris, à côté de Schneider.
+2. **Schneider (SU.PA)** *(détenu)* — **maintenu 5** : cœur power+cooling ; ⚠️ surveiller la **densification
+   concurrentielle** (Legrand monte en cooling, Eaton absorbe Boyd).
+3. **Air Liquide (AI.PA)** *(détenu)* — **maintenu 6** : douve réseau gaz spéciaux on-site sous-appréciée.
+4. **Nexans (NEX.PA)** — **top pick EU câbles HV maintenu (7)**.
+5. *(Watchlist hors-Euronext, douve haute / multiple digeste)* **Cummins (CMI, indice 6)** comme la meilleure
+   *value* « moteur de l'IA » sous-perçue ; **Eaton (ETN, 5)** pour la base installée d'appareillage ;
+   **Mitsubishi Heavy (7011.T, 5)** comme **turbine n°3 décotée** ; **Freeport (FCX, 5)** comme **goulet cuivre**.
+
+> **Cohérence inchangée depuis v1 :** *acheter la faiblesse, pas la force* ; *offre contrainte ≠ surcapacité* ;
+> *payer pour la douve, pas pour la perfection*. La v8 y ajoute : **« le rôle critique d'une couche ne garantit
+> pas sa sous-évaluation — quand le marché a déjà payé le supercycle (EPC à 50×), l'alpha migre vers les
+> maillons à douve dure et multiple oublié (moteurs, appareillage, turbine n°3, cuivre). »**
+
+---
+
 ## Sources
 
 ### v1 (25 mai 2026)
@@ -1508,3 +1711,28 @@ eToro/Euronext) :
 - [Data center immersion cooling fluids: 3M (Novec retire 2028), Shell, Chemours, Cargill — openPR](https://www.openpr.com/news/4530313/data-center-immersion-cooling-fluid-market-to-reach-usd-1-24)
 - [AI capex cycle 2026: ~$725B hyperscaler buildout, power is the gating constraint — AL Capital Advisory](https://alcapitaladvisory.com/research/intelligence/ai-infrastructure.html)
 - [AI capex risk: why AI infrastructure stocks sold off (OpenAI miss, 28 April 2026) — HeyGoTrade](https://www.heygotrade.com/en/blog/ai-capex-risk-openai-revenue-report/)
+
+### v8 (30 mai 2026 — chaîne électromécanique & balance-of-plant : EPC, appareillage, cooling, gensets, SMR, cuivre, optique CM)
+- [Comfort Systems backlog $12.45B (mars 2026), tech = 45 %, same-store quasi-doublé — Dealroom/SEC 8-K](https://www.sec.gov/Archives/edgar/data/0001035983/000110465926047679/fix-20260423xex99d1.htm)
+- [Comfort Systems (FIX) forward P/E ~44–47× (mai 2026) — GuruFocus/financecharts](https://www.gurufocus.com/term/forward-pe-ratio/FIX)
+- [EMCOR / Quanta / sector EPC multiples (~20× / ~29–35×) — TIKR](https://www.tikr.com/blog/comfort-systems-usa-stock-rises-after-q1-2026-earnings-beat-what-a-2000-target-means-for-investors)
+- [Sterling Infrastructure (STRL) P/E TTM ~50× / fwd ~43× — GuruFocus/MacroTrends](https://www.gurufocus.com/term/pettm/STRL)
+- [Quanta Services: backlog record $48.5B (Q1 2026), fwd P/E ~35× — Simply Wall St](https://simplywall.st/stocks/us/capital-goods/nyse-pwr/quanta-services/news/quanta-services-targets-ai-power-and-grid-growth-after-2026)
+- [MasTec (MTZ) backlog $20.3B, EBITDA +73 % YoY, guide ~$1.5B ; MYR Group +105 % YTD — Globe and Mail / StockStory](https://www.theglobeandmail.com/investing/markets/stocks/MTZ/pressreleases/36795703/is-quanta-the-biggest-winner-from-data-center-power-demand/)
+- [Eaton Q1 2026: datacenter orders +240 % YoY, DC rev +50 %, backlog $22.8B ; fwd P/E ~31× — SEC 8-K / GuruFocus](https://www.sec.gov/Archives/edgar/data/0001551182/000155118226000010/etn03312026exhibit99.htm)
+- [Powell Industries Q2 FY2026: backlog $1.8B, >$400M DC mega-order, split 3:1, fwd P/E ~30× — SEC 8-K / stockanalysis](https://www.sec.gov/Archives/edgar/data/0000080420/000008042026000063/ex991-powlq2xfy2026earning.htm)
+- [nVent Electric (NVT) fwd P/E ~34×, 3-yr targets 10–13 % organic (data center/utility) — GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/NVT)
+- [Legrand (LR.PA): data center = 20 % of 2025 sales (€9.5B), Kratos + Accelsius two-phase cooling, P/E TTM ~32× — PR Newswire / GuruFocus](https://www.prnewswire.com/news-releases/legrand-announces-acquisition-of-kratos-industries-and-strategic-investment-in-accelsius-two-phase-liquid-cooling-technology-302686678.html)
+- [Modine (MOD): $4B Airedale capacity deal (acompte $165M, à 2029), DC sales +119 % à $644M, cible >$2B FY28, ~½ du multiple Vertiv — Quiver/Seeking Alpha](https://www.quiverquant.com/news/Modine+jumps+after+announcing+$4B+long-term+data+center+cooling+capacity+agreement)
+- [Cummins Q1 2026: Power Systems record, expansion QSK95 ($150M, MN), lead time 18 mois — SEC 8-K](https://www.sec.gov/Archives/edgar/data/0000026172/000002617226000013/cmi2026q18-kex99.htm)
+- [Caterpillar: commande 2 GW G3516 gaz (campus Monarch), parts marché gensets CAT 18 % / CMI 16 %, fwd P/E ~32× — MarketsandMarkets / Letonpower](https://www.marketsandmarkets.com/ResearchInsight/data-center-generators-companies.asp)
+- [Generac (GNRC) P/E TTM ~95× (BPA déprimé $2.73) ; Bloom Energy (BE) déficitaire — fullratio / MacroTrends](https://fullratio.com/stocks/nyse-gnrc/pe-ratio)
+- [BWX Technologies: FY25 rev $3.2B (+18 %), backlog $7.26B (+50 %), fwd P/E ~42× ; monopole nucléaire naval + SMR — GuruFocus / 247WallSt](https://www.gurufocus.com/term/forward-pe-ratio/BWXT)
+- [NuScale (seul design NRC, non-commercialisé, −29 %/an) vs Oklo (pré-revenu, pipeline ~14 GW Switch, +167 %/an) — Motley Fool](https://www.fool.com/coverage/better-buy/2026/05/27/nuscale-power-vs-oklo-which-nuclear-stock-is-a-better-buy-in-2026/)
+- [Talen Energy (TLN) BPA TTM −$5.13 ; campus AWS nucléaire — MacroTrends](https://www.macrotrends.net/stocks/charts/TLN/talen-energy/pe-ratio)
+- [Freeport-McMoRan: cuivre = demande structurelle data centers/IA/grille ; choc Grasberg ; valorisation cyclique — ad-hoc-news / Barchart](https://www.ad-hoc-news.de/boerse/news/ueberblick/freeport-mcmoran-stock-us35671d8570-copper-demand-tailwinds-meet/69361826)
+- [MP Materials: seul aimant NdFeB US (Mountain Pass + Independence TX, prod. déc. 2025) — SEC 8-K](https://www.sec.gov/Archives/edgar/data/0001801368/000180136826000027/mpmcq12026er.htm)
+- [Fabrinet (FN): Q3 FY26 record rev ~$1.21B (+39 % YoY), DCI/optique IA, P/E TTM ~62× — Simply Wall St / GuruFocus](https://www.gurufocus.com/term/pettm/FN)
+- [TTM Technologies (TTMI): Q1 2026 rev $846M (+30 %), DC&networking = 36 %, P/E ~50×+, GF Value très en dessous — SEC 8-K / GuruFocus](https://www.sec.gov/Archives/edgar/data/0001116942/000119312526191490/d103788dex991.htm)
+- [Mitsubishi Heavy (7011.T): carnet énergie ~3,6 T¥ (~$23B, +40 %), doublement capacité turbines, P/E TTM ~40× — Bloomberg / DCD / companiesmarketcap](https://www.datacenterdynamics.com/en/news/mitsubishi-heavy-industries-to-revamp-gas-turbine-production-process-to-meet-growing-demand-from-ai-data-center-sector/)
+- [Eaton rachète Boyd ($9.5B, mars 2026) ; Ecolab reprend CoolIT — consolidation du direct-to-chip cooling — (cf. §2 Couche 6b)](https://www.legrand.us/about-us/newsroom/press/legrand-acquires-kratos-industries)
