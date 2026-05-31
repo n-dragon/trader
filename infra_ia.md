@@ -5,8 +5,8 @@
 > marché** alors qu'ils jouent — ou vont jouer — un rôle critique. Document de travail destiné à
 > alimenter les décisions du journal de trading (`positions.md`, `etoro_trades.md`).
 >
-> **Date :** 30 mai 2026 — **édition v8** (la *chaîne électromécanique & le balance-of-plant* : EPC, appareillage, cooling, gensets, SMR, cuivre, optique CM + réévaluation des indices : voir §13).
-> v7 (lentille concurrentielle — douve & coût d'entrée) : 29 mai. v6 (huit poches — « la pile profonde ») : 29 mai. v5 (six poches) : 28 mai. v4 (sept poches) : 27 mai. v3 (valorisée) : 26 mai. v2 (approfondie) : 26 mai. v1 : 25 mai 2026.
+> **Date :** 31 mai 2026 — **édition v9** (*« le maillon dans le maillon »* : acier électrique & cœurs de transfos, sous-systèmes WFE oubliés (implant/métrologie), sources laser EUV, métaux d'interconnexion du packaging, batteries de salle, HVDC, gaz rares, immersion cooling + réévaluation des indices : voir §14).
+> v8 (chaîne électromécanique & balance-of-plant) : 30 mai. v7 (lentille concurrentielle — douve & coût d'entrée) : 29 mai. v6 (huit poches — « la pile profonde ») : 29 mai. v5 (six poches) : 28 mai. v4 (sept poches) : 27 mai. v3 (valorisée) : 26 mai. v2 (approfondie) : 26 mai. v1 : 25 mai 2026.
 > **Auteur :** analyse « picks-and-shovels » de l'écosystème IA.
 >
 > **Nouveauté v3.** Ajout d'une **couche quantitative** : pour chaque acteur, un **multiple de valorisation
@@ -75,6 +75,28 @@
 > prime ; la *vraie* anomalie 2026 est un **monopole/duopole qui a corrigé** — d'où la promotion de
 > **Synopsys** (duopole EDA **−23 %** depuis son plus-haut) et de **TSMC** (le monopole le moins cher du
 > sommet de pile) dans le haut du tableau réévalué.
+>
+> **Nouveauté v9 (31 mai).** On **descend encore d'un cran** — *« le maillon dans le maillon »* (§14) : sous
+> chaque goulet déjà cartographié se cache un **matériau ou un sous-système** encore plus rare, et **huit
+> poches** (UU→BBB) le chiffrent à la lentille douve/concurrence : **(UU)** l'*acier électrique à grains
+> orientés (GOES) & les cœurs amorphes* — la matière **dans** le transformateur (Cleveland-Cliffs **seul
+> producteur US**, ne couvre **pas la moitié** de la demande domestique ; ArcelorMittal/Aperam **accessibles
+> Euronext**, Nippon Steel, JFE, Proterial/Metglas) ; **(VV)** les *sous-systèmes WFE oubliés* — **implantation
+> ionique** (Axcelis pure-play) & **contrôle de procédé** (KLA quasi-monopole inspection ~50–60 %, Onto, Nova)
+> + **Tokyo Electron**, le généraliste WFE **le moins cher** (~27× vs AMAT ~40×) ; **(WW)** les *sources laser
+> EUV & l'optique hors-ASML* (Komatsu/**Gigaphoton**, Ushio ; Trumpf & **Zeiss SMT** privés) ; **(XX)** les
+> *métaux d'interconnexion du packaging* — **fil de bonding, lead frames, die-attach** (Sumitomo Metal Mining,
+> Mitsui High-tec, **ASMPT**, Tanaka/Heraeus privés) ; **(YY)** les *batteries de salle UPS/BBU & grid-tie*
+> (**EnerSys ~11×**, solution lithium DC) ; **(ZZ)** le *HVDC & l'électronique de puissance réseau*
+> (**Hitachi Energy** dans Hitachi, ABB, Mitsubishi Electric) ; **(AAA)** les *gaz rares* — **hélium & néon**,
+> la matière première **volatile** de la litho (crise hélium 2026 : Qatar ~35 %, guerre Iran ; Linde, Air
+> Products, Air Liquide) ; **(BBB)** l'*immersion & direct-to-chip pure-play* (**Asetek**, GRC/LiquidStack
+> privés). **Conclusion v9 :** le gisement *value* net se concentre sur **Tokyo Electron** (généraliste WFE le
+> moins cher à douve réelle), **Cleveland-Cliffs** (seul GOES US, deep value cyclique en *turnaround*) et
+> **EnerSys** (batterie de salle ~11×, optionalité DC) ; **KLA, Axcelis, Sumitomo Metal Mining, ASMPT,
+> Hitachi, Air Products** forment une grappe à 5. **Honnêteté :** comme en v6, **quasi aucune idée v9 n'est
+> cotée à Paris** — les seuls accès Euronext propres sont **ArcelorMittal/Aperam (Amsterdam)** sur le GOES et
+> **Air Liquide (détenue)** sur les gaz rares ; la v9 enrichit surtout la *carte* et la watchlist.
 >
 > **Avertissement d'honnêteté intellectuelle.** En mai 2026, l'ensemble du complexe « infra IA »
 > s'est **déjà fortement revalorisé** (Nvidia ~47× les bénéfices futurs ; en Europe : STMicro a plus
@@ -1511,6 +1533,201 @@ accessible Paris** et **renforce** deux lignes détenues :
 
 ---
 
+## 14. ★★★★★★★ Édition v9 (31 mai 2026) — *« le maillon dans le maillon »* (matériaux & sous-systèmes ultimes)
+
+> **Pourquoi cette édition.** Les v1→v8 ont cartographié la pile du *silicium* (v1–v7) puis du *balance-of-plant*
+> électromécanique (v8). La v9 fait un dernier pas de **réduction d'échelle** : **sous chaque goulet déjà
+> identifié se cache un maillon plus rare** — *l'acier* dans le transformateur, *l'implanteur ionique* dans la
+> fab, *le fil d'or* dans le boîtier, *la batterie* dans la salle, *le néon* dans le laser. Ce sont les
+> intrants que personne ne « pricе » comme du *play IA*, et c'est précisément là que la **lentille
+> douve × concurrence** (v7) peut encore débusquer une décote. ⚠️ Multiples = instantanés d'agrégateurs publics
+> (~fin mai 2026), arrondis, volatils ; sur des BPA souvent **cycliques** (acier, miniers, WFE), croiser
+> PER avant / EV-EBITDA normalisé / carnet.
+
+### 14.0 — Le fil rouge v9 : *plus on descend, plus la douve est « matière », mais plus le titre est dilué*
+Trois constats qui prolongent les maximes v7–v8 :
+
+1. **La douve la plus dure de toute la pile est métallurgique, pas logicielle.** Refaire un haut-fourneau de
+   **GOES** (acier électrique à grains orientés) ou une coulée de **cœur amorphe** demande des *décennies* de
+   métallurgie, des permis et un capital colossal — barrière supérieure même à l'EUV. **Cleveland-Cliffs est le
+   *seul* producteur US** et, à pleine capacité, **ne couvre pas la moitié** de la demande domestique de
+   transformateurs. C'est le **matériau sous le goulet transformateur** (HD Hyundai, Hammond, Eaton de la v4/v8).
+2. **Mais ce maillon est presque toujours *dilué* dans un conglomérat ou un cyclique.** Gigaphoton est noyé dans
+   **Komatsu** (engins de chantier) ; Hitachi Energy (joyau HVDC) dans **Hitachi** ; le fil de bonding dans le
+   **mineur** Sumitomo Metal Mining ; le GOES dans l'acier auto de Cleveland-Cliffs. *La pureté du pari baisse à
+   mesure qu'on descend* → l'indice récompense rarement plus de **5–6**, sauf décote cyclique franche.
+3. **Le seul vrai pure-play à douve dure *et* multiple digeste de l'édition est WFE :** **Tokyo Electron**
+   (coater quasi-monopole + etch/dépôt, **~27×** quand AMAT est à **~40×**) et **KLA** (contrôle de procédé
+   **50–60 %**, GM 61 %, ROE 99 %) — la même qualité qu'ASML, **moins hypée**. *C'est là qu'est la value relative.*
+
+### 14.1 — Huit poches « maillon dans le maillon » (rattachement à la cartographie §2)
+> *On poursuit l'alphabet : v6 = V→CC, v7 = DD→KK, v8 = LL→TT, **v9 = UU→BBB**.*
+
+| Poche v9 | Couche (§2) | Douve / nature de la barrière | Verdict douve |
+|---|---|---|---|
+| **UU** — Acier électrique GOES & cœurs amorphes | 0 / 6a | **Métallurgie décennale + permis + capital** ; seul producteur US (CLF) ; imports tarifés | **Très haute** (matière) |
+| **VV** — Sous-systèmes WFE oubliés : implant ionique & contrôle de procédé | 1 | Quasi-monopole inspection (KLA), IP implanteur (Axcelis), *fab-of-record* | **Haute** (KLA), moyenne-haute (implant) |
+| **WW** — Sources laser EUV & optique hors-ASML | 1 | Drive-laser CO₂ (Trumpf), optique (Zeiss SMT), excimer (Gigaphoton) ; **savoir-faire extrême** | Très haute mais **diluée/privée** |
+| **XX** — Métaux d'interconnexion packaging (fil de bonding, lead frames, die-attach) | 3 | Métallurgie de précieux + **qualification client** longue ; oligopole | Moyenne-haute |
+| **YY** — Batteries de salle UPS/BBU & grid-tie | 6a | Chimie + intégration + base installée ; standards de sûreté | Moyenne |
+| **ZZ** — HVDC & électronique de puissance réseau | 6a | **Références + ingénierie de projet** ; *lead times* extrêmes ; oligopole HVDC | **Haute** (mais diluée conglomérat) |
+| **AAA** — Gaz rares : hélium & néon | 0 | Oligopole gaz + **sourcing géopolitique** (Qatar, Ukraine) ; *price-taker* en spot | Moyenne (oligopole) + risque appro |
+| **BBB** — Immersion & direct-to-chip pure-play | 6b | Techno propriétaire ; mais **géants entrent** (Eaton/Boyd, Ecolab/CoolIT) | Faible-moyenne, sous pression |
+
+#### Notes par poche (l'essentiel)
+- **UU — Acier électrique GOES & cœurs amorphes.** Le **vrai** goulet *sous* le transformateur. Les prix du GOES
+  ont **quasi doublé depuis 2020** et les délais courent à **12–18 mois**. **Cleveland-Cliffs (CLF)** est le
+  **seul producteur US** (usines Butler PA + Zanesville OH) et **convertit l'usine de Weirton (WV) en site de
+  transformateurs (~150 M$, H1 2026)** : intégration verticale acier→transfo. Titre en **turnaround** (Q1 2026 :
+  CA ~4,9 Md$, perte nette réduite à ~237 M$, EBITDA en redressement, FCF positif visé dès le Q2 ; ~12–13 $),
+  *deep value* cyclique. Hors US : **Nippon Steel (5401.T)**, **JFE (5411.T)**, **POSCO**, **Thyssenkrupp
+  Electrical Steel**, et — **accessibles Euronext** — **ArcelorMittal (MT.AS)** et **Aperam (APAM.AS)**.
+  Cœurs **amorphes** (transfos haute-efficacité) : **Proterial (ex-Hitachi Metals, Metglas)**, Hitachi. ⚠️ Pas de
+  pure-play GOES coté : exposition toujours *diluée* dans l'acier auto/inox → indice plafonné malgré la douve.
+- **VV — Sous-systèmes WFE oubliés.** Deux niches sous le radar d'ASML/Disco/VAT : **(a) le contrôle de procédé**
+  — **KLA (KLAC)** détient **50–60 % de l'inspection wafer**, GM **61 %**, **ROE ~99 %** : un *quasi-monopole*
+  aussi solide qu'ASML mais **moins hypé** (~35–46× fwd selon l'agrégateur) ; compléments **Onto Innovation
+  (ONTO)** (métrologie packaging) et **Nova (NVMI)**. **(b) L'implantation ionique** — **Axcelis (ACLS)**,
+  **pure-play** (Purion), plus **cyclique/décoté**, exposé au rebond logique mais freiné par le trou d'air **SiC**
+  et la **capacité chinoise**. Et surtout le **généraliste le moins cher** : **Tokyo Electron (8035.T)** à **~27×**
+  (vs AMAT ~40×, Lam ~30×), **quasi-monopole des coaters/developers** + etch/dépôt, guidant **+33 % de ventes** S1.
+- **WW — Sources laser EUV & optique hors-ASML.** *La pile sous ASML.* La source EUV de production reste
+  **Cymer (filiale ASML)** ; le **drive-laser CO₂** vient de **Trumpf (privé)** et l'optique de **Zeiss SMT
+  (privé)** — douves extrêmes mais **inaccessibles en Bourse**. Le seul levier coté est **Komatsu (6301.T)** via
+  **Gigaphoton** (n°2 mondial des sources, surtout **excimer DUV**) — mais **noyé dans les engins de chantier**
+  → exposition marginale. **Ushio (6925.T)** (co-actionnaire historique de Gigaphoton + lampes excimer) est le
+  pure-play niche le plus « propre », mais petit. Verdict : douve réelle, **levier boursier quasi nul**.
+- **XX — Métaux d'interconnexion du packaging.** Sous le HBM et l'ASIC : **fil de bonding** (or/cuivre/argent),
+  **lead frames** et **die-attach**. ~**60 %** de la demande de lead frames/fils vient désormais des **applications
+  émergentes (IA, auto, SoC mobile)**. Acteurs : **Sumitomo Metal Mining (5713.T)** (~14 % lead frames/fils, mais
+  d'abord **mineur** nickel/cuivre → diversifié, ~10–12×), **Mitsui High-tec (6966.T)** (lead frames + **cœurs de
+  moteurs EV** = double levier), **ASMPT (0522.HK)** (wire bonders + **TC bonders** + lead frames : *levier
+  packaging avancé*), **Tanaka** et **Heraeus** (privés, métaux précieux). Douve = métallurgie de précieux +
+  qualification longue, mais **price-taker** sur l'or/cuivre.
+- **YY — Batteries de salle (UPS/BBU & grid-tie).** L'électron *stocké* à côté du rack. **EnerSys (ENS)** :
+  exercice record **3,75 Md$ de CA, BPA ajusté ~10,56 $**, **solution lithium data center en commissioning**,
+  + BESS — un industriel **~11×**, *value* avec optionalité DC. Concurrence Vertiv/Schneider (UPS), Narada, C&D.
+  Les **grid-tie batteries** sont désormais citées parmi les **contraintes** de raccordement DC. Douve moyenne,
+  **multiple bas** → couple value correct.
+- **ZZ — HVDC & électronique de puissance réseau.** Pour acheminer les GW vers les campus : **convertisseurs HVDC,
+  GIS, STATCOM**. Le joyau est **Hitachi Energy** — mais logé dans **Hitachi (6501.T)** (~27× *trailing*,
+  sum-of-parts) ; **ABB (ABBN.SW, ~31× fwd)** (qui juge **l'appareillage n'est plus le facteur limitant** —
+  ce sont **turbines gaz + gros transfos**, ce qui *renforce* la thèse UU/v8) ; **Mitsubishi Electric**. Douve
+  haute (références, *lead times*), mais **diluée** dans des conglomérats → indice modéré.
+- **AAA — Gaz rares : hélium & néon.** La **matière première volatile** de la litho/refroidissement. **Crise
+  hélium 2026** (fin des ventes de la réserve fédérale US en 2023, incidents Amur, **Qatar ~35 % de l'offre**,
+  **guerre Iran** avril 2026 → spot **+40 à +100 %**) ; **néon** concentré Ukraine/Russie. *Mais* l'hélium ne
+  pèse que **~6 $ sur un wafer EUV à 18 000 $** → contrainte d'**appro**, pas de coût. Oligopole **Linde (LIN,
+  ~29×)**, **Air Products (APD, ~18–20×, turnaround moins cher)**, **Air Liquide (AI.PA, détenue)**. Douve
+  oligopole + sourcing ; *price-taker* en spot.
+- **BBB — Immersion & direct-to-chip pure-play.** Au-delà des CDU (Vertiv/Schneider/Modine), les *pure-plays*
+  immersion : **Asetek (ASETEK.OL)** (petit, *special situation* en restructuration), **GRC**, **LiquidStack**,
+  **Iceotope** (privés). ⚠️ Douve **sous pression** depuis que **Eaton (Boyd)** et **Ecolab (CoolIT)** entrent →
+  pari spéculatif small-cap, pas une « aubaine value ».
+
+### 14.2 — Tableau v9 des **nouveaux** noms (douve & coût d'entrée)
+> *Barrière (B) et Concurrence (C) notées 0–5 (C inversé : 5 = peu de rivaux). Indice 0–10 net. PER avant (≈) sauf mention.*
+
+| Acteur | Ticker | Couche / rôle | PER (≈) | **B** | **C** | Indice | Lecture / **risque** |
+|---|---|---|---:|:---:|:---:|:---:|---|
+| **Tokyo Electron** | 8035.T | Coater quasi-monopole + etch/dépôt (WFE) | **~27×** | **5** | **4** | **6** | **Top pick v9** : généraliste WFE **le moins cher** (vs AMAT ~40×), douve réelle, +33 % ventes S1 |
+| **Cleveland-Cliffs** | CLF | **Seul GOES US** + intégration transfo | **n.s.** (turnaround) | **5** | **4** | **6** | Matière **sous** le goulet transfo ; *deep value* cyclique, FCF+ dès Q2 ; ⚠️ cyclique acier, dette |
+| **EnerSys** | ENS | Batteries de salle UPS/BBU + lithium DC | **~11×** | **3** | **3** | **6** | Industriel *value* avec optionalité DC (lithium en commissioning) ; ⚠️ douve moyenne |
+| **KLA** | KLAC | Contrôle de procédé (inspection ~50–60 %) | **~38×** (fwd) | **5** | **5** | **5** | Quasi-monopole **aussi solide qu'ASML, moins hypé** ; GM 61 %, ROE 99 % ; ⚠️ prime |
+| **Axcelis** | ACLS | Implantation ionique (pure-play Purion) | **~18–20×** (cyclique) | **4** | **4** | **5** | Pure-play implant **décoté** ; ⚠️ trou d'air **SiC** + capacité chinoise |
+| **Sumitomo Metal Mining** | 5713.T | Fil de bonding + lead frames (+ mineur Ni/Cu) | **~10–12×** | **4** | **3** | **5** | Diversifié *value* ~10–12× ; expo packaging **diluée** dans le minier ; *price-taker* métaux |
+| **ASMPT** | 0522.HK | Wire/TC bonders + lead frames (packaging av.) | **~30×+** (reprise) | **4** | **4** | **5** | Levier **packaging avancé** (TC bonders HBM) + lead frames ; ⚠️ cyclique, reprise BPA |
+| **Hitachi** | 6501.T | **Hitachi Energy** (HVDC/grid) dans conglomérat | **~27×** (TTM) | **4** | **4** | **5** | Joyau **HVDC** sous-évalué en *sum-of-parts* ; ⚠️ exposition diluée |
+| **Air Products** | APD | Gaz industriels/hélium (oligopole) | **~18–20×** | **5** | **5** | **5** | Major du gaz **moins cher que Linde** ; *turnaround* + optionalité hélium ; ⚠️ exécution |
+| **Onto Innovation** | ONTO | Métrologie/inspection packaging avancé | **~28×** | **4** | **3** | **5** | Levier métrologie **packaging** ; concurrence KLA/Camtek |
+| **ArcelorMittal** | MT.AS | Acier électrique (NOES/GOES) — **Euronext** | **~8–9×** | **4** | **3** | **5** | **Accès Euronext** au GOES ; très *value* ; ⚠️ cyclique acier mondial, expo électrique partielle |
+| **Mitsui High-tec** | 6966.T | Lead frames + cœurs moteurs EV (double levier) | **~10–12×** | **4** | **3** | **4** | Double levier packaging+EV à bas multiple ; ⚠️ cyclique, ralentissement EV |
+| **ABB** | ABBN.SW | Électrification/HVDC/switchgear | **~31×** (fwd) | **4** | **4** | **4** | Qualité électrification **déjà pricée** ; « appareillage plus le facteur limitant » (dixit ABB) |
+| **Aperam** | APAM.AS | Inox & aciers électriques — **Euronext** | **~10–12×** | **3** | **3** | **4** | **Accès Euronext** ; expo électrique secondaire ; rendement ; ⚠️ cyclique inox |
+| **Linde** | LIN | Gaz industriels/hélium (n°1 oligopole) | **~29×** | **5** | **5** | **4** | Oligopole gaz **superbe mais cher** ; optionalité hélium ; douve méritée |
+| **Nippon Steel** | 5401.T | GOES (leader mondial) + acier | **~9–11×** | **4** | **4** | **4** | Leader GOES mondial à bas multiple ; ⚠️ digestion acquisition US Steel, expo diluée |
+| **Ushio** | 6925.T | Lampes excimer + co-actionnaire Gigaphoton | **~13–15×** | **3** | **3** | **4** | Pure-play niche litho/optique ; petit ; ⚠️ liquidité |
+| **Komatsu** | 6301.T | Gigaphoton (sources EUV/DUV) dans engins | **~12–13×** | **3** | **3** | **3** | Douve Gigaphoton réelle mais **noyée** dans les engins de chantier → levier marginal |
+| **Asetek** | ASETEK.OL | Immersion / direct-to-chip (pure-play) | **n.s.** | **2** | **2** | **3** | *Special situation* small-cap ; ⚠️ géants (Eaton/Ecolab) entrent → spéculatif |
+
+> **Lecture 14.2.** Le **gisement net** est de nouveau **étroit** et confirme le fil rouge : trois noms à **6**
+> — **Tokyo Electron** (le seul *pure-play à douve dure ET multiple digeste*), **Cleveland-Cliffs** (la matière
+> la plus rare de la pile, en *deep value* cyclique) et **EnerSys** (industriel ~11× à optionalité DC) — puis une
+> grappe à **5** où une **vraie barrière** coïncide avec un **multiple raisonnable** (**KLA, Axcelis, Sumitomo
+> Metal Mining, ASMPT, Hitachi, Air Products, Onto, ArcelorMittal**). Tout le reste **plafonne à 3–4** :
+> soit la douve est **diluée** dans un conglomérat (Komatsu, ABB, Hitachi-en-partie), soit le multiple est
+> **cher** (Linde) ou le pari **spéculatif** (Asetek). **Message d'investissement inchangé mais affermi :**
+> *plus on descend dans la matière, plus la douve est dure — mais plus il faut accepter soit une décote cyclique
+> (acier, WFE), soit une exposition diluée.* La seule **value pure** y est WFE (Tokyo Electron, KLA).
+
+### 14.3 — Réévaluation des **entrées v3→v8** à la lumière des données de fin mai 2026
+> On **conserve** chaque entrée et on **réajuste** l'indice (v8 → v9). La v8 datant du 30 mai, les mouvements v9
+> sont **minimes**, motivés par les **faits nouveaux de fin mai 2026** : crise **hélium/néon** (guerre Iran),
+> **GOES = matière sous le goulet transfo** (ABB confirme : transfos + turbines = vrais limitants, **pas
+> l'appareillage**), et l'ajout des **alternatives WFE moins chères** (Tokyo Electron, KLA). « = » : inchangé.
+
+| Acteur | Ticker | Indice **v8** | **v9** | Motif (fait nouveau fin mai 2026) |
+|---|---|:---:|:---:|---|
+| **Synopsys** | SNPS | 8 | **8 =** | Top pick « douve × décote » (duopole EDA corrigé) réaffirmé |
+| **SK Hynix / Micron** | 000660.KS / MU | 8 | **8 =** | Mémoire HBM mal-aimée ; pénurie jusqu'en 2028 |
+| **Energy Transfer / Kinder Morgan** | ET / KMI | 8 / 7 | **= ** | Gas-to-power midstream sous-possédé ; rdt élevé |
+| **TSMC** | TSM | 7 | **7 =** | Monopole ≤3 nm à multiple raisonnable |
+| **Nexans** | NEX.PA | 7 | **7 =** | Top pick EU câbles HV (laggard vs Prysmian) |
+| **Vistra** | VST | 7 | **7 =** | Parc nucléaire non-réplicable ; demande puissance ↑ |
+| **HD Hyundai Electric** | 267260.KS | 7 | **7 ▲(biais)** | Carnet transfo saturé ; **GOES rare *en amont* (CLF) verrouille l'offre transfo** → thèse renforcée (indice maintenu, conviction ↑) |
+| **Air Liquide** | AI.PA | 6 | **6 =** | Gaz spéciaux on-site ; **+ optionalité hélium** (crise 2026) — détenue, conviction ↑ |
+| **Eaton** | ETN | 5 | **5 =** | Commandes DC +240 % ; ABB confirme appareillage « plus le limitant » → croissance OK, douve OK |
+| **Schneider Electric** | SU.PA | 5 | **5 =** | Power+cooling installé ; densification concurrentielle (Legrand/Eaton) |
+| **Vertiv** | VRT | 3 | **3 =** | ⚠️ Eaton-Boyd + Ecolab-CoolIT contestent la douve cooling ; **immersion pure-play (Asetek) ne menace pas encore** |
+| **Cummins** | CMI | 6 | **6 =** | Top pick v8 (moteur+service, ~18–20×, pas perçu « IA ») |
+| **Mitsubishi Heavy / Freeport / Legrand / Modine** | 7011.T / FCX / LR.PA / MOD | 5 | **= ** | Turbine n°3, cuivre, PDU Euronext, cooling ½ multiple Vertiv : maintenus |
+| **Disco / VAT / Advantest / Lasertec / ASML / Hoya** | — | 4–6 | **= ** | Monopoles WFE/inspection/blanks : douves quasi-imprenables ; **KLA & Tokyo Electron ajoutés comme alternatives moins chères** (cf. 14.2) |
+| **Resonac / Ferrotec / NGK / JX / Dover** | — | 6–7 | **= ** | Consommables/céramiques/cibles/raccords : douves matériau maintenues |
+| **Broadcom / Delta / Williams** | AVGO / 2308.TW / WMB | 4–5 | **= ** | ASIC+réseau / power shelf / gas-to-power : maintenus |
+| **GE Vernova / Siemens Energy** | GEV / ENR.DE | 3 | **3 =** | Turbines sold-out ; **ABB confirme turbines = vrai limitant** → conviction douve ↑ (indice maintenu, cher) |
+| **Howmet / superalliages** | HWM | 3 | **3 =** | Coulées turbines (~55×) : goulet derrière le goulet |
+| **onsemi / Infineon / STMicro** | ON / IFX.DE / STM.PA | 5–6 | **= ** | Power 800 VDC ; ⚠️ capacité chinoise SiC |
+| **Air Products / Linde** *(nouveaux v9)* | APD / LIN | — | **5 / 4** | Gaz/hélium : APD moins cher (turnaround), Linde superbe mais cher (cf. 14.2) |
+| **Coherent / Lumentum / Corning** | COHR / LITE / GLW | 1–2 | **= ** | Optique/CPO : valorisations extrêmes + menace Nvidia CPO |
+| **IREN / Hut 8 / Core Scientific / TeraWulf** | — | 3–4 | **= ** | Mineurs→IA : puissance réplicable ; déjà ×5–×7 |
+| **Seagate / WDC** | STX / WDC | 4 | **4 =** | HDD nearline duopole *sold-out* (l'hélium scelle les disques → crise hélium = vent contraire coûts, neutre) |
+| *(toutes les autres lignes v3→v8)* | — | — | **= ** | **Conservées et réaffirmées** à leur niveau v8 (pas de fait nouveau matériel au 31 mai) |
+
+> **Lecture 14.3.** La v9 **ne renverse rien** : elle *creuse* la carte vers la matière et **renforce** deux
+> convictions par des faits nouveaux. **(1)** La **rareté du GOES** (Cleveland-Cliffs, seul producteur US) est la
+> **cause profonde** du goulet transformateur → elle *valide* HD Hyundai Electric, Hammond, Eaton (la pénurie ne
+> se résorbe pas tant que la matière manque). **(2)** **ABB elle-même** dit que l'appareillage n'est *plus* le
+> facteur limitant — **ce sont les transfos et les turbines** → conviction renforcée sur la **chaîne énergie/grid**
+> (HD Hyundai, GE Vernova, Siemens Energy, MHI) et sur la **matière** (GOES). La **crise hélium** ajoute une
+> **optionalité** aux gaziers détenus/suivis (Air Liquide, Air Products). Hiérarchie inchangée : **(1)** duopole
+> EDA corrigé (Synopsys), **(2)** HBM mal-aimée (SK Hynix, Micron), **(3)** dérivées gaz/réseau + **matière grid**
+> (ET, KMI, Nexans, HD Hyundai, **GOES/CLF**), **(4)** verrous WFE/matériaux/packaging — désormais élargis aux
+> **généralistes WFE les moins chers (Tokyo Electron, KLA)**.
+
+### 14.4 — Lien avec le portefeuille & candidats réalistes (Euronext) — vue v9
+Pour *ce* compte (~1 017 €, eToro/Euronext), la v9 confirme l'**honnêteté de la v6** : *l'essentiel des maillons
+profonds n'est pas coté à Paris*. Deux apports concrets accessibles, le reste en watchlist :
+
+1. **Air Liquide (AI.PA)** *(détenue)* — **maintenu 6, conviction ↑** : à la douve gaz spéciaux on-site s'ajoute
+   désormais l'**optionalité hélium** (crise 2026). À garder comme **vraie ligne infra IA**.
+2. **ArcelorMittal (MT.AS) / Aperam (APAM.AS)** — **NOUVEAUX accès Euronext (indices 5 / 4)** au **GOES / acier
+   électrique** : le moyen le plus *liquide et accessible depuis Amsterdam* de jouer la **matière sous le
+   transformateur**, très *value* (~8–12×). ⚠️ Cycliques acier mondial, exposition électrique **partielle** (pas
+   un pure-play GOES) — à doser petit, sur faiblesse.
+3. **Nexans (NEX.PA)** — **top pick EU câbles HV maintenu (7)** ; **Schneider (SU.PA)** *(détenue)* — maintenu 5.
+4. *(Watchlist hors-Euronext, douve haute / multiple digeste)* **Tokyo Electron (8035.T, 6)** comme le
+   **généraliste WFE le moins cher** ; **Cleveland-Cliffs (CLF, 6)** comme **seul GOES US** *deep value* ;
+   **EnerSys (ENS, 6)** pour la **batterie de salle** ~11× ; **KLA (KLAC, 5)** comme **quasi-monopole moins hypé
+   qu'ASML** ; **Air Products (APD, 5)** comme **gazier hélium moins cher que Linde**.
+
+> **Cohérence inchangée depuis v1 :** *acheter la faiblesse, pas la force* ; *offre contrainte ≠ surcapacité* ;
+> *payer pour la douve, pas pour la perfection* ; *le rôle critique ne garantit pas la sous-évaluation*. La v9 y
+> ajoute : **« plus le maillon est profond, plus la douve est dure — mais plus le pari exige d'accepter soit une
+> décote cyclique (acier électrique, WFE), soit une exposition diluée (Gigaphoton dans Komatsu, Hitachi Energy
+> dans Hitachi). La seule value *pure* du sous-sol de la pile est l'équipement WFE oublié : Tokyo Electron, KLA. »**
+
+---
+
 ## Sources
 
 ### v1 (25 mai 2026)
@@ -1736,3 +1953,31 @@ accessible Paris** et **renforce** deux lignes détenues :
 - [TTM Technologies (TTMI): Q1 2026 rev $846M (+30 %), DC&networking = 36 %, P/E ~50×+, GF Value très en dessous — SEC 8-K / GuruFocus](https://www.sec.gov/Archives/edgar/data/0001116942/000119312526191490/d103788dex991.htm)
 - [Mitsubishi Heavy (7011.T): carnet énergie ~3,6 T¥ (~$23B, +40 %), doublement capacité turbines, P/E TTM ~40× — Bloomberg / DCD / companiesmarketcap](https://www.datacenterdynamics.com/en/news/mitsubishi-heavy-industries-to-revamp-gas-turbine-production-process-to-meet-growing-demand-from-ai-data-center-sector/)
 - [Eaton rachète Boyd ($9.5B, mars 2026) ; Ecolab reprend CoolIT — consolidation du direct-to-chip cooling — (cf. §2 Couche 6b)](https://www.legrand.us/about-us/newsroom/press/legrand-acquires-kratos-industries)
+
+### v9 (31 mai 2026 — « le maillon dans le maillon » : acier électrique, sous-systèmes WFE, sources EUV, métaux packaging, batteries de salle, HVDC, gaz rares, immersion)
+- [GOES : Cleveland-Cliffs seul producteur US, ne couvre pas la moitié de la demande transfo ; prix ~×2 depuis 2020, délais 12–18 mois — Energy News Beat](https://energynewsbeat.co/ai/more-than-half-of-the-data-centers-may-be-delayed-due-to-lack-of-transformers-and-electrical-equipment-2/)
+- [Cleveland-Cliffs convertit l'usine de Weirton (WV) en site de transformateurs (~$150M, H1 2026) — Utility Dive](https://www.utilitydive.com/news/cleveland-cliffs-confirms-150-million-electric-transformer-weirton-plant/723363/)
+- [Cleveland-Cliffs (CLF) Q1 2026 : CA ~$4.92B, perte nette réduite à ~$237M, FCF positif visé dès Q2 ; ~$12.83 le 27 mai — Simply Wall St / StocksToTrade](https://simplywall.st/stocks/us/materials/nyse-clf/cleveland-cliffs/news/cleveland-cliffs-clf-valuation-check-after-earnings-beat-and/amp)
+- [Cleveland-Cliffs 10-Q FY2026 (GOES/NOES, electrical products) — SEC](https://www.sec.gov/Archives/edgar/data/0000764065/000076406526000070/clf-20260331.htm)
+- [Marché GOES : producteurs mondiaux (Nippon Steel, JFE, POSCO, ArcelorMittal, Thyssenkrupp) — The Business Research Company](https://www.thebusinessresearchcompany.com/report/grain-oriented-electrical-steel-global-market-report)
+- [KLA : ~50–60 % de l'inspection wafer, GM 61 %, ROE 99 %, fwd P/E ~46× (ou ~35× selon source) — BeyondSPX / GuruFocus / valueinvesting.io](https://www.beyondspx.com/quote/KLAC/analysis/kla-corporation-process-control-dominance-in-the-ai-chip-era-meets-premium-valuation-reality-nasdaq-klac)
+- [KLA Corp Q3 FY2026 résultats record CY2025 — SEC 8-K](https://www.sec.gov/Archives/edgar/data/0000319201/000031920126000006/exhibit991earningsrelease1.htm)
+- [Axcelis (ACLS) : pure-play implantation ionique, Purion H6 (fév. 2026) + Power Series+ pour SiC — PR Newswire / Axcelis IR](https://www.prnewswire.com/news-releases/axcelis-unveils-purion-h6-next-generation-high-current-ion-implanter-for-advanced-semiconductor-manufacturing-302678762.html)
+- [Axcelis (ACLS) Q1 FY2026 8-K — SEC](https://www.sec.gov/Archives/edgar/data/0001113232/000110465926057147/tm2613844d1_ex99-1.htm)
+- [Tokyo Electron (8035.T) ~27× fwd (vs Lam ~30×, AMAT ~40×), +33 % ventes S1, coater quasi-monopole — ainvest / kavout](https://www.ainvest.com/news/tokyo-electron-valuation-ai-premium-priced-earnings-2605/)
+- [Etch/dépôt : top-3 (AMAT/Lam/TEL) ~75 % du marché — Seeking Alpha](https://seekingalpha.com/article/4831811-applied-materials-vs-lam-research-battle-of-semicon-equipment-leaders)
+- [Komatsu/Gigaphoton, ASML/Cymer, Trumpf : sources laser EUV/optique — patentscape & optics.org](https://www.patsnap.com/resources/blog/articles/vuv-light-source-patent-landscape-2026/)
+- [Gigaphoton nouvelle usine de lasers excimer ; co-JV Komatsu/Ushio — optics.org](https://optics.org/news/12/9/23)
+- [Lead frames/fils de bonding : ~60 % de la demande vient de l'IA/auto/SoC mobile ; acteurs Kyocera, Sumitomo, Heraeus, Amkor, TANAKA — Global Growth Insights](https://www.globalgrowthinsights.com/market-reports/leadframe-gold-wires-and-packaging-materials-for-semiconductor-market-101182)
+- [Sumitomo Metal Mining (5713.T) : segment Matériaux (lead frames, fils de bonding) + mineur Ni/Cu, ~14 % part lead frames — Yahoo Finance / Simply Wall St](https://finance.yahoo.com/quote/5713.T/)
+- [Rôle critique des lead frames dans le packaging semi — QP Technologies](https://www.qptechnologies.com/2026/02/19/lead-frames-the-unsung-backbone-of-modern-semiconductor-packaging/)
+- [ASMPT : nouveau wire bonder next-gen (+ TC bonders, lead frames) — ASMPT SEMI](https://semi.asmpt.com/en/news-center/press-releases/introducing-our-latest-innovation-the-next-gen-wire-bonder/)
+- [EnerSys (ENS) FY2026 : CA record $3.75B, BPA ajusté $10.56, solution lithium data center en commissioning, BESS — SEC 8-K](https://www.sec.gov/Archives/edgar/data/0001289308/000162828026036903/ex991_earningsx4qfy26.htm)
+- [EnerSys 10-K FY2026 — SEC](https://www.sec.gov/Archives/edgar/data/0001289308/000162828026036900/ens-20260331.htm)
+- [ABB : « l'appareillage n'est plus le facteur limitant ; turbines gaz + gros transfos le restent » ; backlog grille 2–3 ans jusqu'en 2027 — MMMT Wealth](https://www.mmmtwealth.com/p/grid-upgrade-all-the-bottlenecks)
+- [Hitachi (Hitachi Energy) : simulation alim. 800 VDC via NVIDIA Omniverse DSX pour AI factories gigawatt — Hitachi Digital](https://hitachidigital.com/news/hitachi-accelerate-gigawatt-scale-ai-factories/)
+- [ABB Ltd fwd P/E ~31× ; Hitachi (6501.T) P/E TTM ~27× — stockanalysis / MarketScreener](https://stockanalysis.com/quote/otc/ABBNY/statistics/)
+- [Crise hélium 2026 : fin réserve fédérale US (2023), incidents Amur, Qatar ~35 %, guerre Iran → spot +40–100 % ; hélium ~$6 sur wafer EUV à $18 000 — Smith / Tom's Hardware / Motley Fool](https://smithweb.com/market-intelligence/helium-shortage-update-april-9-2026/)
+- [Néon (litho) concentré Ukraine/Russie ; marché gaz rares tiré par la litho semi — IndexBox](https://www.indexbox.io/blog/rare-gas-market-driven-by-semiconductor-lithography-demand-to-reshape-supply-chains-through-2035/)
+- [Hélium : Linde (LIN) bénéficiaire de la pénurie — Motley Fool](https://www.fool.com/investing/2026/04/17/iran-war-helium-shortage-chip-industry-stock-linde/)
+- [$90B de pénurie d'équipement électrique freine la construction DC ; ~1/3 des 12–16 GW 2026 réellement en construction — Next Financial](https://nextfinancial.substack.com/p/why-data-center-construction-delays)
