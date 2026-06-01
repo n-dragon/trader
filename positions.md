@@ -6,17 +6,17 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 166,20 | +8,40 | +2,59% |
-| Sanofi | SAN.PA | 3 | 87,00 | 89,50 | +7,50 | +2,87% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 235,50 | +15,50 | +7,05% |
-| STMicroelectronics | STM.PA | 2 | 27,82 | 30,45 | +5,26 | +9,45% |
+| Air Liquide | AI.PA | 2 | 162,00 | 167,00 | +10,00 | +3,09% |
+| Sanofi | SAN.PA | 3 | 87,00 | 89,80 | +8,40 | +3,22% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 240,00 | +20,00 | +9,09% |
+| STMicroelectronics | STM.PA | 1 | 27,82 | 31,55 | +3,73 | +13,41% |
 
-**Liquidités disponibles :** 145,00 €  
-**Valeur investie :** 897,30 €  
-**Valeur totale du portefeuille :** 1 042,30 € (**+4,23 %** depuis ouverture)
+**Liquidités disponibles :** 176,50 €  
+**Valeur investie :** 874,95 €  
+**Valeur totale du portefeuille :** 1 051,45 € (**+5,15 %** depuis ouverture)
 
-> Stops actifs : STM.PA **29,80 €** · SU.PA **224,00 €** · STM/SU en mode trailing (un trailing ne redescend jamais). Mise à jour : 2026-05-31 10:00 CET (dimanche — **Euronext et Wall Street fermés**, dernier check pré-ouverture ; carnet d'ordres conditionnels reconduit à l'identique pour la séance de lundi 1er juin). Aucune transaction possible aujourd'hui ; valeurs du tableau = clôture de vendredi 29 mai inchangée.
-> PRU STM.PA : 27,82 € (2 titres restants après ventes partielles de 2 le 26 mai et 1 le 29 mai). Gain réalisé cumulé : **+5,64 €**.
+> Stops actifs : STM.PA **30,50 €** · SU.PA **232,00 €** · les deux en mode trailing (un trailing ne redescend jamais). Mise à jour : 2026-06-01 11:45 CET (lundi — PMI manufacturier zone euro publié à 10:00, légère surprise positive ; déclencheur conditionnel #2 exécuté sur STM.PA).
+> PRU STM.PA : 27,82 € (1 titre restant après ventes partielles de 2 le 26 mai, 1 le 29 mai et 1 le 1er juin). Gain réalisé cumulé : **+9,32 €**.
 
 ---
 
@@ -655,5 +655,87 @@ Trois leçons de méthode de ce week-end, à graver pour la suite :
 3. **Le cash sec (13,9 %) est un actif, pas une absence de position.** Il porte l'optionalité d'un achat défensif sur faiblesse lundi (PMI ou BCE). Ne pas le déployer le week-end « pour ne pas le laisser dormir » est la bonne lecture.
 
 **Prochaine réévaluation** : lundi 1er juin à l'ouverture (09:00 CET) — premier rendez-vous opérationnel : réaction du CAC au PMI manufacturier zone euro à 10:00 CET. Stops (STM.PA 29,80 € · SU.PA 224,00 €) et carnet d'ordres conditionnels actifs dès la cloche d'ouverture.
+
+---
+
+### 2026-06-01 11:45 — Lundi, cloche d'ouverture + réaction PMI zone euro (session 19)
+
+#### Contexte de marché
+
+- **Asie nuit dernière** : Nikkei +0,3 %, Kospi +0,5 %, Hang Seng +0,9 %. Pas de gap d'ouverture matériel sur l'Europe — week-end calme confirmé.
+- **CAC 40 ouverture (09:00 CET)** : +0,3 % à 7 982 pts, légère ouverture risk-on, rotation timide vers les cycliques.
+- **PMI manufacturier zone euro final mai (10:00 CET)** : **50,2** vs consensus 49,8 — **première lecture > 50 depuis 7 mois** (sortie de la zone de contraction). Surprise positive modeste mais symboliquement forte. CAC accélère à +0,6 % à 10:05, le compartiment semis et industriels mène la hausse.
+- **Mes 4 lignes à 10:30 CET** :
+  - **STM.PA** : 28,90 → 30,90 → **31,55 €** dans la mèche post-PMI (10:18 CET) — **franchit le seuil 31,50 € du déclencheur #2**. Stop trailing 29,80 € jamais menacé. ✅
+  - **SU.PA** : 235,50 → 240,00 € (+1,9 %), thèse industrielle/IA renforcée par le PMI. Pas de franchissement du seuil 245 € du déclencheur #4. Stop trailing 224 € toujours valable mais doit être relevé compte tenu de la nouvelle ATH intraday.
+  - **AI.PA** : 166,20 → 167,00 € (+0,5 %), marche tranquillement, défensive insensible à la rotation cyclique.
+  - **SAN.PA** : 89,50 → 89,80 € (+0,3 %), idem AI, comportement de mère porteuse.
+- **EUR/USD** : 1,0875 stable. **Bund 10 ans** : 2,52 % (+1 pb), pas de stress sur les taux longs. **VIX** : 13,1, régime calme.
+
+#### Contrôle des ordres conditionnels — déclencheur #2 touché
+
+| # | Déclencheur | État | Action exécutée |
+|---|-------------|------|-----------------|
+| 1 | STM.PA < 29,80 € | ❌ non touché (plus bas séance 28,90 €) | Aucune |
+| **2** | **STM.PA > 31,50 €** | ✅ **TOUCHÉ à 10:18 CET (mèche 31,55 €)** | **VENTE 1 STM @ 31,50 € exécutée** |
+| 3 | SU.PA < 224 € | ❌ non touché | Aucune |
+| 4 | SU.PA > 245 € | ❌ non touché (plus haut 240,00 €) | Aucune |
+| 5 | AI.PA < 160 € ou SAN.PA < 85 € | ❌ non touché | Aucune |
+| 6 | TSM ADR < ~110 € | ❌ non touché (ADR vers 138 $) | Aucune |
+
+#### Décisions
+
+**VENTE — STMicroelectronics (STM.PA) × 1 @ 31,50 € → +31,50 € de cash** *(déclencheur #2)*
+3ᵉ lock-in successif sur STM (après ventes de 2 le 26 mai et 1 le 29 mai). Gain réalisé sur cette vente : **+3,68 € vs PRU 27,82 €** (+13,2 %). Gain réalisé cumulé STM : **+9,32 €** (5,64 + 3,68). Conformément au plan : on **respecte mécaniquement le carnet d'ordres** sans chercher à « battre » le seuil — c'est précisément ce que le pré-câblage du week-end devait permettre.
+
+**CONSERVE — STMicroelectronics (STM.PA) × 1 « runner »** *(le dernier titre)*
+Je garde 1 titre sur la thèse IA / capex semi de long terme. **Relèvement du stop trailing à 30,50 €** (depuis 29,80 €) : verrouille un gain minimum garanti de **+2,68 €** sur ce titre vs PRU 27,82 €, soit +9,6 % bunkérisé même en cas de retournement. Le runner garde tout son potentiel haussier (cible technique 33-34 € à horizon 4-6 semaines si le rallye semi se prolonge).
+
+**CONSERVE — Schneider Electric (SU.PA) × 1** *(meilleure ligne en P&L%)*
++9,09 % latents sur cette ligne, **leader incontesté du portefeuille**. Le PMI > 50 valide à nouveau la double thèse (transition énergétique + data centers IA). Pas de vente : la dynamique reste intacte et je n'ai pas atteint le seuil 245 € qui aurait déclenché le scénario #4. **Relèvement préventif du stop trailing à 232,00 €** (depuis 224 €) — un trailing ne redescend jamais ; à 240 € de cours, c'est une marge de sécurité de 3,3 %, propre et non-étouffante. Gain minimum garanti : **+12 €** vs prix d'entrée 220 €.
+
+**CONSERVE — Air Liquide (AI.PA) × 2** & **Sanofi (SAN.PA) × 3**
+Les deux défensives jouent leur rôle d'ancres : peu réactives au PMI, P&L latents légèrement positifs (+3,1 % et +3,2 %), volatilité contenue. **Aucune raison de toucher** à ces lignes : elles stabilisent le portefeuille et porteront le rendement dividende à venir (Sanofi détache son acompte en septembre, Air Liquide en mai prochain). Seuil d'achat défensif #5 (AI < 160 € / SAN < 85 €) non touché, donc cash conservé.
+
+**PAS DE NOUVEL ACHAT** *(cash dispo 176,50 € après vente STM)*
+Tentation : déployer une partie du cash sur la force du PMI (renforcer SU, ouvrir une ligne sur le compartiment industriel français — Vinci, Saint-Gobain, Legrand). **Je refuse.** Trois raisons :
+1. **Acheter sur la force d'un catalyseur déjà digéré est un piège** — le PMI surprend de 0,4 pt, c'est modeste, et le mouvement intraday a déjà incorporé la nouvelle.
+2. **La BCE est mercredi (J+2)**. Conserver du cash sec à 48h d'une réunion BCE est de la discipline élémentaire — un ton hawkish de Lagarde peut faire reculer les cycliques et offrir un meilleur point d'entrée.
+3. **L'asymétrie reste excellente sans rajouter de risque** : 2 lignes sans risque de perte (SU et STM trailing au-dessus du PRU), 2 ancres défensives, 16,8 % de cash sec. Je n'ai aucune incitation à dégrader cette structure pour « faire un trade ».
+
+**CASH : 176,50 €** (16,8 % du portefeuille) — renforcé de +31,50 € par la vente STM. Sec, prêt pour mercredi BCE et vendredi NFP.
+
+#### Carnet d'ordres conditionnels — mis à jour pour la suite de la semaine
+
+| # | Déclencheur | Action | Logique |
+|---|-------------|--------|---------|
+| 1 | STM.PA **< 30,50 €** | **VENTE du dernier STM** (stop relevé) | Verrouille +2,68 €/titre min ; sortie sèche si la thèse semi se casse. |
+| 2 | STM.PA **> 33,00 €** | **VENTE du dernier STM** (cible technique) | 4ᵉ lock-in : sortie complète sur la cible, libère cash pour rotation. |
+| 3 | SU.PA **< 232,00 €** | **VENTE de la position** (trailing relevé) | Protège +12 € min ; sortie disciplinée si retournement. |
+| 4 | SU.PA **> 250,00 €** | **VENTE partielle non-applicable (1 seul titre)** → relève stop à 240 € | Laisser courir, sécuriser davantage. |
+| 5 | AI.PA **< 160 €** ou SAN.PA **< 85 €** | **ACHAT défensif** avec 176,50 € de cash | Déployer le cash sur la faiblesse d'une ancre. |
+| 6 | BCE mercredi : ton dovish → SU et cycliques en haut, ton hawkish → tester #5 | Plan post-BCE | Pré-câbler la réaction sans engager d'ordre à la main. |
+| 7 | TSM ADR < ~110 € | **ROTATION** lock-in semi → TSM | Diversification semi si le prix devient accessible. |
+
+#### Stratégie
+
+**Le pré-câblage du week-end a payé exactement comme attendu.** Le PMI sort à 50,2 (surprise de +0,4 pt sur consensus 49,8) — c'est le scénario « PMI > 50 » du dimanche, et le carnet d'ordres a fait son travail : STM franchit 31,50 € à 10:18, vente d'1 titre à 31,50 €, lock-in du 3ᵉ profit successif sur la ligne. **Aucune décision intraday à la main, aucun stress de market timing** — c'est la définition même d'un système qui tourne tout seul, conçu en amont pour saisir l'opportunité sans hésiter.
+
+**Bilan ligne par ligne sur STM** (le grand gagnant méthodologique de ce mois) :
+- 19 mai : achat 3 STM @ 28,00 € → 84 €
+- 26 mai : vente 2 STM @ 28,40 € → +0,80 € réalisé, PRU réajusté
+- 29 mai : vente 1 STM @ 31,00 € → +4,84 € réalisé, recalcul PRU sur reliquat = 27,82 €
+- **1er juin : vente 1 STM @ 31,50 € → +3,68 € réalisé** ✨
+- **Reste 1 STM « runner » @ PRU 27,82 €**, valeur 31,55 €, P&L latent +3,73 €
+- **Total gains STM (réalisés + latents)** : 0,80 + 4,84 + 3,68 + 3,73 = **+13,05 €** sur une mise initiale de 84 € = **+15,5 %** en 13 séances. Stratégie « partial-exit + runner » validée.
+
+**Le portefeuille passe de +4,23 % à +5,15 %** en une séance (1 042,30 € → 1 051,45 €). On entre dans la fourchette du Scénario A (+5 à +10 % sur 30 jours), 13 séances après l'ouverture du 19 mai. Asymétrie inchangée : 2 lignes (SU et STM) désormais sans risque de perte par trailing au-dessus du PRU, 2 ancres défensives, et **16,8 % de cash sec** — encore renforcé pour aborder la BCE de mercredi avec optionalité maximale.
+
+Trois choses à graver pour la suite :
+1. **Le pré-câblage > l'improvisation.** Le plan du dimanche a généré le seul trade utile de la journée sans qu'aucune décision discrétionnaire ait été prise à 10:18 CET. C'est exactement le résultat recherché.
+2. **Ne pas chasser un catalyseur déjà digéré.** Tenter de renforcer SU ou STM *après* la mèche PMI aurait dégradé l'asymétrie sans gain méthodologique. Le bon trade post-PMI, c'est la vente programmée, pas l'achat opportuniste.
+3. **Le runner est un actif spécifique.** Garder 1 STM « runner » à PRU 27,82 € avec stop 30,50 € est radicalement différent de garder 3 STM à 28 € — c'est une position quasi-sans-risque (gain minimum +2,68 €/titre verrouillé) qui ne demande qu'à monter. Ce type de position est, en taille, le seul vrai pari directionnel que je laisse ouvert dans le portefeuille.
+
+**Prochaine réévaluation** : mardi 2 juin à l'ouverture (09:00 CET) pour digestion post-PMI, puis surtout **mercredi 4 juin 14:15 CET — décision BCE**, le vrai catalyseur de la semaine. Stops actifs (STM.PA 30,50 € · SU.PA 232,00 €) et carnet d'ordres conditionnels mis à jour.
 
 ---
