@@ -5,8 +5,8 @@
 > marché** alors qu'ils jouent — ou vont jouer — un rôle critique. Document de travail destiné à
 > alimenter les décisions du journal de trading (`positions.md`, `etoro_trades.md`).
 >
-> **Date :** 31 mai 2026 — **édition v9** (*« le maillon dans le maillon »* : acier électrique & cœurs de transfos, sous-systèmes WFE oubliés (implant/métrologie), sources laser EUV, métaux d'interconnexion du packaging, batteries de salle, HVDC, gaz rares, immersion cooling + réévaluation des indices : voir §14).
-> v8 (chaîne électromécanique & balance-of-plant) : 30 mai. v7 (lentille concurrentielle — douve & coût d'entrée) : 29 mai. v6 (huit poches — « la pile profonde ») : 29 mai. v5 (six poches) : 28 mai. v4 (sept poches) : 27 mai. v3 (valorisée) : 26 mai. v2 (approfondie) : 26 mai. v1 : 25 mai 2026.
+> **Date :** 1ᵉʳ juin 2026 — **édition v10** (*« la chair autour du silicium »* : assembleurs back-end (OSAT), ODM serveurs IA asiatiques décotés, rejet de chaleur du bâtiment, construction électromécanique/MEP, test au-delà d'Advantest, laminés cuivrés haute vitesse + réévaluation des indices : voir §15).
+> v9 (*« le maillon dans le maillon »* : acier électrique & cœurs de transfos, sous-systèmes WFE oubliés, sources laser EUV, métaux packaging, batteries de salle, HVDC, gaz rares, immersion) : 31 mai. v8 (chaîne électromécanique & balance-of-plant) : 30 mai. v7 (lentille concurrentielle — douve & coût d'entrée) : 29 mai. v6 (huit poches — « la pile profonde ») : 29 mai. v5 (six poches) : 28 mai. v4 (sept poches) : 27 mai. v3 (valorisée) : 26 mai. v2 (approfondie) : 26 mai. v1 : 25 mai 2026.
 > **Auteur :** analyse « picks-and-shovels » de l'écosystème IA.
 >
 > **Nouveauté v3.** Ajout d'une **couche quantitative** : pour chaque acteur, un **multiple de valorisation
@@ -98,6 +98,32 @@
 > cotée à Paris** — les seuls accès Euronext propres sont **ArcelorMittal/Aperam (Amsterdam)** sur le GOES et
 > **Air Liquide (détenue)** sur les gaz rares ; la v9 enrichit surtout la *carte* et la watchlist.
 >
+> **Nouveauté v10 (1ᵉʳ juin).** Après être descendu jusqu'à la *matière* (v9), la v10 remonte d'un cran vers
+> *« la chair autour du silicium »* (§15) — les couches **back-end, système, bâtiment et chantier** que le
+> marché traite comme des « intégrateurs à marge fine » alors qu'elles concentrent une part croissante de la
+> valeur, à des **multiples bien plus bas que le silicium** : **(CCC)** l'**assemblage & packaging avancé
+> sous-traité (OSAT)** — le *back-end* des puces IA (ASE ~28×, Amkor ~38–44× *déjà couru +45 % YTD*, Powertech,
+> JCET) ; **(DDD)** les **ODM serveurs/racks IA asiatiques** — la **vraie trouvaille *value* de l'édition** :
+> **Hon Hai/Foxconn (~40 % de l'assemblage de racks IA) à ~14× avant, Quanta Computer ~16×, Wiwynn ~14× avant**
+> (vs pairs ~28×) alors qu'ils assemblent l'écrasante majorité des racks GB/Rubin ; **(EEE)** le **rejet de
+> chaleur & la boucle thermique du bâtiment** (échangeurs/chillers/free-cooling : Alfa Laval ~27× *qualité au
+> juste prix*, Munters ~42× *cher*, Johnson Controls, SPX, Daikin) ; **(FFF)** la **construction
+> électromécanique & le build-out réseau (MEP/EPC)** — la *main-d'œuvre* qui érige le data center (EMCOR ~26×
+> *raisonnable*, Quanta Services ~53× *cher*, Comfort Systems *couru*, MasTec, MYR) ; **(GGG)** le **test &
+> mesure au-delà d'Advantest** (Teradyne ~45× *prime*, Cohu *moins cher*, Keysight, Chroma) ; **(HHH)** les
+> **laminés cuivrés haute vitesse & matériaux PCB** — le *diélectrique sous la carte IA* (Doosan Electro-Materials
+> **fournisseur exclusif Rubin** après l'échec GB300 d'Elite Material, ITEQ M7+, TUC, Shengyi, TTM, Park).
+> **Conclusion v10 :** le **gisement net** se concentre sur le **cluster ODM décoté (Hon Hai, Quanta Computer,
+> Wiwynn, ~14–16×)** — *cheap shovels* à part de marché écrasante — tempéré par des **marges fines (1–3 %) et
+> une concurrence intra-taïwanaise féroce** (douve modérée) ; puis **EMCOR (~26× MEP)** et **Alfa Laval (~27×
+> échangeurs)** comme **qualité au juste prix**. Tout le reste (Amkor, ASE *prime*, Teradyne, Quanta Services,
+> Munters, Comfort Systems, Elite Material) **price déjà le boom**. Faits nouveaux de fin mai : **capex
+> hyperscalers relevé à ~830 Md$ en 2026 (≈75 % IA)** ; méga-accord **Anthropic–Google 200 Md$ / 5 ans sur TPU
+> (Broadcom)** → conviction ↑ sur le **silicium custom (Broadcom, TSMC)** ; **SSD 245 To de Micron** → vent
+> *contraire* structurel naissant sur le **HDD nearline** (Seagate/WDC, indice abaissé). **Honnêteté :** comme
+> souvent, **peu d'idées v10 sont cotées à Paris** — les accès les plus propres restent **Alfa Laval/Munters
+> (Stockholm)** et, en watchlist, le cluster ODM taïwanais et EMCOR (US).
+>
 > **Avertissement d'honnêteté intellectuelle.** En mai 2026, l'ensemble du complexe « infra IA »
 > s'est **déjà fortement revalorisé** (Nvidia ~47× les bénéfices futurs ; en Europe : STMicro a plus
 > que doublé, Aixtron +168 %, Besi +87 %, Soitec ×5, Coherent +97 %, Applied Optoelectronics +441 % ;
@@ -143,8 +169,11 @@ Cette révision **approfondit** la v1 sans renier ses conclusions. Les ajouts ma
 
 ## 1. Vue d'ensemble — le chiffre qui commande tout
 
-- **Capex des hyperscalers > 725 Md$ en 2026** (Microsoft, Amazon, Google, Meta, Oracle), contre
-  ~410 Md$ en 2025 — l'essentiel fléché vers les data centers. Alphabet seul vise 175–185 Md$.
+- **Capex des hyperscalers ≈ 830 Md$ en 2026** (Microsoft, Amazon, Google, Meta, Oracle ; révisé à la hausse
+  fin mai vs ~725 Md$ estimé en avril), contre ~410 Md$ en 2025 — **~75 % fléché vers des actifs IA**. Alphabet
+  seul vise 175–185 Md$. **Signal v10 :** le méga-accord **Anthropic–Google de 200 Md$ sur 5 ans (5 mai 2026)**,
+  bâti sur des **TPU custom Google/Broadcom**, confirme la bascule d'une partie de la dépense vers le **silicium
+  *custom* (ASIC)** et les **clusters multi-GW** — au profit de Broadcom, TSMC et des **assembleurs de racks**.
 - **Demande électrique des data centers : +220 % vs 2023 → ~1 350 TWh en 2030.** L'IA est devenue,
   d'abord, un **trade énergétique**. La demande de **gaz** des DC US pourrait atteindre ~6,1 Bcf/j en 2030.
 - **Le goulet d'étranglement s'est déplacé** : `calcul (GPU) → énergie → carburant (gaz) →
@@ -1728,6 +1757,209 @@ profonds n'est pas coté à Paris*. Deux apports concrets accessibles, le reste 
 
 ---
 
+## 15. ★★★★★★★★ Édition v10 (1ᵉʳ juin 2026) — *« la chair autour du silicium »* (back-end, système, bâtiment, chantier)
+
+> **Pourquoi cette édition.** Les v1→v9 ont parcouru la pile *vers le bas* — du GPU jusqu'à l'acier électrique et
+> au néon. La v10 fait le mouvement inverse : elle **remonte vers les couches que le marché méprise parce qu'elles
+> « n'ont qu'une marge d'intégrateur »** — l'**assemblage back-end** (OSAT), l'**ODM de racks**, le **rejet de
+> chaleur du bâtiment**, la **construction MEP** et les **laminés PCB**. Or ces couches (i) **captent une part
+> croissante de la valeur** (un rack GB200 NVL72 liquide est *plus dur à intégrer* qu'un serveur 2U classique),
+> (ii) se traitent à des **multiples très inférieurs au silicium** (10–28× vs 30–55×), et (iii) restent
+> **sous-possédées** par les fonds « thématiques IA » qui préfèrent Nvidia. C'est le terrain de chasse *value*
+> classique du document. ⚠️ Multiples = instantanés d'agrégateurs publics (~fin mai–1ᵉʳ juin 2026), arrondis,
+> volatils ; sur des BPA souvent **cycliques** (ODM, OSAT, test) ou **dilués par de l'EMS bas-de-gamme** (Hon Hai),
+> croiser PER avant / marge nette / carnet.
+
+### 15.0 — Le fil rouge v10 : *la marge fine n'interdit pas la décote — mais la concurrence la plafonne*
+Trois constats qui prolongent les maximes v7→v9 :
+
+1. **Le multiple bas des ODM/OSAT n'est pas une erreur de prix — c'est un *prix de la marge*.** Hon Hai, Quanta,
+   Wiwynn assemblent l'écrasante majorité des racks IA mais sur des **marges nettes de 1–3 %** : le marché les
+   *price* en transformateurs de revenus, pas en propriétaires de douve. La v10 ne prétend pas qu'ils sont
+   « secrètement chers à tort » — elle dit que **leur exposition IA est colossale, sous-possédée et payée 14–16×**,
+   et que **l'intégration de racks liquides 800 VDC relève peu à peu la barrière** (qualification Nvidia, savoir-faire
+   thermique). C'est un pari *value à douve montante*, pas un monopole.
+2. **La vraie douve de cette couche est ailleurs que dans le multiple :** elle est dans la **qualification client**
+   (Doosan a *ravi le socket Rubin* à Elite Material après l'échec des tests GB300 — preuve que le matériau PCB
+   est un goulet de *qualité*, pas de capacité) et dans la **main-d'œuvre & le bonding** (EMCOR, Comfort Systems :
+   la contrainte n'est plus le capital mais l'électricien qualifié et le délai de chantier).
+3. **Le coût d'entrée y est *opérationnel*, pas capitalistique.** N'importe qui peut acheter une ligne d'assemblage ;
+   personne ne peut **recruter 10 000 électriciens haute-tension** ni **se faire qualifier sur une plateforme Nvidia
+   en 18 mois**. La lentille v7 (barrière B / concurrence C) reste donc le bon filtre — et elle explique pourquoi
+   **EMCOR (~26×, douve = main-d'œuvre + relations) note mieux que Quanta Services (~53×, même douve, multiple
+   triple)**, et pourquoi **Wiwynn (~14×, pure-play hyperscale) note comme Hon Hai (~14×, dilué dans l'EMS Apple)**.
+
+### 15.1 — Six poches « la chair autour du silicium » (rattachement à la cartographie §2)
+> *On poursuit l'alphabet : v6 = V→CC, v7 = DD→KK, v8 = LL→TT, v9 = UU→BBB, **v10 = CCC→HHH**.*
+
+| Poche v10 | Couche (§2) | Douve / nature de la barrière | Verdict douve |
+|---|---|---|---|
+| **CCC** — OSAT & assemblage / packaging avancé sous-traité | 3 | Packaging avancé (CoWoS-adjacent), qualification fonderie/client, capital ; **2ᵉ source de TSMC** | **Haute** (avancé), moyenne (legacy) |
+| **DDD** — ODM serveurs/racks IA asiatiques | 7 | Échelle, **qualification Nvidia**, intégration rack liquide 800 VDC ; **marges fines** | **Montante mais modérée** (concurrence intra-TW) |
+| **EEE** — Rejet de chaleur & boucle thermique du bâtiment | 6b | Oligopole échangeurs (top 5 ≈ 47 %), ingénierie thermique, références | Moyenne-haute |
+| **FFF** — Construction électromécanique & build-out réseau (MEP/EPC) | 6a / 8 | **Main-d'œuvre qualifiée rare**, *bonding*, relations locales, carnet ; **pas de capital** | Moyenne (locale, mais main-d'œuvre = vrai goulet) |
+| **GGG** — Test & mesure au-delà d'Advantest | 1 | Duopole test SoC (Advantest/Teradyne), IP, *time-to-market* ; gatekeeper qualité | **Haute** (SoC test) |
+| **HHH** — Laminés cuivrés haute vitesse & matériaux PCB | 0 / 3 | **Qualification longue** (échec = perte du socket), chimie diélectrique M8/M9 ; oligopole | Moyenne-haute (qualification) |
+
+#### Notes par poche (l'essentiel)
+- **CCC — OSAT & packaging avancé sous-traité.** Le *back-end* qui transforme le wafer en puce utilisable. TSMC
+  domine le **CoWoS** de pointe, mais la **2ᵉ source** se joue chez les OSAT : **ASE Technology (ASX / 3711.TW)** —
+  n°1 mondial de l'assemblage/test (~28× avant ; segment EMS *dilue* le multiple), pousse le **VIPack / 2.5D** ;
+  **Amkor (AMKR)** — n°1 US, **leader CPO** (co-packaged optics) et SiP, mais **+45 % YTD → ~38–44× avant, déjà
+  couru** (Q1 2026 : CA record 1,69 Md$, +27 %, mais **GM seulement ~14 %**). Compléments : **Powertech (6239.TW)**
+  (test/packaging mémoire — levier HBM), **JCET (600584.SS)** et **Tongfu (002156.SZ)** (Chine, *value* mais risque
+  géopolitique/sanctions). Douve réelle sur l'avancé (qualification + capital), mais **marges OSAT structurellement
+  basses** et concurrence chinoise sur le legacy → couple value correct **seulement** sur ASE (Amkor déjà pricé).
+- **DDD — ODM serveurs/racks IA asiatiques.** *La trouvaille value de la v10.* Ce sont eux qui **assemblent
+  physiquement les racks** GB200/GB300/Rubin : **Hon Hai / Foxconn (2317.TW)** détient **~40 % de l'assemblage de
+  racks IA**, à **~14× avant / ~18× *trailing*** — mais **dilué** dans l'EMS Apple (marge nette ~2,5 %) ; **Quanta
+  Computer (2382.TW)** — n°2 ODM, **25–30 % des commandes serveurs Nvidia**, **~16×** ; **Wiwynn (6669.TW)** —
+  **pure-play hyperscale** (Microsoft/Meta/AWS), **~14× avant** quand les pairs sont à ~28× → *le plus propre*.
+  Compléments **Wistron (3231.TW)**, **Inventec (2356.TW)**, **Supermicro (SMCI)** (US, plus volatil/cher). ⚠️ La
+  douve est **modérée** (cinq ODM taïwanais se disputent les mêmes clients, marges 1–3 %, *pricing power* faible,
+  exposition Taiwan/Chine) — *mais* l'intégration de **racks liquides 800 VDC** relève la barrière et la
+  **qualification Nvidia** est non triviale. Le vrai argument est **l'exposition IA massive sous-possédée payée 14–16×**.
+- **EEE — Rejet de chaleur & boucle thermique du bâtiment.** Au-delà du *cold-plate* (rack, cf. Vertiv/Modine v4/v8),
+  il faut **évacuer la chaleur du bâtiment** : échangeurs à plaques, chillers, free-cooling adiabatique. **Alfa Laval
+  (ALFA.ST)** — leader **échangeurs de chaleur** (top 5 ≈ 47 % du marché DC), a lancé **FreeWaterLoop (mars 2026)**,
+  **~27× / marge EBITA ~18 %** : *qualité au juste prix*, oligopole. **Munters (MTRS.ST)** — *air treatment*/chillers
+  DC, **carnet record (commande de 2,1 Md SEK)** mais **~42× (jusqu'à 65× selon l'agrégateur), cher** (croissance
+  pricée). Compléments **Johnson Controls (JCI ~20–22×)** (chillers, le moins cher du groupe), **SPX Technologies
+  (SPXC)** (dry coolers), **Daikin (6367.T)** (cher), **Trane (TT)** (couru). Verdict : douve oligopole + ingénierie,
+  **Alfa Laval = le couple value/qualité le plus net** ; Munters = momentum cher.
+- **FFF — Construction électromécanique & build-out réseau (MEP/EPC).** La *main-d'œuvre* qui érige le data center —
+  câblage HT, switchgear, mécanique, raccordement réseau. Le goulet ici n'est **pas le capital mais l'électricien
+  qualifié et le délai**. **EMCOR (EME ~26×)** — services électriques/mécaniques, exposition DC croissante mais
+  **équilibrée** (santé, industrie) → **stabilité + multiple raisonnable** = meilleur couple. **Quanta Services
+  (PWR ~53×)** — n°1 du *build-out réseau électrique* (transmission, raccordement), carnet record **mais cher**.
+  **Comfort Systems (FIX)** — MEP modulaire DC, **superbe mais déjà couru**. Compléments **MasTec (MTZ)**, **MYR
+  Group (MYRG)**, **Dycom (DY)** (fibre/réseau). Douve = main-d'œuvre + *bonding* + relations locales (réelle, mais
+  régionale). Verdict : **EMCOR** sur le multiple, le reste price déjà la pénurie de main-d'œuvre.
+- **GGG — Test & mesure au-delà d'Advantest.** Le *gatekeeper qualité* du hardware IA. La v3 avait Advantest
+  (~53×) ; la v10 ajoute l'autre moitié du **duopole test SoC** : **Teradyne (TER)** — test SoC/compute (+90 % de
+  revenu compute en 2025) + **robotique (Universal Robots)**, mais **~40–50× avant, prime** (« priced for
+  perfection »). Plus *value* : **Cohu (COHU)** — *handlers* & test back-end, **plus cyclique/décoté** ; **Keysight
+  (KEYS ~25–28×)** — instrumentation/signal integrity 800G/1,6T, raisonnable ; **Chroma (2360.TW)** — burn-in/ATE
+  Taiwan. Douve **haute** sur le test SoC (duopole, IP, time-to-market), mais **Teradyne déjà pricé** → la value
+  relative est **Cohu / Keysight**.
+- **HHH — Laminés cuivrés haute vitesse & matériaux PCB.** Le **diélectrique sous la carte IA** : pour les switches
+  800G/1,6T et les *baseboards* GPU, il faut des **CCL M8/M9** à très faibles pertes. Goulet de **qualité** : **Doosan
+  Electro-Materials (Doosan Corp, 000150.KS)** a **ravi le socket Rubin** à **Elite Material (2383.TW)** après
+  l'échec des tests GB300 (2025) — douve = qualification, mais **diluée dans le conglomérat Doosan**. **Elite
+  Material** reste n°1 historique mais **momentum/cher** après son repli de socket ; **ITEQ (6213.TW)** — M7+ en
+  hausse sur l'IA, **moins cher** ; **Taiwan Union (TUC, 6274.TW)**, **Shengyi (600183.SS)** (Chine), **Panasonic**,
+  **Park Aerospace (PKE)** (US, niche défense/RF), **TTM Technologies (TTMI)** (PCB HDI/défense + DC). Équipement de
+  fabrication CCL **booké jusqu'en 2028** (délai 2 ans) → goulet réel. Verdict : douve de **qualification** (preuve
+  par le socket Rubin), mais **pas de pure-play coté propre et bon marché** → indices modérés (ITEQ/TTM les plus value).
+
+### 15.2 — Tableau v10 des **nouveaux** noms (douve & coût d'entrée)
+> *Barrière (B) et Concurrence (C) notées 0–5 (C inversé : 5 = peu de rivaux). Indice 0–10 net. PER avant (≈) sauf mention.*
+
+| Acteur | Ticker | Couche / rôle | PER (≈) | **B** | **C** | Indice | Lecture / **risque** |
+|---|---|---|---:|:---:|:---:|:---:|---|
+| **Wiwynn** | 6669.TW | ODM **pure-play hyperscale** (racks IA) | **~14×** (fwd) | **3** | **3** | **6** | **Top pick v10** : *cheap shovel* le plus **pur** (pairs ~28×), expo IA massive ; ⚠️ marge ~3 %, concurrence ODM |
+| **Hon Hai / Foxconn** | 2317.TW | ODM n°1, **~40 % assemblage racks IA** | **~14×** (fwd) | **3** | **3** | **6** | Exposition IA colossale sous-possédée à ~14× ; ⚠️ **dilué EMS Apple**, marge ~2,5 %, Taiwan |
+| **Quanta Computer** | 2382.TW | ODM n°2, **25–30 % serveurs Nvidia** | **~16×** | **3** | **3** | **6** | Levier serveurs Nvidia à multiple raisonnable ; ⚠️ marge fine, concurrence, cyclique |
+| **EMCOR** | EME | Construction électromécanique/MEP DC | **~26×** | **3** | **3** | **5** | Douve = **main-d'œuvre rare** + carnet, multiple **raisonnable & équilibré** ; ⚠️ exécution chantier |
+| **ASE Technology** | ASX / 3711.TW | OSAT n°1 (assemblage/test + 2.5D) | **~28×** | **4** | **3** | **5** | **2ᵉ source packaging avancé** ; *value* vs semis ; ⚠️ EMS dilue marge, concurrence Chine legacy |
+| **Alfa Laval** | ALFA.ST | Échangeurs de chaleur / boucle DC (**Stockholm**) | **~27×** | **4** | **3** | **5** | Oligopole échangeurs (top5 ~47 %), **qualité au juste prix**, FreeWaterLoop ; ⚠️ cyclique indus. |
+| **Cohu** | COHU | Test back-end & *handlers* (vs Advantest/TER) | **~20–25×** (cyclique) | **3** | **3** | **5** | Test **décoté** vs Teradyne/Advantest ; levier rebond ; ⚠️ petit, cyclique |
+| **Keysight** | KEYS | Instrumentation / signal integrity 800G–1,6T | **~25–28×** | **4** | **4** | **5** | Mesure HS **moins chère** que le test ATE ; douve instrumentation ; ⚠️ exposition IA indirecte |
+| **Powertech** | 6239.TW | Test/packaging mémoire (levier **HBM**) | **~12–15×** | **3** | **3** | **5** | Levier HBM **bon marché** ; ⚠️ concentration client mémoire, cyclique |
+| **ITEQ** | 6213.TW | CCL M7+/M8 haute vitesse (PCB IA) | **~15–18×** | **3** | **3** | **4** | Laminé HS **moins cher** qu'Elite Material ; ⚠️ qualification = risque de socket, concurrence CN |
+| **Johnson Controls** | JCI | Chillers / HVAC DC (le moins cher du groupe) | **~20–22×** | **3** | **3** | **4** | Levier chillers DC **raisonnable** ; ⚠️ conglomérat HVAC, expo IA partielle |
+| **Teradyne** | TER | Test SoC/compute (duopole) + robotique | **~40–50×** | **5** | **4** | **4** | Duopole test SoC, **gatekeeper IA** ; ⚠️ « priced for perfection » |
+| **Amkor** | AMKR | OSAT n°1 US (CPO, SiP, packaging av.) | **~38–44×** (fwd) | **4** | **3** | **4** | Leader CPO/packaging US ; ⚠️ **+45 % YTD, GM ~14 %**, déjà pricé |
+| **TTM Technologies** | TTMI | PCB HDI/RF (défense + DC) | **~20–25×** | **3** | **3** | **4** | PCB diversifié défense+DC ; ⚠️ exposition IA partielle, cyclique |
+| **Doosan (Electro-Materials)** | 000150.KS | **CCL exclusif Rubin** (dans conglomérat) | **~15–18×** (SOTP) | **4** | **4** | **4** | Douve **qualification** (socket Rubin ravi à EMC) ; ⚠️ **diluée** dans Doosan Corp |
+| **SPX Technologies** | SPXC | Dry coolers / rejet de chaleur DC | **~28–30×** | **3** | **3** | **4** | Levier rejet de chaleur ; ⚠️ déjà revalorisé |
+| **Quanta Services** | PWR | n°1 **build-out réseau** électrique | **~50–54×** | **3** | **3** | **3** | Douve main-d'œuvre réseau **mais multiple triple d'EMCOR** → trop cher |
+| **Comfort Systems** | FIX | MEP modulaire DC | **élevé** | **3** | **3** | **3** | Superbe exécution DC **déjà courue** → sur repli seulement |
+| **Munters** | MTRS.ST | *Air treatment* / chillers DC (**Stockholm**) | **~42×** (jusqu'à 65×) | **3** | **3** | **3** | Carnet DC record **mais cher** (croissance pricée) ; sur repli |
+| **Elite Material** | 2383.TW | CCL n°1 historique (a **perdu** Rubin) | **élevé** (momentum) | **3** | **2** | **3** | Leader **mais socket Rubin perdu** + momentum cher ; ⚠️ qualification = risque |
+
+> **Lecture 15.2.** Le **gisement net** est cette fois un **bloc** plutôt qu'une pointe : **trois ODM à 6**
+> (**Wiwynn, Hon Hai, Quanta Computer**) — *cheap shovels* à ~14–16× sur une exposition IA gigantesque, dont
+> **Wiwynn est le plus pur** (pas d'EMS bas-de-gamme à diluer) ; puis une **grappe value/qualité à 5** (**EMCOR**
+> sur la main-d'œuvre, **ASE** sur le packaging avancé 2ᵉ-source, **Alfa Laval** sur les échangeurs, **Cohu /
+> Keysight / Powertech** sur le test/HBM moins chers). Tout le reste **plafonne à 3–4** : soit la douve est
+> **réelle mais le multiple cher** (Teradyne, Amkor, Quanta Services, Munters, Comfort Systems), soit la douve est
+> **diluée** (Doosan), soit le socket a été **perdu** (Elite Material). **Message d'investissement :** *quand une
+> couche critique se traite à la moitié du multiple du silicium, la décote est réelle — mais la marge fine et la
+> concurrence intra-secteur la plafonnent à ~6. La douve « qualité » (qualification CCL, test SoC) mérite mieux
+> que la douve « échelle » (ODM), mais elle est déjà pricée.* La seule **vraie value de douve montante** est le
+> **trio ODM** ; la seule **value de douve dure** encore digeste est **ASE / EMCOR / Alfa Laval**.
+
+### 15.3 — Réévaluation des **entrées v3→v9** à la lumière des données du 1ᵉʳ juin 2026
+> On **conserve** chaque entrée et on **réajuste** l'indice (v9 → v10). La v9 datant du 31 mai, les mouvements v10
+> sont **minimes**, motivés par les **faits nouveaux du 1ᵉʳ juin 2026** : **capex relevé à ~830 Md$ (≈75 % IA)**,
+> **accord Anthropic–Google 200 Md$ sur TPU/Broadcom** (→ silicium custom), et **SSD 245 To de Micron** (→ menace
+> structurelle naissante sur le HDD nearline). « = » : inchangé.
+
+| Acteur | Ticker | Indice **v9** | **v10** | Motif (fait nouveau 1ᵉʳ juin 2026) |
+|---|---|:---:|:---:|---|
+| **Synopsys** | SNPS | 8 | **8 =** | Top pick « douve × décote » (duopole EDA corrigé) réaffirmé ; capex ↑ soutient l'EDA |
+| **SK Hynix / Micron** | 000660.KS / MU | 8 | **8 =** | HBM mal-aimée + **Micron 245 To SSD** (leadership produit) → conviction ↑, indice maintenu |
+| **Broadcom** | AVGO | 4 | **5 ▲** | **Accord Anthropic–Google 200 Md$ sur TPU custom (Broadcom)** → thèse ASIC custom *renforcée* |
+| **TSMC** | TSM | 7 | **7 =** | Bénéficiaire direct du capex ↑ et du silicium custom ; monopole ≤3 nm |
+| **Energy Transfer / Kinder Morgan** | ET / KMI | 8 / 7 | **= ** | Gas-to-power sous-possédé ; capex ↑ ≈75 % IA = demande puissance ↑ |
+| **Nexans** | NEX.PA | 7 | **7 =** | Top pick EU câbles HV (laggard vs Prysmian) |
+| **Vistra** | VST | 7 | **7 =** | Demande puissance ↑ avec le capex relevé |
+| **HD Hyundai Electric** | 267260.KS | 7 (biais ↑) | **7 =** | Carnet transfo saturé ; GOES rare en amont |
+| **Air Liquide** | AI.PA | 6 | **6 =** | Gaz spéciaux on-site + optionalité hélium (détenue) |
+| **Tokyo Electron / Cleveland-Cliffs / EnerSys** | 8035.T / CLF / ENS | 6 | **= ** | Top picks v9 (WFE le moins cher, GOES US, batterie de salle) maintenus |
+| **KLA / Axcelis / Sumitomo Metal Mining / ASMPT / Hitachi / Air Products / Onto** | — | 5 | **= ** | Grappe v9 (verrous WFE/packaging/HVDC/hélium) maintenue |
+| **Eaton / Schneider / Cummins** | ETN / SU.PA / CMI | 5–6 | **= ** | Électrification + power/cooling + moteur/service ; capex ↑ valide |
+| **Vertiv** | VRT | 3 | **3 =** | ⚠️ Concurrence cooling (Eaton-Boyd, Ecolab-CoolIT) + **rejet de chaleur bâtiment** (Alfa Laval) s'ajoute en amont |
+| **Disco / VAT / Advantest / Lasertec / ASML / Hoya** | — | 4–6 | **= ** | Monopoles WFE/inspection/blanks ; **Teradyne/Cohu/Keysight ajoutés comme alternatives test (cf. 15.2)** |
+| **Resonac / Ferrotec / NGK / JX / Dover** | — | 6–7 | **= ** | Consommables/céramiques/cibles/raccords : douves matériau maintenues |
+| **GE Vernova / Siemens Energy / MHI / Howmet** | GEV / ENR.DE / 7011.T / HWM | 2–5 | **= ** | Turbines sold-out ; capex ↑ ≈75 % IA = demande puissance ↑ (cher, maintenus) |
+| **onsemi / Infineon / STMicro** | ON / IFX.DE / STM.PA | 5–6 | **= ** | Power 800 VDC ; ⚠️ capacité chinoise SiC |
+| **ArcelorMittal / Aperam / Nippon Steel** | MT.AS / APAM.AS / 5401.T | 4–5 | **= ** | Accès Euronext au GOES (MT/APAM) ; matière sous le transfo |
+| **Coherent / Lumentum / Corning** | COHR / LITE / GLW | 1–2 | **= ** | Optique/CPO : valorisations extrêmes ; **Amkor entre sur le CPO (cf. 15.2)** |
+| **IREN / Hut 8 / Core Scientific / TeraWulf** | — | 3–4 | **= ** | Mineurs→IA : puissance réplicable ; déjà ×5–×7 |
+| **Seagate / WDC** | STX / WDC | 4 | **3 ▼** | ⚠️ **SSD 245 To Micron** (−82 % de racks, ×84 efficacité) = **menace structurelle naissante** sur le HDD nearline |
+| *(toutes les autres lignes v3→v9)* | — | — | **= ** | **Conservées et réaffirmées** à leur niveau v9 (pas de fait nouveau matériel au 1ᵉʳ juin) |
+
+> **Lecture 15.3.** La v10 **ne renverse rien** et ne fait que **deux mouvements** : **(1)** **Broadcom 4 → 5** —
+> l'accord **Anthropic–Google de 200 Md$ sur des TPU custom** confirme que la part *silicium custom (ASIC)* de la
+> dépense IA grossit, ce qui profite à Broadcom et TSMC plus qu'aux GPU merchant ; **(2)** **Seagate/WDC 4 → 3** —
+> le **SSD 245 To de Micron** (×84 d'efficacité énergétique, −82 % de racks) inaugure une **menace structurelle**
+> sur le HDD nearline qui était jusqu'ici un *sold-out duopole* — le couple risque/récompense se dégrade. Pour le
+> reste, le **capex relevé à ~830 Md$ (≈75 % IA)** *valide en bloc* la chaîne énergie/grid/cooling/WFE déjà
+> identifiée (indices maintenus). La hiérarchie reste : **(1)** duopole EDA corrigé (Synopsys), **(2)** HBM
+> mal-aimée (SK Hynix, Micron), **(3)** dérivées gaz/réseau + matière grid (ET, KMI, Nexans, HD Hyundai, GOES/CLF),
+> **(4)** verrous WFE/matériaux/packaging (Tokyo Electron, KLA…) — la v10 y ajoute **(5)** une couche *value de
+> couverture* : **ODM décotés (Wiwynn, Hon Hai, Quanta) + back-end/MEP/échangeurs (ASE, EMCOR, Alfa Laval)**.
+
+### 15.4 — Lien avec le portefeuille & candidats réalistes (Euronext) — vue v10
+Pour *ce* compte (~1 017 €, eToro/Euronext), la v10 confirme l'honnêteté des v6/v9 : *l'essentiel des couches
+back-end/ODM/MEP n'est pas coté à Paris*. Apports concrets :
+
+1. **Air Liquide (AI.PA)** *(détenue)* — **maintenu 6** : gaz spéciaux on-site + optionalité hélium. Vraie ligne infra IA.
+2. **Schneider (SU.PA)** *(détenue)* — **maintenu 5** : power+cooling DC ; ⚠️ le **rejet de chaleur bâtiment**
+   (Alfa Laval/Munters) et la **construction MEP** (EMCOR) sont des couches *complémentaires*, pas concurrentes.
+3. **Nexans (NEX.PA)** — **top pick EU câbles HV maintenu (7)** ; **Legrand (LR.PA)** — PDU/busways maintenu.
+4. *(Watchlist hors-Euronext, nouveautés v10 — couche « chair autour du silicium »)* :
+   - **Wiwynn (6669.TW, 6)** — *cheap shovel* ODM **le plus pur** (~14×, pairs ~28×) ;
+   - **Hon Hai (2317.TW, 6)** / **Quanta Computer (2382.TW, 6)** — ODM n°1/n°2, ~14–16×, expo IA massive ;
+   - **EMCOR (EME, 5)** — construction MEP, douve main-d'œuvre, ~26× ;
+   - **ASE (ASX, 5)** — packaging avancé 2ᵉ-source, ~28× ;
+   - **Alfa Laval (ALFA.ST, 5)** — échangeurs de chaleur DC, qualité ~27× (accès **Stockholm**, proche Euronext) ;
+   - **Cohu / Keysight / Powertech** — test/HBM moins chers que Teradyne/Advantest.
+5. *(À éviter / sur repli seulement)* **Amkor, Teradyne, Quanta Services, Comfort Systems, Munters, Elite
+   Material** — couches critiques mais **déjà pricées** pour le boom.
+
+> **Cohérence inchangée depuis v1 :** *acheter la faiblesse, pas la force* ; *offre contrainte ≠ surcapacité* ;
+> *payer pour la douve, pas pour la perfection* ; *le rôle critique ne garantit pas la sous-évaluation*. La v10 y
+> ajoute : **« une couche critique payée à la moitié du multiple du silicium (ODM ~14×, MEP ~26×, échangeurs ~27×)
+> est une décote *réelle* — mais la marge fine et la concurrence intra-secteur la plafonnent à ~6. La douve
+> "qualité" (qualification CCL, test SoC) vaut mieux que la douve "échelle" (ODM) — mais elle est déjà pricée. Le
+> meilleur couple value/exposition de cette couche est le trio ODM (Wiwynn, Hon Hai, Quanta) et, en douve dure
+> encore digeste, ASE / EMCOR / Alfa Laval. »**
+
+---
+
 ## Sources
 
 ### v1 (25 mai 2026)
@@ -1981,3 +2213,26 @@ profonds n'est pas coté à Paris*. Deux apports concrets accessibles, le reste 
 - [Néon (litho) concentré Ukraine/Russie ; marché gaz rares tiré par la litho semi — IndexBox](https://www.indexbox.io/blog/rare-gas-market-driven-by-semiconductor-lithography-demand-to-reshape-supply-chains-through-2035/)
 - [Hélium : Linde (LIN) bénéficiaire de la pénurie — Motley Fool](https://www.fool.com/investing/2026/04/17/iran-war-helium-shortage-chip-industry-stock-linde/)
 - [$90B de pénurie d'équipement électrique freine la construction DC ; ~1/3 des 12–16 GW 2026 réellement en construction — Next Financial](https://nextfinancial.substack.com/p/why-data-center-construction-delays)
+
+### v10 (1ᵉʳ juin 2026 — « la chair autour du silicium » : OSAT, ODM serveurs IA, rejet de chaleur bâtiment, construction MEP, test au-delà d'Advantest, laminés CCL haute vitesse)
+- [Capex hyperscalers ~830 Md$ en 2026 (~75 % IA) ; Nvidia/TSM/AVGO/MSFT/GOOG/META/ORCL au centre — InvestorPlace](https://investorplace.com/hypergrowthinvesting/2026/05/the-5-ai-infrastructure-stocks-powering-the-next-leg-of-the-ai-buildout/)
+- [Anthropic–Google : accord infrastructure 200 Md$ / 5 ans sur TPU custom (Broadcom), clusters multi-GW (5 mai 2026) — InvestorPlace](https://investorplace.com/hypergrowthinvesting/2026/05/the-5-ai-infrastructure-stocks-powering-the-next-leg-of-the-ai-buildout/)
+- [Micron 6600 ION SSD 245 To (5 mai 2026) : ×84 efficacité énergétique, −82 % de racks vs HDD — menace structurelle naissante sur le nearline — InvestorPlace](https://investorplace.com/hypergrowthinvesting/2026/05/the-5-ai-infrastructure-stocks-powering-the-next-leg-of-the-ai-buildout/)
+- [Foxconn/Hon Hai Q1 2026 : CA TWD 2,13 T (+29,7 %), ~40 % de l'assemblage de racks IA, shipments x2 en 2026 — tech-insider / Digitimes](https://tech-insider.org/foxconn-q1-2026-ai-server-revenue-66-billion/)
+- [Hon Hai (2317.TW) : P/E TTM ~18,25× / fwd ~14,34× — stockanalysis / GuruFocus](https://stockanalysis.com/quote/tpe/2317/statistics/)
+- [Quanta Computer (2382.TW) : P/E TTM ~16,3× ; 25–30 % des commandes serveurs Nvidia — GuruFocus / Yahoo Finance](https://www.gurufocus.com/term/pettm/TPE:2382)
+- [Wiwynn (6669.TW) : P/E TTM ~17,6× / fwd ~13,7× ; pure-play hyperscale, *good value* vs pairs ~28× — Simply Wall St / Alpha Spread](https://simplywall.st/stocks/tw/tech/twse-6669/wiwynn-shares/valuation)
+- [ODM serveurs IA Taiwan : valorisations en hausse, course aux marges (Foxconn/Wistron/Quanta « trillion-dollar revenue » 2026) — Digitimes](https://www.digitimes.com/news/a20260601PD205/servers-odm-demand-growth-taiwan-2026.html)
+- [ASE Technology (ASX) : fwd P/E ~22–35× selon source ; OSAT n°1 (packaging/test/EMS), 2.5D/VIPack — GuruFocus / stockanalysis / Intellectia](https://stockanalysis.com/stocks/asx/statistics/)
+- [Amkor (AMKR) : fwd P/E ~35–44× ; Q1 2026 CA record 1,69 Md$ (+27 %), GM ~14 %, EPS 0,33$ ; +45 % YTD ; leader CPO — GuruFocus / valueinvesting.io / SEC 8-K](https://www.gurufocus.com/term/forward-pe-ratio/AMKR)
+- [Alfa Laval (ALFA.ST) : P/E ~27×, EBITA Q1 2026 ~18,1 % ; FreeWaterLoop (mars 2026) ; top 5 échangeurs ~47 % du marché DC — companiesmarketcap / DCD / GMI](https://www.datacenterdynamics.com/en/news/industrial-firm-alfa-laval-enters-data-center-market-with-liquid-cooling-system/)
+- [Munters (MTRS.ST) : P/E ~42× (jusqu'à 65× selon source) ; commande DC record 2,1 Md SEK, livraisons 2026–2028 — Simply Wall St / TipRanks](https://simplywall.st/stocks/se/capital-goods/sto-mtrs/munters-group-shares/news/a-look-at-munters-group-ommtrs-valuation-after-major-21b-sek)
+- [Quanta Services (PWR) : fwd P/E ~53,6× ; n°1 build-out réseau électrique, carnet record — GuruFocus / SEC 8-K](https://www.gurufocus.com/term/forward-pe-ratio/PWR)
+- [EMCOR (EME) : fwd P/E ~26× ; services électriques/mécaniques, exposition DC croissante & équilibrée — public.com / Yahoo Finance / Nasdaq](https://public.com/stocks/eme/pe-ratio)
+- [Comfort Systems (FIX), MasTec, Quanta, EMCOR, Dycom : exécution du build-out DC (MEP/réseau) — Zacks / Globe and Mail](https://www.theglobeandmail.com/investing/markets/stocks/FIX/pressreleases/1478797/the-zacks-analyst-blog-comfort-systems-mastec-quanta-services-emcor-and-dycom/)
+- [Teradyne (TER) : fwd P/E ~40–50× ; test SoC/compute (+90 % revenu compute 2025), « gatekeeper » du hardware IA — Nasdaq/Zacks / SahmCapital](https://www.sahmcapital.com/news/content/teradyne-ter-valuation-check-after-strong-ai-driven-semiconductor-test-quarter-2026-05-05)
+- [CCL haute vitesse M8/M9 standard pour switches 800G & serveurs IA ; acteurs Panasonic/Shengyi/Isola/ITEQ/Rogers ; équipement booké jusqu'en 2028 — Future Market Insights / Digitimes](https://www.digitimes.com/news/a20260402PD216/equipment-expansion-ccl-materials-demand.html)
+- [Doosan Electro-Materials : fournisseur exclusif CCL Rubin après l'échec des tests GB300 d'Elite Material (2025) — Engineering.com / Digitimes](https://www.engineering.com/doosan-to-showcase-ai-era-energy-and-automation-at-ces-2026/)
+- [ITEQ : la demande data center IA tire les expéditions de CCL M7+ — Digitimes](https://www.digitimes.com/news/a20260528PD218/ccl-iteq-laminate-demand-shipments.html)
+- [Elite Material (2383.TW) : CCL n°1 historique, Q3 2025 CA +44 % YoY, GM ~30 % ; a perdu le socket Rubin — MarketScreener / Stockopedia](https://www.stockopedia.com/share-prices/elite-material-co-TPE:2383/)
+- [Marché échangeurs de chaleur DC : 3 Md$ (2026) → 7,2 Md$ (2035), CAGR 10,1 % ; top 5 acteurs ~47 % en 2025 — GM Insights](https://www.gminsights.com/industry-analysis/data-center-heat-exchanger-market)
