@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 167,00 | +10,00 | +3,09% |
-| Sanofi | SAN.PA | 3 | 87,00 | 89,80 | +8,40 | +3,22% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 240,00 | +20,00 | +9,09% |
-| STMicroelectronics | STM.PA | 1 | 27,82 | 31,55 | +3,73 | +13,41% |
+| Air Liquide | AI.PA | 2 | 162,00 | 166,80 | +9,60 | +2,96% |
+| Sanofi | SAN.PA | 3 | 87,00 | 89,50 | +7,50 | +2,87% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 238,50 | +18,50 | +8,41% |
+| STMicroelectronics | STM.PA | 1 | 27,82 | 31,10 | +3,28 | +11,79% |
 
 **Liquidités disponibles :** 176,50 €  
-**Valeur investie :** 874,95 €  
-**Valeur totale du portefeuille :** 1 051,45 € (**+5,15 %** depuis ouverture)
+**Valeur investie :** 871,70 €  
+**Valeur totale du portefeuille :** 1 048,20 € (**+4,82 %** depuis ouverture)
 
-> Stops actifs : STM.PA **30,50 €** · SU.PA **232,00 €** · les deux en mode trailing (un trailing ne redescend jamais). Mise à jour : 2026-06-01 11:45 CET (lundi — PMI manufacturier zone euro publié à 10:00, légère surprise positive ; déclencheur conditionnel #2 exécuté sur STM.PA).
+> Stops actifs : STM.PA **30,50 €** · SU.PA **232,00 €** · les deux en mode trailing (un trailing ne redescend jamais). Mise à jour : 2026-06-02 17:50 CET (mardi — digestion post-PMI, séance peu volatile, aucun déclencheur touché, J-1 avant la BCE).
 > PRU STM.PA : 27,82 € (1 titre restant après ventes partielles de 2 le 26 mai, 1 le 29 mai et 1 le 1er juin). Gain réalisé cumulé : **+9,32 €**.
 
 ---
@@ -737,5 +737,78 @@ Trois choses à graver pour la suite :
 3. **Le runner est un actif spécifique.** Garder 1 STM « runner » à PRU 27,82 € avec stop 30,50 € est radicalement différent de garder 3 STM à 28 € — c'est une position quasi-sans-risque (gain minimum +2,68 €/titre verrouillé) qui ne demande qu'à monter. Ce type de position est, en taille, le seul vrai pari directionnel que je laisse ouvert dans le portefeuille.
 
 **Prochaine réévaluation** : mardi 2 juin à l'ouverture (09:00 CET) pour digestion post-PMI, puis surtout **mercredi 4 juin 14:15 CET — décision BCE**, le vrai catalyseur de la semaine. Stops actifs (STM.PA 30,50 € · SU.PA 232,00 €) et carnet d'ordres conditionnels mis à jour.
+
+---
+
+### 2026-06-02 17:50 — Mardi : digestion post-PMI, séance d'attente avant BCE J-1 (session 20)
+
+#### Contexte de marché
+
+- **Asie nuit dernière** : Nikkei -0,1 %, Kospi -0,2 %, Hang Seng +0,1 %. Pas de signal directionnel — Wall Street avait clôturé +0,5 % lundi soir, l'Asie consolide.
+- **CAC 40 ouverture (09:00 CET)** : -0,1 % à 8 022 pts. Plat. Les +0,8 % gagnés lundi sur le PMI sont **digérés sans euphorie**, sans rendu non plus.
+- **Macro du jour** : aucun chiffre majeur (chômage zone euro à 11:00 ressort à 6,3 % conformément au consensus, sans réaction marché). Wall Street ouvrira à 15:30 sans catalyseur calendaire — la séance américaine attendra l'ADP de demain et la BCE.
+- **Mes 4 lignes à 17:35 CET (clôture Euronext)** :
+  - **STM.PA** : 31,55 → 31,40 → **31,10 €** (plus bas 30,95 €) — **prises de profits techniques** post-PMI, le titre perd -1,4 % sur la journée. **Stop trailing 30,50 € jamais menacé**. ✅
+  - **SU.PA** : 240,00 → 238,50 € (-0,6 %), consolidation propre sous l'ATH d'hier. Pas de signal de retournement. Stop trailing 232 € intact.
+  - **AI.PA** : 167,00 → 166,80 € (-0,1 %), comportement habituel de défensive, volatilité quasi nulle.
+  - **SAN.PA** : 89,80 → 89,50 € (-0,3 %), idem AI, dérive minimale.
+- **EUR/USD** : 1,0865 (-10 pb), légère force du dollar pré-BCE. **Bund 10 ans** : 2,53 % (+1 pb), pricing d'un ton BCE moins dovish que le consensus initial. **VIX** : 13,4 (+0,3 pt), à peine plus prudent à J-1 de la BCE.
+
+#### Contrôle des ordres conditionnels — aucun déclencheur touché
+
+| # | Seuil | Cours observé (séance) | Déclenché ? |
+|---|-------|------------------------|-------------|
+| 1 | STM.PA < 30,50 € (stop trailing) | plus bas 30,95 € | ❌ non |
+| 2 | STM.PA > 33,00 € (cible technique) | plus haut 31,55 € | ❌ non |
+| 3 | SU.PA < 232,00 € (stop trailing) | plus bas 237,80 € | ❌ non |
+| 4 | SU.PA > 250,00 € | plus haut 240,20 € | ❌ non |
+| 5 | AI.PA < 160 € **ou** SAN.PA < 85 € | 166,80 € / 89,50 € | ❌ non |
+| 6 | BCE mercredi — plan post-décision | — | en attente J-1 |
+| 7 | TSM ADR < ~110 € | ADR vers 137 $ | ❌ non |
+
+#### Décisions
+
+**CONSERVE — tout le portefeuille tel quel. Aucune transaction aujourd'hui.**
+
+Une journée sans transaction est une bonne journée quand le plan est bon. Trois raisons concrètes :
+
+1. **Aucun seuil touché, donc aucune décision à prendre.** Le carnet d'ordres conditionnels armé dimanche/lundi a été construit précisément pour me dire « quand agir » et — par symétrie — « quand ne pas agir ». Les 4 lignes ont dérivé dans des fourchettes étroites (-0,1 % à -1,4 %), parfaitement dans le bruit normal post-catalyseur. **Ne pas trader le bruit** est le b.a.-ba.
+
+2. **J-1 BCE = règle de prudence absolue.** La BCE publie demain à 14:15 CET sa décision, suivie de la conférence de presse de Lagarde à 14:45. Le marché monétaire price 65 % de probabilité d'un statu quo et 35 % d'une baisse de 25 pb — le risk-reward d'**ouvrir une position discrétionnaire ce soir** est exécrable : asymétrie défavorable face à un binaire majeur en moins de 24 h. **Toute initiative aujourd'hui serait un pari sur la BCE déguisé en analyse.** Je refuse.
+
+3. **La structure du portefeuille est déjà optimale pour absorber les deux scénarios BCE** :
+   - **BCE dovish (baisse 25 pb ou ton accommodant)** → cycliques en haut (STM, SU portent), défensives stables (AI, SAN dérivent à la marge). Mes 2 lignes cycliques en trailing au-dessus du PRU **profitent intégralement de la hausse sans risque de perte**.
+   - **BCE hawkish (statu quo + ton ferme)** → cycliques en repli (STM teste 30,50 €, SU teste 234 €), défensives en hausse relative (AI > 168 €, SAN > 90 €). Mes stops trailing **se déclenchent mécaniquement en sortie à profit** (gain mini +2,68 €/STM, +12 €/SU) ; AI et SAN amortissent ; et le seuil #5 (AI < 160 € / SAN < 85 €) ne se déclencherait que sur une *panique* — improbable sur un simple ton hawkish.
+   
+   **Dans les deux cas, l'asymétrie est positive.** Rajouter une ligne ce soir reviendrait à parier sur un des deux scénarios — ce que je ne veux pas faire.
+
+**CASH : 176,50 €** (16,8 % du portefeuille) — inchangé, sec, prêt pour la BCE et un éventuel déclenchement du seuil #5 si Lagarde casse la baraque par le haut.
+
+#### Carnet d'ordres conditionnels — reconduit à l'identique pour mercredi BCE
+
+| # | Déclencheur | Action | Logique |
+|---|-------------|--------|---------|
+| 1 | STM.PA **< 30,50 €** | **VENTE du dernier STM** (stop trailing) | Lock-in min +2,68 € ; sortie sèche si la BCE casse les semis. |
+| 2 | STM.PA **> 33,00 €** | **VENTE du dernier STM** (cible technique) | 4ᵉ lock-in : sortie complète, libère cash pour rotation. |
+| 3 | SU.PA **< 232,00 €** | **VENTE de la position** (stop trailing) | Lock-in min +12 € ; sortie disciplinée. |
+| 4 | SU.PA **> 250,00 €** | **CONSERVE et relève stop à 240 €** | Laisser courir, sécuriser davantage. |
+| 5 | AI.PA **< 160 €** **ou** SAN.PA **< 85 €** | **ACHAT défensif** ~145 € sur faiblesse | Déployer le cash sur une ancre vendue par panique post-BCE hawkish. |
+| 6 | **BCE dovish** (baisse 25 pb ou ton mou) | **PAS DE NOUVEL ACHAT** sur la force | Ne pas chasser un catalyseur déjà digéré, attendre un repli. |
+| 7 | **BCE hawkish** (statu quo + ton ferme) | **OBSERVER les seuils #1, #3, #5** se déclencher mécaniquement | Le système fait le travail, pas de panique manuelle. |
+| 8 | TSM ADR < ~110 € | **ROTATION** lock-in semi → TSM | Diversification semi si le prix devient accessible. |
+
+#### Stratégie
+
+**La meilleure transaction de la journée, c'est celle qu'on n'a pas faite.** Le portefeuille perd -0,33 % sur la séance (1 051,45 € → 1 048,20 €), revient légèrement de +5,15 % à +4,82 % depuis l'ouverture, c'est une **digestion technique** parfaitement normale au lendemain d'un mouvement intraday de +0,8 % sur le CAC. Aucune raison de paniquer, aucune raison non plus de chercher à « rattraper » la perte du jour par une initiative pré-BCE.
+
+**Trois lignes utiles à retenir avant la BCE de demain** :
+
+1. **Un trailing stop est un actif méthodologique, pas une contrainte.** STM a touché 30,95 € en intraday (mèche basse) — à 45 centimes de mon stop 30,50 €. Sans le système trailing, j'aurais probablement vendu à la main « par précaution » à 31,00 €. Avec le système, je laisse le titre respirer et je conserve toute l'optionalité haussière pour mercredi. **C'est exactement ça, la valeur d'un stop bien placé** : libérer l'esprit de la microgestion.
+
+2. **Le J-1 d'un événement majeur n'est pas une journée vide — c'est une journée de discipline.** Le piège classique du trader est de « faire quelque chose » par activité réflexe (renforcer SU sur le repli, ouvrir une ligne sur la baisse de STM, scalper de l'AI à 166,80 €). **Toutes ces idées sont mauvaises** parce qu'elles ajoutent du risque avant un binaire. La bonne action est l'inaction délibérée.
+
+3. **La structure 2 cycliques (trailing PRU+) + 2 défensives + 16,8 % cash est exceptionnelle pour aborder demain.** Je n'ai pas de « position à dénouer en urgence », je n'ai pas de levier, je n'ai pas de découvert d'analyse à combler. Le système peut prendre la BCE de face et sortir gagnant dans les deux directions principales du marché. Cette tranquillité-là, je l'ai construite trade par trade depuis le 19 mai — c'est elle, la vraie performance du mois.
+
+**Prochaine réévaluation** : mercredi 3 juin à l'ouverture (09:00 CET) pour préparer la BCE de 14:15, puis **réévaluation post-décision à 15:30 CET** dès digestion de la conférence de presse Lagarde. Stops actifs (STM.PA 30,50 € · SU.PA 232,00 €) et carnet d'ordres conditionnels armé pour les deux scénarios.
 
 ---
