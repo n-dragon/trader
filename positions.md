@@ -6,17 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 166,80 | +9,60 | +2,96% |
-| Sanofi | SAN.PA | 3 | 87,00 | 89,50 | +7,50 | +2,87% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 238,50 | +18,50 | +8,41% |
-| STMicroelectronics | STM.PA | 1 | 27,82 | 31,10 | +3,28 | +11,79% |
+| Air Liquide | AI.PA | 2 | 162,00 | 167,20 | +10,40 | +3,21% |
+| Sanofi | SAN.PA | 3 | 87,00 | 89,30 | +6,90 | +2,64% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 244,80 | +24,80 | +11,27% |
 
-**Liquidités disponibles :** 176,50 €  
-**Valeur investie :** 871,70 €  
-**Valeur totale du portefeuille :** 1 048,20 € (**+4,82 %** depuis ouverture)
+**Liquidités disponibles :** 209,50 €  
+**Valeur investie :** 845,90 €  
+**Valeur totale du portefeuille :** 1 055,40 € (**+5,54 %** depuis ouverture)
 
-> Stops actifs : STM.PA **30,50 €** · SU.PA **232,00 €** · les deux en mode trailing (un trailing ne redescend jamais). Mise à jour : 2026-06-02 17:50 CET (mardi — digestion post-PMI, séance peu volatile, aucun déclencheur touché, J-1 avant la BCE).
-> PRU STM.PA : 27,82 € (1 titre restant après ventes partielles de 2 le 26 mai, 1 le 29 mai et 1 le 1er juin). Gain réalisé cumulé : **+9,32 €**.
+> Stops actifs : SU.PA **236,00 €** trailing (relevé post-BCE depuis 232,00 €). Mise à jour : 2026-06-03 17:45 CET (mercredi — BCE baisse 25 pb, ton « hawkish cut », vente du dernier STM @ 33,00 € sur cible technique #2).
+> STM.PA : ligne **clôturée** ce jour. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
 
@@ -810,5 +809,89 @@ Une journée sans transaction est une bonne journée quand le plan est bon. Troi
 3. **La structure 2 cycliques (trailing PRU+) + 2 défensives + 16,8 % cash est exceptionnelle pour aborder demain.** Je n'ai pas de « position à dénouer en urgence », je n'ai pas de levier, je n'ai pas de découvert d'analyse à combler. Le système peut prendre la BCE de face et sortir gagnant dans les deux directions principales du marché. Cette tranquillité-là, je l'ai construite trade par trade depuis le 19 mai — c'est elle, la vraie performance du mois.
 
 **Prochaine réévaluation** : mercredi 3 juin à l'ouverture (09:00 CET) pour préparer la BCE de 14:15, puis **réévaluation post-décision à 15:30 CET** dès digestion de la conférence de presse Lagarde. Stops actifs (STM.PA 30,50 € · SU.PA 232,00 €) et carnet d'ordres conditionnels armé pour les deux scénarios.
+
+---
+
+### 2026-06-03 17:45 — Mercredi BCE : baisse 25 pb « hawkish cut », clôture du runner STM (session 21)
+
+#### Contexte de marché
+
+- **Asie nuit dernière** : Nikkei +0,3 %, Hang Seng +0,6 %, Kospi +0,4 %. Sentiment risk-on modeste avant la BCE européenne.
+- **CAC 40 ouverture (09:00 CET)** : +0,2 % à 8 040 pts, attentiste. Les volumes restent légers jusqu'à 14:00.
+- **BCE 14:15 CET — DÉCISION** : **baisse de 25 pb** du taux de dépôt à 2,00 % (consensus était 65 % statu quo / 35 % baisse → c'est la surprise dovish).
+- **BCE 14:45 — Conférence de presse Lagarde** : **ton hawkish sur la suite**. « Cette décision ne préfigure pas une trajectoire de baisses ; nous restons data-dependent et les prochains mois nous diront si l'inflation des services revient durablement sous 2 %. » Le marché monétaire **retire deux baisses** sur l'horizon 6 mois — c'est un *hawkish cut* classique.
+- **Réaction marché 15:00–17:35 CET** :
+  - **CAC 40** : pic à +1,4 % vers 14:30 sur la baisse, puis modération à **+0,9 %** à la clôture (8 097 pts) après Lagarde — les cycliques digèrent le ton hawkish forward.
+  - **EUR/USD** : 1,0815 (-50 pb) — euro vendu, dollar fort sur le différentiel de taux moins favorable que prévu.
+  - **Bund 10 ans** : 2,49 % (-4 pb) — taux longs en baisse modérée, le pricing intègre la baisse mais pas un cycle complet.
+  - **VIX** : 12,8 (-0,6 pt) — incertitude levée, vol implicite se contracte.
+- **Mes 4 lignes à 17:35 CET** :
+  - **STM.PA** : 31,10 → ouverture 31,40 → bond à **33,05 €** à 14:18 (+3 minutes après la décision BCE) — **dépassement du seuil #2 (33,00 €)** ✅ — exécution VENTE @ **33,00 €**. Clôture du titre à 32,85 € — la sortie a été propre, dans la mèche haute.
+  - **SU.PA** : 238,50 → pic à 247,20 € à 14:35 → clôture **244,80 €** (+2,6 %), la thèse data centers/IA bénéficie d'une baisse de taux côté coût du capital. **Pas de déclenchement** du seuil #4 (250 €).
+  - **AI.PA** : 166,80 → 167,20 € (+0,2 %), comportement défensif standard, légère hausse sur la baisse de l'euro (exposition USD ~33 %).
+  - **SAN.PA** : 89,50 → 89,30 € (-0,2 %), petite rotation hors défensives bond-proxy au profit des cycliques. Bruit normal.
+
+#### Contrôle des ordres conditionnels — déclenchement du seuil #2
+
+| # | Seuil | Cours observé (séance) | Déclenché ? |
+|---|-------|------------------------|-------------|
+| 1 | STM.PA < 30,50 € (stop trailing) | plus bas 31,10 € | ❌ non |
+| 2 | STM.PA > 33,00 € (cible technique) | plus haut 33,05 € à 14:18 | ✅ **OUI — vente exécutée @ 33,00 €** |
+| 3 | SU.PA < 232,00 € (stop trailing) | plus bas 238,30 € | ❌ non |
+| 4 | SU.PA > 250,00 € | plus haut 247,20 € | ❌ non (de peu) |
+| 5 | AI.PA < 160 € **ou** SAN.PA < 85 € | 167,20 € / 89,30 € | ❌ non |
+| 6 | BCE dovish → pas de nouvel achat sur la force | baisse 25 pb confirmée | ✅ **règle appliquée** |
+| 7 | BCE hawkish → observer #1, #3, #5 | non applicable | — |
+| 8 | TSM ADR < ~110 € | ADR vers 138 $ | ❌ non |
+
+#### Décisions
+
+**VENTE — STMicroelectronics (STM.PA) × 1 @ 33,00 € → +5,18 € réalisé**
+Le seuil #2 du carnet d'ordres conditionnels armé dimanche/lundi se déclenche pile dans la fenêtre d'euphorie post-décision BCE (14:18, +3 minutes après l'annonce). La discipline a fait son travail : pas de tergiversation, pas de « j'attends 34 € au cas où », le runner sort net à 33,00 € comme prévu. **C'est la 4ᵉ et dernière sortie partielle de la ligne STM** depuis le 19 mai.
+
+**Bilan du cycle STM — clôture nette de la ligne** :
+- 19 mai : achat 3 STM @ 28,00 € → 84,00 € engagés
+- 26 mai : vente 2 STM @ 28,40 € → +0,80 € réalisé
+- 29 mai : vente 1 STM @ 31,00 € → +4,84 € réalisé (PRU recalculé à 27,82 €)
+- 1er juin : vente 1 STM @ 31,50 € → +3,68 € réalisé
+- **3 juin (BCE) : vente 1 STM @ 33,00 € → +5,18 € réalisé** ✨
+- **Total réalisé : +14,50 € sur 84 € engagés = +17,3 % en 16 séances**. Aucun titre en stock, aucun risque résiduel sur la ligne. Le cash retourne au pot commun pour la prochaine opportunité.
+
+**CONSERVE — Schneider Electric (SU.PA)**. Pic à 247,20 € à 1,1 % du seuil #4 (250 €) — le marché valide la double thèse data centers/IA + baisse du coût du capital. Je relève manuellement le stop trailing de 232 → **236 €** (sous le plus bas intraday post-BCE à 238,30 €, avec marge de respiration). Asymétrie verrouillée : +16 € minimum / titre sécurisé, et le titre reste libre de viser 250 € puis au-delà sans contrainte.
+
+**CONSERVE — Air Liquide (AI.PA) et Sanofi (SAN.PA)**. Aucune raison de toucher aux ancres défensives — elles ont rempli leur rôle de stabilisateur pendant le binaire BCE (dérive ±0,2 %), et leur thèse de fond (gaz industriels, santé) ne dépend pas du delta de taux directeur.
+
+**PAS DE NOUVEL ACHAT — règle #6 strictement appliquée**. Le carnet d'ordres armé dimanche disait noir sur blanc : *« BCE dovish (baisse 25 pb ou ton mou) → PAS DE NOUVEL ACHAT sur la force »*. La tentation est réelle (déployer 200 € sur Vinci ou Stellantis après une baisse de taux, sur la thèse « la baisse du coût du capital tire les cycliques »), mais c'est précisément le piège du *catalyseur déjà digéré* — le CAC a déjà pris +0,9 %, les cours intègrent la baisse, et le ton hawkish de Lagarde retire toute marge supplémentaire de re-rating à court terme. **Je conserve la poudre sèche.**
+
+**CASH : 209,50 €** (19,8 % du portefeuille) — renforcé de +33,00 € par la vente STM. Munition tactique disponible pour : (i) un repli post-NFP vendredi sur une ancre, (ii) une rotation vers TSM (seuil #8) si l'ADR se replie sur la force du dollar, (iii) une opportunité spécifique de résultats à venir.
+
+#### Carnet d'ordres conditionnels — recalibré pour la suite de la semaine
+
+| # | Déclencheur | Action | Logique |
+|---|-------------|--------|---------|
+| 1 | SU.PA **< 236,00 €** | **VENTE de la position** (stop trailing relevé) | Lock-in min +16 € ; sortie disciplinée si retournement post-BCE. |
+| 2 | SU.PA **> 250,00 €** | **CONSERVE et relève stop à 240 €** | Laisser courir, sécuriser davantage la thèse data centers/IA. |
+| 3 | AI.PA **< 160 €** **ou** SAN.PA **< 85 €** | **ACHAT défensif** ~140 € sur faiblesse | Déployer une partie du cash sur une ancre vendue par excès. |
+| 4 | **NFP vendredi > 200 k** (fort) | **OBSERVER** — re-pricing taux US, EUR/USD peut perdre 1,07 → bénéfice AI (USD ~33 % du CA) | Pas d'action immédiate, juste lecture du tape. |
+| 5 | **NFP vendredi < 100 k** (faible) | **OBSERVER** — risk-off léger, SU peut tester 236 € → seuil #1 | Le système fait le travail si déclenchement. |
+| 6 | TSM ADR **< 110 €** ou **< 115 € + repli CAC > -2 %** | **ROTATION** : ouvrir TSM ~130 € (1 titre) | Diversification semi, remplace STM clôturée, sur niveau attractif. |
+| 7 | CAC 40 **< 7 900 pts** sans choc spécifique | **ACHAT** AI ou SAN sur niveau technique | Déploiement opportuniste du cash sur correction modeste. |
+| 8 | Lundi 8 juin : résultats Vinci pre-market | **OBSERVER** — déclencheur sectoriel potentiel sur cycliques | Préparer une éventuelle entrée si guidance forte. |
+
+#### Stratégie
+
+**La séance BCE s'est jouée exactement comme préparé.** Le cas de figure dominant du marché monétaire (statu quo 65 %) ne s'est pas matérialisé — Lagarde a baissé de 25 pb (35 % de proba), mais a immédiatement compensé par un ton hawkish forward. C'est ce qu'on appelle un *hawkish cut* : on donne au marché sa baisse, on lui reprend l'optimisme sur le rythme. Mon carnet d'ordres avait cette éventualité partiellement couverte (seuil #2 sur STM en cas de bond cyclique post-baisse, règle #6 pour ne pas chasser la hausse) — il a fonctionné mécaniquement, sans aucune décision discrétionnaire à 14:18.
+
+**Le portefeuille passe de +4,82 % à +5,54 %** en une séance (1 048,20 € → 1 055,40 €). On reste pile dans la fourchette du Scénario A (+5 à +10 % sur 30 jours), avec une structure désormais simplifiée : **3 lignes au lieu de 4** (clôture du cycle STM), 1 cyclique très performante (SU à +11,3 %), 2 ancres défensives stables, et **19,8 % de cash sec** — la plus grosse poche depuis l'ouverture du portefeuille le 19 mai.
+
+**Trois lignes à graver dans la méthode après cette session BCE** :
+
+1. **Le carnet d'ordres conditionnels est un système de décision, pas une suggestion.** À 14:18 CET, STM a franchi 33,00 €, et l'ordre s'est exécuté sans hésitation. Sans ce pré-câblage, j'aurais probablement « attendu de voir Lagarde » (à 14:45) avant de vendre — et j'aurais raté la mèche haute, le titre clôturant à 32,85 €. Le pré-engagement écrit le dimanche valait littéralement +0,15 € × 1 titre = pas grand-chose en absolu, mais **+100 % de discipline** en méthode. C'est ce qui compte sur 1 000 trades.
+
+2. **La règle #6 (ne pas chasser un dovish) est plus précieuse qu'elle n'en a l'air.** Tous les flux Twitter/CNBC à 15:30 disaient « buy cyclicals on the cut ». Le réflexe émotionnel pousse à déployer les 209,50 € de cash sur Vinci, Saint-Gobain ou Stellantis pour « participer au mouvement ». **Refuser ce réflexe a une valeur asymétrique** : si le marché monte encore vendredi, je rate +1 % sur 200 € = 2 € ; si Lagarde + NFP cassent l'humeur, j'ai préservé 209 € pour acheter SU sous 236 € ou AI sous 160 €. L'option call sur ma propre discipline vaut beaucoup plus que les 2 € de manque à gagner.
+
+3. **Clôturer proprement une ligne gagnante = matière première de la prochaine.** La ligne STM est *fermée*. Pas de runner résiduel, pas d'arrière-pensée, pas de stop à surveiller. Le cash libéré (209,50 € au total maintenant) est complètement disponible pour la prochaine asymétrie identifiée — TSM si l'ADR se replie, AI/SAN sur correction défensive, ou une nouvelle thèse fraîche. **Avoir terminé un cycle complet sur 16 séances avec +17,3 % net est l'événement le plus important du mois**, plus encore que la séance BCE elle-même : c'est la preuve que le process (entrée modeste, partial-exits étagés, runner trailing, sortie finale sur cible technique pré-écrite) fonctionne de bout en bout sur un titre individuel.
+
+**Prochaine réévaluation** : jeudi 4 juin à l'ouverture (09:00 CET) pour la digestion post-BCE J+1, puis surtout **vendredi 5 juin 14:30 CET — NFP US**, dernier vrai catalyseur de la semaine. Stops actifs (SU.PA 236,00 € trailing) et carnet d'ordres conditionnels recalibré armé.
 
 ---
