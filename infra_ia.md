@@ -2467,6 +2467,189 @@ AEC, gensets — ou à Tokyo — silice). Honnêteté maintenue : *la v12 enrich
 > pure-play reste *priced for perfection* après le lockup Nvidia ; la seule value optique est **un cran plus bas**, dans la silice fondue
 > diluée. »**
 
+## 18. ★★★★★★★★★★★ Édition v13 (4 juin 2026) — *« le péage par module, le métal sur la puce & le contenu qu'on prend pour une commodité »*
+
+> **Pourquoi cette édition.** Les v1→v12 ont cartographié *quoi* il faut, *qui le pose* (v12) et *quel sous-composant* reste oublié. La v13
+> change de **lentille** plutôt que de descendre encore : elle cherche **les péages *par unité* (récurrents) que le marché price comme des
+> commodités cycliques**, et applique à chacun la grille **douve × coût d'entrée** des v7→v12. Quatre poches **TTT→WWW** : **(TTT)** le **péage
+> par module mémoire** — les *puces compagnons* (RCD/MRCD register clock drivers, data buffers/MDB, **PMIC**, SPD-hub) intercalées **entre la
+> puce DRAM et le module** : un oligopole à **3 acteurs** (Montage/Rambus/Renesas) verrouillé par les **standards JEDEC**, la couche la plus
+> « douve » de la v13 mais inégalement *investissable* ; **(UUU)** le **métal sur la puce** — les *modules thermiques GPU* (cold plate, vapor
+> chamber, manifold) qui **touchent le die**, distincts du rejet de chaleur *bâtiment* (v10) et du CDU (v11) : duopole taïwanais AVC/Auras ;
+> **(VVV)** les **passifs en largeur** — MLCC + **tantale** + résistances *au-delà des leaders* (Yageo, Taiyo Yuden), le contenu $/serveur que
+> tout le monde prend pour une commodité **alors que le contenu IA explose** ; **(WWW)** la **boîte réseau désagrégée** — l'*ODM système &
+> switch white-box* (Celestica, Accton/Edgecore), le maillon à **plus faible douve** mais à **exécution scale** réelle. On note tout à la
+> lentille B (barrière 0–5) / C (concurrence 0–5, inversée) et on **réévalue les indices v3→v12** (§18.3).
+> ⚠️ Multiples = instantanés d'agrégateurs publics (~fin mai/4 juin 2026), arrondis, **volatils** ; les small-caps taïwanaises et les A/H-shares
+> chinoises sont **volatiles et d'accès courtier-dépendant**.
+
+### 18.0 — Le fil rouge v13 : *la douve survit à l'étiquette « commodité » seulement là où il y a un standard, une part dominante, ou un pricing power de pénurie*
+Cinq maximes qui prolongent v7→v12 :
+
+1. **Le péage *par module* est l'oligopole le plus dur de la v13 — mais le plus inégalement investissable.** Aucun RDIMM/MRDIMM DDR5 ni module
+   SOCAMM/LPDDR ne fonctionne sans son trio de *puces compagnons* (RCD/MRCD, data buffer/MDB, **PMIC**, SPD-hub). Trois acteurs seulement
+   (**Montage ~37 % de part**, **Rambus**, **Renesas**) co-écrivent les **standards JEDEC** → barrière B 5/5. Mais l'accès est *biaisé* : le
+   **pure-play dominant** (Montage, MB **69,8 %**) est **coté en Chine** (STAR/HK, géopolitique, multiple A-share tendu) ; le **value US**
+   (Rambus, P/E ~70×) voit ses **royalties fléchir** (T1 : 69,6 M$ vs 74 M$ a/a) ; l'accès **« value diluée »** est **Renesas** (P/S 4,1× vs
+   *fair* 10,5×, mais l'IA n'est qu'une tranche d'un semis auto/MCU). *La douve est maximale, la décote ne l'est jamais sur le même nom.*
+2. **Le « métal sur la puce » rejoue le scénario des constructeurs v12 : le leader est dominant mais déjà pricé, la value est le n°2.** Le
+   *cold plate* qui touche le die est une vraie douve d'ingénierie (qualification thermo-mécanique, *reference design* hyperscaler) : **AVC**
+   en détient **~70 %** (T1-26 CA **+110 %**, BPA NT$20 vs 8,28) — *mais* le marché a « découvert » le thermique → AVC se traite **~26× fwd**
+   (vs secteur TW ~15×). Comme en v12 (Quanta cher / IES moins cher), la *value relative* est le **n°2 — Auras** (T1-26 CA **+94 %**, cible 2026
+   relevée **50 %→70 %**, **fwd ~11–13×**). *Acheter le challenger moins cher de la même vague, pas le leader chaud.*
+3. **Les passifs sont étiquetés « commodité » alors que le contenu IA et le pricing power explosent.** Une carte GPU/rack 100 kW+ embarque
+   **bien plus** de MLCC, de tantale et de résistances ; le contenu IA passe de ~12 % (T4-25) à **~15 %** des ventes chez **Yageo** (et **>30 %**
+   du CA *tantale* est lié aux serveurs IA), avec **book-to-bill > 1**, **backlog record** et **hausses de prix répétées** — Digitimes (4 juin)
+   parle d'un **« nouveau super-cycle MLCC »** sur le haut de gamme. *Le pricing power de pénurie EST la douve* : il survit à l'étiquette
+   commodité. La value est le multiple **raisonnable** (Yageo) ; **Taiyo Yuden** (P/E ~82× TTM / ~44× fwd) *price déjà la reprise*.
+4. **L'ODM réseau white-box est le maillon à plus faible douve — mais son coût d'entrée « bas » est trompeur.** Assembler un switch open-network
+   est *en principe* réplicable (marges fines, substituabilité) → **C plafonné**. Mais l'**exécution à l'échelle hyperscaler** (qualification,
+   *time-to-market* sur Tomahawk 6 / 102,4T, intégration rack-scale type **Helios** AMD) est une barrière réelle. **Celestica** se traite à un
+   multiple **raisonnable** (~22× sur ~20 $ de BPA aj.) *mais a déjà énormément couru* ; **Accton/Edgecore** est le *pure-play* open-networking.
+   *Douve d'exécution réelle, douve de produit faible → on ne paie pas le multiple d'un composant à IP.*
+5. **Règle transverse v13 :** *quand un composant est pricé comme une commodité, la rente ne survit que là où il y a (i) un standard/IP
+   (le RCD), (ii) une part dominante non-réplicable (le cold plate AVC), ou (iii) un pricing power de pénurie (le MLCC haut de gamme).* Là où le
+   **coût d'entrée est réellement bas** (assemblage ODM, passifs bas de gamme), la rente s'érode — et le multiple ne doit jamais être celui d'un actif à douve.
+
+### 18.1 — Quatre poches « péage / métal / contenu / boîte » (rattachement à la cartographie §2)
+> *On poursuit l'alphabet : v10 = CCC→HHH, v11 = III→NNN, v12 = OOO→SSS, **v13 = TTT→WWW**.*
+
+| Poche v13 | Couche (§2) | Douve / nature de la barrière | Verdict douve |
+|---|---|---|---|
+| **TTT** — **Péage par module mémoire** : puces compagnons (RCD/MRCD, data buffer/MDB, PMIC, SPD-hub) | 1 (mémoire, sous-couche *module*) | **Standards JEDEC** + IP signal-integrity + oligopole **3 acteurs** ; revenus mi-récurrents (par module expédié) | **Très haute** (B 5) ; mais accès *biaisé* (pure-play en Chine / value US qui faiblit / value diluée) |
+| **UUU** — **Métal sur la puce** : modules thermiques GPU (cold plate, vapor chamber, manifold) | 6b (cooling, niveau *die/rack*) | *Reference design* hyperscaler, qualification thermo-mécanique, part dominante (AVC ~70 %) | **Haute** (leader AVC) à **moyenne** (challengers) ; marché « découvert » |
+| **VVV** — **Passifs en largeur** : MLCC + tantale + résistances | 4 (composants passifs de carte) | Échelle, **pricing power de pénurie**, niches (tantale) ; mais bas de gamme banalisé | **Moyenne** : haute sur le **haut de gamme/tantale** (pricing power), faible sur l'entrée |
+| **WWW** — **Boîte réseau désagrégée** : ODM système & switch white-box | 5 / serveur | **Exécution à l'échelle** hyperscaler, time-to-market silicium (Tomahawk 6), intégration rack-scale | **Faible (produit)** mais **moyenne (exécution)** ; coût d'entrée bas → C plafonné |
+
+#### Notes par poche (l'essentiel)
+- **TTT — Le péage par module mémoire (l'oligopole le plus dur, l'accès le plus biaisé).** Entre la puce DRAM et le module se glisse un trio de
+  *puces compagnons* indispensable au DDR5/MRDIMM/SOCAMM : **RCD/MRCD** (register/multiplexed clock driver), **data buffer/MDB**, **PMIC** et
+  **SPD-hub/capteur**. C'est un **oligopole à 3** verrouillé par les **standards JEDEC** (les mêmes acteurs co-rédigent la norme). **Montage
+  Technology (688008.SS, + H-shares)** — *le pure-play dominant* : **~36,8 % de part mondiale** (2024), **leader DDR5 RCD** et co-auteur du
+  standard, T1-26 **bénéfice net +61,3 %** (847 M¥), **marge brute 69,8 %**, Goldman *Buy* (CAGR **+35 %** 2025-32 projeté), levée **HK$7,9 Md**
+  → **B 5/C 4**, *mais* **coté en Chine** (STAR/Hong Kong : géopolitique, accès courtier-dépendant, multiple A-share tendu) → **indice 5** :
+  *le RCD le plus pur et le plus rentable, mais on paie le risque pays et le multiple*. **Rambus (RMBS)** — *le value US* : chipset
+  interface mémoire (PMIC/RCD/clock driver/SPD-hub) + **royalties IP**, T1-26 CA **180,2 M$** (produit 88 M$, **+15 %**), BPA dil. **0,55 $**,
+  OCF 83,2 M$, chipset **SOCAMM2 LPDDR5X** pour plateformes IA ; **mais P/E ~70× / fwd >60×** et **royalties qui fléchissent** (69,6 M$ vs 74 M$
+  a/a) → **B 5/C 4**, **indice 4** : *péage récurrent réel mais multiple plein et royalties molles (24/7 Wall St flague un downside)*. **Renesas
+  (6723.T)** — *l'accès « value diluée »* (logique Tosoh v12) : **premier chipset complet** d'interface mémoire MRDIMM 2ᵉ-gén DDR5 (MRCD/MDB/PMIC,
+  jusqu'à **12 800 MT/s**) via IDT/Dialog, **P/S 4,1× vs *fair* 10,5×** (décoté sur cycle auto) → **B 4/C 4**, **indice 5** : *le seul accès
+  bon marché au péage mémoire, mais l'IA n'y est qu'une tranche d'un semis auto/MCU/PMIC*. **Verdict :** la **douve maximale** de la v13, mais
+  *jamais sur le même nom que la décote* — on choisit son poison (Chine/Montage, royalties molles/Rambus, dilution/Renesas).
+- **UUU — Le métal sur la puce (le cold plate qui touche le die).** Distinct du rejet *bâtiment* (v10 : Modine/Alfa Laval) et du CDU (v11) :
+  c'est le **module thermique** posé *sur* l'accélérateur — cold plate, vapor chamber, manifold, *cooling chassis*. **AVC — Asia Vital Components
+  (3017.TW)** : *le roi du cold plate* avec **~70 %** des cold plates serveurs IA hyperscaler, **reference designer**, T1-26 CA **NT$49 Md (+110 %)**,
+  BPA **NT$20** (vs 8,28), NI **+146 %**, *UBS Buy « AI cooling dominance »*, « l'ère du liquide » → **B 4/C 4** (Auras/Cooler Master/Boyd-Eaton/Vertiv
+  contestent) **mais fwd ~26× (vs TW ~15×)** → **indice 4** : *dominant, déjà pricé*. **Auras Technology (3324.TWO)** : *le n°2 moins cher* — T1-26
+  CA **NT$8,55 Md (+94 %)**, NI **+128 %**, MB ~29,7 %, **cible 2026 relevée 50 %→70 %**, **fwd ~11–13×** → **B 3/C 3**, **indice 5** : *la value
+  relative du duopole thermique (le challenger à un tiers du multiple du leader) ; ⚠️ small-cap volatile, marge ~30 %*. **Verdict :** réplique
+  exacte de la leçon v12 (leader cher / n°2 moins cher) — **Auras** est le meilleur couple douve×prix de la poche, **AVC** réservé aux replis.
+- **VVV — Les passifs en largeur (le « contenu commodité » dont le $/serveur explose).** **Yageo (2327.TW)** — *top-3 MLCC + n°1 tantale* :
+  T1-26 CA **record NT$38,2 Md (+22,7 % a/a)**, **meilleure MB en ~14 trimestres**, passifs IA **~12 %→15 %** des ventes (T2-26), **>30 %** du CA
+  tantale lié aux serveurs IA, **book-to-bill > 1**, **backlog record**, **hausses de prix** ; Digitimes (4 juin) : **« nouveau super-cycle MLCC »**
+  haut de gamme → **B 3/C 3** (échelle + niche tantale), multiple **raisonnable** (~15–18×) → **indice 5** : *le contenu passif IA qui s'apprécie,
+  acheté à un multiple de commodité ; ⚠️ cyclique, exposition Chine*. **Taiyo Yuden (6976.T)** — *MLCC haut de gamme #2* : **P/E ~82× TTM / ~44×
+  fwd**, marge nette ~1,9 % → **B 3/C 3**, **indice 3** : *douve MLCC réelle mais le multiple price déjà la reprise du BPA, pas la value*.
+  **Verdict :** le **pricing power de pénurie est la vraie douve** des passifs IA ; **Yageo** (largeur + multiple bas) est le levier propre, les
+  leaders japonais (Murata 5, TDK 4 — §18.3) et **Taiyo Yuden** (3) sont *plus chers* pour le même vent.
+- **WWW — La boîte réseau désagrégée (l'ODM système & switch white-box).** Le maillon à **plus faible douve produit** de la v13 — mais à
+  **exécution scale réelle**. **Celestica (CLS)** : *le « hyperscale backbone »* — segment **CCS** en inflexion, plateforme **rack-scale Helios**
+  avec AMD, *pick-and-shovel* du build-out physique IA ; valorisation **~22× sur ~20,2 $ de BPA aj.** (JV analyste ~445 $ vs ~386 $) → **B 3/C 3**,
+  **indice 4** : *multiple raisonnable pour la croissance, mais le titre a déjà énormément couru ; ⚠️ marges d'assemblage fines, concentration
+  client*. **Accton (2345.TW) / Edgecore** : *le pure-play open-networking* — Edgecore a lancé les **premiers switches 102,4T** (Tomahawk 6
+  Broadcom 3 nm) pour clusters IA/ML, gamme 100/400/800G → **B 3/C 3**, **indice 3–4** : *exposition scale-out IA directe ; ⚠️ multiple taïwanais
+  souvent élevé, donnée de valorisation opaque → à confirmer sur repli*. **Verdict :** douve d'**exécution** réelle, douve de **produit** faible →
+  *on ne paie pas pour la boîte le multiple d'un actif à IP* ; **Celestica** acceptable mais déjà couru, **Accton** sur repli/confirmation.
+
+### 18.2 — Tableau v13 des **nouveaux** noms (douve & coût d'entrée)
+> *Barrière (B) et Concurrence (C) notées 0–5 (C inversé : 5 = peu de rivaux). Indice 0–10 net. PER avant (≈) sauf mention.*
+
+| Acteur | Ticker | Couche / rôle | PER / repère (≈) | **B** | **C** | Indice | Lecture / **risque** |
+|---|---|---|---:|:---:|:---:|:---:|---|
+| **Montage Technology** | 688008.SS *(+ H)* | **Péage mémoire** : RCD/MRCD DDR5 (n°1 mondial ~37 %) | **MB 69,8 %, NP +61 %** ; multiple A-share élevé | **5** | **4** | **5** | Le RCD **le plus pur et le plus rentable** (co-auteur JEDEC) ; ⚠️ **coté Chine** (géopolitique/accès), valorisation A-share tendue |
+| **Renesas** | 6723.T | **Péage mémoire** *value diluée* (MRDIMM MRCD/MDB/PMIC) | **P/S 4,1× (vs *fair* 10,5×)** | **4** | **4** | **5** | **Le seul accès bon marché** au péage mémoire + PMIC ; ⚠️ **IA = une tranche** (auto/MCU domine), cyclique |
+| **Auras Technology** | 3324.TWO | **Métal sur la puce** : cold plate/vapor chamber (n°2) | **fwd ~11–13×** | **3** | **3** | **5** | **La value relative du duopole thermique** (⅓ du multiple d'AVC), cible relevée 50→70 % ; ⚠️ small-cap volatile, MB ~30 % |
+| **Yageo** | 2327.TW | **Passifs en largeur** : MLCC + tantale (top-3) | **~15–18×** | **3** | **3** | **5** | Contenu passif IA en hausse + **pricing power** retrouvé, multiple de commodité ; ⚠️ cyclique, expo Chine |
+| **Rambus** | RMBS | **Péage mémoire** : chipset interface + **royalties IP** | **P/E ~70× / fwd >60×** | **5** | **4** | **4** | Péage récurrent réel (PMIC/RCD/SOCAMM2) ; ⚠️ **royalties qui fléchissent**, multiple plein (downside flagué) |
+| **AVC (Asia Vital)** | 3017.TW | **Métal sur la puce** : roi du cold plate (~70 %) | **fwd ~26× (TTM ~49×)** | **4** | **4** | **4** | **Part dominante** + reference design hyperscaler ; ⚠️ marché « découvert », **~26× fwd vs ~15× secteur** → repli |
+| **Celestica** | CLS | **Boîte réseau** : ODM système/rack-scale (Helios AMD) | **~22× sur BPA aj.** | **3** | **3** | **4** | Backbone hyperscale, multiple raisonnable pour la croissance ; ⚠️ **déjà très couru**, marges fines, concentration |
+| **Accton / Edgecore** | 2345.TW | **Boîte réseau** : switch white-box (102,4T Tomahawk 6) | n.d. (TW, ~élevé) | **3** | **3** | **3** | Pure-play open-networking IA (scale-out direct) ; ⚠️ multiple TW élevé, **valo opaque** → repli/confirmation |
+| **Taiyo Yuden** | 6976.T | **Passifs** : MLCC haut de gamme (#2) | **P/E ~82× TTM / ~44× fwd** | **3** | **3** | **3** | Douve MLCC réelle ; ⚠️ **price déjà la reprise** du BPA (marge nette ~1,9 %), pas la value |
+
+> **Lecture 18.2.** Le **gisement net** de la v13 est une **grappe à 5** dans les *péages et contenus à pricing power* : **Montage** (le RCD
+> dominant, *si* l'on accepte le risque Chine), **Renesas** (l'accès **value diluée** au péage mémoire), **Auras** (la **value relative** du
+> duopole cold plate — réplique de la leçon « n°2 moins cher » de la v12), et **Yageo** (le **contenu passif IA** acheté à un multiple de
+> commodité, avec super-cycle MLCC à l'appui). Tout le reste **plafonne à 3–4** : soit le péage est **plein** (Rambus, multiple à 70× + royalties
+> molles), soit le leader thermique est **déjà pricé** (AVC, ~26× fwd), soit la **boîte** réseau a une **douve produit faible** (Celestica
+> raisonnable mais couru, Accton opaque), soit le passif **price déjà la reprise** (Taiyo Yuden). **Message d'investissement :** *un composant
+> « commodité » ne mérite un multiple de douve que s'il porte un **standard** (RCD), une **part dominante** non-réplicable (cold plate AVC) ou un
+> **pricing power de pénurie** (MLCC haut de gamme) — et quand la douve maximale (le péage mémoire) coïncide avec la décote minimale sur le même
+> nom, on prend l'accès **dilué** (Renesas) ou le **challenger** (Auras), jamais le pure-play chaud ni le multiple plein.*
+
+### 18.3 — Réévaluation des **entrées v3→v12** à la lumière des données du 4 juin 2026
+> On **conserve** chaque entrée et on **réajuste** l'indice (v12 → v13). Faits nouveaux du 4 juin : **super-cycle MLCC haut de gamme** (Digitimes,
+> 4 juin ; Yageo record, hausses de prix) → conviction ↑ sur le complexe passifs ; **rampe interface mémoire** (Montage +61 %, MRDIMM/SOCAMM2)
+> → confirme la **tension mémoire** (HBM/DRAM) ; **rampe cooling** (AVC +110 %, Auras +94 %) → valide la thèse cooling **et** intensifie la
+> concurrence direct-to-chip ; **ODM rack-scale** (Celestica/Helios AMD) → valide le trio ODM ; **Rambus** = prudence (royalties molles). « = » : inchangé.
+
+| Acteur | Ticker | Indice **v12** | **v13** | Motif (fait nouveau 4 juin 2026) |
+|---|---|:---:|:---:|---|
+| **Murata** | 6981.T | 5 | **5 = *(biais ↑)*** | **Super-cycle MLCC haut de gamme** (Digitimes 4 juin) + pricing power (Yageo) **renforcent** la conviction ; multiple déjà décent → plafond maintenu |
+| **TDK** | 6762.T | 4 | **4 =** | Même vent MLCC ; mix batteries (BBU) plus dilué — maintenu |
+| **Samsung Electro-Mechanics** | 009150.KS | 5 | **5 =** | MLCC + substrat + optionalité verre ; super-cycle passifs valide — maintenu |
+| **SK Hynix / Micron** | 000660.KS / MU | 8 / 8 | **= ** | Rampe interface mémoire (MRDIMM/SOCAMM2, Montage +61 %) **confirme** la tension DRAM/HBM — plafond maintenu |
+| **Synopsys / Cadence / ARM** | SNPS / CDNS / ARM | 8 / 4 / 3 | **= ** | Duopole EDA + IP ; la couche *péage mémoire* (v13) est l'analogue matériel de la douve logicielle — maintenus |
+| **Vertiv** | VRT | 3 | **3 =** | ⚠️ Concurrence cooling s'intensifie encore (cold plates AVC/Auras +94–110 %, en plus d'Eaton-Boyd/Ecolab-CoolIT) ; carnet soutient, multiple élevé |
+| **Modine / nVent** | MOD / NVT | 5 | **= ** | Cooling DC validé par la rampe thermique ; ⚠️ AVC/Auros côté *module* complètent (pas frontaux) — maintenus |
+| **Wiwynn / Hon Hai / Quanta Computer** | 6669.TW / 2317.TW / 2382.TW | 6 | **= ** | Trio ODM *cheap shovels* **validé** par l'inflexion rack-scale (Celestica/Helios AMD) — maintenu (⚠️ Celestica = concurrent direct, tabulé à 4) |
+| **Photronics** | PLAB | 6 | **6 =** | Deep-value photomasques sous le radar — maintenu |
+| **Energy Transfer / Kinder Morgan / Nexans / HD Hyundai / Hitachi** | ET / KMI / NEX.PA / 267260.KS / 6501.T | 5–8 | **= ** | Chaîne gaz/réseau/transfo réaffirmée (pas de fait nouveau matériel au 4 juin) |
+| **Tosoh** | 4042.T | 5 | **5 =** | Silice fondue oligopolistique « diluée » ; même logique d'accès *value-dilué* que Renesas (v13) — maintenu |
+| **Shin-Etsu** | 4063.T | 7 | **7 =** | Double douve wafers + résine + silice ; tension mémoire valide la demande — maintenu |
+| **Marvell** | MRVL | 4 | **4 =** | NVLink Fusion / 2 Md$ Nvidia digéré ; meilleur couple risque/prix interconnect — maintenu |
+| **Credo / Cummins / Eaton / MYR Group / Primoris / IES Holdings** | CRDO / CMI / ETN / MYRG / PRIM / IESC | 5–6 | **= ** | Grappe value v12 (cuivre vivant, gensets, électrique, constructeurs) réaffirmée |
+| *(toutes les autres lignes v3→v12)* | — | — | **= ** | **Conservées et réaffirmées** au niveau v12 (pas de fait nouveau matériel au 4 juin) |
+
+> **Lecture 18.3.** La v13 ne fait **aucun mouvement d'indice** — seulement un **biais ↑ explicite sur Murata** (le **super-cycle MLCC** du 4 juin
+> renforce la conviction sans justifier de hausse, le multiple étant déjà décent). Pour le reste, la v13 **valide en bloc** des thèses
+> antérieures par des faits nouveaux : la **rampe des puces d'interface mémoire** (Montage +61 %, MRDIMM/SOCAMM2) **confirme** la tension
+> DRAM/HBM (SK Hynix/Micron 8) ; le **super-cycle passifs** **renforce** Murata/TDK/Samsung EM ; la **rampe cold plate** (AVC/Auras +94–110 %)
+> **valide** la thèse cooling tout en **intensifiant** la concurrence (Vertiv maintenu à 3) ; l'**inflexion rack-scale** (Celestica/Helios)
+> **valide** le trio ODM (Wiwynn/Hon Hai/Quanta Computer 6). La hiérarchie 2026 tient : **(1)** duopole EDA corrigé (Synopsys 8), **(2)** HBM/DRAM
+> mal-aimée (SK Hynix, Micron 8), **(3)** dérivées gaz/réseau + constructeurs (ET, KMI, Nexans, HD Hyundai, Hitachi, IESC, MYRG), **(4)** verrous
+> WFE/matériaux/packaging/silice (Tokyo Electron, KLA, Shin-Etsu, Tosoh), **(5)** value de couverture interconnect/énergie/**péage** (Marvell,
+> Credo, Cummins, Eaton — la v13 y ajoute **Renesas**, **Auras**, **Yageo** et, sous réserve d'accès, **Montage**). Le **fil rouge v13** : *un
+> composant « commodité » ne porte une rente durable que s'il a un **standard**, une **part dominante** ou un **pricing power de pénurie** ; et
+> quand la douve maximale (le péage mémoire) ne coexiste jamais avec la décote sur le même nom, on prend l'**accès dilué** (Renesas) ou le
+> **challenger** (Auras), jamais le pure-play chaud.*
+
+### 18.4 — Lien avec le portefeuille & candidats réalistes (Euronext) — vue v13
+Pour *ce* compte (~1 017 €, eToro/Euronext), la v13 est, comme la v12, **pauvre en accès Euronext direct** (le gisement est à **Taïwan** —
+thermique, passifs, ODM —, à **Tokyo** — Renesas — ou en **Chine** — Montage). Honnêteté maintenue : *la v13 enrichit surtout la carte et la
+watchlist courtier-dépendante.*
+
+1. **Schneider (SU.PA)** *(détenue)* — **maintenu** : la rampe cold plate (AVC/Auras) **valide** la bascule liquide ; Schneider (Motivair) y est
+   *en aval système*, complémentaire des modules taïwanais (pas frontal).
+2. **STMicro (STM.PA)** *(détenue)* — **maintenu 5** : power/analog + la couche **PMIC** mémoire (poche TTT) confirme la demande de gestion de puissance fine.
+3. **Air Liquide (AI.PA)** *(détenue)* — **maintenu 6** : gaz spéciaux/hélium ; tension mémoire = fabs DRAM/HBM à pleine charge.
+4. **Nexans (NEX.PA)** — **top pick EU câbles HV maintenu (7)** ; **Legrand (LR.PA)** — PDU/busways maintenu (le contenu passif/thermique IA valide le rack).
+5. *(Pas de nouveauté v13 cotée Euronext en cœur de thèse)* — **2CRSi (AL2SI.PA, 5)** reste la seule micro-cap cooling Paris (v11).
+6. *(Watchlist hors-Euronext, nouveautés v13, par ordre d'intérêt)* :
+   - **Renesas (6723.T, 5)** — l'accès **value diluée** au péage mémoire (P/S 4,1× vs *fair* 10,5×) + PMIC ;
+   - **Auras (3324.TWO, 5)** — la **value relative** du duopole cold plate (fwd ~11–13× vs AVC ~26×) ;
+   - **Yageo (2327.TW, 5)** — le **contenu passif IA** à multiple de commodité (super-cycle MLCC) ;
+   - **Montage (688008.SS/H, 5)** — le **RCD dominant** (MB 69,8 %) ; ⚠️ **accès Chine / géopolitique** ;
+   - **Rambus (RMBS, 4)** / **AVC (3017.TW, 4)** / **Celestica (CLS, 4)** — péage US plein / leader thermique cher / ODM déjà couru.
+7. *(À éviter / sur repli marqué seulement)* **Taiyo Yuden (6976.T)** — *price la reprise* ; **Accton (2345.TW)** — valo opaque, multiple TW élevé.
+
+> **Cohérence inchangée depuis v1 :** *acheter la faiblesse, pas la force* ; *offre contrainte ≠ surcapacité* ; *payer pour la douve, pas pour la
+> perfection* ; *le rôle critique ne garantit pas la sous-évaluation*. La v13 y ajoute : **« un composant pricé comme une *commodité* ne mérite un
+> multiple de douve que s'il porte un **standard** (le RCD/JEDEC), une **part dominante** non-réplicable (le cold plate AVC ~70 %) ou un **pricing
+> power de pénurie** (le MLCC haut de gamme) ; et quand l'oligopole le plus dur (le **péage par module mémoire**) n'offre jamais sa décote sur le
+> nom le plus pur, on achète l'**accès dilué et décoté** (Renesas) ou le **challenger moins cher** (Auras), jamais le pure-play chaud (Montage en
+> Chine, Rambus à 70×) ni le leader déjà découvert (AVC). Là où le **coût d'entrée est réellement bas** — l'assemblage ODM (Celestica/Accton), le
+> passif d'entrée de gamme —, la rente s'érode : on ne paie pas la boîte au prix de l'IP. »**
+
 ---
 
 ## Sources
@@ -2810,3 +2993,19 @@ AEC, gensets — ou à Tokyo — silice). Honnêteté maintenue : *la v12 enrich
 - [Rolls-Royce (RR.L) : FY25 Power Systems +19 %, ventes DC +~50 %, capacité mtu doublée (Aiken/Mankato) ; P/E groupe ~19× — Rolls-Royce / DCD](https://www.datacenterdynamics.com/en/news/rolls-royce-to-double-production-of-backup-diesel-gen-sets-to-supply-us-data-center-market/)
 - [Eaton (ETN) : DC orders +240 % a/a, Electrical backlog +29 %, backlog total 19,6 Md$ ; fwd P/E ~27,7× (vs ~32× moyenne 5 ans) — TIKR / SEC 8-K](https://www.tikr.com/blog/why-eaton-stock-looks-undervalued-as-the-grid-to-chip-data-center-buildout-accelerates-in-2026)
 - [Marché genset data centers ~8 Md$ : CAT ~18 % + Cummins ~15 % (>35 %, segment >2 MW) ; top-5 ~52 % — Global Growth Insights / Mordor](https://www.globalgrowthinsights.com/market-reports/data-center-generator-market-123268)
+
+### v13 (4 juin 2026)
+- [Rambus (RMBS) : T1 2026 CA 180,2 M$, produit 88,0 M$ (+15 %), royalties 69,6 M$ (vs 74 M$ a/a), BPA dil. 0,55 $, OCF 83,2 M$ ; PMIC/RCD/SPD-hub DDR5/LPDDR5, chipset SOCAMM2 — SEC 8-K / 10-Q](https://www.sec.gov/Archives/edgar/data/0000917273/000119312526182076/rmbs-ex99_1.htm)
+- [Rambus (RMBS) : P/E ~70× / fwd >60×, « downside risk as memory chip momentum weakens » (royalty softness) — 24/7 Wall St.](https://247wallst.com/investing/2026/06/02/rambus-faces-downside-risk-as-memory-chip-momentum-weakens/)
+- [Montage Technology (688008.SS) : T1 2026 bénéfice net +61,3 % (847 M¥), CA 1,461 Md¥, marge brute 69,8 %, leader DDR5 RCD — Yicai Global / Cloud News](https://cloudnews.tech/montage-boosts-its-profit-from-the-surge-in-ddr5-and-ai-servers/)
+- [Montage Technology : ~36,8 % de part mondiale (2024), Goldman Sachs *Buy*, CAGR +35 % 2025-32 projeté ; levée HK$7,9 Md (H-shares) — BigGo Finance / NewsGlobeNow](https://finance.biggo.com/news/rkMPBp0B5edQG9E4Ch2I)
+- [Renesas (6723.T) : premier chipset complet interface mémoire MRDIMM 2ᵉ-gén DDR5 (MRCD/MDB/PMIC, jusqu'à 12 800 MT/s) via IDT/Dialog — Renesas Newsroom](https://www.renesas.com/en/about/newsroom/renesas-introduces-industry-s-first-complete-memory-interface-chipset-solutions-second-generation)
+- [Renesas (6723.T) : P/S 4,1× (vs JP semis 2,6×, *fair* 10,5×) — Simply Wall St / Yahoo Finance](https://finance.yahoo.com/news/assessing-renesas-electronics-tse-6723-121537811.html)
+- [Asia Vital Components (3017.TW) : ~70 % des cold plates serveurs IA hyperscaler, *reference designer*, T1-26 CA NT$49 Md (+110 %), BPA NT$20 (vs 8,28), NI +146 % ; fwd ~26× (TTM ~49×) — Simply Wall St / Investing.com](https://simplywall.st/stock/twse/3017)
+- [Asia Vital Components : *Buy* UBS sur « AI cooling dominance », « liquid cooling era », expansion cold plate/manifold/chassis 2026 — Investing.com / Digitimes](https://www.investing.com/news/analyst-ratings/asia-vital-components-stock-initiated-with-buy-rating-at-ubs-on-ai-cooling-dominance-93CH-4394649)
+- [Auras Technology (3324.TWO) : T1-26 CA NT$8,55 Md (+94 %), NI +128 %, MB ~29,7 %, BPA NT$12,61 ; cible 2026 relevée 50 %→70 %, fwd ~11–13× — Digitimes / Simply Wall St](https://www.digitimes.com/news/a20260521PD231/2026-auras-avc-demand-liquid-cooling-revenue.html)
+- [Yageo (2327.TW) : T1-26 CA record NT$38,2 Md (+22,7 % a/a), meilleure MB en ~14 trimestres, passifs IA ~12 %→15 %, >30 % du CA tantale lié serveurs IA, book-to-bill >1 — passive-components.eu](https://passive-components.eu/yageo-q1-2026-results-ai-servers-and-pricing-power-behind-a-moderate-q2-outlook/)
+- [Passifs haut de gamme : pénurie & « nouveau super-cycle MLCC » (hausses de prix S2-26) — Digitimes (4 juin 2026)](https://www.digitimes.com/news/a20260604PD216/passive-components-high-end-mlcc-demand.html)
+- [Taiyo Yuden (6976.T) : P/E ~82× TTM / ~44× fwd, marge nette ~1,9 % (« paying for recovery ») — Simply Wall St](https://simplywall.st/stocks/jp/tech/tse-6976/taiyo-yuden-shares/news/taiyo-yuden-tse6976-valuation-check-after-strong-nine-month/amp)
+- [Celestica (CLS) : « hyperscale backbone », plateforme rack-scale Helios avec AMD, inflexion CCS ; ~22× sur ~20,2 $ de BPA aj. (JV ~445 $) — Simply Wall St](https://simplywall.st/community/narratives/ca/tech/tsx-cls/celestica-shares/8bxlzolh-celestica-inc-cls-the-hyperscale-backbone-and-the-2026-ai-infrastructure-super-cycle)
+- [Accton / Edgecore (2345.TW) : premiers switches open-networking 102,4T (Tomahawk 6 Broadcom 3 nm) pour clusters IA/ML, gamme 100/400/800G — BusinessWire / Edgecore](https://www.edge-core.com/press-release/edgecore-networks-sets-new-benchmark-for-ai-infrastructure-with-worlds-first-102-4t-open-networking-switches/)
