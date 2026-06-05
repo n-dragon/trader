@@ -5,7 +5,9 @@
 > marché** alors qu'ils jouent — ou vont jouer — un rôle critique. Document de travail destiné à
 > alimenter les décisions du journal de trading (`positions.md`, `etoro_trades.md`).
 >
-> **Date :** 3 juin 2026 — **édition v12** (*« les bâtisseurs, le cuivre vivant & l'amont de la lumière »* : les **constructeurs** du réseau & du chantier DC (la main-d'œuvre + l'acier qui *posent* lignes/sous-stations — le goulet *derrière* le goulet réseau), le **cuivre vivant** (Active Electrical Cables / SerDes — Credo, MACOM, Semtech), l'**amont de la lumière** (pilotes laser/TIA + **silice fondue synthétique** des optiques EUV/fibre), les **moteurs du secours** (gensets HHP : Caterpillar, Cummins, Generac, Rolls-Royce mtu) et le **major électrique** enfin tabulé en propre (Eaton) + réévaluation des indices : voir §17).
+> **Date :** 5 juin 2026 — **édition v14** (*« le combustible, le métal & le code — la matière première de l'électron et le logiciel qui fait tourner les puces »* : le **gaz amont** (la *molécule* derrière le gas-to-power midstream déjà couvert — producteurs Appalaches/Haynesville EQT/Expand Energy/Coterra/Antero), le **métal conducteur** (cuivre & aluminium électrique : Freeport, Southern Copper, Teck — 3× plus de cuivre par DC IA, déficit 2026), les **architectes & ingénieurs** du data center (design/EPC en *amont* du chantier v12 : AECOM, Jacobs) et la **couche logicielle/données** (orchestration, observabilité, data platform : Datadog, Dynatrace, Elastic, MongoDB, Confluent — enfin tabulée alors que le document était très « hardware ») + réévaluation des indices, dont le **cycle du combustible nucléaire** à la lumière des faits de juin (award DOE 900 M$ Centrus, backlog 3,8 Md$) : voir §19.
+> v13 (*« le péage par module, le métal sur la puce & le contenu qu'on prend pour une commodité »* : puces compagnons mémoire RCD/MRCD/PMIC — Montage/Rambus/Renesas ; modules thermiques GPU cold plate/vapor chamber — AVC/Auras ; passifs en largeur MLCC+tantale — Yageo/Taiyo Yuden ; ODM réseau white-box — Celestica/Accton) : 4 juin.
+> v12 (*« les bâtisseurs, le cuivre vivant & l'amont de la lumière »* : les **constructeurs** du réseau & du chantier DC, le **cuivre vivant** (Active Electrical Cables / SerDes — Credo, MACOM, Semtech), l'**amont de la lumière** (pilotes laser/TIA + **silice fondue synthétique**), les **gensets HHP** (Caterpillar, Cummins, Generac, Rolls-Royce mtu) et le **major électrique** Eaton + réévaluation : §17) : 3 juin.
 > v11 (*« la relève, la lumière & le robinet du capital »* : substrats de **verre** (relève de l'ABF), **photonique sur silicium** — CPO & OCS, **neoclouds**, **capital & foncier**, **sous-composants du transformateur** — traversées HT & OLTC, **fluides two-phase** & l'angle Euronext 2CRSi) : 2 juin.
 > v10 (*« la chair autour du silicium »* : assembleurs back-end (OSAT), ODM serveurs IA asiatiques décotés, rejet de chaleur du bâtiment, construction électromécanique/MEP, test au-delà d'Advantest, laminés cuivrés haute vitesse) : 1ᵉʳ juin.
 > v9 (*« le maillon dans le maillon »* : acier électrique & cœurs de transfos, sous-systèmes WFE oubliés, sources laser EUV, métaux packaging, batteries de salle, HVDC, gaz rares, immersion) : 31 mai. v8 (chaîne électromécanique & balance-of-plant) : 30 mai. v7 (lentille concurrentielle — douve & coût d'entrée) : 29 mai. v6 (huit poches — « la pile profonde ») : 29 mai. v5 (six poches) : 28 mai. v4 (sept poches) : 27 mai. v3 (valorisée) : 26 mai. v2 (approfondie) : 26 mai. v1 : 25 mai 2026.
@@ -2652,6 +2654,193 @@ watchlist courtier-dépendante.*
 
 ---
 
+## 19. ★★★★★★★★★★★★ Édition v14 (5 juin 2026) — *« le combustible, le métal & le code — la matière première de l'électron et le logiciel qui fait tourner les puces »*
+
+> **Pourquoi cette édition.** Les v8→v13 ont *tout* descendu côté **hardware** (matériaux, sous-systèmes, composants, packaging, péages mémoire). Trois angles restaient
+> sous-cartographiés, et c'est l'objet de la v14 : **(1)** l'**amont du combustible** — non plus le *transport* du gaz (midstream : ET/KMI/WMB, déjà couverts) ni les
+> *IPP* nucléaires (Vistra/Constellation/Talen), mais la **molécule elle-même** (producteurs de gaz des Appalaches & du Haynesville) et la **réévaluation du cycle
+> combustible nucléaire** (uranium/enrichissement/SMR — déjà tabulé en v8, mais avec des **faits nouveaux de juin** majeurs) ; **(2)** le **métal conducteur** — le **cuivre &
+> l'aluminium électrique** (la matière première de *chaque* câble, busbar, bobinage de transfo, cold plate), un goulet « matière » dont le marché parle enfin (cuivre à
+> records, déficit 2026) ; **(3)** les **architectes & ingénieurs** du data center — la couche *design/engineering* **en amont** des constructeurs v12 (qui *posent* l'acier),
+> et **(4)** la **couche logicielle/données** — orchestration, **observabilité**, *data platform* : l'angle que le document, très « hardware », n'avait jamais tabulé. Quatre
+> poches **XXX→AAAA**, notées à la lentille **B (barrière 0–5) / C (concurrence 0–5, inversée)** des v7→v13, + réévaluation des indices v3→v13 (§19.3).
+> ⚠️ Multiples = instantanés d'agrégateurs publics (~fin mai/5 juin 2026), arrondis, **volatils** ; les producteurs de gaz et les mineurs de cuivre sont **cycliques sur la
+> commodité sous-jacente** (prix du gaz Henry Hub, prix du cuivre LME) — un multiple bas peut refléter un **BPA au pic de cycle**, à croiser avec EV/EBITDA et le prix spot.
+
+### 19.0 — Le fil rouge v14 : *le « combustible » est cyclique et la douve y est faible — mais c'est le seul endroit où le rôle « nouvellement critique » coïncide encore avec un multiple à un chiffre*
+Six maximes qui prolongent v7→v13 :
+
+1. **Le gaz amont est l'inverse exact du péage mémoire (v13) : douve faible, concurrence forte — mais décote *réelle* et rôle nouvellement critique.** Une molécule de
+   méthane est une **commodité** (B 2 : pas d'IP, substituable) et le bassin est **concurrentiel** (C 2). Mais c'est précisément *là* que la thèse « électron » offre encore
+   un **multiple à un chiffre / bas-double-chiffre** (EQT ~14× fwd / EV-EBITDA ~7,9× ; **Expand Energy ~11× fwd / EV-EBITDA ~5×** ; Coterra ~14× / ~6×) **alors que la
+   demande structurelle bascule** : les producteurs traitent désormais **+10 Bcf/j** de demande DC incrémentale comme *nouveau cas de base*, et EQT *alimente le plus grand
+   campus DC gaz du pays* (**Homer City Redevelopment**). *Quand la douve est faible mais la décote ET la criticité montante sont réelles, on prend la décote — sans payer le
+   multiple d'un actif à douve.* L'indice plafonne (5–6, pas 8) à cause de la **cyclicité de la commodité**, pas du rôle.
+2. **Le cuivre est le cas opposé dans la matière : barrière d'entrée *extrême*, mais le multiple a déjà bougé.** On ne *construit pas* une mine de cuivre en moins de **10–20
+   ans** (permis, teneurs déclinantes, capital colossal) → **B 4–5** (coût d'entrée parmi les plus hauts de tout le document). Et le rôle est **massivement critique** : un DC
+   IA consomme **~3× plus de cuivre** qu'une ferme de serveurs classique (distribution électrique + cooling), le marché anticipe un **déficit ~320 kt en 2026** (stocks à ~14
+   jours) et le cuivre a *décollé* (records). **Mais** Freeport se traite déjà **~37× PE** (cuivre au pic) → la **barrière est la plus haute, la décote la plus faible** : c'est
+   l'**inverse symétrique du gaz**. *La douve « matière » ne crée pas la décote quand le sous-jacent est déjà au pic ; on attend un repli du cuivre pour le levier minier.*
+3. **Les architectes (design) battent les bâtisseurs (chantier) sur le couple douve×prix.** La v12 a tabulé ceux qui *posent* l'acier (Quanta/MYR/IES — marges
+   d'exécution, douve d'échelle). Un cran en **amont**, ceux qui *conçoivent* (AECOM, Jacobs) ont une **douve de qualification & de relation** (références #1 DC design,
+   *book-to-burn 1,2–1,4×*, carnet record **26–27 Md$**) **et** un multiple **plus bas** que les constructeurs chauds : **AECOM ~10,7× fwd**, **Jacobs ~14,8× fwd**. *Le
+   travail intellectuel (design) se price moins cher que le travail manuel (chantier) alors que sa douve est supérieure — anomalie à exploiter.* C'est le meilleur gisement
+   *value à barrière réelle* de la v14.
+4. **La couche logicielle confirme la règle « payer la douve, pas la perfection » — mais en SaaS.** L'observabilité/data-platform est **critique** (un appel LLM traverse des
+   dizaines de microservices/vector-DB → il *faut* l'observer) et à **forte douve de coûts de bascule** (données capturées). Mais le leader **Datadog (~86× fwd)** *price la
+   perfection* → indice 2, comme Coherent/Lumentum côté optique. La **value** est dans les **n°2 décotés à douve équivalente** : **Dynatrace (~21× fwd, 2 Md$ ARR)** et
+   **Elastic (~17× fwd, devenu *vector-DB*/context-engine)**. *Même grammaire que le hardware : on achète le challenger décoté à douve comparable, pas le leader à 4× le
+   multiple.*
+5. **Le cycle combustible nucléaire (v8) doit *monter* sur un seul nom et rester *cher* sur les autres — l'asymétrie réglementaire s'est durcie en juin.** Fait nouveau du 2ᵉ
+   trimestre : **Centrus (LEU)** a décroché un **award DOE de 900 M$** pour étendre l'enrichissement (Ohio), porte un **backlog total ~3,8 Md$** (jusqu'en 2040) et reste le
+   **seul producteur commercial US de HALEU** → la **barrière réglementaire** (la plus haute du document, B 5) se *monétise* enfin → on relève Centrus. À l'inverse, **Cameco
+   (~131× PE TTM, encore plus cher qu'en mai malgré le deal Inde 2,6 Md$)**, **BWXT (~42× fwd)**, **Oklo/NuScale (pré-/sub-commercial)** restent *chers ou spéculatifs* :
+   *la douve réglementaire est réelle partout, la décote n'est nulle part sauf — désormais — sur l'enrichisseur qui vient de capturer l'argent fédéral.*
+6. **Règle transverse v14 :** *là où la douve est faible (gaz, métal de base), n'achète que la **décote** et seulement parce que le rôle devient critique ; là où la douve est
+   extrême (cuivre minier, enrichissement, design), n'achète que quand le multiple **n'a pas encore** intégré la rareté (AECOM, Centrus post-award) — jamais le pic déjà pricé
+   (Cameco, Freeport au pic du cuivre, Datadog).*
+
+### 19.1 — Quatre poches « combustible / métal / architectes / code » (rattachement à la cartographie §2)
+> *On poursuit l'alphabet : v11 = III→NNN, v12 = OOO→SSS, v13 = TTT→WWW, **v14 = XXX→AAAA**.*
+
+| Poche v14 | Couche (§2) | Douve / nature de la barrière | Verdict douve |
+|---|---|---|---|
+| **XXX** — **Gaz amont** : producteurs Appalaches/Haynesville (la *molécule* derrière le gas-to-power) | 6a (énergie / combustible) | **Commodité** (faible IP) ; douve = **qualité d'acreage**, breakevens, **proximité du campus DC** (Homer City) | **Faible** (B 2) ; rôle nouvellement critique + **décote réelle** |
+| **YYY** — **Métal conducteur** : cuivre & aluminium électrique | 0 (matières premières) | **Coût d'entrée extrême** (mine = 10–20 ans, permis, teneurs, capital), gisements finis | **Très haute** (B 4–5) **mais** multiple déjà au pic du cuivre |
+| **ZZZ** — **Architectes & ingénieurs** : design/engineering DC (amont du chantier v12) | 6 (infra physique, *en amont*) | **Qualification & références** (#1 DC design), relations clients, **book-to-burn > 1**, talent rare | **Moyenne-haute** (B 3) + **multiple bas** → meilleur couple value |
+| **AAAA** — **Couche logicielle/données** : orchestration, observabilité, data platform | 9 (logiciel) | **Coûts de bascule** (données capturées), effets de plateforme, instrumentation collante | **Haute** (B 4) ; mais leaders **chers**, value dans les n°2 |
+
+#### Notes par poche (l'essentiel)
+- **XXX — Le gaz amont (la molécule, pas le tuyau).** Le document a couvert le *transport* (ET/KMI/WMB) et la *combustion* (gensets/turbines GEV) ; il manquait le
+  **producteur**. La demande DC « tire » une charge structurelle en **Appalachie & au Golfe** : certains producteurs traitent désormais **+10 Bcf/j** de demande
+  incrémentale comme *nouveau cas de base*. **EQT Corp (EQT)** — *le pure-play Appalaches le mieux placé* : **alimente le plus grand campus DC gaz du pays** (Homer City
+  Redevelopment), guidance **3,5 Md$ de FCF 2026** (strip), bilan en désendettement, **fwd ~14× / EV-EBITDA ~7,9×**, consensus le plus constructif du groupe (~70 $) → **B
+  2/C 2**, **indice 6** : *le levier gaz-amont le plus directement « DC », à un multiple raisonnable ; ⚠️ cyclique sur Henry Hub*. **Expand Energy (EXE)** — *le plus gros
+  producteur de gaz US (ex-Chesapeake+Southwestern), le moins cher* : **fwd ~11× / EV-EBITDA ~3,4–5×**, Haynesville (proximité Golfe/LNG), breakevens en amélioration →
+  **B 2/C 2**, **indice 6** : *la **value** la plus pure du gaz amont (multiple le plus bas, échelle la plus grande) ; ⚠️ cyclique, sensibilité prix*. **Coterra (CTRA)** —
+  *super-indépendant diversifié (gaz Marcellus + pétrole Permien)* : **fwd ~14× / EV-EBITDA ~6×**, synergies ~1 Md$/an (deal Devon), inventaire Tier-1 → **B 2/C 2**,
+  **indice 5** : *exposition gaz-DC **diluée** par le pétrole, mais bilan solide*. **Antero Resources (AR)** — *gros débit (3,4→4,2 Bcfe/j), expo LNG+DC* mais **dette
+  élevée** post-acquisition HG Energy II → **B 2/C 2**, **indice 4** : *le levier le plus offensif mais le bilan le plus risqué*. **Verdict :** le gaz amont est une
+  **douve faible** mais le **seul** segment « électron » encore à **un chiffre / bas-double-chiffre** *avec* un rôle nouvellement critique — **EQT** (le mieux positionné DC)
+  et **Expand Energy** (le moins cher) sont le couple value, **pas** un actif à douve → indice plafonné à 6.
+- **YYY — Le métal conducteur (le cuivre, goulet « matière » enfin reconnu).** Un DC IA consomme **~3× plus de cuivre** qu'une ferme de serveurs classique (distribution +
+  cooling) ; la demande DC seule tourne à **~400 kt/an** jusqu'en 2035, le marché anticipe un **déficit ~320 kt en 2026** (stocks ~14 jours) et le cuivre a battu des records.
+  **Freeport-McMoRan (FCX)** — *le plus gros producteur de cuivre coté* : **PE ~37×** (au pic du cuivre), EBITDA ajusté **9,9 Md$ (2025)**, Grasberg revenant à ~85 % de la
+  prod normale au S2-26, PT relevé (~67 $) → **B 4/C 3**, **indice 4** : *barrière minière extrême + rôle critique, **mais** multiple au pic, levier opérationnel déjà pricé*.
+  **Southern Copper (SCCO)** — *les plus grandes réserves mondiales, intégré (Mexique/Pérou)* : 1Q26 NI **+66,7 %**, CA 2026 attendu **~16 Md$ (+17 %)**, mais **prime de
+  qualité historique** (multiple élevé) → **B 4/C 3**, **indice 3** : *qualité d'actif réelle mais rarement bon marché*. **Teck Resources (TECK)** — *bascule en pure-play
+  cuivre (fusion Anglo American)* → **B 4/C 3**, **indice 4** : *re-rating « cuivre pur » en cours, optionalité fusion ; ⚠️ exécution/intégration*. **Verdict :** le cuivre est
+  l'**inverse symétrique du gaz** — **barrière la plus haute** (coût d'entrée extrême), **décote la plus faible** (multiple au pic). On garde la poche sur la **watchlist
+  « repli du cuivre »** : le levier minier ne devient *value* qu'après une correction du sous-jacent. (Côté aluminium électrique : **Alcoa/Norsk Hydro** — exposition busbar/
+  câble plus indirecte, non tabulés en propre.)
+- **ZZZ — Les architectes & ingénieurs (le design en amont du chantier).** La v12 a tabulé les *constructeurs* (qui posent l'acier) ; un cran en amont, les **firmes de
+  design/engineering** *conçoivent* les campus — et leur **douve de qualification/référence** est supérieure à celle du chantier, pour un **multiple plus bas**. **AECOM (ACM)**
+  — *infrastructure/design diversifié, virage DC+défense* : **carnet record 26,2 Md$ (+8 %)**, **design book-to-burn 1,2×**, BPA aj. record **1,59 $ (+27 %)**, guidance
+  relevée 2 trimestres de suite, outils IA propriétaires ayant *gagné ~1 Md$ de contrats* → **fwd ~10,7×** → **B 3/C 3**, **indice 6** : *le meilleur couple value×douve de la
+  v14 — design critique, carnet record, multiple à ~10–11×*. **Jacobs Solutions (J)** — ***#1 Data Center Design Firm & #1 Data Center Engineering Firm* (BD+C)** : carnet
+  record **27,0 Md$ (+22 %)**, **book-to-bill 1,4×** (TTM), croissance menée par DC/semis/sciences de la vie, **fwd ~14,8×** → **B 3/C 3**, **indice 5** : *le pure-play
+  design DC #1, un peu plus cher qu'AECOM mais douve la plus pure de la poche*. **Verdict :** *le travail intellectuel (design) se price moins cher que le travail manuel
+  (chantier v12) alors que sa douve est supérieure* — **AECOM** est le levier value, **Jacobs** la douve pure ; tous deux **accessibles** (NYSE), grands caps liquides.
+- **AAAA — La couche logicielle/données (l'angle « non-hardware » enfin tabulé).** Le document était quasi-exclusivement *hardware* ; or l'inférence/serving tourne sur une
+  **pile logicielle** (moteur — vLLM/TensorRT-LLM ; serving — KServe/LiteLLM ; orchestration — Kubernetes à ~66 % des déploiements) et toute appli IA doit être **observée** et
+  **stockée**. **Datadog (DDOG)** — *le leader observabilité* : CA T1-26 **> 1 Md$ (+32 %)**, ARR net > 4 Md$, mais **fwd ~86×** *« priced for perfection »* (ne marche que si
+  NRR > 115 % et l'attache IA accélère) → **B 4/C 3**, **indice 2** : *douve réelle mais perfection pricée (l'équivalent SaaS de Coherent/Lumentum)*. **Dynatrace (DT)** —
+  *le n°2 observabilité décoté* : **> 2 Md$ ARR**, +16 % cc 4 trim. d'affilée, EPS +~23 %, **fwd ~21×** → **B 4/C 3**, **indice 5** : *la **value** de l'observabilité — douve
+  comparable, multiple au quart de Datadog*. **Elastic (ESTC)** — *search devenu **vector-DB**/context-engine pour le RAG* : CA FY26 **1,74 Md$ (+17 %)**, **fwd ~17×** →
+  **B 3/C 3**, **indice 5** : *exposition RAG/vector directe à multiple bas ; ⚠️ concurrence open-source/hyperscalers*. **MongoDB (MDB)** *(base documentaire des applis IA, +
+  vector search)* et **Confluent (CFLT)** *(streaming temps-réel, le « système nerveux » des pipelines de données IA)* → **B 3/C 3**, **indice 4** : *rôles réels dans la pile
+  data-IA, mais multiples SaaS encore tendus et croissance décélérante → sur repli*. **Snowflake (SNOW)** *(data warehouse/AI data cloud)* → **indice 3** : *critique mais
+  multiple élevé*. **Verdict :** *même grammaire que le hardware* — la couche logicielle est critique et à **forte douve de bascule**, mais on **paie la douve, pas la
+  perfection** : **Dynatrace** et **Elastic** (n°2 décotés à douve comparable) priment sur **Datadog** (perfection pricée) et les data-platforms encore tendues.
+
+### 19.2 — Tableau v14 des **nouveaux** noms (douve & coût d'entrée)
+> *Barrière (B) et Concurrence (C) notées 0–5 (C inversé : 5 = peu de rivaux). Indice 0–10 net. PER avant (≈) sauf mention.*
+
+| Acteur | Ticker | Couche / rôle | PER / repère (≈) | **B** | **C** | Indice | Lecture / **risque** |
+|---|---|---|---:|:---:|:---:|:---:|---|
+| **EQT Corp** | EQT | **Gaz amont** : pure-play Appalaches (campus DC Homer City) | **fwd ~14× / EV-EBITDA ~7,9×** | **2** | **2** | **6** | Le levier gaz-amont le plus « DC » (alimente le + grand campus gaz US), FCF 3,5 Md$ ; ⚠️ **cyclique Henry Hub** |
+| **Expand Energy** | EXE | **Gaz amont** : n°1 producteur gaz US (Haynesville) | **fwd ~11× / EV-EBITDA ~3,4–5×** | **2** | **2** | **6** | La **value la plus pure** du gaz amont (multiple le + bas, échelle la + grande) ; ⚠️ cyclique, sensibilité prix |
+| **AECOM** | ACM | **Architectes** : design/engineering DC (carnet 26,2 Md$) | **fwd ~10,7×** | **3** | **3** | **6** | **Meilleur couple value×douve v14** : design critique, book-to-burn 1,2×, BPA +27 % ; ⚠️ exposition cyclique infra |
+| **Coterra Energy** | CTRA | **Gaz amont** : super-indépendant (gaz Marcellus + Permien) | **fwd ~14× / EV-EBITDA ~6×** | **2** | **2** | **5** | Bilan solide, synergies Devon 1 Md$ ; ⚠️ expo gaz-DC **diluée** par le pétrole |
+| **Jacobs Solutions** | J | **Architectes** : #1 DC Design & Engineering Firm (carnet 27 Md$) | **fwd ~14,8×** | **3** | **3** | **5** | La **douve design la plus pure** (#1 DC), book-to-bill 1,4× ; ⚠️ un peu plus cher qu'AECOM |
+| **Dynatrace** | DT | **Logiciel** : n°2 observabilité (2 Md$ ARR) | **fwd ~21×** | **4** | **3** | **5** | La **value de l'observabilité** (douve ≈ Datadog, ¼ du multiple) ; ⚠️ concurrence Datadog/Splunk-Cisco |
+| **Elastic** | ESTC | **Logiciel** : search → **vector-DB**/context-engine (RAG) | **fwd ~17×** | **3** | **3** | **5** | Exposition **RAG/vector** directe à multiple bas ; ⚠️ concurrence open-source/hyperscalers |
+| **Freeport-McMoRan** | FCX | **Métal** : n°1 cuivre coté (Grasberg) | **PE ~37×** | **4** | **3** | **4** | Barrière minière extrême + déficit cuivre 2026 ; ⚠️ **multiple au pic du cuivre** → repli |
+| **Teck Resources** | TECK | **Métal** : bascule pure-play cuivre (fusion Anglo) | n.d. (re-rating) | **4** | **3** | **4** | Re-rating « cuivre pur » + optionalité fusion ; ⚠️ exécution/intégration |
+| **Antero Resources** | AR | **Gaz amont** : gros débit (LNG+DC) | **fwd ~bas-double-chiffre** | **2** | **2** | **4** | Le levier le + offensif (débit 4,2 Bcfe/j) ; ⚠️ **dette élevée** post-HG Energy II |
+| **MongoDB / Confluent** | MDB / CFLT | **Logiciel** : base documentaire+vector / streaming data IA | élevé (SaaS) | **3** | **3** | **4** | Rôles réels dans la pile data-IA ; ⚠️ multiples tendus, croissance décélérante → repli |
+| **Southern Copper** | SCCO | **Métal** : plus grandes réserves cuivre, intégré | élevé (prime) | **4** | **3** | **3** | Qualité d'actif réelle ; ⚠️ **rarement bon marché** (prime historique) |
+| **Snowflake** | SNOW | **Logiciel** : AI data cloud / warehouse | élevé (SaaS) | **3** | **3** | **3** | Critique mais **multiple élevé** |
+| **Datadog** | DDOG | **Logiciel** : leader observabilité (1 Md$ CA/T) | **fwd ~86×** | **4** | **3** | **2** | Douve réelle **mais** *priced for perfection* (l'équivalent SaaS de Coherent) → repli marqué |
+
+> **Lecture 19.2.** Le **gisement net** de la v14 est une **grappe à 3 à indice 6** : **EQT** (le gaz amont le plus « DC »), **Expand Energy** (la *value* gaz la plus pure)
+> et surtout **AECOM** (le **meilleur couple value×douve** de l'édition — un actif à *barrière de qualification réelle* à ~10–11× fwd). Juste derrière, une **grappe à 5** :
+> **Coterra**, **Jacobs**, **Dynatrace**, **Elastic** (n°2 logiciels décotés). Tout le reste **plafonne à 3–4** pour une raison *opposée* selon la poche : le **métal**
+> (Freeport, SCCO, Teck) a la **barrière la plus haute mais le multiple au pic du cuivre** (on attend un repli), le **logiciel leader** (Datadog) *price la perfection*, et
+> le gaz **dilué/endetté** (Coterra, Antero) ou la data-platform **tendue** (MDB/CFLT/SNOW) ne portent pas la décote. **Message d'investissement :** *le « combustible »
+> (gaz, métal) est le dernier endroit où le rôle nouvellement critique coïncide avec un multiple bas — mais seulement côté **gaz** (douve faible → on prend la décote) ; côté
+> **cuivre** (douve extrême) le marché a déjà bougé, on attend le repli. Et dans le **design** comme dans le **logiciel**, on achète le challenger décoté à douve comparable
+> (AECOM > constructeurs chauds ; Dynatrace/Elastic > Datadog), jamais le leader à multiple de perfection.*
+
+### 19.3 — Réévaluation des **entrées v3→v13** à la lumière des données du 5 juin 2026
+> On **conserve** chaque entrée et on **réajuste** l'indice (v13 → v14). Faits nouveaux de juin : **award DOE 900 M$ à Centrus** + backlog porté à **3,8 Md$** (seul HALEU US)
+> → on **relève Centrus** ; **cuivre à records + déficit 2026** → biais ↑ sur la chaîne câble/transfo (Nexans, HD Hyundai) ; **+10 Bcf/j de demande gaz DC** comme cas de base
+> → **confirme** la chaîne gas-to-power (ET/KMI/WMB) ; **Cameco encore plus cher (~131× PE)** malgré le deal Inde → maintenu bas. « = » : inchangé.
+
+| Acteur | Ticker | Indice **v13** | **v14** | Motif (fait nouveau juin 2026) |
+|---|---|:---:|:---:|---|
+| **Centrus Energy** | LEU | 5 | **6 ▲** | **Award DOE 900 M$** (enrichissement Ohio) + **backlog 3,8 Md$** (jusqu'en 2040) ; **seul producteur HALEU US** — la **barrière réglementaire se monétise** enfin |
+| **Cameco** | CCJ | 2 | **2 =** | Deal Inde 2,6 Md$ **mais PE ~131× TTM** (encore plus cher qu'en mai) → goulet réel, **toujours surévalué** |
+| **BWX Technologies** | BWXT | 4 | **4 =** | Carnet 7,3 Md$ (+50 %), TRISO/microréacteur (Project Pele) ; **fwd ~42×** → monopole naval réel mais cher — maintenu |
+| **NuScale / Oklo** | SMR / OKLO | 3 / 2 | **= ** | NuScale (seul design NRC, +63 % CA 26e) reste sub-commercial ; Oklo pré-revenu (estimations en baisse) — maintenus |
+| **Energy Transfer / Kinder Morgan / Williams** | ET / KMI / WMB | 8 / 6 / 4 | **= ** | **+10 Bcf/j** de demande gaz DC comme *cas de base* (Homer City etc.) **confirme** le midstream — plafonds maintenus (déjà hauts) |
+| **Nexans** | NEX.PA | 7 | **7 = *(biais ↑)*** | **Cuivre à records + déficit 320 kt 2026** → tension sur le câble HV ; conviction renforcée, multiple déjà décent → plafond maintenu |
+| **HD Hyundai Electric** | 267260.KS | 7 | **7 =** | Même vent cuivre (bobinage transfo) ; carnet/ capacité US — maintenu |
+| **Vistra / Constellation / Talen** | VST / CEG / TLN | 7 / 6 / 5 | **= ** | IPP nucléaires : la rampe combustible (Centrus HALEU) **valide** l'amont, pas de mouvement d'indice IPP — maintenus |
+| **SK Hynix / Micron** | 000660.KS / MU | 8 / 8 | **= ** | Tension DRAM/HBM réaffirmée (pas de fait nouveau matériel au 5 juin) — plafonds maintenus |
+| **Synopsys / Cadence / ARM** | SNPS / CDNS / ARM | 8 / 4 / 3 | **= ** | Duopole EDA + IP ; la **couche logicielle v14** (Datadog/Dynatrace) est l'analogue applicatif de la douve EDA — maintenus |
+| **Schneider Electric / Vertiv** | SU.PA / VRT | 4 / 3 | **= ** | Power+cooling ; le cuivre cher renchérit l'appareillage (neutre net) — maintenus |
+| **Murata** | 6981.T | 5 *(biais ↑)* | **5 = *(biais ↑)*** | Super-cycle MLCC (v13) maintenu ; pas de fait nouveau au 5 juin — biais ↑ conservé |
+| *(toutes les autres lignes v3→v13)* | — | — | **= ** | **Conservées et réaffirmées** au niveau v13 (pas de fait nouveau matériel au 5 juin) |
+
+> **Lecture 19.3.** La v14 ne fait **qu'un seul mouvement d'indice** — **Centrus 5 → 6 ▲** — parce que c'est le seul nom où un **fait nouveau monétise la douve** (l'award
+> DOE de 900 M$ transforme la « barrière réglementaire extrême » en *cash-flow contracté*, sur le **seul** HALEU US). Pour le reste, la v14 **valide en bloc** des thèses
+> antérieures : **+10 Bcf/j** de demande gaz DC **confirme** le midstream (ET/KMI 8/6) *et* ouvre l'amont (EQT/EXE 6) ; le **cuivre à records + déficit 2026** **renforce**
+> (biais ↑) la chaîne câble/transfo (Nexans 7, HD Hyundai 7) sans justifier de hausse (multiples déjà corrects) ; **Cameco reste cher** (131×) malgré le deal Inde. La
+> hiérarchie 2026 tient et s'enrichit : **(1)** duopole EDA corrigé (Synopsys 8) + sa relève **applicative** (Dynatrace/Elastic 5) ; **(2)** HBM/DRAM mal-aimée (SK Hynix,
+> Micron 8) ; **(3)** dérivées énergie — **gaz amont (EQT/EXE 6)** + midstream (ET 8) + réseau/transfo (Nexans, HD Hyundai) + **enrichissement (Centrus 6 ▲)** ; **(4)** verrous
+> WFE/matériaux/packaging/silice ; **(5)** value de couverture **design (AECOM 6, Jacobs 5)**, interconnect, péage mémoire (Renesas/Auras/Yageo). Le **fil rouge v14** : *là où
+> la douve est faible (gaz, métal de base), on n'achète que la **décote** et seulement parce que le rôle devient critique ; là où la douve est extrême (cuivre minier,
+> enrichissement, design), on n'achète que quand le multiple **n'a pas encore** intégré la rareté (AECOM, Centrus post-award) — jamais le pic déjà pricé (Cameco, Freeport, Datadog).*
+
+### 19.4 — Lien avec le portefeuille & candidats réalistes (Euronext) — vue v14
+Pour *ce* compte (~1 017 €, eToro/Euronext), la v14 est **plus accessible** que les v12–v13 : le gaz amont, le métal et les architectes sont des **grands caps US liquides**
+(EQT, EXE, ACM, FCX), tous **disponibles sur eToro**, et la couche logicielle (DT, ESTC) aussi. Honnêteté maintenue : *aucune nouveauté v14 n'est cotée Euronext en cœur de thèse*
+(le seul angle Paris reste Nexans/Legrand côté cuivre/réseau).
+
+1. **Schneider (SU.PA)** *(détenue)* — **maintenu** : le cuivre cher renchérit l'appareillage (neutre net : pricing power vs coût intrant) ; cœur de thèse power+cooling.
+2. **STMicro (STM.PA)** *(détenue)* — **maintenu 5** : power/analog ; pas de fait nouveau v14.
+3. **Air Liquide (AI.PA)** *(détenue)* — **maintenu 6** : gaz industriels ; la rampe HALEU/enrichissement (Centrus) = activité fabs/nucléaire soutenue.
+4. **Nexans (NEX.PA)** — **top pick EU câbles HV maintenu (7, biais ↑)** : le **déficit cuivre 2026** tend la chaîne du câble ; **Legrand (LR.PA)** — maintenu (busways/PDU, contenu cuivre).
+5. *(Pas de nouveauté v14 cotée Euronext en cœur de thèse)* — **2CRSi (AL2SI.PA, 5)** reste la seule micro-cap cooling Paris (v11).
+6. *(Watchlist hors-Euronext, nouveautés v14 accessibles eToro, par ordre d'intérêt)* :
+   - **AECOM (ACM, 6)** — le **meilleur couple value×douve** v14 (design DC critique à ~10,7× fwd) ;
+   - **EQT (EQT, 6)** — le gaz amont le plus « DC » (Homer City) ; **Expand Energy (EXE, 6)** — la **value** gaz la plus pure (~11× fwd) ;
+   - **Centrus (LEU, 6 ▲)** — l'enrichissement US qui **monétise** sa douve réglementaire (award DOE 900 M$) ; ⚠️ *special situation* volatile ;
+   - **Dynatrace (DT, 5)** / **Elastic (ESTC, 5)** — la **value de l'observabilité/vector-DB** (n°2 décotés) ; **Jacobs (J, 5)** — la douve design #1 ;
+   - **Coterra (CTRA, 5)** — gaz+pétrole, bilan solide (expo DC diluée).
+7. *(À éviter / sur repli marqué seulement)* **Freeport (FCX, 4)** / **Southern Copper (SCCO, 3)** — *cuivre au pic, attendre la correction du sous-jacent* ; **Cameco (CCJ, 2)** — *131× PE* ; **Datadog (DDOG, 2)** — *perfection pricée* ; **Antero (AR, 4)** — *dette élevée*.
+
+> **Cohérence inchangée depuis v1 :** *acheter la faiblesse, pas la force* ; *offre contrainte ≠ surcapacité* ; *payer pour la douve, pas pour la perfection* ; *le rôle critique
+> ne garantit pas la sous-évaluation*. La v14 y ajoute : **« le “combustible” de l'IA (le gaz qui brûle, le métal qui conduit, l'uranium qu'on enrichit) est le dernier endroit
+> où le rôle *nouvellement critique* coïncide encore avec un multiple bas — mais l'asymétrie est nette : côté **douve faible** (gaz amont) on prend la **décote** parce que le
+> rôle bascule (EQT/EXE 6) ; côté **douve extrême** (cuivre minier, enrichissement, design) on n'achète que là où le multiple **n'a pas encore** pricé la rareté — **AECOM**
+> (design DC à ~10,7×), **Centrus** (HALEU post-award DOE) — jamais le pic déjà pricé (Cameco à 131×, Freeport au sommet du cuivre, Datadog à 86×). Et dans le **logiciel** —
+> l'angle “non-hardware” enfin tabulé — la même grammaire qu'ailleurs : on achète le **n°2 décoté à douve comparable** (Dynatrace, Elastic), pas le leader à multiple de
+> perfection (Datadog). »**
+
+---
+
 ## Sources
 
 ### v1 (25 mai 2026)
@@ -3009,3 +3198,21 @@ watchlist courtier-dépendante.*
 - [Taiyo Yuden (6976.T) : P/E ~82× TTM / ~44× fwd, marge nette ~1,9 % (« paying for recovery ») — Simply Wall St](https://simplywall.st/stocks/jp/tech/tse-6976/taiyo-yuden-shares/news/taiyo-yuden-tse6976-valuation-check-after-strong-nine-month/amp)
 - [Celestica (CLS) : « hyperscale backbone », plateforme rack-scale Helios avec AMD, inflexion CCS ; ~22× sur ~20,2 $ de BPA aj. (JV ~445 $) — Simply Wall St](https://simplywall.st/community/narratives/ca/tech/tsx-cls/celestica-shares/8bxlzolh-celestica-inc-cls-the-hyperscale-backbone-and-the-2026-ai-infrastructure-super-cycle)
 - [Accton / Edgecore (2345.TW) : premiers switches open-networking 102,4T (Tomahawk 6 Broadcom 3 nm) pour clusters IA/ML, gamme 100/400/800G — BusinessWire / Edgecore](https://www.edge-core.com/press-release/edgecore-networks-sets-new-benchmark-for-ai-infrastructure-with-worlds-first-102-4t-open-networking-switches/)
+
+### v14 (5 juin 2026 — « le combustible, le métal & le code » : gaz amont, cuivre/aluminium, architectes-ingénieurs DC, couche logicielle/données + réévaluation du cycle combustible nucléaire)
+- [EQT Corp (EQT) : alimente le plus grand campus DC gaz US (Homer City Redevelopment), FCF 2026 ~3,5 Md$ (strip), consensus le + constructif (~70 $) ; fwd ~14× / EV-EBITDA ~7,9× — Yahoo Finance / stockanalysis](https://finance.yahoo.com/sectors/energy/articles/eqt-poised-capture-more-data-162659420.html)
+- [Pure-play gaz US 2026 : +10 Bcf/j de demande DC comme « nouveau cas de base » ; classement EQT > Expand Energy > Coterra > Antero (dette HG Energy II) — 24/7 Wall St.](https://247wallst.com/investing/2026/05/25/which-pure-play-natural-gas-stock-will-dominate-summer-2026-four-names-ranked/)
+- [Expand Energy (EXE) : n°1 producteur gaz US (Haynesville), fwd P/E ~11×, EV/EBITDA ~3,4–5× — stockanalysis / fullratio](https://stockanalysis.com/stocks/exe/statistics/)
+- [Coterra Energy (CTRA) : fwd P/E ~14×, EV/EBITDA ~6×, synergies Devon ~1 Md$/an, inventaire Tier-1 — stockanalysis / multiples.vc](https://stockanalysis.com/stocks/ctra/statistics/)
+- [Cuivre & IA : DC IA ~3× plus de cuivre, demande DC ~400 kt/an jusqu'en 2035, déficit ~320 kt 2026 (stocks ~14 jours), cuivre à records — Carbon Credits / SDxCentral](https://carboncredits.com/data-centers-copper-hunger-how-ai-is-driving-a-looming-supply-crunch/)
+- [Freeport-McMoRan (FCX) : n°1 cuivre coté, EBITDA aj. 9,9 Md$ (2025), Grasberg ~85 % au S2-26, PT ~67 $ ; PE ~37× (juin 2026) — Macrotrends / Simply Wall St](https://www.macrotrends.net/stocks/charts/FCX/freeport-mcmoran/pe-ratio)
+- [Southern Copper (SCCO) : plus grandes réserves mondiales, 1Q26 NI +66,7 %, CA 2026 attendu ~16 Md$ (+17 %) ; Teck Resources : bascule pure-play cuivre (fusion Anglo American) — SEC 8-K / Motley Fool](https://www.fool.com/investing/stock-market/market-sectors/materials/metal-stocks/copper-stocks/)
+- [AECOM (ACM) : carnet record 26,2 Md$ (+8 %), design book-to-burn 1,2×, BPA aj. record 1,59 $ (+27 %), guide relevée ; outils IA → ~1 Md$ de contrats ; fwd P/E ~10,7× — AECOM IR / GuruFocus](https://investors.aecom.com/news-releases/news-release-details/aecom-reports-second-quarter-fiscal-2026-results)
+- [Jacobs Solutions (J) : #1 Data Center Design Firm & #1 Data Center Engineering Firm (BD+C), carnet record 27,0 Md$ (+22 %), book-to-bill 1,4× ; fwd P/E ~14,8× — SEC 8-K / GuruFocus](https://www.gurufocus.com/term/forward-pe-ratio/J)
+- [Datadog (DDOG) : T1-26 CA > 1 Md$ (+32 %), ARR net > 4 Md$, fwd P/E ~86× (« priced for perfection ») — TIKR / Simply Wall St](https://www.tikr.com/blog/datadog-stock-is-up-37-in-2026-heres-why-analysts-still-sees-181-fair-value)
+- [Dynatrace (DT) : > 2 Md$ ARR, +16 % cc 4 trim., EPS +~23 %, fwd P/E ~21× ; Elastic (ESTC) : CA FY26 1,74 Md$ (+17 %), search → vector-DB/context-engine, fwd P/E ~17× — saasvaluationmultiple / SEC 8-K](https://saasvaluationmultiple.com/verticals/devops-saas-multiples)
+- [Pile d'inférence IA (moteur vLLM/TensorRT-LLM, serving KServe/LiteLLM, orchestration Kubernetes ~66 %) ; MongoDB/Confluent dans la pile data-IA — BentoML / Wing VC](https://www.bentoml.com/blog/how-to-vet-inference-platforms)
+- [Centrus Energy (LEU) : award DOE 900 M$ (enrichissement Ohio, seul producteur HALEU US), backlog total 3,8 Md$ (jusqu'en 2040), LEU ~2,9 Md$ ; fair value +35 % — Simply Wall St / SEC 10-Q](https://simplywall.st/stocks/us/energy/nyse-leu/centrus-energy/news/centrus-energy-leu-is-up-73-after-us900m-doe-haleu-award-and)
+- [Cameco (CCJ) : deal Inde ~2,6 Md$ (22 Mlb sur 9 ans) ; PE ~131× TTM, P/S 22× (vs ~9× moy. 5 ans) — IndexBox / SEC 6-K](https://www.indexbox.io/blog/cameco-stock-nuclear-renaissance-fuel-drives-high-valuation-concerns/)
+- [BWX Technologies (BWXT) : carnet 7,3 Md$ (+50 %), TRISO/Project Pele microréacteur, HALEU ; fwd P/E ~42–43× (cap. ~18,7 Md$) — stockanalysis / Motley Fool](https://stockanalysis.com/stocks/bwxt/statistics/)
+- [Oklo vs NuScale : OKLO pré-revenu (estimations -8 % 26e / -16 % 27e), NuScale seul design NRC (+63 % 26e) ; ASP Isotopes/Quantum Leap (ASP/QE) — angle HALEU émergent — Motley Fool / SEC 8-K](https://www.fool.com/investing/2026/05/29/nuclear-stock-face-off-is-oklo-or-nuscale-power/)
