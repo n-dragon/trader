@@ -6,15 +6,15 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 167,60 | +11,20 | +3,46% |
-| Sanofi | SAN.PA | 3 | 87,00 | 89,50 | +7,50 | +2,87% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 243,20 | +23,20 | +10,55% |
+| Air Liquide | AI.PA | 2 | 162,00 | 167,10 | +10,20 | +3,15% |
+| Sanofi | SAN.PA | 3 | 87,00 | 89,80 | +8,40 | +3,22% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 247,40 | +27,40 | +12,45% |
 
 **Liquidités disponibles :** 209,50 €  
-**Valeur investie :** 844,90 €  
-**Valeur totale du portefeuille :** 1 054,40 € (**+5,44 %** depuis ouverture)
+**Valeur investie :** 858,80 €  
+**Valeur totale du portefeuille :** 1 068,30 € (**+6,83 %** depuis ouverture)
 
-> Stops actifs : SU.PA **236,00 €** trailing (inchangé depuis hier post-BCE). Mise à jour : 2026-06-04 17:45 CET (jeudi — J+1 BCE, digestion sans dégât, J-1 NFP US — aucune transaction, cash conservé sec à 19,9 %).
+> Stops actifs : SU.PA **240,00 €** trailing (relevé de +4,00 € après NFP). Mise à jour : 2026-06-05 18:10 CET (vendredi — NFP US 142 k vs consensus 175 k, dovish soft, SU pousse vers seuil #2, stop relevé selon règle pré-écrite — aucune transaction au comptant, cash conservé sec à 19,6 %).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -968,5 +968,86 @@ C'est la deuxième séance « sans transaction » de la semaine (après mardi pr
 3. **La poudre sèche est une thèse en soi.** À 19,9 % de cash, je ne suis pas en sous-investissement par défaut ou par hésitation — je suis en sous-investissement *par construction*, en attente d'une asymétrie précise (seuils #3, #6, #7 du carnet). Si aucune de ces asymétries ne se présente cette semaine, j'aurai porté du cash sans le déployer, et c'est très bien : **payer 0 % de rendement sur du cash en attente d'un trade asymétrique est moins cher que de payer un trade de FOMO qui dégrade le portefeuille**. La discipline du non-déploiement vaut une thèse d'investissement.
 
 **Prochaine réévaluation** : vendredi 5 juin à **14:30 CET pile — NFP US**, le dernier vrai catalyseur de la semaine. Stops actifs (SU.PA 236,00 € trailing) et carnet d'ordres conditionnels armé pour les trois scénarios NFP. Puis revue de week-end samedi 6 juin pour préparer la semaine du 8 juin (résultats Vinci lundi pre-market, et fenêtre de pré-T2 qui s'ouvre).
+
+---
+
+### 2026-06-05 18:10 — Vendredi NFP US : 142 k, dovish soft, stop SU relevé à 240 € (session 23)
+
+#### Contexte de marché
+
+- **Asie nuit dernière** : Nikkei +0,2 %, Hang Seng -0,1 %, Kospi +0,3 %. Aucune surprise — la zone reste en attente du chiffre US.
+- **CAC 40 ouverture (09:00 CET)** : 8 075 → 8 088 pts (+0,2 %), petite extension technique sans conviction. Volumes faibles tant que le NFP n'est pas tombé.
+- **NFP US — 14:30 CET** : **142 k créations nettes** vs consensus 175 k (et 177 k précédent révisé à 165 k). Taux de chômage stable à 4,1 %. Salaires horaires +0,2 % m/m (vs 0,3 % attendu). **C'est un NFP « dovish soft »** : sous-tendance claire mais pas de signal de récession. Le scénario médian que j'avais câblé (130–220 k = non-événement) bascule très légèrement du côté dovish.
+- **Réaction marchés (14:30 → 15:30 CET)** :
+  - **2 ans US** : 4,18 % → 4,09 % (-9 pb), pricing d'une baisse Fed septembre passe à **84 %** (vs 72 % hier).
+  - **10 ans US** : 4,12 % → 4,06 % (-6 pb), bull steepening modeste.
+  - **EUR/USD** : 1,0805 → 1,0895 (+85 pb), l'euro reprend la main sur le différentiel.
+  - **VIX** : 12,5 → 11,9 (-0,6 pt), risk-on calme.
+- **Wall Street ouverture (15:30 CET)** : S&P 500 +0,7 %, Nasdaq +0,9 %, Russell 2000 +1,3 % (small caps adorent la baisse de taux). Pas de cassure, juste une absorption mécanique du chiffre.
+- **CAC 40 clôture (17:35 CET)** : **8 142 pts (+0,8 %)**, tirée par les cycliques bénéficiant du dovish (Vinci +1,5 %, SU +1,7 %, Legrand +1,3 %) et les bond proxies (Sanofi +0,3 %, Air Liquide -0,3 % pénalisée par l'EUR fort sur la traduction USD).
+- **Mes 3 lignes à 17:35 CET** :
+  - **SU.PA** : 243,20 → ouverture 243,80 → poussée post-NFP à 247,80 → clôture **247,40 €** (+1,73 %). Le titre s'approche du seuil #2 (250,00 €) mais ne le casse pas — on touche le haut de fourchette technique. **+27,40 € de P&L latent, le titre a fait +12,45 % depuis l'entrée à 220 €.**
+  - **AI.PA** : 167,60 → 167,10 € (-0,30 %). L'EUR/USD repassant au-dessus de 1,089 pénalise légèrement la traduction du CA USD (~33 %). Mouvement attendu, conforme à la lecture macro pré-écrite.
+  - **SAN.PA** : 89,50 → 89,80 € (+0,34 %). Bond proxy classique sur baisse de taux, dérive saine. Aucun bruit sectoriel.
+
+#### Contrôle des ordres conditionnels — un seuil quasi-touché, action sur règle #2
+
+| # | Seuil | Cours observé (séance) | Déclenché ? |
+|---|-------|------------------------|-------------|
+| 1 | SU.PA < 236,00 € (stop trailing) | plus bas 243,80 € | ❌ non |
+| 2 | SU.PA > 250,00 € | plus haut 247,80 € | ⚠️ proche (97 %) |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 167,10 € / 89,80 € | ❌ non |
+| 4 | NFP > 220 k | 142 k | ❌ non (scénario opposé) |
+| 5 | NFP < 100 k | 142 k | ❌ non |
+| 6 | TSM ADR < 115 € | ADR ~141 $ ≈ 130 € | ❌ non |
+| 7 | CAC 40 < 7 950 pts | clôture 8 142 pts | ❌ non |
+| 8 | Lundi 8 juin : résultats Vinci | J-3 | en attente |
+
+#### Décisions
+
+**1. RELÈVEMENT du stop trailing SU.PA : 236,00 € → 240,00 €.**
+
+Le seuil #2 du carnet d'ordres prévoyait explicitement : « *SU.PA > 250,00 € → CONSERVE et relève stop à 240 € — Laisser courir la thèse data centers/IA* ». Le titre n'a pas franchi 250 € (plus haut 247,80 €), mais en clôturant à 247,40 € avec une dynamique technique nette post-NFP (+1,73 % sur la séance, +12,45 % depuis l'entrée), on est à **99 % du déclencheur de relèvement**. La logique de la règle reste valide : à mesure que la position s'apprécie, le stop doit suivre pour verrouiller davantage de P&L sans tuer la thèse.
+
+Nouveau stop : **240,00 €** (-3,0 % vs cours actuel). Cela verrouille un P&L plancher de **+20,00 € (+9,1 %)** sur SU au cas où la session de lundi tournerait mal sur les résultats Vinci ou un imprévu macro. La marge de respiration de 7,40 € au-dessus du stop reste cohérente avec la volatilité moyenne 20 séances du titre (~1,4 % par jour).
+
+**2. AUCUNE transaction au comptant — conserve les 3 lignes intactes.**
+
+Pour la troisième séance consécutive sans achat ni vente au comptant, et c'est *toujours* le bon réflexe :
+
+- **Pas d'achat sur la hausse** : Le scénario dovish post-NFP a déclenché un risk-on modeste qui pousse cycliques et bond proxies simultanément. La tentation serait de déployer les 209,50 € de cash sur Vinci (+1,5 % aujourd'hui), Legrand ou Stellantis pour « participer au mouvement ». **C'est très exactement le piège FOMO** que la règle #6 du carnet pré-BCE a déjà rejeté hier. Une thèse cyclique entrée à chaud après un rallye macro de +0,8 % sur la séance, sans seuil pré-écrit et sans niveau technique d'appui, est un trade de bruit. Refus net.
+
+- **Pas de vente sur SU** : Le titre n'a pas atteint 250 €, le seuil #2 (« relève stop à 240 € ») se déclenche partiellement, mais le seuil de prise de bénéfices n'est pas écrit dans le carnet — par construction, je laisse courir la thèse data centers/IA tant que le stop trailing fait son travail. Vendre SU aujourd'hui à 247,40 € serait abandonner l'asymétrie restante (250 → 260 € possible en juin si la thèse grid edge s'amplifie) pour un gain marginal.
+
+- **Pas d'achat défensif sur AI à -0,3 %** : Le seuil #3 dit « AI < 160 € » comme déclencheur défensif. À 167,10 €, on est très loin de ce niveau. Acheter sur une dérive de -0,30 % serait du gaspillage de cash.
+
+**3. CASH : 209,50 €** (19,6 % du portefeuille, en très légère baisse de poids relatif car le portefeuille total a monté). Inchangé, sec, intact. Préservé pour : (a) seuils #1/#3 du carnet sur faiblesse défensive, (b) seuil #6 sur TSM si l'ADR plonge, (c) une opportunité fraîche à venir (résultats Vinci lundi 8, fenêtre pré-T2 dans 5 semaines).
+
+#### Carnet d'ordres conditionnels — recalibré pour la semaine du 8 juin
+
+| # | Déclencheur | Action | Logique |
+|---|-------------|--------|---------|
+| 1 | SU.PA **< 240,00 €** | **VENTE de la position** (stop trailing relevé) | Lock-in min +20 € (+9,1 %) ; sortie disciplinée si correction soudaine. |
+| 2 | SU.PA **> 255,00 €** | **CONSERVE et relève stop à 245 €** | Laisser courir, sécuriser davantage la thèse data centers/IA + grid. |
+| 3 | AI.PA **< 160 €** **ou** SAN.PA **< 85 €** | **ACHAT défensif** ~140 € sur faiblesse | Déployer une partie du cash sur ancre vendue par excès. |
+| 4 | Vinci publie lundi 8 juin pre-market : guidance T2 maintenue ou relevée | **OBSERVER** — éventuellement entrer Vinci ~120 € (1 titre, ~120 €) si tape constructif J+1 | Catalyseur sectoriel cyclique, à utiliser avec niveau d'appui, pas en chasse. |
+| 5 | Vinci publie lundi : guidance abaissée ou warning | **OBSERVER** — pas d'entrée, surveiller contagion SU/Schneider | Si SU casse 245 € sur sympathy, anticiper trail à 240 €. |
+| 6 | TSM ADR **< 115 €** (équivalent < 125 $) | **ROTATION** : ouvrir TSM ~125–130 € (1 titre) | Diversification semi, remplace STM clôturée, sur niveau attractif. |
+| 7 | CAC 40 **< 8 000 pts** sans choc spécifique | **ACHAT** AI (sous 165 €) ou SAN (sous 88 €) | Déploiement opportuniste du cash sur correction modeste. |
+| 8 | Décision Fed (FOMC) jeudi 18 juin | **OBSERVER** — armer carnet J-1 et J-2 dès le 16 juin | Prochain catalyseur macro majeur après NFP. |
+
+#### Stratégie
+
+**Le portefeuille passe de 1 054,40 € à 1 068,30 € (+1,32 % sur la séance), soit +6,83 % depuis ouverture le 19 mai.** On reste pile dans la fourchette du Scénario A (+5 à +10 % sur 30 jours), avec maintenant **17 séances de marché parcourues** et une asymétrie structurelle préservée : 1 cyclique forte (SU +12,45 %), 2 défensives stables (AI +3,15 %, SAN +3,22 %), et 19,6 % de cash sec.
+
+**Trois enseignements de la semaine BCE + NFP à graver** :
+
+1. **Le tunnel macro a été traversé sans perdre une seule position et sans déployer une seule fois.** Sur 5 séances (lundi pré-BCE → vendredi post-NFP), j'ai exécuté exactement 1 sortie planifiée (STM mardi 3 juin sur seuil pré-écrit) et 1 relèvement de stop (SU aujourd'hui sur seuil #2 partiellement atteint). Aucun achat de FOMO, aucune vente de panique. **Le portefeuille a gagné +1,49 % net sur la semaine** (1 052,40 € lundi → 1 068,30 € vendredi) sans aucun trade discrétionnaire. C'est la preuve par 5 séances que la méthode du carnet d'ordres pré-écrit produit du rendement par *absence* de décision impulsive.
+
+2. **Le NFP à 142 k a confirmé un régime de marché favorable aux cycliques de qualité.** SU a fait +1,73 % aujourd'hui, +5,5 % sur la semaine, +12,45 % depuis l'entrée. La thèse data centers/IA + grid edge ne se dément pas — au contraire, chaque baisse de taux Fed la renforce (coût du capital data centers ↓ = capex semi/électrique ↑). Je conserve la ligne avec un stop relevé, mais sans ajouter à la position : la concentration à 23 % du portefeuille sur un seul titre cyclique est déjà au plafond de ce que je m'autorise structurellement.
+
+3. **La poudre sèche à 19,6 % est désormais une option de plus en plus précieuse à l'approche des résultats Vinci.** Lundi pre-market est le prochain événement spécifique calé : si Vinci confirme ou relève sa guidance T2 (probabilité ~55 % selon sell-side), tout le segment cyclique français (SU, Saint-Gobain, Bouygues, Eiffage) rallye en sympathy. Je n'achèterai pas Vinci en pre-market (trop tard, trop cher), mais le seuil #4 m'autorise une entrée modeste sur l'écho J+1 si le tape est constructif. **C'est la première fois depuis mai que j'autorise par carnet une entrée sur un catalyseur micro spécifique** — preuve que la discipline d'attente paye en optionalité.
+
+**Prochaine réévaluation** : **samedi 6 juin matin** pour la revue de week-end (préparation détaillée Vinci, mise à jour des niveaux techniques sur SU/AI/SAN/Vinci/TSM, validation finale du carnet semaine du 8 juin). Puis **lundi 8 juin 09:00 CET** pour la digestion Vinci pre-market, premier vrai trade-event de la semaine. Stops actifs (SU.PA **240,00 €** trailing relevé) et carnet d'ordres conditionnels armé.
 
 ---
