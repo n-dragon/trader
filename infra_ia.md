@@ -5,7 +5,8 @@
 > marché** alors qu'ils jouent — ou vont jouer — un rôle critique. Document de travail destiné à
 > alimenter les décisions du journal de trading (`positions.md`, `etoro_trades.md`).
 >
-> **Date :** 5 juin 2026 — **édition v14** (*« le combustible, le métal & le code — la matière première de l'électron et le logiciel qui fait tourner les puces »* : le **gaz amont** (la *molécule* derrière le gas-to-power midstream déjà couvert — producteurs Appalaches/Haynesville EQT/Expand Energy/Coterra/Antero), le **métal conducteur** (cuivre & aluminium électrique : Freeport, Southern Copper, Teck — 3× plus de cuivre par DC IA, déficit 2026), les **architectes & ingénieurs** du data center (design/EPC en *amont* du chantier v12 : AECOM, Jacobs) et la **couche logicielle/données** (orchestration, observabilité, data platform : Datadog, Dynatrace, Elastic, MongoDB, Confluent — enfin tabulée alors que le document était très « hardware ») + réévaluation des indices, dont le **cycle du combustible nucléaire** à la lumière des faits de juin (award DOE 900 M$ Centrus, backlog 3,8 Md$) : voir §19.
+> **Date :** 6 juin 2026 — **édition v15** (*« le gardien, le filtre, le froid du bâtiment & le commutateur — les quatre couches “hors-compute” qu'on oublie »* : la **sécurité** de l'infra IA (HSM/confidential computing/cyber — **Thales** *enfin tabulé, et coté Euronext*, Fortinet, Palo Alto, CrowdStrike, Zscaler), les **matériaux & la pureté** (filtration/contamination control + chimie de procédé + wafers 300 mm : Entegris, Element Solutions, Shin-Etsu, SUMCO), le **froid du bâtiment** (chillers & air-handling à l'échelle DC, *en aval* du cold-plate déjà couvert : Trane, Johnson Controls, Daikin, Munters — ⚠️ menace « liquid-cooling » Nvidia) et le **commutateur** (switching réseau IA Ethernet + transport DCI : Arista, Ciena, **Cisco** le *value*) + réévaluation des indices v3→v14 : voir §20.
+> v14 (*« le combustible, le métal & le code »* : gaz amont EQT/Expand Energy/Coterra/Antero ; cuivre/aluminium Freeport/Southern Copper/Teck ; architectes DC AECOM/Jacobs ; logiciel/données Datadog/Dynatrace/Elastic/MongoDB/Confluent + cycle combustible nucléaire — award DOE 900 M$ Centrus) : 5 juin.
 > v13 (*« le péage par module, le métal sur la puce & le contenu qu'on prend pour une commodité »* : puces compagnons mémoire RCD/MRCD/PMIC — Montage/Rambus/Renesas ; modules thermiques GPU cold plate/vapor chamber — AVC/Auras ; passifs en largeur MLCC+tantale — Yageo/Taiyo Yuden ; ODM réseau white-box — Celestica/Accton) : 4 juin.
 > v12 (*« les bâtisseurs, le cuivre vivant & l'amont de la lumière »* : les **constructeurs** du réseau & du chantier DC, le **cuivre vivant** (Active Electrical Cables / SerDes — Credo, MACOM, Semtech), l'**amont de la lumière** (pilotes laser/TIA + **silice fondue synthétique**), les **gensets HHP** (Caterpillar, Cummins, Generac, Rolls-Royce mtu) et le **major électrique** Eaton + réévaluation : §17) : 3 juin.
 > v11 (*« la relève, la lumière & le robinet du capital »* : substrats de **verre** (relève de l'ABF), **photonique sur silicium** — CPO & OCS, **neoclouds**, **capital & foncier**, **sous-composants du transformateur** — traversées HT & OLTC, **fluides two-phase** & l'angle Euronext 2CRSi) : 2 juin.
@@ -2841,6 +2842,195 @@ Pour *ce* compte (~1 017 €, eToro/Euronext), la v14 est **plus accessible** qu
 
 ---
 
+## 20. ★★★★★★★★★★★★★ Édition v15 (6 juin 2026) — *« le gardien, le filtre, le froid du bâtiment & le commutateur — les quatre couches “hors-compute” qu'on oublie »*
+
+> **Pourquoi cette édition.** Quatorze éditions ont disséqué la pile *compute* (silicium, mémoire, packaging, power, cooling au niveau puce, optique, énergie, matériaux, logiciel
+> applicatif). Restaient **quatre couches transverses « hors-compute »** que le document, obsédé par l'électron et la puce, n'avait **jamais tabulées en propre** — et qui sont
+> pourtant *non-substituables* : **(1)** la **sécurité** — un DC IA est un coffre-fort de poids (modèles à plusieurs centaines de M$, données d'entraînement, clés) → **HSM,
+> confidential computing, cyber-plateforme** ; angle remarquable car il abrite **le seul pure-play sécurité coté Euronext et bon marché du document : Thales** ; **(2)** les
+> **matériaux & la pureté** — non plus les *consommables packaging* (v5 Resonac) ni les *gaz* (v4 Air Liquide), mais la **filtration/contamination-control** (la pureté qui
+> conditionne le *yield* de chaque wafer), la **chimie de procédé/plating** des cartes serveur, et le **wafer 300 mm** lui-même (duopole d'offre disciplinée) ; **(3)** le **froid
+> du bâtiment** — *en aval* du cold-plate déjà couvert (v8/v13) : les **chillers, air-handling units et plants thermiques** à l'échelle du campus, avec une **menace concurrentielle
+> spécifique et datée** (la bascule liquid-cooling « disrupte » le chiller à air) ; **(4)** le **commutateur** — la **fabrique réseau** qui relie les GPU (Ethernet/InfiniBand) et
+> les campus (DCI optique), couche jusque-là vue par fragments (Broadcom silicium, Celestica/Accton white-box, Credo AEC) mais **jamais par l'OEM-système** (Arista, Ciena, Cisco).
+> Quatre poches **BBBB→EEEE**, notées à la lentille **B (barrière 0–5) / C (concurrence 0–5, inversée)** des v7→v14, + réévaluation des indices v3→v14 (§20.3).
+> ⚠️ Multiples = instantanés d'agrégateurs publics (~29 mai/6 juin 2026), arrondis, **volatils** ; le SaaS-cyber et le réseau-IA pricent souvent **la perfection** (PER >40–90×) —
+> un multiple bas y est *rare* et donc *informatif*.
+
+### 20.0 — Le fil rouge v15 : *la couche « hors-compute » est non-substituable, mais sa douve va de l'extrême (HSM/wafer) au fragile (chiller à air menacé par le liquide) — et le marché paie partout la perfection sauf à deux endroits*
+Six maximes qui prolongent v7→v14 :
+
+1. **La sécurité est la couche la plus « collante » de toute la pile — et pourtant elle abrite la seule décote Euronext de la v15.** Un HSM (module matériel certifié FIPS 140-3
+   niveau 3) est un **point d'ancrage de confiance** : une fois les clés générées « non-extractibles » dans le boîtier, on **ne change pas** de fournisseur sans re-certifier toute
+   l'architecture → **coût de bascule extrême (B 4–5)** et marché concentré (Thales/Entrust/Utimaco, C 4). Or **Thales (HO.PA) se traite ~20× fwd** — *moitié moins cher que n'importe
+   quel pure-play cyber US* (Palo Alto ~50×, CrowdStrike ~90×) — parce que le marché le price en **« défensif aéro/défense »** et **ignore** que sa division *Digital Identity & Security*
+   (HSM Luna, CipherTrust, confidential computing/PQC avec HPE) est un **play infra-IA pur** sous le radar. *C'est l'exacte réplique de la thèse Air Liquide (v4) : une douve réelle
+   masquée par l'étiquette « défensive » → décote de perception.* **Meilleure pépite Euronext de la v15.**
+2. **Le wafer 300 mm et la filtration sont les douves « matière » les plus hautes de la couche pureté — mais le multiple n'a décoté que sur l'un.** Le **duopole Shin-Etsu/SUMCO** contrôle
+   **~51 %** du wafer 300 mm (top-5 ~80 %), pratique une **discipline d'offre** rare (SUMCO arrête le 200 mm pour basculer en 300 mm « AI-grade ») → **B 5/C 4**, et le segment leading-edge
+   est *tendu*. La **filtration/contamination-control (Entegris)** est consommée à *chaque* wafer (la pureté = le *yield*), douve d'intégration produit forte → **B 4**. Mais **Entegris
+   se traite ~38× fwd** (au-dessus de la médiane semis) tandis que le **wafer japonais reste à ~15–20×** : *la douve “matière” la plus haute (wafer) porte le multiple le plus bas — anomalie
+   géographique « décote Japon » à exploiter, comme SK Hynix côté mémoire.* **Shin-Etsu** est le levier value de la poche pureté ; **Entegris** la douve à payer cher.
+3. **Le froid du bâtiment est la seule poche de la v15 où la douve *recule* — et c'est précisément pour ça que la “value apparente” est un piège.** Trane (~37×, carnet record 10,7 Md$) et
+   Johnson Controls (carnet record 20 Md$) affichent une **demande DC explosive**, mais portent un **risque concurrentiel daté et public** : la bascule vers le **liquid-cooling direct**
+   (que Nvidia pousse au niveau rack) **réduit la part du chiller à air** dans le mix thermique → les titres cooling ont *déjà* corrigé sur des propos du CEO de Nvidia (CES). *Quand un
+   leader voit sa douve **rétrécir** par changement d'architecture, un multiple « raisonnable pour la croissance » n'est pas une décote — c'est un escompte de risque mérité.* On préfère
+   l'**air-handling/humidity pure-play moins crowded (Munters)** au chiller généraliste, et on plafonne l'indice de la poche à 4–5. *Vertiv (déjà tabulé) reste mieux placé car positionné
+   sur le liquide.*
+4. **Le commutateur est l'OEM-système au sommet d'une chaîne qu'on a déjà achetée par le bas — et le marché paie la perfection partout sauf chez l'incumbent mal-aimé.** On a déjà tabulé le
+   *silicium* (Broadcom), le *white-box* (Celestica/Accton) et le *cuivre actif* (Credo). L'OEM-système qui *vend la boîte* — **Arista (~48× fwd)** en Ethernet-IA, **Ciena (~48× fwd)** en
+   DCI optique — price **la perfection** (cible AI revenue ANET doublée à 3,25 Md$, demande DCI ×6 d'ici 2027) → indice ≤ 4. Le **value** est l'**incumbent décoté : Cisco (~16–17× fwd)**, qui
+   a *relevé ses commandes infra-IA FY26 à ~9 Md$* et arme une alliance Nvidia — *la « pelle réseau » la moins chère, exactement comme Dell l'est côté serveur (v3)*. **Cisco** est le levier
+   value du switching, **Arista** la douve à ne payer que sur repli.
+5. **Règle transverse v15 (la “géographie de la décote”) :** *les meilleures décotes de la couche hors-compute sont là où une **étiquette sectorielle** masque le rôle IA* — **Thales**
+   (« défense » masque HSM-infra-IA), **Shin-Etsu/SUMCO** (« chimie/semis japonais cyclique » masque le duopole wafer), **Cisco** (« vieux réseau ex-croissance » masque 9 Md$ de commandes
+   IA). *Inversement, là où l'étiquette est déjà « pure-play IA » (Arista, Entegris, CrowdStrike, Trane), le multiple price la perfection : on attend le repli.*
+6. **Règle d'or maintenue depuis v1 :** *le rôle critique ne garantit pas la sous-évaluation ; on paie la **douve**, pas la **perfection** ; on achète la **faiblesse** (l'étiquette
+   trompeuse), pas la **force** (le “pure-play IA” déjà couru) ; et on **fuit la douve qui rétrécit** (le chiller à air face au liquide), même quand le carnet est record.*
+
+### 20.1 — Quatre poches « gardien / filtre / froid / commutateur » (rattachement à la cartographie §2)
+> *On poursuit l'alphabet : v13 = TTT→WWW, v14 = XXX→AAAA, **v15 = BBBB→EEEE**.*
+
+| Poche v15 | Couche (§2) | Douve / nature de la barrière | Verdict douve |
+|---|---|---|---|
+| **BBBB** — **Le gardien** : HSM, confidential computing & cyber-plateforme pour l'infra IA | 9 (logiciel/sécurité) | **Coût de bascule extrême** (clés non-extractibles, re-certification FIPS), certifications, confiance | **Très haute** (B 4–5) **et** décote Euronext réelle (Thales) |
+| **CCCC** — **Le filtre** : filtration/pureté + chimie de procédé + wafer 300 mm | 0 (matières/matériaux) | **Discipline d'offre duopole** (wafer), **intégration produit/yield** (filtration), capital | **Haute-extrême** (B 4–5) ; décote sur le **wafer japonais** |
+| **DDDD** — **Le froid du bâtiment** : chillers, AHU & plants thermiques à l'échelle DC | 6 (infra physique, *bâtiment*) | **Carnet/relations & échelle**, mais **douve qui rétrécit** (bascule liquid-cooling) | **Moyenne & en érosion** (B 3, C 3↓) → indice plafonné |
+| **EEEE** — **Le commutateur** : switching réseau IA (Ethernet) + transport DCI optique | 4 (réseau/interconnect) | **Logiciel réseau (EOS), écosystème, R&D ASIC**, base installée (Cisco) | **Haute** (B 4) ; mais OEM-leaders **chers**, value chez l'incumbent |
+
+#### Notes par poche (l'essentiel)
+- **BBBB — Le gardien (la sécurité, enfin tabulée — et la pépite Euronext de la v15).** Un data center IA concentre une valeur extrême (modèles, données, clés) → la **sécurité matérielle**
+  est non-négociable. Le **HSM** (boîtier certifié qui génère/stocke des clés *non-extractibles*) est le **point d'ancrage de confiance** ; le **confidential computing** (TEE : enclaves CPU/GPU
+  qui chiffrent la donnée *en cours d'usage*) protège l'inférence multi-tenant ; la **PQC** (cryptographie post-quantique) ajoute un cycle de renouvellement. **Thales (HO.PA)** — *le seul
+  pure-play sécurité **coté Euronext et bon marché** du document* : division *Digital Identity & Security* (HSM **Luna**, **CipherTrust**, partenariat HPE confidential computing/PQC), **fwd
+  ~20× / TTM ~28×**, consensus ~290 € (+21 %), payé en « défensif aéro/défense » alors que la brique HSM est un **play infra-IA pur** → **B 5/C 4**, **indice 6** : *réplique exacte de la thèse
+  Air Liquide — douve extrême (re-certification = bascule quasi-impossible) masquée par une étiquette défensive ; **top pick Euronext v15***. **Fortinet (FTNT)** — *le cyber **value** US* :
+  fwd ~40–42× (≈ moitié de Palo Alto), croissance ~20 %, **douve hardware propre** (ASIC SPU/firewall maison → coût d'entrée matériel rare en cyber) → **B 4/C 3**, **indice 5** : *le challenger
+  rentable décoté*. **Zscaler (ZS)** — *SSE/zero-trust cloud, ~35× fwd* → **B 3/C 3**, **indice 4** : *le moins cher des SaaS-cyber purs, croissance soutenue*. **Palo Alto (PANW, ~50× fwd) /
+  CrowdStrike (CRWD, ~90× fwd)** → **B 4/C 3**, **indice 3 / 2** : *plateformes dominantes mais **perfection pricée** (l'équivalent cyber de Datadog/Coherent)*. **Verdict :** la sécurité est la
+  couche la plus *collante* de la pile ; **Thales** est la décote (Euronext, étiquette défensive), **Fortinet** le challenger rentable ; les pure-plays SaaS-cyber leaders pricent la perfection.
+- **CCCC — Le filtre (la pureté & le wafer, le “niveau 0” de la matière).** *En amont* des consommables packaging (v5) et des gaz (v4) : la **pureté** (filtration des chimies/gaz, contrôle de
+  contamination) conditionne le **yield** de chaque wafer, et le **wafer 300 mm** lui-même est un **duopole d'offre disciplinée**. **Shin-Etsu Chemical (4063.T)** — *n°1 wafer (~28 %) + chimie/
+  photorésist* : duopole avec SUMCO (~51 % à deux, top-5 ~80 %), **discipline d'offre** historique, bilan net cash, **PER ~17–20×** (décote « Japon cyclique ») → **B 5/C 4**, **indice 5** : *la
+  douve “matière” la plus haute de la v15 au multiple le plus bas — anomalie géographique à exploiter*. **SUMCO (3436.T)** — *n°2 wafer (~23 %), pure-play 300 mm* : bascule explicite 200→300 mm
+  « AI-grade », **plus cyclique/levier** → **B 4/C 4**, **indice 5** : *le pure-play wafer le plus exposé au leading-edge ; ⚠️ cyclique sur le prix wafer*. **Entegris (ENTG)** — *filtration/
+  contamination-control + CMP slurry/pads + matériaux de dépôt* : consommé à chaque wafer, douve d'intégration, mais **fwd ~38×** (au-dessus de la médiane semis ~36×) → **B 4/C 3**, **indice 5** :
+  *douve réelle, multiple à payer (pas une aubaine)*. **Element Solutions (ESI)** — *chimie de plating/circuitry des cartes serveur high-layer-count + semis* : org. +17 % circuitry, **fwd ~50×**
+  mais EPS « high-teens », expo directe **server boards DC** → **B 3/C 3**, **indice 4** : *exposition DC réelle mais multiple tendu → sur repli*. *(GlobalWafers, Siltronic — déjà évoqués v4 ;
+  SK Siltron non coté en propre.)* **Verdict :** le **wafer japonais (Shin-Etsu, SUMCO)** est le gisement value de la couche pureté (douve extrême + décote géographique) ; **Entegris** est la
+  meilleure douve « filtration » mais se paie ; **Element Solutions** est l'angle « carte serveur » à acheter sur repli.
+- **DDDD — Le froid du bâtiment (le chiller, la seule douve qui *rétrécit* de la v15).** *En aval* du cold-plate/CDU (v8/v13) : à l'échelle du campus, il faut des **chillers, AHU et plants
+  thermiques**. La demande DC y est **record** mais la **douve recule** : la bascule **liquid-cooling direct** (poussée par Nvidia côté rack) **réduit la part du chiller à air** → les cooling-stocks
+  ont déjà corrigé sur des propos publics du CEO de Nvidia. **Trane Technologies (TT)** — *leader HVAC, carnet record **10,7 Md$ (+30 %)**, acq. Stellar Energy (~1 Md$ backlog DC)* : **fwd ~37×**
+  (vs moyenne 5 ans ~27–29×) → **B 3/C 3**, **indice 4** : *carnet record mais multiple plein **et** douve menacée → pas la décote qu'il paraît*. **Johnson Controls (JCI)** — *le plus exposé DC parmi
+  les HVAC, carnet record **20 Md$**, commandes +30 %* → **B 3/C 3**, **indice 4** : *exposition DC la plus forte du groupe, ⚠️ même risque liquid-cooling + restructuration*. **Daikin (6367.T)** —
+  *n°1 mondial HVAC, biz DC NA ×3 d'ici 2030, R&D 163 M$* : **fwd ~23–24×** (le moins cher du groupe) → **B 3/C 3**, **indice 4** : *le multiple le plus raisonnable, diversification mondiale amortit
+  le risque DC*. **Munters (MTRS.ST)** — *pure-play air-handling/humidity **suédois**, chiller jusqu'à 3 MW haute densité* → **B 3/C 3**, **indice 5** : *le plus pur et le moins crowded de la poche,
+  positionné sur l'AHU haute densité (complément, pas substitut, du liquide) ; ⚠️ small-mid cap volatile*. **Verdict :** poche à **douve en érosion** — on **plafonne** l'indice ; **Munters** (pure-play
+  haute densité) et **Daikin** (le moins cher, le plus diversifié) priment sur les chillers généralistes (Trane/JCI) au multiple plein et au risque architectural. *Le mieux placé du froid reste
+  Vertiv (déjà tabulé), positionné sur le liquide.*
+- **EEEE — Le commutateur (la fabrique réseau, par l'OEM-système).** On a tabulé le réseau par fragments (silicium Broadcom, white-box Celestica/Accton, AEC Credo) mais jamais l'**OEM qui vend la
+  boîte**. **Cisco (CSCO)** — *l'incumbent **value** : ~16–17× fwd*, a **relevé ses commandes infra-IA FY26 à ~9 Md$** (de 5), Silicon One + alliance Nvidia, base installée et logiciel collants →
+  **B 4/C 3**, **indice 5** : *la « pelle réseau » la moins chère — réplique de Dell côté serveur ; le marché le price encore « ex-croissance » à tort*. **Arista (ANET)** — *leader Ethernet-IA,
+  EOS (logiciel réseau) = vraie douve* : cible AI revenue **doublée à 3,25 Md$ 2026**, deferred ~4,69 Md$, mais **fwd ~48×** → **B 4/C 3**, **indice 3** : *douve logicielle réelle mais **perfection
+  pricée** → seulement sur repli*. **Ciena (CIEN)** — *DCI optique « scale-across » (relier les campus en un super-ordinateur virtuel), WaveLogic 6, demande DCI ×6 d'ici 2027* : **fwd ~48×** →
+  **B 3/C 3**, **indice 4** : *inflexion IA réelle, special situation cyclique en sortie de creux ; ⚠️ concentration hyperscalers, multiple tendu*. **Verdict :** *l'OEM-système leader price la
+  perfection (Arista, Ciena) — on attend le repli ; le **value** du switching est l'**incumbent mal-aimé (Cisco)**, qui capture enfin la commande IA à un multiple d'infra (~17×).*
+
+### 20.2 — Tableau v15 des **nouveaux** noms (douve & coût d'entrée)
+> *Barrière (B) et Concurrence (C) notées 0–5 (C inversé : 5 = peu de rivaux). Indice 0–10 net. PER avant (≈) sauf mention.*
+
+| Acteur | Ticker | Couche / rôle | PER / repère (≈) | **B** | **C** | Indice | Lecture / **risque** |
+|---|---|---|---:|:---:|:---:|:---:|---|
+| **Thales** | HO.PA | **Gardien** : HSM Luna/CipherTrust, confidential computing, PQC (+ défense) | **fwd ~20× / TTM ~28×** | **5** | **4** | **6** | **Top pick Euronext v15** : douve HSM extrême masquée par l'étiquette « défense » (réplique Air Liquide) ; ⚠️ cyclicité budgets défense, conglomérat |
+| **Shin-Etsu Chemical** | 4063.T | **Filtre** : n°1 wafer 300 mm (~28 %) + chimie/résist | **PER ~17–20×** | **5** | **4** | **5** | Douve « matière » la + haute au multiple le + bas (décote Japon) ; net cash ; ⚠️ cyclique wafer |
+| **Fortinet** | FTNT | **Gardien** : cyber-plateforme, ASIC firewall propres | **fwd ~40–42×** | **4** | **3** | **5** | Le cyber **value** rentable (½ de Palo Alto), douve hardware ; ⚠️ croissance firewall cyclique (refresh) |
+| **SUMCO** | 3436.T | **Filtre** : n°2 wafer 300 mm (~23 %), pure-play | élevé (cyclique) | **4** | **4** | **5** | Pure-play wafer AI-grade (200→300 mm) ; ⚠️ **levier cyclique** sur prix wafer |
+| **Entegris** | ENTG | **Filtre** : filtration/contamination-control + CMP slurry | **fwd ~38×** | **4** | **3** | **5** | Consommé à chaque wafer (douve yield) ; ⚠️ **se paie** (au-dessus médiane semis) |
+| **Cisco** | CSCO | **Commutateur** : switching IA + Silicon One (alliance Nvidia) | **fwd ~16–17×** | **4** | **3** | **5** | La « pelle réseau » la moins chère (commandes IA FY26 ~9 Md$) ; ⚠️ croissance hors-IA molle |
+| **Munters** | MTRS.ST | **Froid** : AHU/humidité haute densité (pure-play suédois) | n.d. (mid-cap) | **3** | **3** | **5** | Pure-play AHU haute densité, peu crowded, complément du liquide ; ⚠️ small-mid cap volatile |
+| **Daikin** | 6367.T | **Froid** : n°1 mondial HVAC, biz DC NA ×3 d'ici 2030 | **fwd ~23–24×** | **3** | **3** | **4** | Le moins cher du froid, diversification amortit le risque ; ⚠️ bascule liquid-cooling sur le mix |
+| **Zscaler** | ZS | **Gardien** : SSE/zero-trust cloud | **fwd ~35×** | **3** | **3** | **4** | Le moins cher des SaaS-cyber purs ; ⚠️ multiple encore élevé, concurrence Palo Alto/Cloudflare |
+| **Trane Technologies** | TT | **Froid** : chillers/HVAC DC, carnet record 10,7 Md$ | **fwd ~37×** | **3** | **3** | **4** | Carnet record (+30 %) ; ⚠️ **multiple plein + douve menacée** (liquid-cooling) → escompte mérité |
+| **Johnson Controls** | JCI | **Froid** : le + exposé DC des HVAC, carnet 20 Md$ | élevé | **3** | **3** | **4** | Exposition DC la + forte du groupe ; ⚠️ même risque liquide + restructuration |
+| **Element Solutions** | ESI | **Filtre** : chimie plating/circuitry cartes serveur DC | **fwd ~50×** | **3** | **3** | **4** | Expo directe server boards high-layer-count ; ⚠️ **multiple tendu** → repli |
+| **Ciena** | CIEN | **Commutateur** : DCI optique « scale-across » (WaveLogic 6) | **fwd ~48×** | **3** | **3** | **4** | Inflexion IA réelle (DCI ×6 d'ici 2027), special situation ; ⚠️ concentration hyperscalers, cher |
+| **Arista Networks** | ANET | **Commutateur** : leader Ethernet-IA, logiciel EOS | **fwd ~48×** | **4** | **3** | **3** | Douve logicielle réelle (EOS) ; ⚠️ **perfection pricée** (cible AI 3,25 Md$ déjà dans le cours) → repli |
+| **Palo Alto Networks** | PANW | **Gardien** : plateforme cyber leader | **fwd ~50×** | **4** | **3** | **3** | Dominant, plateformisation ; ⚠️ croissance ralentie (~14–15 %) pour le multiple |
+| **CrowdStrike** | CRWD | **Gardien** : EDR/XDR cloud leader | **fwd ~90×** | **4** | **3** | **2** | Douve réelle **mais** *priced for perfection* (l'équivalent cyber de Datadog) → repli marqué |
+
+> **Lecture 20.2.** Le **gisement net** de la v15 est concentré sur l'idée « **étiquette trompeuse → décote** » : un **indice 6** unique — **Thales** (la *seule* décote Euronext de l'édition, douve
+> HSM extrême payée comme du « défensif ») — puis une **grappe à 5** : **Shin-Etsu** (duopole wafer au multiple « Japon cyclique »), **Cisco** (l'incumbent réseau à ~17× qui capte 9 Md$ de commandes
+> IA), **Fortinet** (le cyber rentable décoté), **SUMCO**, **Entegris**, **Munters**. Tout le reste **plafonne à 2–4** pour deux raisons opposées : soit le **multiple price la perfection** (Arista 3,
+> Ciena 4, Palo Alto 3, CrowdStrike 2 — les « pure-plays IA » déjà courus), soit la **douve rétrécit** (Trane/JCI 4, Daikin 4 — le chiller à air menacé par le liquide). **Message d'investissement :**
+> *la couche hors-compute est non-substituable, mais on n'y trouve la décote que là où une **étiquette sectorielle** masque le rôle IA — **Thales** (« défense »), **Shin-Etsu/SUMCO** (« semis japonais
+> cyclique »), **Cisco** (« réseau ex-croissance ») — jamais là où le titre est déjà estampillé « pure-play IA » (Arista, Entegris, CrowdStrike, Trane). Et on **fuit la douve qui rétrécit** : le chiller
+> à air, même à carnet record, n'est pas une aubaine face à la bascule liquid-cooling.*
+
+### 20.3 — Réévaluation des **entrées v3→v14** à la lumière des données du 6 juin 2026
+> On **conserve** chaque entrée et on **réajuste** l'indice (v14 → v15). Faits nouveaux : **bascule liquid-cooling** confirmée (propos Nvidia/CES) → **biais ↓** sur le cooling **à air** de bâtiment et
+> **biais ↑** sur le **liquide** (Vertiv mieux placé) ; **commandes infra-IA réseau** record (Cisco 9 Md$, Arista deferred 4,69 Md$, Ciena DCI ×6) → **confirme** la couche interconnect (Broadcom/Credo/
+> Celestica/Accton) ; **wafer 300 mm AI-grade tendu** → **biais ↑** matériaux semis ; **cuivre/déficit** (v14) maintenu. « = » : inchangé.
+
+| Acteur | Ticker | Indice **v14** | **v15** | Motif (fait nouveau 6 juin 2026) |
+|---|---|:---:|:---:|---|
+| **Vertiv** | VRT | 3 | **3 = *(biais ↑)*** | **Bascule liquid-cooling** (que les chillers à air subissent) **renforce** sa position relative (leader liquide) ; multiple toujours élevé → plafond maintenu, conviction ↑ |
+| **Schneider Electric** | SU.PA | 4 | **4 =** | Power+cooling ; le liquid-cooling et le wafer tendu sont neutres nets — maintenu (détenu) |
+| **Broadcom** | AVGO | 4 | **4 = *(biais ↑)*** | Commandes switching/silicium réseau IA record (Arista/Cisco montent en volume) **confirment** le silicium réseau — biais ↑, multiple plein → plafond |
+| **Celestica / Accton** | CLS / 2345.TW | (v13) | **= *(biais ↑)*** | White-box réseau porté par la même vague switching-IA (Cisco/Arista) ; thèse renforcée — maintenus |
+| **Credo** | CRDO | (v12) | **= *(biais ↑)*** | AEC dans chaque rack switch ; vague réseau-IA → biais ↑ — maintenu |
+| **Air Liquide** | AI.PA | 6 | **6 =** | Gaz spéciaux fabs ; le **wafer 300 mm AI-grade tendu** (Shin-Etsu/SUMCO) **valide** la consommation de gaz/chimie — maintenu, conviction ↑ |
+| **TSMC** | TSM | 6 | **6 =** | CapEx 2026 52–56 Md$ **tire** la demande wafer/matériaux (Shin-Etsu, Entegris) — thèse confortée, maintenu |
+| **SK Hynix / Micron** | 000660.KS / MU | 8 / 8 | **= ** | Mémoire HBM/DRAM tendue ; pas de fait nouveau matériel au 6 juin — plafonds maintenus |
+| **Synopsys / Cadence** | SNPS / CDNS | 8 / 4 | **= ** | Duopole EDA ; la **couche sécurité v15** (HSM/Thales) est l'analogue « confiance » de la douve EDA — maintenus |
+| **Datadog / Dynatrace / Elastic** | DDOG / DT / ESTC | 2 / 5 / 5 | **= ** | Logiciel/observabilité (v14) ; la sécurité v15 confirme la grammaire « payer le n°2, pas la perfection » — maintenus |
+| **Marvell** | MRVL | 4 | **4 = *(biais ↑)*** | Optique/DCI (Ciena ×6) + interconnect réseau-IA → biais ↑ ; multiple déjà revalorisé v12 → plafond |
+| **Corning / Coherent / Lumentum** | GLW / COHR / LITE | 2 / 1 / 1 | **= ** | Optique/CPO ; la demande DCI (Ciena) **confirme** mais les multiples pricent déjà la perfection — maintenus bas |
+| **Centrus Energy** | LEU | 6 | **6 =** | HALEU/enrichissement (award DOE v14) ; pas de fait nouveau au 6 juin — maintenu |
+| **EQT / Expand Energy** | EQT / EXE | 6 / 6 | **= ** | Gaz amont DC (v14) ; la charge thermique des campus (chillers + liquide) **confirme** la demande électron — maintenus |
+| **Nexans** | NEX.PA | 7 | **7 = *(biais ↑)*** | Câble HV ; déficit cuivre (v14) + réseau-IA dense **maintiennent** la tension — top pick EU câbles, conviction ↑ |
+| **AECOM / Jacobs** | ACM / J | 6 / 5 | **= ** | Architectes DC (v14) ; le froid du bâtiment (chillers) qu'ils intègrent **valide** le carnet design — maintenus |
+| **Murata** | 6981.T | 5 *(biais ↑)* | **5 = *(biais ↑)*** | Super-cycle MLCC ; pas de fait nouveau au 6 juin — biais ↑ conservé |
+| *(toutes les autres lignes v3→v14)* | — | — | **= ** | **Conservées et réaffirmées** au niveau v14 (pas de fait nouveau matériel au 6 juin) |
+
+> **Lecture 20.3.** La v15 ne fait **aucun mouvement d'indice chiffré** sur les entrées antérieures — mais elle **réoriente plusieurs biais** : la **bascule liquid-cooling** (fait public CES/Nvidia)
+> est le signal directionnel de l'édition — elle **menace le chiller à air de bâtiment** (les nouvelles entrées Trane/JCI plafonnent à 4) et **renforce relativement Vertiv** (positionné sur le liquide,
+> biais ↑) ; la **vague de commandes réseau-IA** (Cisco 9 Md$, Arista deferred 4,69 Md$, Ciena DCI ×6) **valide en bloc** la couche interconnect déjà tabulée (Broadcom, Credo, Celestica, Accton, Marvell —
+> biais ↑) ; le **wafer 300 mm AI-grade tendu** + le **CapEx TSMC 52–56 Md$** **confortent** la chaîne matériaux/gaz (Shin-Etsu, Entegris, Air Liquide). La hiérarchie 2026 tient et s'enrichit d'une
+> **couche transverse hors-compute** : **(1)** duopole EDA (Synopsys 8) + son analogue « confiance » la **sécurité (Thales 6)** ; **(2)** HBM/DRAM mal-aimée (SK Hynix, Micron 8) ; **(3)** dérivées énergie
+> (ET 8, EQT/EXE 6, Nexans 7, Centrus 6) ; **(4)** verrous WFE/matériaux/**pureté (Shin-Etsu/SUMCO/Entegris 5)** ; **(5)** value de couverture — **réseau (Cisco 5)**, **sécurité (Fortinet 5)**, design
+> (AECOM 6), interconnect, péage mémoire. Le **fil rouge v15** : *la couche hors-compute n'offre de décote que là où une **étiquette sectorielle** masque le rôle IA (Thales « défense », Shin-Etsu/SUMCO
+> « semis japonais », Cisco « réseau ex-croissance ») ; partout où le titre est déjà « pure-play IA » (Arista, Entegris, CrowdStrike, Trane) le marché paie la perfection ; et on fuit la **douve qui
+> rétrécit** — le chiller à air face au liquide.*
+
+### 20.4 — Lien avec le portefeuille & candidats réalistes (Euronext) — vue v15
+Pour *ce* compte (~1 068 €, eToro/Euronext), la v15 est **la meilleure édition côté Euronext depuis longtemps** : elle sort **un vrai pure-play coté Paris en cœur de thèse — Thales (HO.PA)** — alors que
+les v12–v14 n'en proposaient aucun. Les autres nouveautés (Shin-Etsu, SUMCO, Daikin, Munters, Cisco, Fortinet) sont des grands/mid caps accessibles eToro.
+
+1. **Thales (HO.PA)** — ★ **nouvelle idée Euronext en cœur de thèse (indice 6)** : la **sécurité HSM/confidential computing** est une douve extrême *cotée à Paris à ~20× fwd* parce que le marché la
+   price en « défense ». **Candidate sérieuse de rotation/ajout** pour un compte Euronext — le meilleur couple douve×accès×décote de l'édition. ⚠️ *cyclicité budgets défense, lecture « conglomérat ».*
+2. **Schneider (SU.PA)** *(détenue)* — **maintenu** : cœur power+cooling ; la bascule liquid-cooling est neutre nette (positionné sur les deux) ; le wafer tendu valide les fabs.
+3. **Air Liquide (AI.PA)** *(détenue)* — **maintenu 6, conviction ↑** : le **wafer 300 mm AI-grade tendu** (Shin-Etsu/SUMCO) + CapEx TSMC = consommation gaz/chimie soutenue.
+4. **STMicro (STM.PA)** *(détenue)* — **maintenu 5** : power/analog ; pas de fait nouveau v15.
+5. **Nexans (NEX.PA)** — **top pick EU câbles HV maintenu (7, biais ↑)** ; **Legrand (LR.PA)** — maintenu (busways/PDU, contenu cuivre).
+6. *(Watchlist hors-Euronext, nouveautés v15 accessibles eToro, par ordre d'intérêt)* :
+   - **Cisco (CSCO, 5)** — la **« pelle réseau » la moins chère** (~17× fwd, 9 Md$ de commandes IA FY26) — réplique de Dell côté serveur ;
+   - **Fortinet (FTNT, 5)** — le **cyber value rentable** (½ de Palo Alto, douve ASIC) ;
+   - **Shin-Etsu (4063.T, 5)** — le **duopole wafer** au multiple « Japon cyclique » (net cash) ; **SUMCO (3436.T, 5)** — le pure-play wafer AI-grade (plus volatil) ;
+   - **Entegris (ENTG, 5)** — la **filtration/pureté** consommée à chaque wafer (douve à payer) ;
+   - **Munters (MTRS.ST, 5)** — le **pure-play AHU haute densité** (complément du liquide, peu crowded) ; **Daikin (6367.T, 4)** — le froid le moins cher/le plus diversifié.
+7. *(À éviter / sur repli marqué seulement)* **Arista (ANET, 3)** / **Ciena (CIEN, 4)** — *réseau-IA au multiple de perfection, attendre le repli* ; **CrowdStrike (CRWD, 2)** / **Palo Alto (PANW, 3)** —
+   *cyber-perfection pricée* ; **Trane (TT, 4)** / **Johnson Controls (JCI, 4)** — *chiller à air à carnet record mais **douve menacée** par le liquide* ; **Element Solutions (ESI, 4)** — *multiple tendu*.
+
+> **Cohérence inchangée depuis v1 :** *acheter la faiblesse, pas la force* ; *offre contrainte ≠ surcapacité* ; *payer pour la douve, pas pour la perfection* ; *le rôle critique ne garantit pas la
+> sous-évaluation*. La v15 y ajoute la **« géographie de la décote »** : **« la couche *hors-compute* de l'IA (sécuriser, purifier, refroidir le bâtiment, commuter) est non-substituable, mais elle
+> n'offre de **vraie décote** que là où une **étiquette sectorielle** masque le rôle IA — **Thales** payé en “défense” alors qu'il tient la douve HSM la plus collante de la pile (et coté Euronext) ;
+> **Shin-Etsu/SUMCO** payés en “semis japonais cyclique” alors qu'ils sont le duopole du wafer 300 mm ; **Cisco** payé en “réseau ex-croissance” alors qu'il capte 9 Md$ de commandes IA. Partout où
+> l'étiquette est déjà “pure-play IA” (Arista, Entegris, CrowdStrike, Trane), le marché paie la **perfection** — on attend le repli. Et on **fuit la douve qui rétrécit** : le chiller à air, même à
+> carnet record, n'est pas une aubaine quand l'architecture bascule vers le liquide. »**
+
+---
+
 ## Sources
 
 ### v1 (25 mai 2026)
@@ -3216,3 +3406,19 @@ Pour *ce* compte (~1 017 €, eToro/Euronext), la v14 est **plus accessible** qu
 - [Cameco (CCJ) : deal Inde ~2,6 Md$ (22 Mlb sur 9 ans) ; PE ~131× TTM, P/S 22× (vs ~9× moy. 5 ans) — IndexBox / SEC 6-K](https://www.indexbox.io/blog/cameco-stock-nuclear-renaissance-fuel-drives-high-valuation-concerns/)
 - [BWX Technologies (BWXT) : carnet 7,3 Md$ (+50 %), TRISO/Project Pele microréacteur, HALEU ; fwd P/E ~42–43× (cap. ~18,7 Md$) — stockanalysis / Motley Fool](https://stockanalysis.com/stocks/bwxt/statistics/)
 - [Oklo vs NuScale : OKLO pré-revenu (estimations -8 % 26e / -16 % 27e), NuScale seul design NRC (+63 % 26e) ; ASP Isotopes/Quantum Leap (ASP/QE) — angle HALEU émergent — Motley Fool / SEC 8-K](https://www.fool.com/investing/2026/05/29/nuclear-stock-face-off-is-oklo-or-nuscale-power/)
+
+### v15 (6 juin 2026 — « le gardien, le filtre, le froid du bâtiment & le commutateur » : sécurité/HSM/confidential computing, matériaux & pureté/wafer 300 mm, chillers & air-handling DC, switching réseau IA & DCI optique + réévaluation des indices v3→v14)
+- [Thales (HO.PA) : fwd P/E ~20× / TTM ~28×, consensus ~290 € (+21 %), Digital Identity & Security 17,4 % du CA (HSM Luna, CipherTrust) — Yahoo Finance / MarketScreener](https://finance.yahoo.com/quote/HO.PA/key-statistics/)
+- [Thales HSM & confidential computing : Luna network HSM (clés non-extractibles, FIPS 140-3), partenariat HPE GreenLake — PQC, AI security, confidential computing — Thales CPL](https://cpl.thalesgroup.com/encryption/hardware-security-modules)
+- [Marché HSM : ~4,28 Md$ d'ici 2032, CAGR 13,8 % (2026-2032), acteurs Thales/Entrust/Utimaco — OpenPR](https://www.openpr.com/news/4512215/hardware-security-modules-market-growing-at-13-8-cagr-thales)
+- [Cyber forward P/E 2026 : CrowdStrike ~90–93× NTM, Palo Alto ~50× NTM, Zscaler ~35× ; Fortinet ~40–42× (½ de Palo Alto), croissance +20 %, douve ASIC propres — TIKR / techi.com / ainvest](https://www.tikr.com/blog/crowdstrike-vs-palo-alto-networks-which-cybersecurity-leader-deserves-a-premium-valuation)
+- [Entegris (ENTG) : filtration/contamination-control + CMP slurry/pads + matériaux de dépôt ; fwd P/E ~38× (médiane semis ~36×) — GuruFocus / SEC 8-K](https://www.gurufocus.com/term/forward-pe-ratio/ENTG)
+- [Wafer 300 mm : duopole Shin-Etsu (~28 %) / SUMCO (~23 %) ~51 %, top-5 ~80 % ; SUMCO arrête le 200 mm (Miyazaki) pour le 300 mm « AI-grade » ; GlobalWafers Phase 2 Sherman (7,5 Md$) — Private Markets News](https://privatemarketsnews.substack.com/p/the-silicon-wafers-that-two-companies)
+- [Element Solutions (ESI) : Q1-26 CA 840 M$ (+18 % vs est.), Circuitry +17 % org. (server boards high-layer-count), Semi +18 % org. ; P/E ~50× ; guide EBITDA 665-685 M$ — Investing.com / TIKR](https://www.investing.com/news/company-news/element-solutions-q1-2026-slides-electronics-surge-drives-guidance-raise-93CH-4645569)
+- [Cooling DC : Vertiv ~75 % CA data center (pure-play liquide), Johnson Controls low-double-digit, Trane ~10 % ; chillers à air vulnérables à la bascule liquid-cooling (propos Nvidia/CES) — Yahoo Finance / Seeking Alpha](https://finance.yahoo.com/news/nvidia-disrupting-hvac-johnson-controls-142410778.html)
+- [Trane Technologies (TT) : P/E ~37,7× (vs moy. 5 ans ~27-29×), carnet record 10,7 Md$ (+30 %), acq. Stellar Energy (~1 Md$ backlog DC), EPS 2026 ~14,75-14,95 $ — TIKR / Investing.com](https://www.tikr.com/blog/trane-technologies-stock-is-up-17-in-2026-can-it-continue-climbing)
+- [Johnson Controls (JCI) : commandes +30 %, carnet record 20 Md$ (force data centers) ; Daikin (6367.T) fwd P/E ~23-24×, biz DC NA ×3 d'ici 2030, R&D 163 M$ — SEC 8-K / stockanalysis](https://stockanalysis.com/quote/tyo/6367/statistics/)
+- [Munters (MTRS.ST) : pure-play AHU/humidité, chiller nouvelle génération jusqu'à 3 MW pour DC haute densité — Munters](https://www.munters.com/en-us/news-media/stories/2026/munters-grows-data-center-cooling-offering-as-ai-drives-demand-for-next-generation-thermal-solutions/)
+- [Arista Networks (ANET) : cible AI revenue doublée à 3,25 Md$ 2026, CA Q1-26 2,709 Md$ (+35 %), deferred ~4,69 Md$, guide 2026 ~11,25 Md$ ; fwd P/E ~48× — TIKR / SEC 8-K](https://www.tikr.com/blog/arista-networks-stock-fell-12-57-after-a-q1-2026-beat-heres-what-a-350-target-means-for-investors)
+- [Ciena (CIEN) : DCI « scale-across » (campus en super-ordinateur virtuel), WaveLogic 6, demande DCI ×6 d'ici 2027, CA FY25 +19 % ; fwd P/E ~48× — Seeking Alpha / FinancialContent](https://seekingalpha.com/article/4864822-ciena-riding-the-second-wave-of-ai-infrastructure-growth)
+- [Cisco (CSCO) : commandes infra-IA FY26 relevées à ~9 Md$ (de 5), 5,3 Md$ pris au T3-26 YTD, Silicon One + alliance Nvidia ; fwd P/E ~16-17× — Motley Fool / 24-7 Wall St.](https://www.fool.com/earnings/call-transcripts/2026/05/14/cisco-csco-q3-2026-earnings-transcript/)
