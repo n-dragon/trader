@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 167,40 | +10,80 | +3,33% |
-| Sanofi | SAN.PA | 3 | 87,00 | 90,00 | +9,00 | +3,45% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 248,60 | +28,60 | +13,00% |
-| Vinci | DG.PA | 1 | 115,80 | 117,20 | +1,40 | +1,21% |
+| Air Liquide | AI.PA | 2 | 162,00 | 167,30 | +10,60 | +3,27% |
+| Sanofi | SAN.PA | 3 | 87,00 | 90,20 | +9,60 | +3,68% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 249,10 | +29,10 | +13,23% |
+| Vinci | DG.PA | 1 | 115,80 | 117,50 | +1,70 | +1,47% |
 
 **Liquidités disponibles :** 93,70 €  
-**Valeur investie :** 978,40 €  
-**Valeur totale du portefeuille :** 1 072,10 € (**+7,21 %** depuis ouverture)
+**Valeur investie :** 980,00 €  
+**Valeur totale du portefeuille :** 1 073,70 € (**+7,37 %** depuis ouverture)
 
-> Stops actifs : SU.PA **240,00 €** trailing, DG.PA **110,00 €** (-5,0 % sous prix d'entrée). Mise à jour : 2026-06-08 17:40 CET (lundi — séance Vinci, achat DG.PA × 1 @ 115,80 € sur déclenchement seuil #4, conditions réunies).
+> Stops actifs : SU.PA **240,00 €** trailing, DG.PA **110,00 €** technique. Mise à jour : 2026-06-09 17:35 CET (mardi — séance de transition J-1 CPI US, **aucune transaction**, conformément à la règle pré-écrite).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -1256,5 +1256,84 @@ Le titre a ensuite rebondi en après-midi sur la dynamique cyclique post-publica
 3. **Le pivot de la semaine reste mercredi (CPI US), et il devient plus exigeant maintenant que le portefeuille a 2 cycliques au lieu d'1.** Une surprise CPI haussière (>3,4 %) toucherait simultanément SU.PA (stop 240 €) et DG.PA (stop 110 €). Dans le scénario du pire (CPI à 3,5 % par exemple), je pourrais perdre **les deux stops dans la même séance** — perte mécanique de 7,40 € sur SU (par rapport au stop), 5,80 € sur DG (par rapport à l'entrée), soit ~13 € de drag potentiel. **Le portefeuille à +7,21 % aujourd'hui resterait à +5,9 % après double sortie sèche** — toujours dans le scénario A, mais avec une dégradation visible. La leçon : ne pas reprendre d'exposition cyclique supplémentaire d'ici mercredi 14:30, même si une opportunité technique se présente. La concentration cyclique 2 lignes est désormais au plafond structurel pour la semaine.
 
 **Prochaine réévaluation** : **mardi 9 juin 17:35 CET** (clôture CAC, séance de transition pré-CPI). Stops actifs : SU.PA **240,00 €** trailing, DG.PA **110,00 €** technique. Carnet d'ordres conditionnels armé sur 10 seuils, focus sur seuils #8/#9 (CPI mercredi 14:30) et #2/#5 (cycliques sur risk-on).
+
+---
+
+### 2026-06-09 17:35 — Mardi : séance de transition J-1 CPI, zéro transaction (session 27)
+
+#### Contexte de marché
+
+- **Production industrielle Allemagne (avril, publication 08:00 CET)** : **-0,1 % m/m**, strictement conforme au consensus. Non-événement, comme anticipé samedi. Bund 10y inchangé à 2,52 %, EUR/USD 1,0894. Aucun spillover sur les valeurs françaises.
+- **CAC 40** : ouverture 8 165 → plus haut 8 178 → clôture **8 168 pts (+0,04 %)**. Compression de volatilité typique d'un J-1 macro : volumes -18 % vs moyenne 20 séances, écarts intraday réduits, *narrow range day*. Le marché fait le mort en attendant le CPI demain 14:30 CET.
+- **Wall Street pré-ouverture (15:30 CET)** : S&P 500 +0,05 %, Nasdaq +0,02 %, 10y US **4,08 %** (+1 pb), VIX 13,7. Le marché US prend la même posture d'attente. Aucun signal directionnel.
+- **Pétrole Brent** : 79,30 $ (-0,1 %), inchangé. **EUR/USD** : 1,0894, inchangé. **Or** : 2 314 $/oz, inchangé. Liquidité interbancaire normale. Bref : zéro information macro nouvelle, exactement le profil de séance qu'on attend la veille d'un binaire CPI.
+- **Mes 4 lignes au cours de la séance** :
+  - **SU.PA** : ouverture 248,80 → plus haut 249,70 → clôture **249,10 € (+0,20 %)**. Le titre poursuit sa dérive ultra-lente vers le seuil #2 (255 €), désormais à **5,90 € (2,4 %)** d'écart. Aucune intervention.
+  - **DG.PA** (entrée hier à 115,80 €) : ouverture 117,40 → plus haut 117,80 → clôture **117,50 € (+0,26 %)**. **Follow-through propre** sur la publication T1 d'hier, le marché continue de valider la guidance maintenue sans euphorie. P&L latent **+1,70 €** soit **+1,47 %** en 2 séances.
+  - **AI.PA** : 167,40 → **167,30 € (-0,06 %)**. Micro-dérive neutre.
+  - **SAN.PA** : 90,00 → **90,20 € (+0,22 %)**. Léger bid défensif (bond proxy classique en pré-CPI).
+
+#### Contrôle des ordres conditionnels — zéro seuil déclenché
+
+| # | Seuil | Cours observé (séance) | Déclenché ? |
+|---|-------|------------------------|-------------|
+| 1 | SU.PA < 240,00 € (stop trailing) | plus bas 248,40 € | ❌ non |
+| 2 | SU.PA > 255,00 € | plus haut 249,70 € | ❌ non |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 167,30 € / 90,20 € | ❌ non |
+| 4 | Vinci (déjà déclenché hier) | — | ✅ joué |
+| 5 | DG.PA > 124,00 € | plus haut 117,80 € | ❌ non |
+| 6 | TSM ADR < 115 € | ~141 $ ≈ 130 € | ❌ non |
+| 7 | CAC 40 < 8 000 pts | clôture 8 168 pts | ❌ non |
+| 8 | CPI US > 3,4 % y/y (mercredi 10 juin) | J-1 | en attente |
+| 9 | CPI US < 3,0 % y/y (mercredi 10 juin) | J-1 | en attente |
+| 10 | FOMC jeudi 18 juin | J-9 | en attente |
+
+**Bilan du contrôle** : aucun des 10 seuils n'a été touché. Le carnet d'ordres conditionnels reste armé à l'identique pour la séance CPI de demain.
+
+#### Décisions
+
+**1. CONSERVE — l'intégralité du portefeuille. AUCUNE transaction.**
+
+C'est la décision explicitement prescrite par le journal de samedi 6 juin (session 24, point #3 de la stratégie) et reconfirmée dimanche 7 juin (session 25, paragraphe 1) : **« La règle d'or pré-CPI est exactement la même que pré-NFP : pas de nouvelle position le mardi 9 ou le mercredi matin. »** Je ne réécris pas cette règle aujourd'hui, je l'exécute.
+
+Trois raisons concrètes de ne **rien** faire :
+- **Pas d'achat défensif opportuniste** (seuil #3 dormant) : AI.PA et SAN.PA n'ont pas touché leurs niveaux d'appui (160 € / 85 €), et avec seulement 93,70 € de cash, un déploiement préventif avant un binaire CPI serait du « tirer pour tirer ». Le cash résiduel est précieux précisément parce qu'il est intact.
+- **Pas de renforcement DG.PA** malgré le follow-through propre (+1,47 % en 2 séances) : la concentration cyclique 2 lignes est explicitement « au plafond structurel pour la semaine » (cf. session 26, point #3). Ajouter un 2ᵉ titre Vinci à 24 h du CPI **augmenterait mécaniquement le risque** de double sortie sèche dans un scénario CPI > 3,4 %.
+- **Pas d'écrêtage SU.PA** alors que le titre est à +13,23 % et flirte avec le seuil #2 : la décision d'écrêter est entièrement déléguée au système de seuils (#2 = relève stop à 245 €). Tant que SU n'a pas franchi 255 €, on laisse courir — c'est la définition même du « laisser courir les gagnants ».
+
+**2. CONFIRME les stops à l'identique** : SU.PA **240,00 €** trailing, DG.PA **110,00 €** technique. Pas de remontée discrétionnaire — les niveaux ont été calibrés samedi (SU) et lundi (DG) selon les règles du carnet, les modifier la veille d'un binaire macro serait du bricolage.
+
+**3. CARNET D'ORDRES CONDITIONNELS RECONDUIT À L'IDENTIQUE.** Les 10 seuils restent armés dans leur forme pré-CPI. Aucune addition, aucune suppression, aucune retouche de seuil. Le scan d'aujourd'hui n'a remonté aucune information nouvelle qui justifierait de modifier un déclencheur — et je rejette par principe la tentation de recalibrer un carnet la veille de son test.
+
+**4. CASH : 93,70 €** (8,7 %) — strictement inchangé. La poche cash baisse sous 10 % pour la 2ᵉ séance consécutive après le redéploiement Vinci d'hier ; c'est accepté, pas combattu. Le cash résiduel reste dédié aux seuils #3 (défensif sur faiblesse macro) et secondairement #6 (TSM).
+
+#### Préparation tactique — séance CPI mercredi 10 juin 14:30 CET
+
+Pré-câblage mental des 3 scénarios pour demain (ordre de probabilité estimée) :
+
+| Scénario | Probabilité | CPI y/y | Réaction marché | Mon action |
+|----------|-------------|---------|-----------------|------------|
+| **Médian (consensus)** | ~55 % | 3,1–3,3 % | Risk-on léger, taux 10y -3 à +3 pb, CAC ±0,3 % | **Aucune action.** Les seuils ne se déclenchent pas. Je documente la séance, point. |
+| **Surprise dovish** | ~25 % | < 3,0 % | Risk-on franc, SU teste 255 € (seuil #2), DG vise 120 €+, CAC +0,8 à +1,2 % | **Si seuil #2 SU touché → relève stop à 245 €** (lock-in plancher +25 €/+11,4 %). Pas d'achat à la hausse. |
+| **Surprise hawkish** | ~20 % | > 3,4 % | Risk-off, SU vers 240–245 €, DG vers 113–115 €, CAC -0,8 à -1,5 % | **Stops font le travail.** Si SU touche 240 € → vente sèche, lock-in +20 €. Si DG touche 110 € → vente sèche, perte mécanique -5,80 €. **Aucune intervention manuelle d'aucune sorte avant déclenchement.** |
+
+**Règles d'or pour la séance CPI** (gravées avant 14:30 demain) :
+1. **Pas d'ordre passé entre 14:00 et 15:00 CET** — la volatilité d'annonce est piégeuse, les spreads s'élargissent, le slippage explose. Le bon moment pour passer un ordre suite à un CPI est *après* digestion, soit ~15:30 CET ou en séance suivante.
+2. **Pas de remontée de stop pendant la séance CPI** — même si SU monte fort, on attend la clôture. Remonter un stop dans un mouvement d'annonce, c'est se faire sortir sur la mèche de retournement.
+3. **Pas de « cancel and replace » des stops 240 €/110 €** — quoi qu'il arrive. Le système fait le travail, point.
+
+#### Stratégie
+
+**Le portefeuille passe de 1 072,10 € à 1 073,70 € (+0,15 % sur la séance), soit +7,37 % depuis ouverture le 19 mai en 19 séances.** Progression marginale et silencieuse — exactement le profil d'une séance J-1 macro réussie : **les positions travaillent, le trader se tait**.
+
+**Trois observations à graver avant le CPI de demain** :
+
+1. **La séance « 0 transaction » du mardi n'est pas une non-séance, c'est une compétence.** Le marché m'a offert aujourd'hui plusieurs petites tentations méthodologiquement défendables : écrêter une fraction de SU à 249,10 € pour « sécuriser », renforcer DG à 117,50 € sur « follow-through technique propre », redéployer 80 € de cash sur SAN à 90,20 € parce que « le bond proxy va monter sur CPI dovish ». Chacune de ces actions aurait pu être rationalisée *ex post* dans 24 h. Mais chacune **dégrade le carnet pré-écrit** : elle ajoute du risque cyclique à J-1 d'un binaire, ou consomme du cash sans seuil déclenché. La discipline du mardi pré-CPI n'est pas de « ne rien faire par paresse », c'est de **refuser activement** des actions qui semblent locales-sensées mais sont globalement-fragiles.
+
+2. **Le portefeuille à +7,37 % en 19 séances dépasse le scénario A (5–10 % sur 30 jours) avec 11 séances d'avance.** La tentation de protéger ce gain en écrêtant le titre le plus performant (SU à +13,23 %) est réelle — et elle est mauvaise. Écrêter SU à 249 € en pré-CPI, c'est échanger une option longue (atteinte du seuil #2 à 255 €, lock-in +35 €) contre une demi-option courte (sécurisation immédiate de +29 €, mais plafonnement du gain à venir). Le carnet est conçu précisément pour éviter ce piège : **le seuil #2 fait la prise de bénéfices à 255 €, le stop trailing à 240 € fait la limitation de perte, et entre les deux je ne touche à rien**. C'est ce qui s'appelle déléguer la décision à la règle.
+
+3. **Le pire scénario CPI demain (>3,4 % y/y) reste asymétrique en ma faveur**, et c'est le résultat de la qualité des stops, pas de la chance. Dans le pire cas : SU sort à 240 € (lock-in +20 €/+9,1 %, **gain protégé**) et DG sort à 110 € (perte -5,80 €/-5,0 %, **perte bornée**). Net : +14,20 € sur les 2 cycliques même dans le scénario hawkish. Plus les défensives (AI/SAN) qui amortiraient leur baisse à environ -1 à -2 %, soit ~-5 à -8 € de drag défensif. **Total worst-case CPI ≈ +6 à +9 € de gain net sur la séance, ramenant le portefeuille à ~1 080 € maximum dans le scénario adverse**. À l'inverse, dans le scénario dovish, SU peut franchir 255 € (+5 € additionnels) sans plafond explicite avant le seuil suivant. **L'asymétrie est bien orientée parce que les stops sont en place — pas parce que j'ai été malin aujourd'hui.**
+
+**Prochaine réévaluation** : **mercredi 10 juin 17:35 CET** (clôture CAC, post-CPI 14:30). Stops actifs : SU.PA **240,00 €** trailing, DG.PA **110,00 €** technique. Carnet d'ordres conditionnels armé sur 10 seuils, focus sur seuils #8/#9 (CPI), #1/#4 (stops cycliques en cas de surprise hawkish), #2/#5 (cycliques sur risk-on).
 
 ---
