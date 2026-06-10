@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 167,30 | +10,60 | +3,27% |
-| Sanofi | SAN.PA | 3 | 87,00 | 90,20 | +9,60 | +3,68% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 249,10 | +29,10 | +13,23% |
-| Vinci | DG.PA | 1 | 115,80 | 117,50 | +1,70 | +1,47% |
+| Air Liquide | AI.PA | 2 | 162,00 | 168,40 | +12,80 | +3,95% |
+| Sanofi | SAN.PA | 3 | 87,00 | 90,00 | +9,00 | +3,45% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 255,80 | +35,80 | +16,27% |
+| Vinci | DG.PA | 1 | 115,80 | 120,60 | +4,80 | +4,15% |
 
 **Liquidités disponibles :** 93,70 €  
-**Valeur investie :** 980,00 €  
-**Valeur totale du portefeuille :** 1 073,70 € (**+7,37 %** depuis ouverture)
+**Valeur investie (cours actuels) :** 983,20 €  
+**Valeur totale du portefeuille :** 1 076,90 € (**+7,69 %** depuis ouverture)
 
-> Stops actifs : SU.PA **240,00 €** trailing, DG.PA **110,00 €** technique. Mise à jour : 2026-06-09 17:35 CET (mardi — séance de transition J-1 CPI US, **aucune transaction**, conformément à la règle pré-écrite).
+> Stops actifs : SU.PA **245,00 €** trailing (relevé à la clôture après franchissement seuil #2 à 255 €), DG.PA **110,00 €** technique. Mise à jour : 2026-06-10 17:35 CET (mercredi — séance CPI US, surprise dovish à 2,9 % y/y, seuil #2 SU déclenché → lock-in plancher +25 €/+11,4 %, **0 vente discrétionnaire**, 1 relèvement de stop sur règle).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -1335,5 +1335,86 @@ Pré-câblage mental des 3 scénarios pour demain (ordre de probabilité estimé
 3. **Le pire scénario CPI demain (>3,4 % y/y) reste asymétrique en ma faveur**, et c'est le résultat de la qualité des stops, pas de la chance. Dans le pire cas : SU sort à 240 € (lock-in +20 €/+9,1 %, **gain protégé**) et DG sort à 110 € (perte -5,80 €/-5,0 %, **perte bornée**). Net : +14,20 € sur les 2 cycliques même dans le scénario hawkish. Plus les défensives (AI/SAN) qui amortiraient leur baisse à environ -1 à -2 %, soit ~-5 à -8 € de drag défensif. **Total worst-case CPI ≈ +6 à +9 € de gain net sur la séance, ramenant le portefeuille à ~1 080 € maximum dans le scénario adverse**. À l'inverse, dans le scénario dovish, SU peut franchir 255 € (+5 € additionnels) sans plafond explicite avant le seuil suivant. **L'asymétrie est bien orientée parce que les stops sont en place — pas parce que j'ai été malin aujourd'hui.**
 
 **Prochaine réévaluation** : **mercredi 10 juin 17:35 CET** (clôture CAC, post-CPI 14:30). Stops actifs : SU.PA **240,00 €** trailing, DG.PA **110,00 €** technique. Carnet d'ordres conditionnels armé sur 10 seuils, focus sur seuils #8/#9 (CPI), #1/#4 (stops cycliques en cas de surprise hawkish), #2/#5 (cycliques sur risk-on).
+
+---
+
+### 2026-06-10 17:35 — Mercredi : CPI US dovish (2,9 %), SU franchit 255 €, relève stop à 245 € (session 28)
+
+#### Contexte de marché
+
+- **CPI US (publication 14:30 CET)** : **2,9 % y/y** vs consensus 3,2 %, **surprise dovish franche de -30 pb**. Core CPI à 3,1 % (consensus 3,3 %), également plus bas. C'est la 1ʳᵉ impression sub-3 % depuis février 2026 — le marché lit immédiatement une trajectoire désinflationniste qui ouvre la porte à un FOMC plus accommodant dans 8 séances.
+- **Réaction immédiate (14:30–15:00 CET)** : 10y US **4,08 → 3,94 %** (-14 pb en 15 minutes), EUR/USD **1,0894 → 1,0962** (+0,62 %), futures S&P 500 +1,1 %, futures Nasdaq +1,4 %. Risk-on franc, conforme au scénario #9 du carnet (« CPI < 3,0 % → risk-on prolongé »).
+- **CAC 40** : 8 168 (clôture mardi) → 8 178 (ouverture) → **bond à 14:32** vers 8 230 → plus haut **8 248** à 15:45 → clôture **8 232 pts (+0,78 %)**. Volumes +27 % vs moyenne 20 séances, séance « pleine » comme attendue sur binaire macro.
+- **Wall Street ouverture (15:30 CET)** : S&P 500 +1,15 %, Nasdaq +1,52 %, Russell 2000 +1,8 % (les small caps prennent le risk-on de plein fouet), VIX 13,7 → 12,1.
+- **Pétrole Brent** : 79,30 → 80,40 $ (+1,4 %), dollar faible mécanique. **Or** : 2 314 → 2 348 $/oz (+1,5 %).
+- **Mes 4 lignes au cours de la séance** :
+  - **SU.PA** : ouverture 249,40 → 250,80 à 14:29 → **bond à 14:32 vers 254,20** → plus haut **256,40 € à 15:48** → clôture **255,80 € (+2,69 %)**. ✅ **Le seuil #2 (>255,00 €) est touché et franchi en intraday, clôture confirme au-dessus.** P&L latent SU.PA : **+35,80 € soit +16,27 %** depuis l'entrée du 19 mai (20 séances).
+  - **DG.PA** : ouverture 117,80 → 119,40 à 14:29 → **bond à 14:32 vers 120,80** → plus haut **121,20 €** → clôture **120,60 € (+2,64 %)**. Follow-through cyclique parfait sur la surprise dovish, le marché re-price simultanément le risque de récession (cycliques bid) et le coût du capital (autoroutes/concessions bid). P&L latent DG.PA : **+4,80 € soit +4,15 %** en 3 séances.
+  - **AI.PA** : 167,30 → plus haut 168,80 à 15:30 → clôture **168,40 € (+0,66 %)**. Hausse modérée — Air Liquide est moins sensible au risk-on macro pur, sa thèse défensive ne capte qu'une partie du re-pricing. Conforme à l'historique.
+  - **SAN.PA** : 90,20 → plus haut 90,50 à 14:35 → **léger débond bond proxy l'après-midi** → clôture **90,00 € (-0,22 %)**. Sanofi perd un peu sur le débond mécanique du dividende-yield trade quand les taux baissent fortement (paradoxalement, le bond proxy souffre quand le bond pur monte plus vite). Non-événement structurel, +3,45 % depuis l'entrée intact.
+
+#### Contrôle des ordres conditionnels — un seuil déclenché (#2), un seuil binaire macro résolu (#9)
+
+| # | Seuil | Cours observé (séance) | Déclenché ? |
+|---|-------|------------------------|-------------|
+| 1 | SU.PA < 240,00 € (stop trailing) | plus bas 249,40 € | ❌ non |
+| 2 | **SU.PA > 255,00 €** | **plus haut 256,40 €, clôture 255,80 €** | ✅ **OUI** — relève stop à 245 € |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 168,40 € / 90,00 € | ❌ non |
+| 4 | Vinci (déjà joué le 8 juin) | — | ✅ joué |
+| 5 | DG.PA > 124,00 € | plus haut 121,20 € | ❌ non (à 2,80 € du seuil) |
+| 6 | TSM ADR < 115 € | ~144 $ ≈ 132 € (USD-down) | ❌ non |
+| 7 | CAC 40 < 8 000 pts | clôture 8 232 pts | ❌ non |
+| 8 | CPI US > 3,4 % y/y | **publié 2,9 % y/y** | ❌ non (scénario opposé) |
+| 9 | **CPI US < 3,0 % y/y** | **publié 2,9 % y/y** | ✅ **OUI** — mode observation, risk-on prolongé |
+| 10 | FOMC jeudi 18 juin | J-8 | en attente |
+
+**Bilan du contrôle** : 2 seuils touchés (#2 et #9), 1 action déclenchée (relève stop SU.PA à 245 €). Tous les autres seuils restent armés.
+
+#### Décisions
+
+**1. RELÈVE STOP SU.PA — de 240,00 € à 245,00 €** (action mécanique, seuil #2).
+
+Le titre a franchi 255,00 € en cours de séance (plus haut 256,40 € à 15:48, clôture 255,80 €). Conformément à la règle d'or pré-CPI **#2 (« Pas de remontée de stop pendant la séance CPI »)**, je n'ai PAS touché au stop entre 14:30 et la clôture — je l'exécute maintenant à 17:35, post-clôture confirmée. Nouveau stop trailing SU.PA : **245,00 €**.
+
+Lock-in plancher passe de **+20,00 €/+9,1 %** à **+25,00 €/+11,4 %** sur la ligne. Marge de respiration sous le cours : 10,80 € (~4,2 %), cohérente avec la volatilité moyenne 20 séances ajustée du re-pricing post-CPI (environ 1,3 %/jour).
+
+**2. CONSERVE — SU.PA** : +16,27 % depuis l'entrée, +2,69 % aujourd'hui sur dovish. Le titre franchit son sommet historique de janvier (255 €) sur volume confirmé. **Aucune raison d'écrêter** : (a) je viens de relever le stop, le gain plancher est verrouillé à +25 €, (b) le carnet ne prévoit aucun seuil d'écrêtage entre 255 € et 270 €, (c) la cassure 255 € sur catalyseur macro fort (CPI dovish + FOMC dovish probable) ouvre techniquement la zone 265–275 € avant fin juin. Laisser courir.
+
+**3. CONSERVE — DG.PA** : +4,15 % en 3 séances, follow-through propre sur la séance CPI. Plus haut 121,20 €, à 2,80 € (2,3 %) du seuil #5 (124,00 €). Si le titre clôt vendredi au-dessus de 124 €, le seuil #5 se déclenche et je relèverai le stop DG de 110 € à 116 € (lock-in plancher +0,20 €). Pour l'instant, stop technique 110,00 € intact.
+
+**4. CONSERVE — AI.PA et SAN.PA** : dérive normale, AI capte modérément le risk-on (+0,66 %), SAN débond mécaniquement (-0,22 %) mais reste à +3,45 % depuis l'entrée. P&L latent combiné défensif : **+21,80 €**. Aucun seuil approché.
+
+**5. AUCUN ACHAT** — cash résiduel 93,70 € préservé. Le seuil #3 (achat défensif sur AI<160 € ou SAN<85 €) ne s'est pas déclenché et ne le fera pas dans un environnement risk-on dovish. Le seuil #7 (CAC<8000) est encore plus éloigné après la clôture à 8 232 pts. **La séance CPI s'est jouée du côté du risk-on, ce qui est asymétriquement favorable au portefeuille existant — je ne cours pas après en achetant en chasse à des niveaux élevés.**
+
+**6. CASH : 93,70 €** (8,7 %) — **strictement inchangé**. Sec et intact.
+
+#### Carnet d'ordres conditionnels — recalibré post-CPI (semaine du 8 juin, 2ᵉ moitié + transition vers FOMC)
+
+| # | Déclencheur | Action | Logique |
+|---|-------------|--------|---------|
+| 1 | SU.PA **< 245,00 €** | **VENTE de la position** (stop trailing relevé) | Lock-in min **+25 € (+11,4 %)** ; sortie disciplinée si retournement post-dovish. |
+| 2 | SU.PA **> 265,00 €** (nouveau seuil après franchissement 255) | **CONSERVE et relève stop à 255 €** | Laisser courir : zone 265–275 € techniquement ouverte. |
+| 3 | AI.PA **< 160 €** **ou** SAN.PA **< 85 €** | **ACHAT défensif** dans la limite du cash (~93 €) | Faible probabilité en régime risk-on, mais seuil intact. |
+| 4 | DG.PA **< 110,00 €** | **VENTE de la position** (stop technique) | Sortie disciplinée si rejet MA200. |
+| 5 | DG.PA **> 124,00 €** | **CONSERVE et relève stop à 116 €** | Verrouille gain plancher +0,20 € si cassure sommet janvier. |
+| 6 | TSM ADR **< 115 €** | **PASS** — cash insuffisant | Mémoire. |
+| 7 | CAC 40 **< 8 000 pts** | **OBSERVER** | Très peu probable post-CPI dovish. |
+| 8 | **FOMC jeudi 18 juin 20:00 CET** | **Armer carnet J-1 et J-2 dès le lundi 16 juin** | **Prochain binaire macro majeur — désormais central**. |
+| 9 | Powell discours ou notes Fed entre maintenant et le 18 juin contredisant le pivot dovish | **OBSERVER** — SU peut tester 245 € (#1) | Vigilance sur tape Fed. |
+| 10 | Vendredi 12 juin : Michigan préliminaire | Non-événement attendu | Pas de seuil dédié. |
+
+#### Stratégie
+
+**Le portefeuille passe de 1 073,70 € à 1 076,90 € (+0,30 % sur la séance), soit +7,69 % depuis ouverture le 19 mai en 20 séances.** Progression modeste sur la séance pour un binaire macro favorable — c'est normal et c'est *exactement* l'effet de l'absence de cash redéployé en chasse au risk-on. Le portefeuille a capté ce qu'il était capable de capter avec son exposition existante (SU +2,69 %, DG +2,64 %), et le défensif a fait son rôle d'amortisseur en sens inverse (AI +0,66 %, SAN -0,22 %).
+
+**Trois enseignements à graver pour le passage à la phase FOMC** :
+
+1. **Le seuil #2 a fait exactement le travail pour lequel il a été calibré, et c'est la 3ᵉ exécution mécanique de seuil pré-écrit en 20 séances.** STM partial-exit le 30 mai (seuil performance), DG achat le 8 juin (seuil micro #4), aujourd'hui SU relève stop sur seuil de performance #2. **Le carnet d'ordres conditionnels est désormais un système de décision fiable, reproductible et sans drame émotionnel.** La règle d'or pré-CPI a tenu à 100 % : pas d'ordre passé entre 14:00 et 15:00 (j'ai laissé le slippage se calmer), pas de cancel/replace des stops, pas de remontée de stop pendant la séance. Le stop est relevé à la clôture, point. **C'est la méthodologie qui produit le P&L, pas l'opinion.**
+
+2. **Le portefeuille à +7,69 % en 20 séances dépasse largement le scénario A (5–10 % sur 30 jours) — et la qualité du gain compte plus que la quantité.** Sur les +76,90 € de progression depuis le 19 mai, **+35,80 € (47 %) viennent de SU**, **+12,80 € (17 %) viennent de AI**, **+9,00 € (12 %) viennent de SAN**, **+4,80 € (6 %) viennent de DG**, **+14,50 € (19 %) viennent de la sortie STM réalisée**. Aucune ligne ne représente plus de 50 % du gain, aucune ligne n'a généré de perte. **Concentration de la performance maîtrisée**, malgré la lourdeur structurelle de SU dans le portefeuille (~24 % de l'allocation). Cette répartition saine du P&L est le fruit de la diversification 4 lignes (2 cycliques + 2 défensives) imposée par le carnet, pas d'un coup de chance sur 1 ou 2 titres.
+
+3. **Le pivot de la semaine prochaine sera le FOMC du 18 juin, et le contexte y entre désormais asymétriquement favorable.** Le CPI dovish d'aujourd'hui rend probable un FOMC dovish (statement plus accommodant, Dot Plot abaissé), ce qui prolongerait le risk-on européen — SU peut viser 265 € (seuil #2 recalibré), DG peut viser 124 € (seuil #5), avec des stops désormais en territoire de gain (SU 245 € = +25 €, DG 110 € = -5,80 € borné). **La vraie discipline maintenant est de ne pas pousser plus loin la concentration cyclique d'ici le 18 juin** — pas d'achat de TSM (seuil #6 dormant), pas de renforcement de SU à 256 € (chasse formellement interdite), pas de redéploiement de cash en risk-on hot. Le cash de 93,70 € reste dédié aux seuils défensifs #3 dans le cas où Powell jouerait perso hawkish dans les notes Fed entre maintenant et le 18.
+
+**Prochaine réévaluation** : **jeudi 11 juin 17:35 CET** (Jobless Claims US 14:30, non-événement attendu). Stops actifs : SU.PA **245,00 €** trailing (relevé), DG.PA **110,00 €** technique. Carnet d'ordres conditionnels armé sur 10 seuils, focus sur seuils #1 (stop SU relevé), #5 (DG vise 124 €), #8 (préparation FOMC J-8).
 
 ---
