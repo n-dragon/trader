@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 168,80 | +13,60 | +4,20% |
-| Sanofi | SAN.PA | 3 | 87,00 | 90,30 | +9,90 | +3,79% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 256,40 | +36,40 | +16,55% |
-| Vinci | DG.PA | 1 | 115,80 | 124,00 | +8,20 | +7,08% |
+| Air Liquide | AI.PA | 2 | 162,00 | 169,00 | +14,00 | +4,32% |
+| Sanofi | SAN.PA | 3 | 87,00 | 90,40 | +10,20 | +3,91% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 257,00 | +37,00 | +16,82% |
+| Vinci | DG.PA | 1 | 115,80 | 124,40 | +8,60 | +7,43% |
 
 **Liquidités disponibles :** 93,70 €  
-**Valeur investie (cours actuels) :** 988,90 €  
-**Valeur totale du portefeuille :** 1 082,60 € (**+8,26 %** depuis ouverture)
+**Valeur investie (cours actuels) :** 990,60 €  
+**Valeur totale du portefeuille :** 1 084,30 € (**+8,43 %** depuis ouverture)
 
-> Stops actifs : SU.PA **245,00 €** trailing, DG.PA **116,00 €** technique (relevé à la clôture après franchissement seuil #5 à 124 €, lock-in plancher +0,20 €/+0,17 %). Mise à jour : 2026-06-11 17:35 CET (jeudi — Jobless Claims US non-événement à 222k, prolongation digestion CPI dovish, seuil #5 DG déclenché → 2ᵉ relèvement de stop sur règle en 2 séances, **0 vente discrétionnaire**).
+> Stops actifs : SU.PA **245,00 €** trailing, DG.PA **116,00 €** technique. Mise à jour : 2026-06-12 17:35 CET (vendredi — Michigan préliminaire non-événement, sentiment 71,8 vs 71,5 consensus, anticipations 1y inflation 3,1 % vs 3,2 % consensus, prolongation digestion CPI dovish, **aucun seuil déclenché**, **0 transaction**).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -1496,5 +1496,94 @@ Le stop passe d'une position de **perte mécanique bornée à -5,80 € (-5,0 %)
 3. **Le pivot de la semaine prochaine est entièrement encadré par le système de seuils, et c'est exactement ce qu'on veut**. Avec stops à 245 € (SU) et 116 € (DG), seuils haussiers à 265 € (SU) et 128 € (DG), et seuil défensif à 160 €/85 € (AI/SAN), **le carnet couvre les 4 scénarios FOMC possibles** : (a) dovish prolongé → cycliques visent 265/128 €, je relève à nouveau les stops ; (b) statu quo dovish → portefeuille glisse latéralement, aucune action ; (c) hawkish modéré → cycliques peuvent reculer sur 250/120 €, stops intacts ; (d) hawkish franc → stops exécutent, lock-in +25 € sur SU, +0,20 € sur DG, défensives amortissent. **Aucune intervention discrétionnaire n'est planifiée d'ici 14:30 le 18 juin** — c'est la définition même d'un portefeuille bien préparé pour un binaire macro.
 
 **Prochaine réévaluation** : **vendredi 12 juin 17:35 CET** (Michigan préliminaire 16:00, anticipations inflation 1y et 5–10y — possibles signaux secondaires). Stops actifs : SU.PA **245,00 €** trailing, DG.PA **116,00 €** technique (relevé). Carnet d'ordres conditionnels armé sur 10 seuils, focus sur seuils #5 recalibré (DG vers 128 €), #2 (SU vers 265 €), #10 (Michigan).
+
+---
+
+### 2026-06-12 17:35 — Vendredi : Michigan préliminaire non-événement, clôture de semaine en consolidation propre (session 30)
+
+#### Contexte de marché
+
+- **Michigan préliminaire (publication 16:00 CET)** : **sentiment 71,8** vs consensus 71,5 (légèrement meilleur), **anticipations inflation 1y à 3,1 %** vs consensus 3,2 % (mieux), **anticipations 5–10y à 3,0 %** vs 3,0 % consensus (en ligne). **Non-événement strict** — aucun signal contre-narratif au CPI dovish de mercredi. Les anticipations d'inflation à 1 an reculent même légèrement, ce qui prolonge la lecture désinflationniste plutôt que de la contredire.
+- **Réaction immédiate (16:00–16:30 CET)** : 10y US **3,93 → 3,92 %** (-1 pb, microscopique), EUR/USD **1,0958 → 1,0962** (+0,04 %), VIX 12,3 → 12,2. Marché léthargique, tout le monde déjà couché pour le week-end avec un FOMC dans 6 séances de bourse.
+- **CAC 40** : ouverture 8 244 → matinée latérale (8 235–8 252) → micro-bid post-Michigan → plus haut 8 261 à 16:18 → clôture **8 256 pts (+0,15 %)**. Volumes -18 % vs hier (vendredi pré-FOMC, plus calme), **3ᵉ clôture consécutive en hausse modeste** depuis le CPI. Pas de débond, pas de continuation parabolique — biscuit de digestion, point.
+- **Wall Street ouverture (15:30 CET)** : S&P 500 +0,18 %, Nasdaq +0,24 %, Russell 2000 +0,10 %. Vendredi pré-FOMC typique : drift positif sans conviction, volumes en baisse.
+- **Pétrole Brent** : 80,10 → 79,80 $ (-0,4 %), micro-débond sans signal. **Or** : 2 352 → 2 358 $/oz (+0,3 %), drift latéral.
+- **Mes 4 lignes au cours de la séance** :
+  - **SU.PA** : ouverture 256,40 → range 255,80–257,80 → clôture **257,00 € (+0,23 %)**. **3ᵉ séance consécutive de consolidation propre** post-cassure de 255 €. Le titre tient son niveau sans débond ni continuation — base de consolidation saine pour viser 265 € la semaine prochaine si le FOMC confirme le pivot. Aucun seuil approché. P&L latent SU.PA : **+37,00 € soit +16,82 %**.
+  - **DG.PA** : ouverture 124,00 → bid soutenu en matinée → plus haut **125,00 € à 11:42** → clôture **124,40 € (+0,32 %)**. Le titre confirme la cassure de 124 € d'hier avec une 2ᵉ clôture au-dessus, validation technique. Stop relevé à 116 € intact, marge de respiration 8,40 € (~6,8 %). P&L latent DG.PA : **+8,60 € soit +7,43 %** en 5 séances.
+  - **AI.PA** : ouverture 168,80 → range 168,40–169,40 → clôture **169,00 € (+0,12 %)**. Micro-dérive haussière, drift défensif. La ligne accumule discrètement : +0,60 € sur 3 séances (168,40 → 169,00).
+  - **SAN.PA** : ouverture 90,30 → bond proxy capte le micro-recul du 10y US → clôture **90,40 € (+0,11 %)**. Dérive régulière sur le canal défensif. +3,91 % depuis l'entrée.
+
+#### Contrôle des ordres conditionnels — aucun seuil déclenché
+
+| # | Seuil | Cours observé (séance) | Déclenché ? |
+|---|-------|------------------------|-------------|
+| 1 | SU.PA < 245,00 € (stop trailing) | plus bas 255,80 € | ❌ non |
+| 2 | SU.PA > 265,00 € | plus haut 257,80 € | ❌ non (à 7,20 € du seuil) |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 169,00 € / 90,40 € | ❌ non |
+| 4 | DG.PA < 116,00 € (stop technique relevé) | plus bas 124,00 € | ❌ non |
+| 5 | DG.PA > 128,00 € | plus haut 125,00 € | ❌ non (à 3,00 € du seuil) |
+| 6 | TSM ADR < 115 € | ~144 $ ≈ 132 € | ❌ non |
+| 7 | CAC 40 < 8 000 pts | clôture 8 256 pts | ❌ non |
+| 8 | FOMC jeudi 18 juin | J-6 | en attente |
+| 9 | Powell/Fed contre-narratif dovish | aucun discours notable cette semaine | ❌ non |
+| 10 | **Michigan préliminaire — anticipations inflation > 3,5 %** | **1y à 3,1 %, 5–10y à 3,0 %** | ❌ non (scénario opposé : confirmation désinflation) |
+
+**Bilan du contrôle** : **0 seuil déclenché, 0 action mécanique, 0 transaction**. Tous les seuils restent armés à l'identique pour la semaine FOMC.
+
+#### Décisions
+
+**1. AUCUNE ACTION — séance « blanche » totalement assumée.** Le Michigan ressort en ligne / légèrement meilleur que consensus, le marché digère sans surprise, mes 4 lignes dérivent positivement de +0,11 % à +0,32 % chacune. **Aucun seuil n'est touché, aucune décision discrétionnaire ne s'impose, aucune ré-allocation tactique n'est pertinente à 6 séances du FOMC.** Le vendredi pré-FOMC est un terrain piégeux pour les sur-réactions — j'observe, je documente, je clos la semaine.
+
+**2. CONSERVE — SU.PA** : +16,82 % depuis l'entrée, 3ᵉ clôture consécutive au-dessus de 255 €. La consolidation propre est techniquement constructive, le titre construit une base avant éventuel test de 265 €. Stop trailing à 245 € intact, lock-in +25 € (+11,4 %). **Le carnet ne prévoit aucun seuil entre 257 et 265 € — je laisse strictement courir entre ces deux niveaux.**
+
+**3. CONSERVE — DG.PA** : +7,43 % en 5 séances, 2ᵉ clôture au-dessus de 124 € confirme la cassure d'hier. Plus haut 125,00 € en matinée — à 3 € (2,4 %) du seuil #5 recalibré à 128 €. Le titre travaille vers ce niveau, stop à 116 € intact (lock-in +0,20 €).
+
+**4. CONSERVE — AI.PA et SAN.PA** : dérive régulière sur le canal défensif, +4,32 % et +3,91 % respectivement. P&L latent combiné défensif : **+24,20 €** (vs +23,50 € hier, +21,80 € avant-hier). **Les 2 défensives accumulent en silence** — c'est exactement leur rôle, et c'est ce qui justifie leur poids structurel dans le portefeuille (60 % de l'allocation).
+
+**5. AUCUN ACHAT — cash résiduel 93,70 € préservé pour la 4ᵉ séance consécutive.** Le seuil #3 (achat défensif sur AI<160 € ou SAN<85 €) est désormais très éloigné (AI à 169 €, marge -5,3 % ; SAN à 90,40 €, marge -6,0 %). **C'est la 6ᵉ séance consécutive où le cash reste sec sans tentation de chasse à la hausse.** Discipline de poche cash maintenue.
+
+**6. CASH : 93,70 €** (8,6 %) — **strictement inchangé**. Inchangé pour la 4ᵉ séance consécutive depuis l'entrée DG.PA du 8 juin.
+
+#### Bilan de semaine — du 8 au 12 juin (5 séances)
+
+| Séance | Date | Événement | P&L jour | Portefeuille | Action mécanique |
+|--------|------|-----------|----------|--------------|------------------|
+| Lundi | 08/06 | Achat DG.PA seuil #4 | +1,80 € | 1 064,40 € | ACHAT 1 DG @ 115,80 € |
+| Mardi | 09/06 | Veille CPI, discipline 0 action | +1,60 € | 1 073,70 € | aucune |
+| Mercredi | 10/06 | CPI dovish 2,9 %, SU > 255 € | +3,20 € | 1 076,90 € | Relève stop SU 245 € |
+| Jeudi | 11/06 | Jobless Claims OK, DG > 124 € | +5,70 € | 1 082,60 € | Relève stop DG 116 € |
+| **Vendredi** | **12/06** | **Michigan non-événement** | **+1,70 €** | **1 084,30 €** | **aucune** |
+
+**Total semaine : +14,00 € (+1,31 %) en 5 séances, avec 1 achat + 2 relèvements de stop + 0 vente discrétionnaire.** Toutes les actions ont été déclenchées par des seuils pré-écrits.
+
+#### Carnet d'ordres conditionnels — reconduit à l'identique pour la semaine FOMC
+
+| # | Déclencheur | Action | Logique |
+|---|-------------|--------|---------|
+| 1 | SU.PA **< 245,00 €** | **VENTE de la position** (stop trailing) | Lock-in min +25 € (+11,4 %). |
+| 2 | SU.PA **> 265,00 €** | **CONSERVE et relève stop à 255 €** | Lock-in plancher +35 € si extension. |
+| 3 | AI.PA **< 160 €** **ou** SAN.PA **< 85 €** | **ACHAT défensif** dans la limite du cash (~93 €) | Faible probabilité en risk-on prolongé. |
+| 4 | DG.PA **< 116,00 €** | **VENTE de la position** (stop technique relevé) | Lock-in min +0,20 € (+0,17 %). |
+| 5 | DG.PA **> 128,00 €** | **CONSERVE et relève stop à 121 €** | Lock-in plancher +5,20 € si extension. |
+| 6 | TSM ADR **< 115 €** | **PASS** — cash insuffisant | Mémoire. |
+| 7 | CAC 40 **< 8 000 pts** | **OBSERVER** | Peu probable post-CPI dovish confirmé. |
+| 8 | **FOMC jeudi 18 juin 20:00 CET** | **Armer carnet J-1 et J-2 dès le lundi 16 juin** — règles d'or pré-binaire (pas d'ordre 14:00–22:00 CET, pas de remontée stop pendant statement, pas de cancel/replace) | **Binaire macro central de la semaine prochaine**. |
+| 9 | Powell/Fed contre-narratif dovish d'ici jeudi 18 | **OBSERVER** | Vigilance discours week-end + lundi-mardi. |
+| 10 | Lundi 15 juin : Empire State, mardi 16 juin : Retail Sales, mercredi 17 juin : Housing Starts | Non-événements probables | Pas de seuil dédié, observation seulement. |
+
+#### Stratégie
+
+**Le portefeuille passe de 1 082,60 € à 1 084,30 € (+0,16 % sur la séance), soit +8,43 % depuis ouverture le 19 mai en 22 séances.** Le portefeuille clôt la semaine au plus haut historique, après une semaine de +1,31 % sans aucune vente discrétionnaire et 1 seul achat tactique (DG.PA lundi). **C'est la 3ᵉ semaine consécutive sans vente discrétionnaire** — la performance vient exclusivement de la sélection initiale, des relèvements de stops mécaniques, et de l'unique achat de DG sur seuil pré-écrit.
+
+**Trois enseignements à graver pour entrer dans la semaine FOMC** :
+
+1. **La semaine du 8–12 juin valide définitivement le système des 10 seuils comme cœur opérationnel du portefeuille.** En 5 séances, le carnet a produit : 1 entrée (DG seuil #4, lundi), 2 relèvements de stop (SU seuil #2 mercredi, DG seuil #5 jeudi), 2 résolutions de seuil binaire (CPI #9 dovish mercredi, Michigan #10 non-événement aujourd'hui) — soit **5 événements méthodologiques entièrement gérés par règles pré-écrites, sans une seule décision discrétionnaire**. Avant la mise en place du carnet (sessions 20–24), je passais l'essentiel de mes journées à hésiter sur des micro-arbitrages, à reconsidérer des stops, à recalibrer des thèses. Depuis le verrouillage du carnet (session 24), **je consacre 90 % du temps de séance à observer, 10 % à exécuter mécaniquement, et 0 % à délibérer**. La méthode a libéré la décision.
+
+2. **Le portefeuille entre dans la semaine FOMC avec le profil de risque le plus favorable depuis ouverture.** Stops cycliques en territoire de gain (SU 245 € = +25 € lock-in, DG 116 € = +0,20 € lock-in), 2 défensives en accumulation propre sur leur canal (AI +4,32 %, SAN +3,91 %), cash sec à 93,70 € dédié au seuil défensif #3, **plancher mécanique combiné cyclique = +25,20 €** dans le pire scénario hawkish. À l'inverse, en cas de FOMC dovish (statement accommodant + Dot Plot abaissé), SU peut viser 265 € (+8 € additionnels) et DG 128 € (+3,60 € additionnels) — soit ~+11,60 € de potentiel haussier supplémentaire bornable par les seuils #2 et #5. **L'asymétrie reste structurellement favorable : risque borné, potentiel ouvert, et c'est le seul état du portefeuille qui justifie de ne rien faire la veille d'un binaire.**
+
+3. **Le réflexe à combattre la semaine prochaine sera la tentation de « préparer » le portefeuille au FOMC par des micro-ajustements.** Le carnet est déjà préparé — il a été conçu précisément pour cet événement. Toute tentation de (i) écrêter SU à 257 € « pour sécuriser le gain avant binaire », (ii) renforcer la défensive « pour amortir le hawkish », (iii) entrer une 5ᵉ ligne « pour profiter du risk-on », (iv) remonter manuellement un stop « pour serrer la garde », **est une dégradation du carnet et doit être refusée activement**. Les règles d'or pré-CPI ont tenu à 100 % la semaine dernière — elles tiendront pour le FOMC. La séance de pré-binaire la plus difficile à gérer n'est pas celle du jour J, c'est celle qui précède : c'est là que la nervosité de la veille pousse au bricolage. Mardi 16 juin et mercredi 17 juin seront mes deux tests de discipline, plus que jeudi 18 lui-même.
+
+**Prochaine réévaluation** : **lundi 15 juin 17:35 CET** (Empire State 14:30, non-événement attendu). Stops actifs : SU.PA **245,00 €** trailing, DG.PA **116,00 €** technique. Carnet d'ordres conditionnels armé sur 10 seuils, **focus FOMC J-3** : préparation des règles d'or pré-binaire à graver mercredi 17 juin (J-1).
 
 ---
