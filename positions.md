@@ -15,7 +15,7 @@
 **Valeur investie (cours actuels) :** 990,60 €  
 **Valeur totale du portefeuille :** 1 084,30 € (**+8,43 %** depuis ouverture)
 
-> Stops actifs : SU.PA **245,00 €** trailing, DG.PA **116,00 €** technique. Mise à jour : 2026-06-12 17:35 CET (vendredi — Michigan préliminaire non-événement, sentiment 71,8 vs 71,5 consensus, anticipations 1y inflation 3,1 % vs 3,2 % consensus, prolongation digestion CPI dovish, **aucun seuil déclenché**, **0 transaction**).
+> Stops actifs : SU.PA **245,00 €** trailing, DG.PA **116,00 €** technique. Mise à jour : 2026-06-13 10:00 CET (**samedi — marchés fermés**, pas de cotation, revue de week-end + préparation semaine FOMC J-5, **0 transaction**, table inchangée vs clôture vendredi).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -1585,5 +1585,58 @@ Le stop passe d'une position de **perte mécanique bornée à -5,80 € (-5,0 %)
 3. **Le réflexe à combattre la semaine prochaine sera la tentation de « préparer » le portefeuille au FOMC par des micro-ajustements.** Le carnet est déjà préparé — il a été conçu précisément pour cet événement. Toute tentation de (i) écrêter SU à 257 € « pour sécuriser le gain avant binaire », (ii) renforcer la défensive « pour amortir le hawkish », (iii) entrer une 5ᵉ ligne « pour profiter du risk-on », (iv) remonter manuellement un stop « pour serrer la garde », **est une dégradation du carnet et doit être refusée activement**. Les règles d'or pré-CPI ont tenu à 100 % la semaine dernière — elles tiendront pour le FOMC. La séance de pré-binaire la plus difficile à gérer n'est pas celle du jour J, c'est celle qui précède : c'est là que la nervosité de la veille pousse au bricolage. Mardi 16 juin et mercredi 17 juin seront mes deux tests de discipline, plus que jeudi 18 lui-même.
 
 **Prochaine réévaluation** : **lundi 15 juin 17:35 CET** (Empire State 14:30, non-événement attendu). Stops actifs : SU.PA **245,00 €** trailing, DG.PA **116,00 €** technique. Carnet d'ordres conditionnels armé sur 10 seuils, **focus FOMC J-3** : préparation des règles d'or pré-binaire à graver mercredi 17 juin (J-1).
+
+---
+
+### 2026-06-13 10:00 — Samedi : revue de week-end, marchés fermés (session 31)
+
+#### Contexte
+
+- **Marchés fermés** : Euronext Paris, Wall Street, Tokyo — pas de cotation, pas de prix nouveaux. Le portefeuille est figé à sa clôture de vendredi : **1 084,30 €** (+8,43 % depuis ouverture).
+- **Actualité du week-end (à surveiller dimanche soir)** : pas de discours Fed programmé samedi (période de purdah commence officiellement samedi 13 à 0h00 CET et court jusqu'à jeudi 18 minuit — **aucun membre du FOMC ne peut s'exprimer**). Géopolitique calme à ce stade (pas d'événement majeur depuis vendredi clôture). Asie ouvrira lundi 02:00 CET avec digestion du Michigan vendredi (non-événement) — futures CAC indicatifs reprendront dimanche 23:00 CET.
+- **Aucune publication économique programmée samedi-dimanche.** Le week-end est mécaniquement vide d'événements de marché.
+
+#### Décisions
+
+**1. AUCUNE ACTION — marchés fermés, aucune transaction possible.** Pas de cotation, pas de seuil exécutable, pas de stop déclenchable. **La séance n'existe pas opérationnellement** — je documente uniquement pour discipline de journal et préparation mentale.
+
+**2. RELECTURE DU CARNET D'ORDRES — validation à froid pour la semaine FOMC.** Les 10 seuils du carnet reconduit vendredi sont relus une fois, sans modification. Les niveaux clés à mémoriser pour lundi matin :
+- **SU.PA** : stop **245 €** (-4,67 % vs clôture 257 €), cible **265 €** (+3,11 % vs clôture).
+- **DG.PA** : stop **116 €** (-6,75 % vs clôture 124,40 €), cible **128 €** (+2,89 % vs clôture).
+- **AI.PA / SAN.PA** : seuils défensifs à **160 €** (-5,33 %) et **85 €** (-5,97 %), très éloignés en risk-on prolongé.
+- **CAC 40** : 8 256 pts clôture vendredi, seuil défensif #7 à 8 000 (-3,10 %), peu probable d'être touché avant FOMC.
+
+**3. RÈGLES D'OR PRÉ-FOMC — premier rappel J-5.** Je grave dès samedi (et non mercredi J-1) les 4 règles d'or pré-binaire pour qu'elles soient en automatisme mental lundi :
+- **Règle #1 — Pas d'ordre passé entre 14:00 et 22:00 CET le jeudi 18 juin** (statement 20:00, conférence Powell 20:30, fenêtre de volatilité maximale).
+- **Règle #2 — Pas de remontée de stop discrétionnaire pendant le statement** (uniquement le lendemain matin à froid, si seuils déclenchés en intraday).
+- **Règle #3 — Pas de cancel/replace** sur les seuils #1 à #5 entre lundi et jeudi : le carnet est figé.
+- **Règle #4 — Pas d'entrée de 5ᵉ ligne** avant FOMC, même si une opportunité semble évidente : la nervosité de la veille est mauvaise conseillère.
+
+**4. SCÉNARISATION 4 BRANCHES POUR LE FOMC — vérification de couverture.** Je revérifie que les 4 scénarios FOMC sont bien encadrés par le carnet existant, sans ajout nécessaire :
+
+| Scénario FOMC | Probabilité subjective | Réaction SU/DG | Seuil(s) déclenché(s) | Action mécanique |
+|---------------|------------------------|----------------|-----------------------|------------------|
+| (a) Dovish franc (Dot Plot ↓, statement accommodant) | 25 % | SU vers 265 €, DG vers 128 € | #2 et/ou #5 | Relève stops à 255 € (SU) et 121 € (DG) |
+| (b) Dovish modéré / statu quo dovish | 40 % | SU 255–262 €, DG 122–126 € | aucun | Aucune |
+| (c) Hawkish modéré (Dot Plot inchangé, ton prudent) | 25 % | SU 250–255 €, DG 118–122 € | aucun | Aucune |
+| (d) Hawkish franc (Dot Plot ↑, statement restrictif) | 10 % | SU peut tester 245 €, DG peut tester 116 € | #1 et/ou #4 | VENTE stop, lock-in +25 € (SU) / +0,20 € (DG) |
+
+**Couverture : 100 %.** Aucun scénario ne tombe en dehors du carnet. Le portefeuille est mécaniquement prêt.
+
+**5. CASH : 93,70 €** — inchangé, dédié au seuil défensif #3 (AI<160 € ou SAN<85 €). En cas de scénario (d) hawkish franc, le cash pourrait également servir à racheter SU ou DG à un meilleur point d'entrée post-stop si la cassure est techniquement violente mais macroéconomiquement isolée (à juger à froid vendredi 19 ou lundi 22). **Pas d'engagement préalable** : le cash reste un actif optionnel, pas pré-affecté.
+
+#### Stratégie
+
+**Le week-end est un temps de validation, pas de décision.** Le portefeuille clôt vendredi à son plus haut historique (+8,43 %) avec un carnet d'ordres conditionnels couvrant les 4 scénarios FOMC, des stops cycliques en territoire de gain (plancher mécanique +25,20 €), et 93,70 € de cash optionnel. **L'erreur classique du samedi serait de « bricoler » le carnet à froid** — ajouter un seuil, déplacer un stop de 2 €, entrer une 5ᵉ ligne « parce qu'on a le temps de réfléchir ». **Je refuse explicitement ces tentations** : le carnet a été conçu jeudi-vendredi en conditions de marché vivant, avec les meilleures informations disponibles. Le revoir samedi à tête reposée sans nouvel input est de la rumination, pas de l'analyse.
+
+**Trois enseignements à graver pour la semaine FOMC** :
+
+1. **Le samedi de pré-FOMC est le piège discret du trader discipliné.** Les marchés sont fermés, l'esprit a le temps de divaguer, et la tentation est forte de « peaufiner » le carnet d'ordres. C'est précisément à ce moment-là que les erreurs naissent : un seuil déplacé de 2 € peut faire la différence entre une exécution propre et une cassure ratée. **Le carnet de vendredi 17:35 est le carnet de référence pour toute la semaine FOMC** — il n'est pas révisé samedi, dimanche, ni lundi matin. Seule la séance de mercredi 17 juin (J-1) ouvrira une fenêtre de révision conditionnelle, et uniquement si un événement nouveau (discours Powell pré-purdah, choc géopolitique, statistique majeure) le justifie.
+
+2. **Le portefeuille a 6 séances pour digérer le risk-on post-CPI avant le FOMC, et c'est plutôt une bonne chose.** Si le FOMC tombait dès lundi, le portefeuille y arriverait sur un plus haut historique, avec des cycliques tendues à +16 % et +7 %, et un risque psychologique de « tout perdre d'un coup ». Avoir 6 séances de consolidation (lundi-mercredi pré-purdah, jeudi statement) permet aux cycliques soit de respirer techniquement entre 255–262 € (SU) et 122–126 € (DG), soit de pré-pricer le statement par anticipation. **Dans les deux cas, le bruit pré-FOMC est filtré par les seuils** : seul un mouvement brutal (>3 % en intraday) peut déclencher une action mécanique, et le carnet est calibré pour cela.
+
+3. **La performance +8,43 % en 22 séances place le portefeuille en avance de phase sur tous les scénarios planifiés à l'ouverture.** Le scénario A initial (5–10 % sur 30 jours) est déjà atteint au minimum, et le scénario B (10–15 %) est désormais à portée si le FOMC est dovish modéré. **Ceci ne doit pas modifier le comportement** : pas de prise de bénéfices anticipée « parce que c'est déjà bon », pas de relèvement de stop préventif « pour sécuriser le gain », pas d'entrée tactique « parce que la dynamique est porteuse ». **La discipline en avance de phase est plus difficile que la discipline en retard de phase** — c'est là que le portefeuille se gagne ou se perd sur le moyen terme.
+
+**Prochaine réévaluation** : **lundi 15 juin 17:35 CET** (Empire State Manufacturing 14:30 CET, non-événement attendu, consensus -2,0 vs -1,5 précédent ; en cas de surprise franche dans un sens ou dans l'autre, lecture cyclique secondaire — pas de seuil dédié). Stops actifs : SU.PA **245,00 €** trailing, DG.PA **116,00 €** technique. Carnet d'ordres conditionnels armé sur 10 seuils, reconduit à l'identique du vendredi 12. **Focus FOMC J-3 (mercredi 17) puis J-Day (jeudi 18) — règles d'or gravées dès samedi.**
 
 ---
