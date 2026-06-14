@@ -15,7 +15,7 @@
 **Valeur investie (cours actuels) :** 990,60 €  
 **Valeur totale du portefeuille :** 1 084,30 € (**+8,43 %** depuis ouverture)
 
-> Stops actifs : SU.PA **245,00 €** trailing, DG.PA **116,00 €** technique. Mise à jour : 2026-06-13 10:00 CET (**samedi — marchés fermés**, pas de cotation, revue de week-end + préparation semaine FOMC J-5, **0 transaction**, table inchangée vs clôture vendredi).
+> Stops actifs : SU.PA **245,00 €** trailing, DG.PA **116,00 €** technique. Mise à jour : 2026-06-14 11:00 CET (**dimanche — marchés fermés**, pas de cotation, J-4 FOMC, purdah Fed active, **0 transaction**, table strictement inchangée vs clôture vendredi).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -1638,5 +1638,56 @@ Le stop passe d'une position de **perte mécanique bornée à -5,80 € (-5,0 %)
 3. **La performance +8,43 % en 22 séances place le portefeuille en avance de phase sur tous les scénarios planifiés à l'ouverture.** Le scénario A initial (5–10 % sur 30 jours) est déjà atteint au minimum, et le scénario B (10–15 %) est désormais à portée si le FOMC est dovish modéré. **Ceci ne doit pas modifier le comportement** : pas de prise de bénéfices anticipée « parce que c'est déjà bon », pas de relèvement de stop préventif « pour sécuriser le gain », pas d'entrée tactique « parce que la dynamique est porteuse ». **La discipline en avance de phase est plus difficile que la discipline en retard de phase** — c'est là que le portefeuille se gagne ou se perd sur le moyen terme.
 
 **Prochaine réévaluation** : **lundi 15 juin 17:35 CET** (Empire State Manufacturing 14:30 CET, non-événement attendu, consensus -2,0 vs -1,5 précédent ; en cas de surprise franche dans un sens ou dans l'autre, lecture cyclique secondaire — pas de seuil dédié). Stops actifs : SU.PA **245,00 €** trailing, DG.PA **116,00 €** technique. Carnet d'ordres conditionnels armé sur 10 seuils, reconduit à l'identique du vendredi 12. **Focus FOMC J-3 (mercredi 17) puis J-Day (jeudi 18) — règles d'or gravées dès samedi.**
+
+---
+
+### 2026-06-14 11:00 — Dimanche : J-4 FOMC, marchés fermés, purdah Fed active (session 32)
+
+#### Contexte
+
+- **Marchés fermés** : Euronext Paris, Wall Street, Tokyo, Hong Kong — pas de cotation. Le portefeuille reste figé à la clôture de vendredi : **1 084,30 €** (+8,43 % depuis ouverture).
+- **Purdah Fed active depuis samedi 0h00 CET** : aucun membre du FOMC ne peut s'exprimer publiquement jusqu'à jeudi 18 juin minuit. **Pas de discours, pas d'interview, pas de fuite officielle attendue** sur les 4 prochaines séances (lundi → jeudi). Le marché doit naviguer la semaine sans guidance verbale.
+- **Actualité week-end (revue de presse rapide)** : pas de choc géopolitique majeur sur le samedi, ni de publication économique de fin de semaine modifiant le pricing. Bloomberg/Reuters/FT relayent la lecture désinflationniste post-CPI 2,9 % comme cadre acquis pour le FOMC, avec un Dot Plot consensus 2 baisses 2026 (vs 3 dovish / 1 hawkish dans les scénarios alternatifs). **Statu quo informationnel = scénario (b) « dovish modéré » légèrement renforcé** comme branche centrale à 40–45 % de probabilité subjective.
+- **Futures CAC 40 indicatifs** (reprise dimanche 23:00 CET) : à suivre lundi matin, sans incidence opérationnelle ce dimanche.
+
+#### Décisions
+
+**1. AUCUNE ACTION — marchés fermés, aucune transaction possible.** Même discipline qu'hier : pas de cotation, pas de seuil exécutable, pas de stop déclenchable. **Je documente uniquement pour journal et préparation mentale lundi.**
+
+**2. CARNET D'ORDRES — strictement reconduit à l'identique.** Les 10 seuils de vendredi 12 sont reconduits sans aucune modification : pas de glissement de 1 € sur SU, pas d'ajustement de 0,50 € sur DG, pas d'ajout de seuil intermédiaire « pour affiner ». **Le carnet de vendredi est le carnet de toute la semaine FOMC.** Toute tentation de bricolage dominical est explicitement refusée — c'est exactement le type d'erreur identifié dans l'enseignement #1 de la session 31.
+
+**3. RÈGLES D'OR PRÉ-FOMC — second rappel à J-4.** Les 4 règles gravées samedi sont relues une fois, sans modification :
+- **#1** : Pas d'ordre passé entre **14:00 et 22:00 CET le jeudi 18 juin**.
+- **#2** : Pas de remontée de stop discrétionnaire pendant le statement.
+- **#3** : Pas de cancel/replace sur les seuils #1 à #5 entre lundi et jeudi.
+- **#4** : Pas d'entrée de 5ᵉ ligne avant FOMC.
+
+**4. AUTO-AUDIT DU PORTEFEUILLE À FROID — vérification de cohérence.** Je profite du dimanche pour relire à froid la cohérence de l'allocation actuelle face au scénario central (b) « dovish modéré » :
+
+| Ligne | Poids portefeuille | Profil | Comportement attendu scénario (b) | Cohérent ? |
+|-------|-------------------|--------|-----------------------------------|------------|
+| AI.PA | 31,2 % (338 €) | Défensif IA-indirect | Drift latéral 167–170 € | ✅ |
+| SAN.PA | 25,0 % (271,20 €) | Défensif santé | Drift latéral 89–91 € | ✅ |
+| SU.PA | 23,7 % (257 €) | Cyclique transition énergétique | Consolidation 255–262 € | ✅ |
+| DG.PA | 11,5 % (124,40 €) | Cyclique infrastructure | Consolidation 122–126 € | ✅ |
+| Cash | 8,6 % (93,70 €) | Optionnel défensif | Dormant — dédié seuil #3 | ✅ |
+
+**Allocation 56,2 % défensif + 35,2 % cyclique + 8,6 % cash** : équilibre conforme au plan post-CPI dovish, légèrement biaisé défensif (rationnel à 4 séances d'un binaire). **Aucun rebalancement n'est requis** — l'allocation est déjà calibrée pour absorber les 4 scénarios FOMC. Validation à froid : OK.
+
+**5. CASH : 93,70 €** — inchangé, dédié au seuil défensif #3 (AI<160 € ou SAN<85 €) en cas de scénario (c) ou (d) hawkish. Pas de pré-engagement, pas de pré-allocation tactique. Le cash reste un actif optionnel pur.
+
+#### Stratégie
+
+**Le dimanche pré-FOMC J-4 est le 2ᵉ piège discret après le samedi : la rumination prolongée.** Avoir « toute la journée pour réfléchir » au portefeuille n'apporte aucune information nouvelle — les marchés sont fermés, la purdah Fed bloque toute statistique nouvelle, et le carnet d'ordres a été figé vendredi. **Toute pensée du type « et si je rentrais en LVMH lundi pour profiter du risk-on ? » ou « et si je remontais le stop SU à 250 € pour serrer la garde ? » est une dégradation à froid d'un système calibré à chaud.** Je refuse explicitement ces deux tentations identifiées comme classiques du dimanche pré-binaire.
+
+**Deux enseignements à graver pour aborder lundi avec discipline** :
+
+1. **Le silence informationnel de la purdah Fed est une fonctionnalité, pas un bug.** Pendant 5 jours (samedi 13 → jeudi 18 minuit), le marché doit construire son anticipation FOMC sans nouvelle parole officielle. Cela force chaque acteur à raisonner à partir des données disponibles (CPI 2,9 %, jobless OK, Michigan 71,8) et à pré-pricer le statement par la seule logique statistique. **Pour un portefeuille discipliné comme le mien, c'est un cadre idéal** : pas de discours surprise pouvant invalider la lecture désinflationniste, pas de fuite Powell, pas de membre Fed dissident s'exprimant à contre-courant. La séance de lundi peut être abordée avec exactement la même grille de lecture que la clôture de vendredi.
+
+2. **La discipline dominicale est mesurée par le nombre de pensées de bricolage refusées explicitement.** J'identifie aujourd'hui 4 tentations potentielles à refuser : (i) ajouter un seuil intermédiaire SU > 260 € « pour capter une cassure douce », (ii) descendre le seuil DG > 128 € à 126 € « parce que le titre est dynamique », (iii) entrer une 5ᵉ ligne tactique (LVMH, BNP, AIR) « parce que le risk-on prolongé invite à l'exposition », (iv) remonter le stop SU à 250 € « pour serrer la garde à 4 jours du binaire ». **Les 4 sont explicitement refusées, par écrit, sans exception.** Le carnet de vendredi est le carnet de la semaine FOMC. Point final.
+
+**Prochaine réévaluation** : **lundi 15 juin 17:35 CET** (Empire State Manufacturing 14:30 CET, consensus -2,0 vs -1,5 précédent ; non-événement attendu, lecture cyclique secondaire si surprise franche). Stops actifs : SU.PA **245,00 €** trailing, DG.PA **116,00 €** technique. Carnet d'ordres conditionnels armé sur 10 seuils, **reconduit à l'identique pour la 3ᵉ séance consécutive** (vendredi → samedi → dimanche). Focus FOMC J-3 (mercredi 17 — dernière fenêtre de révision conditionnelle) puis J-Day (jeudi 18).
+
+---
 
 ---
