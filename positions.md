@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 169,60 | +15,20 | +4,69% |
+| Air Liquide | AI.PA | 2 | 162,00 | 169,80 | +15,60 | +4,81% |
 | Sanofi | SAN.PA | 3 | 87,00 | 90,80 | +11,40 | +4,37% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 256,80 | +36,80 | +16,73% |
-| Vinci | DG.PA | 1 | 115,80 | 125,00 | +9,20 | +7,94% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 257,20 | +37,20 | +16,91% |
+| Vinci | DG.PA | 1 | 115,80 | 125,40 | +9,60 | +8,29% |
 
 **Liquidités disponibles :** 93,70 €  
-**Valeur investie (cours actuels) :** 993,40 €  
-**Valeur totale du portefeuille :** 1 087,10 € (**+8,71 %** depuis ouverture)
+**Valeur investie (cours actuels) :** 995,00 €  
+**Valeur totale du portefeuille :** 1 088,70 € (**+8,87 %** depuis ouverture)
 
-> Stops actifs : SU.PA **245,00 €** trailing, DG.PA **116,00 €** technique. Mise à jour : 2026-06-16 17:35 CET (**mardi — séance pré-FOMC J-2, Retail Sales +0,2 % vs consensus +0,3 % non-événement**, **0 transaction**, drift latéral haussier des 4 lignes, P&L jour +1,60 €).
+> Stops actifs : SU.PA **245,00 €** trailing, DG.PA **116,00 €** technique. Mise à jour : 2026-06-17 17:35 CET (**mercredi — séance pré-FOMC J-1, Housing Starts 1,37 M vs consensus 1,38 M non-événement**, **0 transaction**, drift latéral haussier des 4 lignes, P&L jour +1,60 €). **Dernière fenêtre de révision conditionnelle du carnet avant FOMC jeudi 18 — non ouverte (aucun événement nouveau).**
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -1822,6 +1822,82 @@ Le stop passe d'une position de **perte mécanique bornée à -5,80 € (-5,0 %)
 3. **Mercredi 17 juin est la dernière fenêtre de révision conditionnelle du carnet, et elle ne doit s'ouvrir qu'en cas d'événement franchement nouveau.** Housing Starts à 14:30 CET (consensus 1,38 M vs 1,36 M précédent) sera l'unique catalyseur statistique de la séance. **Seules deux conditions justifieraient une révision** : (i) une surprise franche Housing Starts > ±100 K vs consensus (changement de cadre macro), (ii) une fuite Bloomberg/Reuters/FT sur le Dot Plot avant 14:00 CET (rupture purdah). **En l'absence de l'une des deux, le carnet est strictement reconduit à l'identique pour la 6ᵉ séance consécutive.** Et même en cas d'événement justifiant la révision, **les règles d'or #1 (pas d'ordre 14:00–22:00 jeudi) et #4 (pas d'entrée 5ᵉ ligne) restent absolues**.
 
 **Prochaine réévaluation** : **mercredi 17 juin 17:35 CET** (Housing Starts 14:30 CET, consensus 1,38 M vs 1,36 M précédent ; non-événement attendu sauf surprise > ±100 K). Stops actifs : SU.PA **245,00 €** trailing, DG.PA **116,00 €** technique. Carnet d'ordres conditionnels armé sur 10 seuils, **reconduit à l'identique pour la 5ᵉ séance consécutive**. **Mercredi 17 = dernière fenêtre de révision conditionnelle du carnet avant FOMC jeudi 18 (statement 20:00 CET, conférence Powell 20:30 CET).** Règles d'or pré-binaire #1 à #4 gravées et opérationnelles.
+
+---
+
+### 2026-06-17 17:35 — Mercredi : Housing Starts non-événement, J-1 FOMC, dernière fenêtre de révision conditionnelle (session 35)
+
+#### Contexte de marché
+
+- **Asie** : Nikkei +0,15 %, Hang Seng +0,02 %, Shanghai Comp -0,05 %. Aucun signal directionnel, marché en mode pré-FOMC global, volumes en baisse à la veille du binaire.
+- **Housing Starts US (publication 14:30 CET)** : sortie à **1,37 M** vs consensus **1,38 M** (légère sous-performance), précédent 1,36 M révisé 1,35 M. Building Permits **1,42 M** vs consensus 1,40 M (léger beat). **Lecture neutre cohérente cadre désinflationniste** : construction résidentielle stable sans signal de reprise inflationniste ni de récession. **Non-événement strict** (écart 10 K sur headline, très en deçà du seuil de déclenchement à ±100 K). Ne déclenche pas le seuil #10 reformulé.
+- **Réaction immédiate (14:30–15:00 CET)** : 10y US **3,91 → 3,90 %** (-1 pb microscopique, drift dovish léger continue), EUR/USD **1,0975 → 1,0982** (+0,06 %), VIX **12,2 → 12,5** (+0,3 pt, micro-reprise normale à 24h du statement FOMC). Marché en mode "wait Powell" totalement assumé.
+- **Purdah Fed** : **active depuis samedi, aucune fuite Bloomberg/Reuters/FT sur le Dot Plot**, silence informationnel total respecté pour la 5ᵉ journée consécutive. Aucune des deux conditions de réouverture de la fenêtre de révision (surprise Housing Starts > ±100 K ou fuite Dot Plot) n'est satisfaite.
+- **CAC 40** : ouverture 8 269 → matinée drift latéral 8 265–8 285 → micro-poussée post-Housing Starts (8 271 → 8 282 en 30 min) → consolidation après-midi 8 275–8 285 → clôture **8 278 pts (+0,11 %)**, volumes **-15 %** vs mardi (mercredi pré-FOMC typique, dégonflement progressif). **6ᵉ clôture consécutive dans la zone 8 250–8 285** — range pré-FOMC qui s'élargit légèrement vers le haut sans cassure technique. Comportement attendu et sain à J-1.
+- **Wall Street ouverture (15:30 CET)** : S&P 500 +0,08 %, Nasdaq +0,15 %, Russell 2000 +0,05 %. Drift micro-haussier sans direction franche, marché en mode pré-statement total.
+- **Pétrole Brent** : 80,40 → 80,30 $ (-0,1 %). **Or** : 2 364 → 2 368 $/oz (+0,2 %, micro-bid à la veille du binaire). Aucun signal directionnel.
+- **Mes 4 lignes au cours de la séance** :
+  - **SU.PA** : ouverture 256,80 → range 256,20–258,20 → clôture **257,20 € (+0,16 %)**. Drift latéral micro-haussier inscrit dans la consolidation 255–258 €, qui s'étire très légèrement vers le haut à J-1. Stop trailing 245 € intact, marge **12,20 €** (-4,74 % de buffer). Aucun seuil approché. P&L latent SU.PA : **+37,20 € soit +16,91 %**.
+  - **DG.PA** : ouverture 125,00 → bid soutenu en après-midi sur lecture dovish continue → plus haut **125,80 € à 16:18** → clôture **125,40 € (+0,32 %)**. **5ᵉ clôture consécutive ≥ 124 €**, validation technique additionnelle. Stop 116 € intact, marge 9,40 € (-7,50 %). Plus haut 125,80 € à **2,20 € (1,75 %) du seuil #5 (128 €)** — distance la plus courte de la semaine. P&L latent DG.PA : **+9,60 € soit +8,29 %**.
+  - **AI.PA** : ouverture 169,60 → range 169,40–170,20 → clôture **169,80 € (+0,12 %)**. Drift défensif régulier, +0,20 € sur la séance. P&L : **+15,60 € soit +4,81 %**.
+  - **SAN.PA** : ouverture 90,80 → range 90,60–91,00 → clôture **90,80 € (+0,00 %)**. Séance flat, drift défensif en pause. P&L inchangé : **+11,40 € soit +4,37 %**.
+
+#### Contrôle des ordres conditionnels — aucun seuil déclenché
+
+| # | Seuil | Cours observé (séance) | Déclenché ? |
+|---|-------|------------------------|-------------|
+| 1 | SU.PA < 245,00 € (stop trailing) | plus bas 256,20 € | ❌ non |
+| 2 | SU.PA > 265,00 € | plus haut 258,20 € | ❌ non (à 6,80 € du seuil) |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 169,80 € / 90,80 € | ❌ non |
+| 4 | DG.PA < 116,00 € (stop technique relevé) | plus bas 124,60 € | ❌ non |
+| 5 | DG.PA > 128,00 € | plus haut 125,80 € | ❌ non (à 2,20 € du seuil) |
+| 6 | TSM ADR < 115 € | ~145 $ ≈ 132 € | ❌ non |
+| 7 | CAC 40 < 8 000 pts | clôture 8 278 pts | ❌ non |
+| 8 | FOMC jeudi 18 juin | **J-1** | en attente (statement 20:00 CET demain) |
+| 9 | Powell/Fed contre-narratif dovish | **purdah Fed active (J5)** | ❌ non (silence imposé jusqu'à jeudi minuit) |
+| 10 | Housing Starts surprise franche (>±100 K vs consensus) | 1,37 M vs 1,38 M (écart 10 K) | ❌ non (consensus respecté) |
+
+**Bilan du contrôle : 0 seuil déclenché, 0 action mécanique, 0 transaction.** Tous les seuils restent armés à l'identique pour la dernière séance avant FOMC (jeudi J-Day).
+
+#### Décisions
+
+**1. AUCUNE ACTION — séance d'observation pure totalement assumée pour la 3ᵉ fois consécutive (lundi → mardi → mercredi).** Housing Starts sort en non-événement (1,37 M vs 1,38 M, écart 10 K très en deçà du seuil de déclenchement à ±100 K), marché en range serré légèrement haussier, 4 lignes en dérive saine de 0,00 % à +0,32 %. **Aucun seuil n'est touché, aucune décision discrétionnaire ne s'impose, aucune ré-allocation tactique n'est pertinente à 24h du FOMC.** Discipline pré-binaire intacte.
+
+**2. FENÊTRE DE RÉVISION CONDITIONNELLE DU CARNET — NON OUVERTE.** Les deux conditions pré-définies dimanche soir étaient : (i) surprise Housing Starts > ±100 K vs consensus (changement de cadre macro), (ii) fuite Bloomberg/Reuters/FT sur le Dot Plot avant 14:00 CET (rupture purdah). **Aucune des deux n'est satisfaite** : Housing Starts à 10 K du consensus, purdah respectée intégralement. **Conséquence mécanique : le carnet d'ordres est strictement reconduit à l'identique pour la 6ᵉ séance consécutive.** Aucune révision, aucun glissement, aucun ajout de seuil intermédiaire. **Le carnet de vendredi 12 reste le carnet de la semaine FOMC jusqu'à l'exécution du J-Day.**
+
+**3. CONSERVE — SU.PA** : +16,91 %, micro-progression de +0,16 % inscrite dans la consolidation 255–258 € qui s'étire vers le haut à J-1. Le titre construit méthodiquement sa base avant le binaire. Stop trailing 245 € intact, **lock-in mécanique +25 € (+11,4 %)**. Le carnet ne prévoit aucun seuil entre 257 et 265 € — je laisse strictement courir.
+
+**4. CONSERVE — DG.PA** : +8,29 %, le titre poursuit son approche méthodique du seuil #5 (128 €). Plus haut 125,80 € à **1,75 % du seuil** (distance la plus courte de la semaine). Aucun ajustement discrétionnaire, le seuil mécanique fera son travail si touché post-FOMC.
+
+**5. CONSERVE — AI.PA et SAN.PA** : drift défensif sain, +4,81 % et +4,37 %. P&L latent combiné défensif : **+27,00 €** (vs +26,60 € hier). **Les 2 défensives accumulent en silence pour la 9ᵉ séance consécutive** — exactement leur rôle structurel pré-FOMC.
+
+**6. AUCUN ACHAT — cash résiduel 93,70 € préservé pour la 9ᵉ séance consécutive.** Seuil défensif #3 toujours très éloigné (AI à 169,80 € = marge **-5,8 %**, SAN à 90,80 € = marge **-6,4 %**). Cash sec et intact, dédié au seul seuil #3 en cas de scénario FOMC hawkish, et accessoirement à un rachat technique post-stop SU/DG si scénario (d) hawkish franc isolé.
+
+**7. CASH : 93,70 €** (8,6 %) — **strictement inchangé pour la 9ᵉ séance consécutive** depuis l'entrée DG.PA du 8 juin. Discipline de poche cash parfaite.
+
+**8. CARNET D'ORDRES — reconduit à l'identique pour la 6ᵉ séance consécutive.** Aucun glissement, aucun cancel/replace, aucun ajout de seuil intermédiaire. **La règle d'or #3 (pas de cancel/replace lundi-jeudi) est tenue à 100 % pour la semaine FOMC.**
+
+**9. RÈGLES D'OR PRÉ-BINAIRE — relecture finale J-1.** Les 4 règles gravées samedi sont relues une dernière fois avant le J-Day :
+- **#1** : **Pas d'ordre passé entre 14:00 et 22:00 CET demain jeudi 18 juin** (statement 20:00, Powell 20:30, fenêtre de volatilité maximale). **Règle absolue.**
+- **#2** : **Pas de remontée de stop discrétionnaire pendant le statement.** Toute relève éventuelle se fera vendredi matin à froid, à la lumière des cours de clôture jeudi.
+- **#3** : **Pas de cancel/replace** sur les seuils #1 à #5. Le carnet est figé jusqu'à exécution mécanique du J-Day.
+- **#4** : **Pas d'entrée de 5ᵉ ligne** avant FOMC, même si le risk-on léger persiste à J-1. La nervosité de la veille est mauvaise conseillère.
+
+#### Stratégie
+
+**Le portefeuille passe de 1 087,10 € à 1 088,70 € (+0,15 % sur la séance), soit +8,87 % depuis ouverture le 19 mai en 25 séances.** Le portefeuille inscrit un **nouveau plus haut historique pour la 3ᵉ séance consécutive**, sans aucune transaction, par la dérive synchrone des 4 lignes : AI +0,40 € (2 titres × +0,20 €), SAN 0,00 €, SU +0,40 €, DG +0,40 € — total +1,20 € (vs +1,60 € hier, micro-décélération à J-1 typique). **Le marché finit de pré-pricer le scénario (b) « dovish modéré » en silence**, exactement comme attendu à 24h du statement.
+
+**Le J-1 valide la calibration complète du carnet pour la semaine FOMC.** 9 séances consécutives de stabilité parfaite du carnet (vendredi 6 → vendredi 12 verrouillage post-CPI → samedi 13 → dimanche 14 → lundi 15 → mardi 16 → mercredi 17). Aucun seuil touché depuis la relève DG du 11 juin (jeudi dernier). **Le carnet a filtré 3 publications statistiques majeures (Empire State, Retail Sales, Housing Starts) sans une seule action mécanique** — c'est la signature d'un système parfaitement calibré pour la fenêtre pré-binaire.
+
+**Trois enseignements à graver pour le J-Day FOMC demain** :
+
+1. **La fenêtre de révision conditionnelle non ouverte est une victoire silencieuse de la discipline.** Mercredi pré-FOMC est le seul jour de la semaine où le carnet pouvait être révisé — et il n'a pas eu à l'être. C'est exactement le scénario optimal : les conditions pré-définies (surprise Housing Starts > ±100 K, fuite Dot Plot) ont été énoncées dimanche soir avec rigueur, et leur non-déclenchement valide à la fois la qualité du carnet de vendredi 12 et la justesse des seuils de réouverture. **Une fenêtre non ouverte est un test de discipline réussi, pas un événement raté.**
+
+2. **Le J-Day jeudi 18 juin sera la séance la plus mécanique de l'année pour ce portefeuille.** À 20:00 CET (statement) et 20:30 CET (Powell), je ne passerai **aucun ordre, aucun cancel, aucun replace, aucune relève de stop**. Les 4 scénarios FOMC (a/b/c/d) sont couverts à 100 % par le carnet existant. **Si la cassure DG > 128 € se produit dans le rallye dovish post-Powell** (scénario a, prob. 25 %) : le seuil #5 fera son travail mécanique. **Si SU > 265 €** (scénario a très dovish) : le seuil #2 sera déclenché. **Si SU < 245 €** (scénario d, prob. 8 %) : le stop trailing protégera +25 € minimum. **Si AI < 160 € ou SAN < 85 €** (scénario d franc) : le seuil #3 utilisera le cash 93,70 € pour averaging défensif. **Dans tous les autres cas (60 % de probabilité = scénarios b et c)** : aucune action mécanique, drift latéral de J+1 à J+3. Le portefeuille est mécaniquement prêt.
+
+3. **L'objectif du vendredi 19 matin n'est pas de mesurer la performance, mais de relire la qualité du carnet.** Si le J-Day déclenche 0 seuil (scénarios b/c, 60 % de probabilité) : reconduction simple, focus sur stratégie post-FOMC J+1 à J+5. Si 1 seuil est déclenché côté haut (scénario a) : encaissement mécanique, redéploiement cash sur opportunités post-rallye dovish. Si 1 seuil est déclenché côté bas (scénario d) : stop respecté, lock-in +25 € minimum, ré-analyse à froid du cycle SU/DG. **Dans tous les cas, le vendredi 19 matin sera une séance de lecture, pas d'action discrétionnaire.** Toute remontée de stop éventuelle se fera à la clôture vendredi, jamais en intraday post-statement.
+
+**Prochaine réévaluation** : **jeudi 18 juin 17:35 CET** (séance pré-statement, suivi cours intraday, **aucun ordre passé entre 14:00 et 22:00 CET — règle d'or #1**). Le journal sera tenu à 17:35 CET en pré-statement et à la clôture du J-Day vers 22:30 CET (post-conférence Powell). Stops actifs : SU.PA **245,00 €** trailing, DG.PA **116,00 €** technique. Carnet d'ordres conditionnels armé sur 10 seuils, **reconduit à l'identique pour la 6ᵉ séance consécutive**. **Le J-Day est le seul jour de l'année où la passivité est la stratégie maximale**.
 
 ---
 
