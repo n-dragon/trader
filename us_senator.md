@@ -2,7 +2,7 @@
 
 > **Source visée :** [CapitolTrades — trades (buy)](https://www.capitoltrades.com/trades?txType=buy)
 > **Note réseau :** CapitolTrades et l'ensemble des agrégateurs de trades du Congrès (Quiver Quantitative, Trendlyne, InsiderFinance, StockCircle, MarketBeat, CREW…) renvoient une erreur **HTTP 403** depuis cet environnement d'exécution distant (politique réseau + protection anti-bot). Trendlyne expose bien une fenêtre récente (divulgations du **11 au 20 juin 2026**) mais son contenu détaillé n'est pas accessible ici. Les données ci-dessous ont donc été **reconstituées via recherche web** à partir des mêmes divulgations publiques (STOCK Act / PTR du Sénat) relayées par la presse financière. Pour un suivi en temps réel, à rafraîchir depuis un environnement avec accès réseau complet.
-> **Dernière mise à jour :** 2026-06-22
+> **Dernière mise à jour :** 2026-06-22 (rafraîchissement #2 — ajout Hagerty/Contour & Mullin/Nvidia ; datation du cluster IA corrigée en **2025**)
 
 ---
 
@@ -16,17 +16,19 @@
 
 ---
 
-## 🆕 Nouveautés depuis la dernière mise à jour (2026-06-15 → 2026-06-22)
+## 🆕 Nouveautés de ce rafraîchissement (2026-06-22)
+
+Le site cible (CapitolTrades) et tous les agrégateurs (Quiver, Trendlyne, StockCircle, MarketBeat…) restent en **HTTP 403** depuis cet environnement. Les éléments ci-dessous proviennent de divulgations STOCK Act relayées par la presse financière (Quiver, Nasdaq, Newsweek, Finbold). Deux **achats récents** s'ajoutent, et la **datation du cluster IA est corrigée**.
 
 | Sénateur | Parti / État | Commission sensible | Société | Ticker | Date d'achat | Montant | Probabilité de gain | **Probabilité de délit d'initié** |
 |----------|--------------|---------------------|---------|--------|--------------|---------|---------------------|-----------------------------------|
+| **Bill Hagerty** 🆕 | R — Tennessee | Banking ; Appropriations | Contour Venture Partners V LP (fonds de VC) | — (LP non coté) | 2026-01-23 | n.c. | n.c. — fonds de capital-risque illiquide (pas de cotation, horizon long) | **Très faible** (fonds aveugle / *blind pool*, pas un émetteur public) |
+| **Markwayne Mullin** 🆕 | R — Oklahoma | **Armed Services** | Nvidia | NVDA | 2025-12-29 → 2026-02-04 | jusqu'à ~50 k$ | Modérée-Élevée (~60 %) — méga-cap IA | **Modérée-Élevée** ⚠️ (puces IA sous régime de licences d'export vers la Chine) |
 | Markwayne Mullin | R — Oklahoma | **HELP** (Santé) | UnitedHealth Group | UNH | 2026-02-25 (divulg. ~10–12/03) | **50–100 k$** | Modérée (~55 %) — achat sur repli | **Modérée-Élevée** ⚠️ (assureur santé / commission HELP) |
-| Jerry Moran | R — Kansas | **Commerce** | Alphabet (Google) | GOOGL | mai (jour d'une audition IA de la commission Commerce) | 4–60 k$ (avec son épouse) | Modérée-Élevée (~60 %) | **Élevée** ⚠️ (timing audition IA + commission) |
-| Shelley Moore Capito | R — Virg.-Occ. | Commerce | Alphabet (Google) | GOOGL | mai (débat moratoire IA) | n.c. | Modérée-Élevée (~60 %) | **Modérée-Élevée** (débat dérégulation IA) |
-| John Fetterman | D — Pennsylvanie | Commerce | Alphabet (Google) | GOOGL | mai (débat moratoire IA) | n.c. | Modérée-Élevée (~60 %) | **Modérée** |
-| John Boozman | R — Arkansas | Agriculture (prés.) | Alphabet / Nvidia / Meta / Amazon | GOOGL, NVDA, META, AMZN | mai (débat moratoire IA) | n.c. | Modérée-Élevée (~60 %) | **Modérée** (chevauchement IA indirect) |
 
-> ⚠️ **Réserve sur le millésime** : le cluster d'achats de titres IA (Moran, Capito, Fetterman, Boozman) provient du rapport CREW « *Four senators bought AI stock while Senate considered deregulating AI* », adossé au débat sénatorial sur le **moratoire de 10 ans sur la régulation de l'IA**. Les achats sont datés de **« mai »** : le millésime exact (2025 ou 2026) n'a pas pu être confirmé depuis cet environnement (sources agrégatrices en 403). À recouper sur efdsearch.senate.gov.
+> ✅ **Correction de millésime — cluster IA = 2025, pas 2026.** Le rapport CREW « *Four senators bought AI stock while Senate considered deregulating AI* » a été **publié le 15 juillet 2025** et porte sur des achats de **mai 2025** : Jerry Moran aurait acheté 4 004–60 000 $ de Google (GOOGL) **le jour même de l'audition IA de la commission Commerce du 8 mai 2025** (avec témoignage de Sam Altman) ; Capito, Fetterman et Boozman (+ NVDA/META/AMZN) sur la même période. **Ce cluster ne relève donc pas des achats 2026** et est déplacé en section « contexte 2025 » ci-dessous. Le soupçon de conflit d'intérêts (timing audition + commission) reste **Élevé pour Moran**, mais l'opération reste **légale** et sans preuve de connaissance privilégiée.
+
+> 🔎 **Contexte Hagerty** : la même divulgation comporte surtout des **ventes** (Equitrans/ETRN, AutoZone/AZO, Intuit/INTU) — hors périmètre `buy` ; seul l'engagement dans le fonds Contour Venture Partners V est un **achat**. Quiver estime un gain ~812 k$ sur le mois pour son portefeuille.
 
 ---
 
@@ -37,6 +39,7 @@
 | Markwayne Mullin | R — Oklahoma | Armed Services | Chevron | CVX | 2025-12-29 | 15–50 k$ | Élevée (~70 %) — déjà +10 % | **Élevée** ⚠️ |
 | Markwayne Mullin | R — Oklahoma | Armed Services | RTX (Raytheon) | RTX | 2025-12-29 | 15–50 k$ | Élevée (~70 %) — déjà +9,5 % | **Élevée** ⚠️ |
 | Markwayne Mullin | R — Oklahoma | Armed Services | ConocoPhillips | COP | 2025-12 (fin) | 15–50 k$ | Modérée-Élevée (~65 %) | **Élevée** ⚠️ |
+| Markwayne Mullin | R — Oklahoma | Armed Services | Nvidia | NVDA | 2025-12-29 → 2026-02-04 | jusqu'à ~50 k$ | Modérée-Élevée (~60 %) | **Modérée-Élevée** ⚠️ (licences export puces IA) |
 | Markwayne Mullin | R — Oklahoma | Armed Services | Amkor Technology | AMKR | 2026-01-05 / 02-04 | jusqu'à 150 k$ (×3) | Modérée (~55 %) — déjà +60 % | **Modérée** |
 | Markwayne Mullin | R — Oklahoma | Armed Services | Carpenter Technology | CRS | 2026-02-04 | 15–50 k$ | Modérée (~55 %) — déjà +22 % | **Modérée** (alliages défense) |
 | Markwayne Mullin | R — Oklahoma | Armed Services | VSE Corp | VSEC | 2026-01-05 | 15–50 k$ | Modérée (~55 %) | **Modérée-Élevée** (contrats USAF) |
@@ -47,6 +50,7 @@
 | Markwayne Mullin | R — Oklahoma | Armed Services | APi Group | APG | 2026-01-05 | 15–50 k$ | Modérée (~50 %) | **Faible** |
 | Markwayne Mullin | R — Oklahoma | Armed Services | FirstCash Holdings | FCFS | 2026-01-05 | 15–50 k$ | Modérée (~50 %) | **Faible** |
 | Markwayne Mullin | R — Oklahoma | Armed Services | Stride | LRN | 2026-01-05 | 15–50 k$ | Modérée (~50 %) | **Faible** |
+| Bill Hagerty | R — Tennessee | Banking ; Appropriations | Contour Venture Partners V LP | — (LP non coté) | 2026-01-23 | n.c. | n.c. (VC illiquide) | **Très faible** (fonds aveugle, pas d'émetteur public) |
 | John Hickenlooper | D — Colorado | Commerce | Palo Alto Networks | PANW | 2026 (T1) | 1–15 k$ | Modérée (~55 %) | **Modérée-Élevée** (procurement) |
 | Tommy Tuberville | R — Alabama | — (ETF diversifiés) | SPDR Consumer Staples | XLP | 2025-12-17 | 15–50 k$ | Modérée (~50 %) | **Très faible** |
 | Tommy Tuberville | R — Alabama | — (ETF diversifiés) | SPDR Utilities | XLU | 2025-12-17 | 15–50 k$ | Modérée (~50 %) | **Très faible** |
@@ -79,13 +83,28 @@ Le profil le plus actif et le plus sensible du tableau. Mullin a déclaré avoir
 - Contexte : Mullin a été **désigné par Trump pour diriger le DHS** et s'est engagé à **céder ses participations s'il est confirmé**.
 - ➡️ **Probabilité de délit d'initié : Modérée-Élevée** (chevauchement commission santé + assureur). **Probabilité de gain : Modérée (~55 %)** — achat opéré sur un repli marqué d'UNH ; rebond non garanti. Trades passés par un gérant tiers selon son bureau ; **légal**.
 
-### 🆕 🟣 Cluster « titres IA » — Moran, Capito, Fetterman, Boozman (rapport CREW)
+### 🟣 Cluster « titres IA » — Moran, Capito, Fetterman, Boozman (rapport CREW) — *millésime 2025*
 
-- Le rapport **CREW** (*Citizens for Responsibility and Ethics in Washington*) « *Four senators bought AI stock while Senate considered deregulating AI* » identifie quatre sénateurs ayant acheté (eux-mêmes, conjoint ou enfant à charge) des titres **Google/Alphabet** en **mai**, pendant que le Sénat examinait un **moratoire de 10 ans interdisant aux États de réguler l'IA** (lobbying d'Amazon, Google, Microsoft, Meta).
-- **Jerry Moran (R — KS)**, membre de la commission **Commerce**, aurait acheté **4 004–60 000 $** d'actions Google (avec son épouse) **le jour même d'une audition de la commission Commerce sur l'IA** → **timing le plus sensible du lot**.
+> **Mise à jour 2026-06-22 :** ce cluster a été **sorti des « achats récents 2026 »**. Le rapport CREW a été **publié le 15 juillet 2025** et l'audition IA de la commission Commerce (témoignage de Sam Altman) a eu lieu le **8 mai 2025**. Les achats sont donc de **mai 2025**. Conservé ici comme **précédent de référence** pour le motif de conflit d'intérêts.
+
+- Le rapport **CREW** (*Citizens for Responsibility and Ethics in Washington*) « *Four senators bought AI stock while Senate considered deregulating AI* » identifie quatre sénateurs ayant acheté (eux-mêmes, conjoint ou enfant à charge) des titres **Google/Alphabet** en **mai 2025**, pendant que le Sénat examinait un **moratoire de 10 ans interdisant aux États de réguler l'IA** (lobbying d'Amazon, Google, Microsoft, Meta).
+- **Jerry Moran (R — KS)**, membre de la commission **Commerce**, aurait acheté **4 004–60 000 $** d'actions Google (avec son épouse) **le jour même de l'audition de la commission Commerce sur l'IA (8 mai 2025)** → **timing le plus sensible du lot**.
 - **John Boozman (R — AR)** a aussi déclaré **Nvidia (NVDA), Meta (META) et Amazon (AMZN)**.
 - **Shelley Moore Capito (R — WV)** et **John Fetterman (D — PA)** : achats de Google sur la même période.
-- ➡️ **Probabilité de délit d'initié : Élevée pour Moran** (timing audition + commission compétente), **Modérée-Élevée pour Capito/Fetterman/Boozman**. **Probabilité de gain : Modérée-Élevée (~60 %)** — méga-cap technologiques porteuses, mais risque antitrust (procédure DOJ sur le monopole de recherche de Google). **Légal** ; à recouper pour le millésime exact.
+- ➡️ **Probabilité de délit d'initié : Élevée pour Moran** (timing audition + commission compétente), **Modérée-Élevée pour Capito/Fetterman/Boozman**. **Probabilité de gain : Modérée-Élevée (~60 %)** — méga-cap technologiques porteuses, mais risque antitrust (procédure DOJ sur le monopole de recherche de Google). **Légal**.
+
+### 🆕 🔴 Markwayne Mullin (R — OK) — achat Nvidia (NVDA) — *Senate Armed Services*
+
+- Achat de **Nvidia (NVDA)** dans la fenêtre **29 décembre 2025 → 4 février 2026** (jusqu'à ~50 k$), au sein d'une vague d'achats plus large.
+- NVDA fait l'objet de **conditions de licences d'exportation** de puces IA vers la Chine — sujet de sécurité nationale qui recoupe la commission **Armed Services** de Mullin.
+- Nvidia figure parmi les **~305 009 $** de titres « à conflit potentiel » (avec RTX, L3Harris, Alphabet, Microsoft, Amazon…) que Mullin s'est **engagé à céder** dans le cadre de son accord d'éthique pour la confirmation au **DHS**.
+- ➡️ **Probabilité de délit d'initié : Modérée-Élevée** ⚠️ (chevauchement export de puces / sécurité nationale). **Probabilité de gain : Modérée-Élevée (~60 %)**. Trades passés par un gérant tiers selon son bureau ; **légal**.
+
+### 🆕 🔴 Bill Hagerty (R — Tennessee) — *Senate Banking & Appropriations*
+
+- La dernière divulgation STOCK Act de Hagerty est dominée par des **ventes** : **Equitrans Midstream (ETRN)**, **AutoZone (AZO)**, **Intuit (INTU)** → hors périmètre `buy`.
+- Côté **achat** : une participation dans **Contour Venture Partners V LP** (fonds de capital-risque *early-stage*), déclarée le **23 janvier 2026**. Il s'agit d'un **fonds aveugle non coté** (engagement de capital, déploiement progressif sur plusieurs années).
+- ➡️ **Probabilité de délit d'initié : Très faible** — un fonds de VC diversifié et illiquide n'offre aucune exposition à un émetteur public unique sensible à une décision législative. **Probabilité de gain : non quantifiable** (horizon 7–10 ans, illiquidité, dispersion). Quiver estime ~**812 k$** de gain mensuel sur l'ensemble de son portefeuille (titres cotés détenus par ailleurs).
 
 ### 🔵 John Hickenlooper (D — Colorado) — membre du *Senate Commerce Committee*
 
@@ -109,7 +128,7 @@ Le profil le plus actif et le plus sensible du tableau. Mullin a déclaré avoir
 - Une **analyse de CNN (février 2026)** a identifié au moins **10 sénateurs** ayant tradé des titres dans des secteurs supervisés par leurs commissions : R — Hagerty, Kennedy, Moody, Moran, Moreno, Mullin, Tuberville ; D — Hickenlooper, Peters, Whitehouse.
 - Un **projet de loi bipartisan (Ossoff)** d'interdiction du trading d'actions au Congrès a passé une commission clé du Sénat — réforme en cours de discussion en 2026.
 - **17 juin 2026** : la commission des forces armées du Sénat a approuvé un texte interdisant aux **sous-traitants de la défense** de racheter leurs propres actions sans accord du Pentagone (contexte de défiance accru autour des conflits d'intérêts).
-- **Bill Hagerty (R — TN)** a déclaré de nouvelles transactions en 2026 (gains mensuels estimés à six chiffres par Quiver) ; détail des titres non récupérable depuis cet environnement (sources en 403).
+- **Bill Hagerty (R — TN)** : détail désormais partiellement récupéré (voir fiche dédiée) — achat du fonds **Contour Venture Partners V LP** (23/01/2026) et ventes ETRN/AZO/INTU ; gain mensuel estimé ~812 k$ par Quiver.
 
 ---
 
@@ -130,5 +149,10 @@ Le profil le plus actif et le plus sensible du tableau. Mullin a déclaré avoir
 - [CREW — Four senators bought AI stock while Senate considered deregulating AI](https://www.citizensforethics.org/reports-investigations/crew-investigations/four-senators-bought-ai-stock-while-senate-considered-deregulating-ai/)
 - [CNBC — Defense contractors barred from stock buybacks in Senate panel bill (17/06/2026)](https://www.cnbc.com/amp/2026/06/17/defense-contractors-stock-buybacks-senate-warren-trump.html)
 - [Trendlyne — US politician trade tracker (11–20 juin 2026)](https://us.trendlyne.com/us/politicians/recent-trades/)
+- [Finbold — Inside Markwayne Mullin's biggest stock trades of 2026 (Nvidia)](https://finbold.com/the-top-2026-stock-trades-of-markwayne-mullin/)
+- [Newsweek — Mullin's stock portfolio sparks conflict-of-interest concerns (DHS divestment)](https://www.newsweek.com/markwayne-mullin-dhs-stock-trading-defense-11644758)
+- [NOTUS — Mullin pledges to sell stock holdings if confirmed (DHS)](https://www.notus.org/trump-white-house/markwayne-mullin-dhs-stock-holdings-sell)
+- [Quiver / Nasdaq — Senator Bill Hagerty just disclosed new stock trades](https://www.nasdaq.com/articles/congress-trade-senator-bill-hagerty-just-disclosed-new-stock-trades)
+- [CapitolTrades — Hagerty bought Contour Venture Partners V LP (2026-01-23)](https://www.capitoltrades.com/trades/10000064641)
 
 > *Données reconstituées le 2026-06-22 à partir de divulgations publiques STOCK Act. Ne constitue pas un conseil en investissement ni une imputation de fait délictueux.*
