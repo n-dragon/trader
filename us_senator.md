@@ -1,8 +1,8 @@
 # Suivi des positions des sénateurs américains — Achats (`txType=buy`)
 
 > **Source visée :** [CapitolTrades — trades (buy)](https://www.capitoltrades.com/trades?txType=buy)
-> **Note réseau :** CapitolTrades et l'ensemble des agrégateurs de trades du Congrès (Quiver Quantitative, Trendlyne, InsiderFinance, StockCircle…) renvoient une erreur **HTTP 403** depuis cet environnement d'exécution distant (politique réseau + protection anti-bot). Les données ci-dessous ont été **reconstituées via recherche web** à partir des mêmes divulgations publiques (STOCK Act / PTR du Sénat) relayées par la presse financière. Pour un suivi en temps réel, à rafraîchir depuis un environnement avec accès réseau complet.
-> **Dernière mise à jour :** 2026-06-15
+> **Note réseau :** CapitolTrades et l'ensemble des agrégateurs de trades du Congrès (Quiver Quantitative, Trendlyne, InsiderFinance, StockCircle, MarketBeat, CREW…) renvoient une erreur **HTTP 403** depuis cet environnement d'exécution distant (politique réseau + protection anti-bot). Trendlyne expose bien une fenêtre récente (divulgations du **11 au 20 juin 2026**) mais son contenu détaillé n'est pas accessible ici. Les données ci-dessous ont donc été **reconstituées via recherche web** à partir des mêmes divulgations publiques (STOCK Act / PTR du Sénat) relayées par la presse financière. Pour un suivi en temps réel, à rafraîchir depuis un environnement avec accès réseau complet.
+> **Dernière mise à jour :** 2026-06-22
 
 ---
 
@@ -16,7 +16,21 @@
 
 ---
 
-## Tableau de suivi — positions d'achat récentes
+## 🆕 Nouveautés depuis la dernière mise à jour (2026-06-15 → 2026-06-22)
+
+| Sénateur | Parti / État | Commission sensible | Société | Ticker | Date d'achat | Montant | Probabilité de gain | **Probabilité de délit d'initié** |
+|----------|--------------|---------------------|---------|--------|--------------|---------|---------------------|-----------------------------------|
+| Markwayne Mullin | R — Oklahoma | **HELP** (Santé) | UnitedHealth Group | UNH | 2026-02-25 (divulg. ~10–12/03) | **50–100 k$** | Modérée (~55 %) — achat sur repli | **Modérée-Élevée** ⚠️ (assureur santé / commission HELP) |
+| Jerry Moran | R — Kansas | **Commerce** | Alphabet (Google) | GOOGL | mai (jour d'une audition IA de la commission Commerce) | 4–60 k$ (avec son épouse) | Modérée-Élevée (~60 %) | **Élevée** ⚠️ (timing audition IA + commission) |
+| Shelley Moore Capito | R — Virg.-Occ. | Commerce | Alphabet (Google) | GOOGL | mai (débat moratoire IA) | n.c. | Modérée-Élevée (~60 %) | **Modérée-Élevée** (débat dérégulation IA) |
+| John Fetterman | D — Pennsylvanie | Commerce | Alphabet (Google) | GOOGL | mai (débat moratoire IA) | n.c. | Modérée-Élevée (~60 %) | **Modérée** |
+| John Boozman | R — Arkansas | Agriculture (prés.) | Alphabet / Nvidia / Meta / Amazon | GOOGL, NVDA, META, AMZN | mai (débat moratoire IA) | n.c. | Modérée-Élevée (~60 %) | **Modérée** (chevauchement IA indirect) |
+
+> ⚠️ **Réserve sur le millésime** : le cluster d'achats de titres IA (Moran, Capito, Fetterman, Boozman) provient du rapport CREW « *Four senators bought AI stock while Senate considered deregulating AI* », adossé au débat sénatorial sur le **moratoire de 10 ans sur la régulation de l'IA**. Les achats sont datés de **« mai »** : le millésime exact (2025 ou 2026) n'a pas pu être confirmé depuis cet environnement (sources agrégatrices en 403). À recouper sur efdsearch.senate.gov.
+
+---
+
+## Tableau de suivi — positions d'achat récentes (cumul)
 
 | Sénateur | Parti / État | Commission sensible | Société | Ticker | Date d'achat | Montant | Probabilité de gain | **Probabilité de délit d'initié** |
 |----------|--------------|---------------------|---------|--------|--------------|---------|---------------------|-----------------------------------|
@@ -58,6 +72,21 @@ Le profil le plus actif et le plus sensible du tableau. Mullin a déclaré avoir
 - **Amkor (AMKR)** : packaging de semi-conducteurs, chaîne d'approvisionnement militaire → **+60 %**.
 - Autres : Adobe, Citigroup, APi Group, FirstCash, Stride, McKesson, Monolithic Power → conflit faible.
 
+### 🆕 🔴 Markwayne Mullin (R — OK) — achat UnitedHealth (UNH) — *Senate HELP Committee*
+
+- Achat de **50 001–100 000 $** d'actions **UnitedHealth Group (UNH)** le **25 février 2026** (divulgué vers le 10–12 mars 2026), **en plus** d'un précédent achat d'UNH de 15–50 k$ en **septembre 2025**.
+- Mullin siège à la commission **HELP** (*Health, Education, Labor and Pensions*) et à des sous-commissions santé → **chevauchement direct** avec un grand assureur santé. Les analystes de gouvernance (Simply Wall St, Sahm Capital) ont qualifié l'opération de **risque de gouvernance / conflit d'intérêts**.
+- Contexte : Mullin a été **désigné par Trump pour diriger le DHS** et s'est engagé à **céder ses participations s'il est confirmé**.
+- ➡️ **Probabilité de délit d'initié : Modérée-Élevée** (chevauchement commission santé + assureur). **Probabilité de gain : Modérée (~55 %)** — achat opéré sur un repli marqué d'UNH ; rebond non garanti. Trades passés par un gérant tiers selon son bureau ; **légal**.
+
+### 🆕 🟣 Cluster « titres IA » — Moran, Capito, Fetterman, Boozman (rapport CREW)
+
+- Le rapport **CREW** (*Citizens for Responsibility and Ethics in Washington*) « *Four senators bought AI stock while Senate considered deregulating AI* » identifie quatre sénateurs ayant acheté (eux-mêmes, conjoint ou enfant à charge) des titres **Google/Alphabet** en **mai**, pendant que le Sénat examinait un **moratoire de 10 ans interdisant aux États de réguler l'IA** (lobbying d'Amazon, Google, Microsoft, Meta).
+- **Jerry Moran (R — KS)**, membre de la commission **Commerce**, aurait acheté **4 004–60 000 $** d'actions Google (avec son épouse) **le jour même d'une audition de la commission Commerce sur l'IA** → **timing le plus sensible du lot**.
+- **John Boozman (R — AR)** a aussi déclaré **Nvidia (NVDA), Meta (META) et Amazon (AMZN)**.
+- **Shelley Moore Capito (R — WV)** et **John Fetterman (D — PA)** : achats de Google sur la même période.
+- ➡️ **Probabilité de délit d'initié : Élevée pour Moran** (timing audition + commission compétente), **Modérée-Élevée pour Capito/Fetterman/Boozman**. **Probabilité de gain : Modérée-Élevée (~60 %)** — méga-cap technologiques porteuses, mais risque antitrust (procédure DOJ sur le monopole de recherche de Google). **Légal** ; à recouper pour le millésime exact.
+
 ### 🔵 John Hickenlooper (D — Colorado) — membre du *Senate Commerce Committee*
 
 - Investissement dans **Palo Alto Networks (PANW)**, société de cybersécurité, déclaré **quelques mois avant** l'expansion d'un programme fédéral d'achats élargissant l'accès des agences aux produits de la firme.
@@ -79,6 +108,8 @@ Le profil le plus actif et le plus sensible du tableau. Mullin a déclaré avoir
 
 - Une **analyse de CNN (février 2026)** a identifié au moins **10 sénateurs** ayant tradé des titres dans des secteurs supervisés par leurs commissions : R — Hagerty, Kennedy, Moody, Moran, Moreno, Mullin, Tuberville ; D — Hickenlooper, Peters, Whitehouse.
 - Un **projet de loi bipartisan (Ossoff)** d'interdiction du trading d'actions au Congrès a passé une commission clé du Sénat — réforme en cours de discussion en 2026.
+- **17 juin 2026** : la commission des forces armées du Sénat a approuvé un texte interdisant aux **sous-traitants de la défense** de racheter leurs propres actions sans accord du Pentagone (contexte de défiance accru autour des conflits d'intérêts).
+- **Bill Hagerty (R — TN)** a déclaré de nouvelles transactions en 2026 (gains mensuels estimés à six chiffres par Quiver) ; détail des titres non récupérable depuis cet environnement (sources en 403).
 
 ---
 
@@ -94,5 +125,10 @@ Le profil le plus actif et le plus sensible du tableau. Mullin a déclaré avoir
 - [GuruFocus — Markwayne Mullin trades](https://www.gurufocus.com/politician/260/markwayne-mullin)
 - [MarketBeat — Tommy Tuberville trades](https://marketbeat.com/congress-stock-trades/profiles/tommy-tuberville)
 - [Senate Stock Watcher](https://senatestockwatcher.com/)
+- [Markets Daily — Mullin achète UnitedHealth (UNH)](https://www.themarketsdaily.com/2026/03/12/sen-markwayne-mullin-purchases-shares-of-unitedhealth-group-incorporated-nyseunh.html)
+- [Sahm Capital — Mullin's UnitedHealth trade puts governance risk in sharper focus](https://www.sahmcapital.com/news/content/senator-mullins-unitedhealth-trade-puts-governance-risk-in-sharper-focus-2026-03-12)
+- [CREW — Four senators bought AI stock while Senate considered deregulating AI](https://www.citizensforethics.org/reports-investigations/crew-investigations/four-senators-bought-ai-stock-while-senate-considered-deregulating-ai/)
+- [CNBC — Defense contractors barred from stock buybacks in Senate panel bill (17/06/2026)](https://www.cnbc.com/amp/2026/06/17/defense-contractors-stock-buybacks-senate-warren-trump.html)
+- [Trendlyne — US politician trade tracker (11–20 juin 2026)](https://us.trendlyne.com/us/politicians/recent-trades/)
 
-> *Données reconstituées le 2026-06-15 à partir de divulgations publiques STOCK Act. Ne constitue pas un conseil en investissement ni une imputation de fait délictueux.*
+> *Données reconstituées le 2026-06-22 à partir de divulgations publiques STOCK Act. Ne constitue pas un conseil en investissement ni une imputation de fait délictueux.*
