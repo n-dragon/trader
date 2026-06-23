@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 171,60 | +19,20 | +5,93% |
-| Sanofi | SAN.PA | 3 | 87,00 | 91,80 | +14,40 | +5,52% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 262,20 | +42,20 | +19,18% |
-| Vinci | DG.PA | 1 | 115,80 | 127,40 | +11,60 | +10,02% |
+| Air Liquide | AI.PA | 2 | 162,00 | 171,40 | +18,80 | +5,80% |
+| Sanofi | SAN.PA | 3 | 87,00 | 92,00 | +15,00 | +5,75% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 263,00 | +43,00 | +19,55% |
+| Vinci | DG.PA | 1 | 115,80 | 127,80 | +12,00 | +10,36% |
 
 **Liquidités disponibles :** 93,70 €  
-**Valeur investie (cours actuels) :** 1 008,20 €  
-**Valeur totale du portefeuille :** 1 101,90 € (**+10,19 %** depuis ouverture)
+**Valeur investie (cours actuels) :** 1 009,60 €  
+**Valeur totale du portefeuille :** 1 103,30 € (**+10,33 %** depuis ouverture)
 
-> Stops actifs : SU.PA **250,00 €** trailing, DG.PA **121,00 €** technique. Mise à jour : 2026-06-22 17:40 CET (**lundi — séance de transition post-FOMC, Williams centriste en ligne, 0 transaction**). Bilan séance : drift latéral conforme au scénario, **aucun seuil touché**, P&L jour **+0,60 € (+0,05 %)**. Carnet : 9 seuils armés (reconduit à l'identique pour la 3ᵉ séance consécutive : samedi → dimanche → lundi).
+> Stops actifs : SU.PA **250,00 €** trailing, DG.PA **121,00 €** technique. Mise à jour : 2026-06-23 17:40 CET (**mardi — J+4 post-FOMC, Consumer Confidence 99,8 en ligne, 0 transaction**). Bilan séance : drift latéral très légèrement haussier conforme au scénario, **aucun seuil touché**, P&L jour **+1,40 € (+0,13 %)**. Carnet : 9 seuils armés (reconduit à l'identique pour la 4ᵉ séance consécutive : samedi → dimanche → lundi → mardi).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -2241,6 +2241,72 @@ Le stop passe d'une position de **perte mécanique bornée à -5,80 € (-5,0 %)
 3. **La semaine 22-26 juin entre désormais dans sa phase la plus exigeante : 4 séances de calme apparent à traverser sans bricolage avant le pivot PCE vendredi.** Le risque comportemental dominant des 3 prochaines séances (mardi-mercredi-jeudi) est de « faire quelque chose pour justifier sa présence » : remonter un stop, ajouter une mini-position, glisser un seuil de 1 ou 2 €. **Chacune de ces micro-actions, prise isolément, semble anodine** ; cumulées, elles dégradent un système calibré à froid. **La consigne est explicite : reconduire le carnet à l'identique chaque jour jusqu'à vendredi 14:30 CET (publication PCE), sauf déclenchement mécanique d'un seuil pré-armé.**
 
 **Prochaine réévaluation** : **mardi 23 juin 17:35 CET** (clôture Euronext, post-Consumer Confidence 16:00 CET). Stops actifs : SU.PA **250,00 €** trailing, DG.PA **121,00 €** technique. Carnet d'ordres conditionnels armé sur **9 seuils** (**reconduit à l'identique pour la 3ᵉ séance consécutive : samedi → dimanche → lundi**). Cash 93,70 € dormant. Focus : laisser la dérive faire son travail jusqu'au pivot PCE de vendredi.
+
+---
+
+### 2026-06-23 17:40 — Mardi : J+4 post-FOMC, Consumer Confidence 99,8 en ligne, drift latéral, 0 transaction (session 41)
+
+#### Contexte de marché
+
+- **Asie nuit lundi-mardi** : Nikkei +0,35 %, Hang Seng +0,18 %, Shanghai Comp -0,04 %. Pas de catalyseur asiatique matériel. Futures CAC 40 indicatif quasi-flat à 8 322 pts (+0,02 %).
+- **Bostic (Fed Atlanta, hawkish modéré) — lundi 19:30 CET, hors séance Euronext** : ton **légèrement plus prudent que Williams** mais sans dévier du statement. Citation clé : *« the disinflation path remains intact but we should not declare victory prematurely »*. **Pas de market mover** : S&P 500 -0,06 % sur les 15 min post-discours, 10y US 3,84 → 3,85 % (+1 bp, insignifiant). **Confirmation du cadre désinflationniste prudent** — exactement le scénario central.
+- **Ouverture Euronext (9:00 CET)** : CAC 40 ouvre à **8 320 pts (0,00 %)**, range matinée 8 310–8 332, consolidation après-midi 8 318–8 338 après publication Consumer Confidence en ligne, clôture **8 328 pts (+0,10 %)**. Volumes -8 % vs vendredi (mardi de digestion typique). **Nouvelle consolidation au-dessus de 8 300 pts** — la zone post-FOMC est tenue pour la 2ᵉ séance consécutive.
+- **Consumer Confidence US (16:00 CET)** : **99,8** vs consensus 99,5 (**léger beat sans surprise**). Sous-indice expectations 88,4 vs 88,0 attendu. **Pas de market mover** : S&P 500 +0,05 % sur les 30 min post-publication, 10y US 3,85 % inchangé. **Non-événement confirmé**, exactement le scénario central de samedi.
+- **Wall Street ouverture (15:30 CET)** : S&P 500 +0,12 %, Nasdaq +0,18 %, Russell 2000 +0,04 %. Drift très légèrement haussier post-Consumer Confidence en ligne.
+- **10y US** : 3,85 % (+1 bp vs lundi, insignifiant). EUR/USD 1,1034 → 1,1036 (+0,02 %). VIX 11,7 → 11,5 (-0,2 pt). **Or** : 2 382 → 2 386 $/oz (+0,2 %). **Brent** : 80,20 → 80,40 $ (+0,2 %).
+- **Mes 4 lignes au cours de la séance Euronext** :
+  - **SU.PA** : ouverture **262,30 €** (+0,04 %), range 262,00–263,40, clôture **263,00 € (+0,31 %)**. **Consolidation haussière marginale au-dessus de 262 €** pour la 3ᵉ séance, drift haussier discipliné vers le seuil #2. Plus haut **263,40 €**, à 1,60 € (0,61 %) du seuil #2 (265 €). Stop trailing 250 €, marge **13,00 €** (-4,94 %). P&L latent : **+43,00 € soit +19,55 %**.
+  - **DG.PA** : ouverture **127,50 €** (+0,08 %), range 127,30–128,00, clôture **127,80 € (+0,31 %)**. **Retour vers 128 €** sans cassure haussière franche, la zone 127–128 € se confirme comme base de travail. Stop 121 € technique, marge 6,80 € (-5,32 %). P&L latent : **+12,00 € soit +10,36 %**.
+  - **AI.PA** : ouverture **171,60 €** (0,00 %), range 171,20–171,80, clôture **171,40 € (-0,12 %)**. Mini-respiration défensive sans signal. P&L : **+18,80 € soit +5,80 %**.
+  - **SAN.PA** : ouverture **91,80 €** (0,00 %), range 91,80–92,20, clôture **92,00 € (+0,22 %)**. Léger bid dividende anticipé (détachement 8 juillet). P&L : **+15,00 € soit +5,75 %**.
+
+#### Contrôle des ordres conditionnels — aucun seuil déclenché
+
+| # | Seuil | Cours observé (séance) | Déclenché ? |
+|---|-------|------------------------|-------------|
+| 1 | SU.PA < 250,00 € (stop trailing) | plus bas 262,00 € | ❌ non |
+| 2 | SU.PA > 265,00 € | plus haut 263,40 € | ❌ non (à 1,60 €, en approche douce) |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 171,40 € / 92,00 € | ❌ non |
+| 4 | DG.PA < 121,00 € (stop technique) | plus bas 127,30 € | ❌ non |
+| 5 | DG.PA > 132,00 € | plus haut 128,00 € | ❌ non |
+| 6 | TSM ADR < 115 € | ~149 $ ≈ 135 € | ❌ non |
+| 7 | CAC 40 < 8 100 pts | clôture 8 328 pts | ❌ non |
+| 8 | PCE core vendredi 26 juin | J-3 | ❌ non (à venir) |
+| 9 | PCE core surprise franche | J-3 | ❌ non (à venir) |
+
+**Bilan du contrôle : 0 seuil déclenché mardi, 0 action mécanique nouvelle. 9 seuils restants armés.**
+
+#### Décisions
+
+**1. AUCUNE ACTION — séance de transition parfaite, le carnet n'a pas eu à se déclencher.** Le portefeuille gagne **+1,40 € (+0,13 %)** sur la séance par dérive haussière marginale (SU + DG + SAN positifs, AI légèrement négatif), sans aucune intervention. **2ᵉ séance « 0 transaction » consécutive — la signature du succès méthodologique post-FOMC.**
+
+**2. CONSERVE — SU.PA, DG.PA, AI.PA, SAN.PA inchangées.** Les 4 lignes voient des mouvements infra-pourcent, aucun signal mécanique. Stops SU 250 € et DG 121 € préservés à l'identique.
+
+**3. PAS DE RELÈVE DE STOP DISCRÉTIONNAIRE.** Tentations explicitement refusées pour la 2ᵉ séance consécutive :
+- (i) Remonter SU à 253 € « parce que SU approche 265 € » → **refusé**, la marge 4,94 % est juste au-dessus de la fourchette de volatilité hebdo (2,5 %). La prochaine relève SU sera mécanique au déclenchement du seuil #2 à 265 €, qui donnera un stop relevé à 254 € (lock-in +34,00 €).
+- (ii) Remonter DG à 123 € « SU et DG dérivent ensemble en consolidation haussière » → **refusé**, la prochaine relève DG est mécanique au déclenchement du seuil #5 à 132 €, point.
+
+**4. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue.** Williams + Bostic en ligne ne changent rien à la thèse, pas d'invitation à élargir.
+
+**5. CASH : 93,70 €** — **inchangé pour la 12ᵉ séance consécutive**. Le seuil #3 défensif n'est pas activé, le renforcement DG conditionnel pas déclenché. Cash dormant, affecté à un déclenchement mécanique futur.
+
+**6. CARNET D'ORDRES — reconduit à l'identique pour la 4ᵉ séance consécutive** (samedi → dimanche → lundi → mardi). Aucun glissement, aucun ajout post-Consumer Confidence. La discipline tient.
+
+#### Stratégie
+
+**Le portefeuille passe de 1 101,90 € à 1 103,30 € (+1,40 € soit +0,13 % sur la séance), soit +10,33 % depuis ouverture le 19 mai en 29 séances.** Le portefeuille inscrit un **nouveau plus haut historique en clôture** pour la 2ᵉ séance consécutive, toujours par dérive marginale, sans aucune transaction. **C'est la prolongation de la digestion calme post-FOMC**, exactement le profil attendu pour une semaine de transition vers le pivot PCE de vendredi.
+
+**Le J+4 post-FOMC valide la 2ᵉ application du carnet en conditions réelles.** Bostic (hawkish modéré) lundi soir a confirmé le ton du statement sans broder, Consumer Confidence est ressorti en ligne avec un léger beat sans market mover, et le portefeuille a dérivé de 1,40 € par effet de drift purement passif. **Le carnet recalibré samedi est désormais validé sur 2 séances consécutives** : 0 seuil touché, 0 stop déclenché, 0 action discrétionnaire, 0 tentation cédée.
+
+**Trois enseignements à graver pour la suite de la semaine** :
+
+1. **L'approche douce de SU vers 265 € (à 0,61 % seulement) est la mécanique idéale d'un seuil pré-armé.** Le titre ne s'envole pas en une séance vers 270 € (ce qui poserait la question d'un stop trop bas) ni ne s'effondre vers 258 € (ce qui poserait la question d'une dérive baissière). Il consolide à 262–263 € avec un drift haussier de 0,3 % par séance, ce qui pourrait amener mécaniquement le déclenchement du seuil #2 vers jeudi ou vendredi si la dynamique se prolonge. **Le scénario d'exécution mécanique du seuil #2 à 265 € coupled avec le PCE en ligne vendredi est désormais le scénario haussier de référence pour la fin de semaine.**
+
+2. **DG dans la zone 127–128 € pour la 3ᵉ séance consécutive consolide la cassure technique sans rejet.** Le titre n'a pas refranchi 128 € en clôture depuis vendredi 19, mais n'a pas non plus reflué sous 127 €. Cette consolidation latérale étroite (range 127,20–128,20 € sur 3 séances) est la signature d'une base technique en construction, prélude à un test ultérieur de 132 € (seuil #5 nouveau). **Aucune raison de bricoler le stop à 121 €** — il fait son travail de plancher mécanique.
+
+3. **Mercredi 24 et jeudi 25 juin sont des séances de calme apparent à traverser avec la même discipline.** Commandes biens durables mercredi (+0,5 % MoM consensus, non-événement attendu) et Jobless Claims + GDP T1 final jeudi (non-événements attendus). **Le risque comportemental dominant des 2 prochaines séances est l'« ennui productif inversé »** : après 2 séances « 0 transaction » consécutives, la tentation est de bricoler pour « justifier sa présence ». La consigne explicite : **reconduire le carnet à l'identique mercredi et jeudi, sauf déclenchement mécanique d'un seuil pré-armé**. Le vrai pivot reste vendredi 14:30 CET avec PCE.
+
+**Prochaine réévaluation** : **mercredi 24 juin 17:35 CET** (clôture Euronext, post-Commandes biens durables 14:30 CET). Stops actifs : SU.PA **250,00 €** trailing, DG.PA **121,00 €** technique. Carnet d'ordres conditionnels armé sur **9 seuils** (**reconduit à l'identique pour la 4ᵉ séance consécutive : samedi → dimanche → lundi → mardi**). Cash 93,70 € dormant. Focus : laisser la dérive faire son travail jusqu'au pivot PCE de vendredi, sans bricolage discrétionnaire.
 
 ---
 
