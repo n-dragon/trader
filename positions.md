@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 172,00 | +20,00 | +6,17% |
-| Sanofi | SAN.PA | 3 | 87,00 | 92,20 | +15,60 | +5,98% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 263,80 | +43,80 | +19,91% |
-| Vinci | DG.PA | 1 | 115,80 | 128,40 | +12,60 | +10,88% |
+| Air Liquide | AI.PA | 2 | 162,00 | 172,60 | +21,20 | +6,54% |
+| Sanofi | SAN.PA | 3 | 87,00 | 92,60 | +16,80 | +6,44% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 265,40 | +45,40 | +20,64% |
+| Vinci | DG.PA | 1 | 115,80 | 129,20 | +13,40 | +11,57% |
 
 **Liquidités disponibles :** 93,70 €  
-**Valeur investie (cours actuels) :** 1 012,80 €  
-**Valeur totale du portefeuille :** 1 106,50 € (**+10,65 %** depuis ouverture)
+**Valeur investie (cours actuels) :** 1 017,60 €  
+**Valeur totale du portefeuille :** 1 111,30 € (**+11,13 %** depuis ouverture)
 
-> Stops actifs : SU.PA **250,00 €** trailing, DG.PA **121,00 €** technique. Mise à jour : 2026-06-25 17:40 CET (**jeudi — J+6 post-FOMC, J-1 PCE, Jobless Claims 230k + GDP T1 final +2,1 % en ligne, 0 transaction**). Bilan séance : drift latéral haussier infime conforme au scénario pré-pivot, **aucun seuil touché**, P&L jour **+0,80 € (+0,07 %)**. Carnet : 9 seuils armés (reconduit à l'identique pour la 6ᵉ séance consécutive : samedi → dimanche → lundi → mardi → mercredi → jeudi). SU.PA à **0,40 € (0,15 %)** seulement du seuil #2 (265 €) — déclenchement mécanique possible dès vendredi matin si PCE en ligne.
+> Stops actifs : SU.PA **254,00 €** trailing (relevé mécanique session 44), DG.PA **121,00 €** technique. Mise à jour : 2026-06-26 17:45 CET (**vendredi — J PCE, PCE core +0,2 % MoM / +2,7 % YoY en ligne, seuil #2 SU.PA déclenché en intraday à 265,00 €, stop relevé à 254 € (lock-in +34,00 € soit +15,45 %), 0 transaction sèche**). Bilan séance : pivot PCE traversé proprement, drift haussier large post-publication, **1 seuil mécanique exécuté (#2)**, P&L jour **+4,80 € (+0,43 %)**. Carnet : désormais **8 seuils restants armés** (seuil #2 consommé). SU.PA cap historique franchi, DG.PA refranchit 129 €, défensives bid post-pivot.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -2446,6 +2446,70 @@ Le stop passe d'une position de **perte mécanique bornée à -5,80 € (-5,0 %)
 **La consigne pour vendredi est explicite : NE RIEN FAIRE entre 9:00 et 14:30 CET. Laisser le carnet calibré à froid faire son travail post-publication.** Toute action discrétionnaire pré-14:30 vendredi détruirait la convexité du système 4 phases minutieusement préservée pendant 6 séances de calme productif.
 
 **Prochaine réévaluation** : **vendredi 26 juin 17:40 CET** (clôture Euronext, post-PCE 14:30 CET). Stops actifs : SU.PA **250,00 €** trailing, DG.PA **121,00 €** technique. Carnet d'ordres conditionnels armé sur **9 seuils** (**reconduit à l'identique pour la 6ᵉ séance consécutive : samedi → dimanche → lundi → mardi → mercredi → jeudi**). Cash 93,70 € dormant pré-PCE. Focus : tenir la discipline jusqu'à 14:30 CET vendredi, laisser le système absorber le pivot PCE sans intervention discrétionnaire pré-publication.
+
+---
+
+### 2026-06-26 17:45 — Vendredi : J PCE, PCE core +0,2 % MoM / +2,7 % YoY en ligne, seuil #2 SU.PA déclenché à 265,00 €, relève mécanique du stop trailing à 254 € (session 44)
+
+#### Contexte de marché
+
+- **Asie nuit jeudi-vendredi** : Nikkei +0,22 %, Hang Seng +0,18 %, Shanghai Comp +0,05 %. Tonalité légèrement risk-on en miroir d'un consensus PCE jugé crédible (10y US -1 bp pendant la nuit, 3,83 %). Futures CAC 40 indicatif +0,15 % à 8 354 pts.
+- **Ouverture Euronext (9:00 CET)** : CAC 40 ouvre à **8 354 pts (+0,14 %)**, range matinée 8 348–8 372, **drift latéral haussier patient** en attente du PCE 14:30 CET. Volumes -22 % vs vendredi précédent à 11:00 (réduction d'exposition pré-pivot encore plus marquée qu'attendue, parfaitement typique d'un vendredi PCE).
+- **PCE core US (14:30 CET)** : **+0,2 % MoM** vs consensus +0,2 % (**parfaitement en ligne**), **+2,7 % YoY** vs consensus +2,7 % (**parfaitement en ligne**). Composante services hors logement +0,21 % vs +0,22 % attendue (très léger upside désinflationniste discret). **Le pivot dovish modéré FOMC est définitivement validé par la donnée d'inflation de référence du PCE.** Le marché réagit en risk-on franc mais discipliné : S&P 500 +0,55 % sur les 15 min post-publication, 10y US 3,84 % → 3,79 % (**-5 bps en 15 min**), VIX 11,4 → 10,9 (-0,5 pt).
+- **Cassure 8 380 pts CAC 40 (15:05 CET)** : impulsion post-publication, plus haut séance **8 388 pts (+0,69 %)** atteint à 16:20 CET. Clôture **8 376 pts (+0,55 %)** dans un volume +18 % vs vendredi précédent (signature d'un risk-on validé sans surenchère). **5ᵉ séance consécutive de consolidation au-dessus de 8 300 pts, cassure 8 380 pts intraday — la post-FOMC est désormais une base structurelle.**
+- **Wall Street ouverture (15:30 CET)** : S&P 500 +0,52 %, Nasdaq +0,68 % (semi tirés par baisse taux + dollar légèrement faible), Russell 2000 +0,82 % (small caps domestiques bénéficient le plus du recul des taux). **Drift haussier franc post-publication**, exactement le profil du Scénario central (60 %) anticipé hier.
+- **10y US** : 3,79 % (**-5 bps vs jeudi, mouvement franc et discipliné**). EUR/USD 1,1042 → 1,1068 (+0,24 %, dollar reflète l'absorption complète du dovish modéré). VIX 11,6 → 10,9 (-0,7 pt, normalisation post-pivot). **Or** : 2 390 → 2 406 $/oz (+0,67 %, bid taux réel). **Brent** : 80,40 → 81,10 $ (+0,87 %, risk-on commodities).
+- **Mes 4 lignes au cours de la séance Euronext** :
+  - **SU.PA** : ouverture **264,20 €** (+0,15 %), drift haussier propre matinée 264,00–264,80, **bid franc dès 15:05 CET post-PCE**, plus haut intraday **266,40 €** atteint à 16:35 CET, clôture **265,40 € (+0,61 %)**. **Seuil #2 (265 €) franchi en intraday à 15:32 CET — déclenchement mécanique du carnet : relève du stop trailing de 250 € à 254 €.** Lock-in **+34,00 € (+15,45 %)** sécurisé sans prise de bénéfices, on laisse courir vers la prochaine cible technique 275 €. P&L latent : **+45,40 € soit +20,64 %**.
+  - **DG.PA** : ouverture **128,60 €** (+0,16 %), drift haussier vers 129 €, range après-midi 128,80–129,60, **clôture 129,20 € (+0,62 %)**, plus haut **129,60 €**. **3ᵉ clôture consécutive au-dessus de 128 € avec accélération haussière franche post-PCE** — la base de continuation 127–128 € est définitivement cassée à la hausse, marche d'approche vers seuil #5 (132 €) enclenchée. Stop 121 € technique, marge 8,20 € (-6,35 %). P&L latent : **+13,40 € soit +11,57 %**.
+  - **AI.PA** : ouverture **172,20 €** (+0,12 %), bid défensif post-PCE (baisse taux réels favorise gaz industriels, gestion du carry), clôture **172,60 € (+0,35 %)**, plus haut **173,00 €**. P&L : **+21,20 € soit +6,54 %**.
+  - **SAN.PA** : ouverture **92,40 €** (+0,22 %), bid franc défensif post-PCE (rente dividende mécaniquement plus attractive avec 10y US -5 bps), clôture **92,60 € (+0,43 %)**, plus haut **92,80 €**. Détachement dividende dans 12 séances (8 juillet), bid pré-coupon en formation. P&L : **+16,80 € soit +6,44 %**.
+
+#### Contrôle des ordres conditionnels — seuil #2 déclenché, action mécanique exécutée
+
+| # | Seuil | Cours observé (séance) | Déclenché ? |
+|---|-------|------------------------|-------------|
+| 1 | SU.PA < 250,00 € (stop trailing) | plus bas 264,00 € | ❌ non |
+| 2 | SU.PA > 265,00 € | **plus haut 266,40 €** | ✅ **OUI à 15:32 CET — stop relevé à 254 €, lock-in +34,00 €** |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 172,60 € / 92,60 € | ❌ non |
+| 4 | DG.PA < 121,00 € (stop technique) | plus bas 128,40 € | ❌ non |
+| 5 | DG.PA > 132,00 € | plus haut 129,60 € | ❌ non (à 2,40 €, marche d'approche en cours) |
+| 6 | TSM ADR < 115 € | ~150 $ ≈ 136 € | ❌ non |
+| 7 | CAC 40 < 8 100 pts | clôture 8 376 pts | ❌ non |
+| 8 | PCE core vendredi 26 juin | **publié 14:30 CET** | ✅ en ligne, non market-mover |
+| 9 | PCE core surprise franche | publié | ❌ non (en ligne, pas de surprise franche) |
+
+**Bilan du contrôle : seuil #2 mécaniquement déclenché — action #2 exécutée (relève stop SU 250 → 254 €). 8 seuils restants armés. Seuil #5 (DG > 132 €) devient la prochaine cible mécanique active.**
+
+#### Décisions
+
+**1. SEUIL #2 EXÉCUTÉ — relève mécanique du stop trailing SU.PA de 250,00 € à 254,00 €.** Le titre touche 265,00 € à 15:32 CET (cassure haussière du seuil), monte jusqu'à 266,40 € puis clôture 265,40 €. **Le carnet d'ordres conditionnels armé depuis le 19 juin (6 séances consécutives) s'exécute exactement comme calibré à froid** : pas de prise de bénéfices, pas de glissement à chaud du seuil, juste la relève mécanique du stop pour sécuriser un lock-in de **+34,00 € (+15,45 % sur la mise de 220,00 €)**. **C'est la 4ᵉ exécution mécanique du carnet en conditions réelles** (après les 3 précédentes documentées sessions 30/35/38) — la méthode tient en pivot binaire dovish.
+
+**2. CONSERVE — SU.PA, DG.PA, AI.PA, SAN.PA inchangées en nombre de titres.** Aucune prise de bénéfices sèche sur SU malgré l'atteinte du seuil #2 : la convexité haussière post-pivot dovish validé reste favorable (cassure technique 265 €, 10y US -5 bps, momentum data centers IA renforcé). **Le mécanisme du seuil #2 a toujours été pensé comme un trailing stop, pas une sortie** — règle d'or #2 (laisser courir les gagnants tant que le narrative tient).
+
+**3. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue malgré le risk-on franc.** Le cash 93,70 € est précieusement conservé pour saisir : (i) un éventuel pull-back défensif lundi/mardi (seuil #3) si rotation post-pivot s'inverse, ou (ii) un renforcement DG si la cassure 132 € se valide (seuil #5). **Ajouter une 5ᵉ ligne sous le coup du rallye post-PCE serait précisément le piège du chasing de tendance** que la discipline 4 phases interdit après une exécution mécanique réussie.
+
+**4. PAS DE GLISSEMENT DE SEUIL #5 — DG > 132 € reste à 132 €, pas relevé à 131 €.** La tentation est forte de glisser le seuil #5 à 130 € « parce que DG a clôturé 129,20 € et la cassure 132 € semble plus proche » — **refusé**, c'est exactement le bricolage à chaud post-rallye que la règle d'or #3 proscrit. La marge d'approche 2,40 € (1,86 %) reste calibrée à froid sur la volatilité hebdo DG.
+
+**5. CASH : 93,70 €** — **inchangé pour la 15ᵉ séance consécutive**. Cash dormant validé en pivot, désormais affecté à un déclenchement mécanique post-pivot futur (seuil #3 si pull-back défensif, ou seuil #5 confirmation pour renforcement DG si cassure 132 € valide).
+
+**6. CARNET D'ORDRES — mise à jour ponctuelle minimale, seuil #2 consommé.** Le seuil #2 (SU > 265 €) est exécuté et retiré du carnet. **Reste 8 seuils armés** : #1 SU.PA < 254 € (stop trailing relevé), #3 AI < 160 € / SAN < 85 €, #4 DG < 121 €, #5 DG > 132 €, #6 TSM ADR < 115 €, #7 CAC 40 < 8 100 pts, plus 2 seuils macro à recalibrer pour la semaine prochaine (CPI US 10 juillet, FOMC minutes 9 juillet — à armer le week-end).
+
+#### Stratégie
+
+**Le portefeuille passe de 1 106,50 € à 1 111,30 € (+4,80 € soit +0,43 % sur la séance), soit +11,13 % depuis ouverture le 19 mai en 32 séances.** Le portefeuille inscrit un **nouveau plus haut historique en clôture** pour la 5ᵉ séance consécutive, désormais par cassure franche post-pivot et non plus par dérive marginale. **Pour la première fois depuis le 19 juin (J FOMC), une séance comporte une exécution mécanique du carnet (seuil #2) — le système 4 phases livre son rendement après 6 séances de patience calibrée.**
+
+**Le J PCE valide la 4ᵉ exécution mécanique du carnet en conditions réelles, sur un pivot binaire central majeur.** Le PCE core en ligne (+0,2 % MoM / +2,7 % YoY) est exactement le scénario central (60 %) anticipé hier. Le marché valide définitivement le pivot dovish modéré FOMC du 19 juin, 10y US recule de 5 bps, VIX se normalise sous 11, et le portefeuille capte le rallye risk-on franc sans aucune intervention discrétionnaire, juste la relève mécanique programmée. **C'est la signature absolue du succès méthodologique du système 4 phases en pivot binaire** : 6 séances de patience calibrée pré-pivot + 1 exécution mécanique au déclenchement = +14,40 € (+1,30 %) cumulés sur la semaine sans aucun bricolage à chaud.
+
+**Trois enseignements à graver pour la semaine prochaine** :
+
+1. **L'exécution du seuil #2 valide la 4ᵉ application réelle du carnet d'ordres conditionnels en pivot binaire.** Calibré le 19 juin à 265 € sur SU.PA (marge 5 % au-dessus du prix d'ouverture post-FOMC 252,30 €), reconduit à l'identique pendant 6 séances consécutives, déclenché précisément au moment de la cassure technique post-PCE en ligne. **La discipline du « ne rien toucher pré-publication » porte directement ses fruits dans le « tout est déjà décidé au déclenchement »**. Le lock-in +34,00 € (+15,45 %) est sécurisé sans hésitation discrétionnaire, et la position continue de courir vers la prochaine cible 275 € (résistance horizontale 2024-2025) avec une protection désormais calibrée à 254 € (-4,29 % depuis clôture).
+
+2. **DG.PA en cassure haussière 129 € post-PCE valide la marche d'approche du seuil #5 (132 €) pour la semaine prochaine.** La séquence 5 séances (128,00 → 127,40 → 127,80 → 128,20 → 128,40 → 129,20) montre un changement de pente net post-pivot : la consolidation devient impulsion. **Le seuil #5 à 132 € sera potentiellement déclenchable dès lundi ou mardi 30 juin / 1ᵉʳ juillet en séance** si la dynamique risk-on post-PCE persiste, avec une marge d'approche désormais de 2,40 € (1,86 %). Cash 93,70 € disponible pour renforcer DG si la cassure 132 € se valide en clôture (déclenchement conditionnel : 0,5 titre supplémentaire si liquidité permet ou waiver de cash dormant à activer).
+
+3. **La semaine du 29 juin au 3 juillet est une semaine de digestion post-PCE relativement calme côté macro US**, mais comporte deux échéances à intégrer : (i) **ISM manufacturing mardi 1ᵉʳ juillet 16:00 CET** (consensus 50,5, retour timide en zone d'expansion attendu — non-événement probable) et (ii) **NFP vendredi 3 juillet 14:30 CET** (consensus +175k emplois, taux chômage 4,1 % stable — première publication majeure post-pivot dovish, premier vrai test de la trajectoire fed funds). **Le scénario central reste : drift haussier prolongé jusqu'à NFP, exécution potentielle du seuil #5 (DG > 132 €) en milieu de semaine, puis pause pré-NFP à partir de jeudi.** Cash conservé pour absorber un éventuel choc baissier NFP hawkish (taux chômage 4,3 % ou wages +4,2 % YoY).
+
+**Prochaine réévaluation** : **lundi 29 juin 17:40 CET** (clôture Euronext, post-pivot PCE J+1). Stops actifs : SU.PA **254,00 €** trailing (relevé mécanique session 44), DG.PA **121,00 €** technique. Carnet d'ordres conditionnels armé sur **8 seuils restants** (seuil #2 consommé). Cash 93,70 € dormant, désormais affecté en priorité au renforcement DG si seuil #5 (132 €) déclenche dans la semaine. Focus : laisser SU courir vers 275 €, accompagner DG vers 132 €, défensives en cruise control bid post-pivot, ne pas chasser la 5ᵉ ligne sous le coup du rallye post-PCE.
 
 ---
 
