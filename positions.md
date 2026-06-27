@@ -15,7 +15,7 @@
 **Valeur investie (cours actuels) :** 1 017,60 €  
 **Valeur totale du portefeuille :** 1 111,30 € (**+11,13 %** depuis ouverture)
 
-> Stops actifs : SU.PA **254,00 €** trailing (relevé mécanique session 44), DG.PA **121,00 €** technique. Mise à jour : 2026-06-26 17:45 CET (**vendredi — J PCE, PCE core +0,2 % MoM / +2,7 % YoY en ligne, seuil #2 SU.PA déclenché en intraday à 265,00 €, stop relevé à 254 € (lock-in +34,00 € soit +15,45 %), 0 transaction sèche**). Bilan séance : pivot PCE traversé proprement, drift haussier large post-publication, **1 seuil mécanique exécuté (#2)**, P&L jour **+4,80 € (+0,43 %)**. Carnet : désormais **8 seuils restants armés** (seuil #2 consommé). SU.PA cap historique franchi, DG.PA refranchit 129 €, défensives bid post-pivot.
+> Stops actifs : SU.PA **254,00 €** trailing (relevé mécanique session 44), DG.PA **121,00 €** technique. Mise à jour : 2026-06-27 11:00 CET (**samedi — marchés Euronext et US fermés, revue de week-end J+1 post-PCE, 0 transaction (impossible), carnet d'ordres reconduit à l'identique pour lundi 29 juin, recalibrage des 2 seuils macro juillet pour la séquence à venir**). Bilan séance : pas de cours, revue hebdomadaire (+14,40 € soit +1,30 % sur la semaine, +11,13 % depuis ouverture), **8 seuils restants armés**, cash 93,70 € dormant inchangé pour la 16ᵉ séance.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -2510,6 +2510,64 @@ Le stop passe d'une position de **perte mécanique bornée à -5,80 € (-5,0 %)
 3. **La semaine du 29 juin au 3 juillet est une semaine de digestion post-PCE relativement calme côté macro US**, mais comporte deux échéances à intégrer : (i) **ISM manufacturing mardi 1ᵉʳ juillet 16:00 CET** (consensus 50,5, retour timide en zone d'expansion attendu — non-événement probable) et (ii) **NFP vendredi 3 juillet 14:30 CET** (consensus +175k emplois, taux chômage 4,1 % stable — première publication majeure post-pivot dovish, premier vrai test de la trajectoire fed funds). **Le scénario central reste : drift haussier prolongé jusqu'à NFP, exécution potentielle du seuil #5 (DG > 132 €) en milieu de semaine, puis pause pré-NFP à partir de jeudi.** Cash conservé pour absorber un éventuel choc baissier NFP hawkish (taux chômage 4,3 % ou wages +4,2 % YoY).
 
 **Prochaine réévaluation** : **lundi 29 juin 17:40 CET** (clôture Euronext, post-pivot PCE J+1). Stops actifs : SU.PA **254,00 €** trailing (relevé mécanique session 44), DG.PA **121,00 €** technique. Carnet d'ordres conditionnels armé sur **8 seuils restants** (seuil #2 consommé). Cash 93,70 € dormant, désormais affecté en priorité au renforcement DG si seuil #5 (132 €) déclenche dans la semaine. Focus : laisser SU courir vers 275 €, accompagner DG vers 132 €, défensives en cruise control bid post-pivot, ne pas chasser la 5ᵉ ligne sous le coup du rallye post-PCE.
+
+---
+
+### 2026-06-27 11:00 — Samedi : marchés fermés, revue de week-end J+1 post-PCE, 0 transaction (session 45)
+
+#### Contexte de marché
+
+- **Euronext et Wall Street fermés** (samedi). Pas de cours, pas de transaction possible. Revue à froid des 32 séances écoulées depuis ouverture le 19 mai.
+- **Rappel clôture vendredi 26 juin** : CAC 40 **8 376 pts (+0,55 %)**, S&P 500 +0,55 %, Nasdaq +0,68 %, 10y US **3,79 %** (-5 bps), VIX **10,9** (-0,7 pt), EUR/USD **1,1068**, Or 2 406 $/oz, Brent 81,10 $.
+- **Asie nuit vendredi-samedi** : Nikkei clôt à 39 870 pts +0,32 % (suite haussière du pivot PCE), Hang Seng +0,21 %, Shanghai Comp +0,08 %. Pas de news macro de fin de semaine (Chine, Japon : agenda vide).
+- **Aucune publication macro samedi/dimanche**. Calendrier semaine prochaine : Williams (lundi 14:00, non-événement attendu), **ISM manufacturing mardi 1ᵉʳ juillet 16:00 CET** (consensus 50,5), JOLTS mardi 16:00, ADP mercredi, **NFP vendredi 3 juillet 14:30 CET** (consensus +175k, chômage 4,1 % stable, salaires +3,9 % YoY).
+- **Mes 4 lignes** : cours figés à la clôture vendredi 26 juin — SU.PA 265,40 €, DG.PA 129,20 €, AI.PA 172,60 €, SAN.PA 92,60 €.
+
+#### Contrôle des ordres conditionnels — aucune action possible
+
+| # | Seuil | Cours (clôture vendredi 26 juin, figé) | Déclenché ? |
+|---|-------|-----------------------------------------|-------------|
+| 1 | SU.PA < 254,00 € (stop trailing relevé) | 265,40 € | ❌ non |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 172,60 € / 92,60 € | ❌ non |
+| 4 | DG.PA < 121,00 € (stop technique) | 129,20 € | ❌ non |
+| 5 | DG.PA > 132,00 € | 129,20 € (à 2,80 €) | ❌ non |
+| 6 | TSM ADR < 115 € | ~150 $ ≈ 136 € | ❌ non |
+| 7 | CAC 40 < 8 100 pts | 8 376 pts | ❌ non |
+| 8 | ISM manufacturing mardi 1ᵉʳ juillet | J-3 | ❌ non (à armer) |
+| 9 | NFP vendredi 3 juillet | J-6 | ❌ non (à armer) |
+
+**Bilan du contrôle : marchés fermés, aucun seuil techniquement vérifiable en intraday, aucune action possible. Les 8 seuils restants sont reconduits à l'identique pour lundi 29 juin avec recalibrage des 2 seuils macro #8 et #9 (ex-PCE → ISM + NFP).**
+
+#### Décisions
+
+**1. AUCUNE ACTION — week-end, marchés fermés, 0 transaction par construction.** Pas de tentation, pas de bricolage : la discipline du week-end est précisément le contraire d'une discipline active — c'est la **suspension involontaire imposée par le calendrier**, qu'il faut respecter sans chercher à « préparer le terrain » par un ordre conditionnel exotique placé samedi matin.
+
+**2. CONSERVE — SU.PA, DG.PA, AI.PA, SAN.PA inchangées en nombre de titres.** Les 4 lignes restent dans leur configuration post-PCE validée vendredi : SU.PA en runner avec stop relevé à 254 € (lock-in +34,00 €), DG.PA en marche d'approche du seuil #5 à 132 €, AI.PA et SAN.PA en cruise control défensif bid (10y US à 3,79 % = environnement parfait pour les rendements dividende).
+
+**3. PAS DE RELÈVE DE STOP DISCRÉTIONNAIRE SAMEDI — règle d'or #3 maintenue.** La tentation de « profiter du calme du week-end pour resserrer le stop SU à 258 € » est explicitement refusée : ce serait précisément l'inverse de la philosophie du runner. Le stop trailing à 254 € absorbe sans drame une volatilité hebdo SU de l'ordre de 2,5 % ; resserrer à 258 € (-2,79 % depuis clôture) reviendrait à se faire chasser par un pull-back technique normal lundi ou mardi alors que le narrative haussier est intact.
+
+**4. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue.** Le cash 93,70 € est conservé pour : (i) le renforcement DG si le seuil #5 (132 €) se déclenche en milieu de semaine, ou (ii) un éventuel repli défensif (seuil #3) si NFP sort hawkish vendredi. Ajouter une 5ᵉ ligne samedi sur un coup d'enthousiasme post-PCE serait précisément le piège du *chasing post-rallye* documenté en règle d'or #4.
+
+**5. CASH : 93,70 €** — **inchangé pour la 16ᵉ séance consécutive**. Cash dormant, dans l'attente d'un déclenchement mécanique en semaine.
+
+**6. RECALIBRAGE DES SEUILS MACRO #8 ET #9 — opération de week-end légitime.** Les seuils #8 et #9 (PCE J et PCE surprise franche) ont été consommés vendredi. Ils sont reformulés à froid pour la semaine à venir, sans modification du reste du carnet :
+- **Nouveau seuil #8 — NFP vendredi 3 juillet 14:30 CET en ligne** (175k ± 25k, chômage 4,0–4,2 %, salaires +3,8–4,0 % YoY) : non market mover, aucune action mécanique, drift naturel attendu.
+- **Nouveau seuil #9 — NFP surprise franche** (>225k ou <125k, **ou** chômage ≤3,9 % ou ≥4,3 %, **ou** salaires ≥4,1 % YoY) : action mécanique = **allègement défensif AI ou SAN de 1 titre** (selon laquelle est la plus chère relativement) **si NFP hawkish franc** (recul des valeurs rendement avec 10y US +10 bps) ; **renforcement DG de 1 titre** si NFP doux franc (drift risk-on prolongé valide la marche vers 132 €).
+- **Seuils #1 à #7 reconduits à l'identique pour la 7ᵉ séance consécutive** : samedi → dimanche → lundi → mardi → mercredi → jeudi → vendredi → samedi. La discipline du « carnet stable » porte ses fruits.
+
+#### Stratégie
+
+**Le portefeuille reste à 1 111,30 € (cours figés du vendredi 26 juin), soit +11,13 % depuis ouverture en 32 séances de cotation.** Pas de mouvement possible le week-end. La revue à froid des 6 dernières séances post-FOMC valide définitivement le système 4 phases : **6 séances « 0 transaction » consécutives + 1 exécution mécanique du seuil #2 = +14,40 € (+1,30 %) sur la semaine sans aucun bricolage**. C'est le profil de rendement exactement recherché par la méthode.
+
+**Trois enseignements de week-end à graver pour la semaine du 29 juin au 3 juillet** :
+
+1. **Le runner SU.PA à 265,40 € avec stop relevé à 254 € (lock-in +34,00 €) est désormais la position phare du portefeuille.** La cible technique suivante est **275 € (résistance horizontale 2024-2025)** soit +9,60 € (+3,62 %) supplémentaires si la dynamique data centers IA persiste post-pivot. **Aucune relève de stop avant un nouveau seuil de cassure technique calibré à froid** — pas de bricolage à 258 ou 260 € « pour sécuriser davantage ». La règle d'or #2 (laisser courir les gagnants) est appliquée à la lettre.
+
+2. **DG.PA en marche d'approche 129,20 → 132,00 € est la position à surveiller activement en début de semaine.** Marge d'approche : 2,80 € (2,17 %). **Probabilité de déclenchement du seuil #5 (DG > 132 €) en milieu de semaine** : ~55 % conditionnellement au drift risk-on post-PCE qui se prolonge, avec ISM manufacturing mardi en ligne. **Action mécanique au déclenchement** : renforcement de **1 titre DG supplémentaire à ~132 € = 132 €** (légèrement au-dessus du cash dispo 93,70 € → on ne peut financer le renforcement que par un trim partiel — décision à arbitrer à chaud uniquement si seuil se déclenche : soit on attend la cassure 134 € pour avoir une marge plus franche, soit on alloue les 93,70 € de cash sur un demi-titre indirect via un proxy infrastructures français (Eiffage par exemple). **Pré-décision à froid : si DG > 132 € en clôture lundi ou mardi, on attend confirmation mercredi pour ne pas se faire piéger par une fausse cassure de jeudi pré-NFP.** Cette nuance est importante : la cassure technique pré-NFP a un taux de fausse alerte plus élevé qu'une cassure mid-week.
+
+3. **La semaine du 29 juin au 3 juillet a une asymétrie macro très claire** : début de semaine calme (Williams non-événement, ISM probable en ligne), milieu de semaine neutre (JOLTS, ADP rarement market mover), **fin de semaine binaire avec NFP vendredi 14:30 CET**. **Le scénario central reste : drift haussier discipliné lundi-mercredi, exécution potentielle du seuil #5 (DG > 132 €) mardi ou mercredi, pause pré-NFP jeudi, puis pivot binaire vendredi**. **C'est exactement le même profil structurel que la semaine du PCE qui vient de s'achever, ce qui plaide pour appliquer la même discipline 4 phases sans modification.** La seule différence : le pivot NFP est moins binaire qu'un pivot inflation (les surprises NFP sont historiquement plus rares et moins violentes que les surprises CPI/PCE), donc l'amplitude attendue est plus modérée.
+
+**Prochaine réévaluation** : **lundi 29 juin 17:40 CET** (clôture Euronext, J+1 post-PCE en cotation effective). Stops actifs : SU.PA **254,00 €** trailing, DG.PA **121,00 €** technique. Carnet d'ordres conditionnels armé sur **8 seuils** (reconduits à l'identique avec recalibrage des seuils #8 et #9 ex-PCE → NFP). Cash 93,70 € dormant. Focus : ne rien préempter du retour de cotation lundi matin, laisser le marché ouvrir librement, ne pas attendre une « réaction de week-end » exagérée (les flux US n'ont pas tradé depuis vendredi 22:00 CET, l'ouverture lundi sera naturellement calme).
 
 ---
 
