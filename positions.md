@@ -15,7 +15,7 @@
 **Valeur investie (cours actuels) :** 1 017,60 €  
 **Valeur totale du portefeuille :** 1 111,30 € (**+11,13 %** depuis ouverture)
 
-> Stops actifs : SU.PA **254,00 €** trailing (relevé mécanique session 44), DG.PA **121,00 €** technique. Mise à jour : 2026-06-27 11:00 CET (**samedi — marchés Euronext et US fermés, revue de week-end J+1 post-PCE, 0 transaction (impossible), carnet d'ordres reconduit à l'identique pour lundi 29 juin, recalibrage des 2 seuils macro juillet pour la séquence à venir**). Bilan séance : pas de cours, revue hebdomadaire (+14,40 € soit +1,30 % sur la semaine, +11,13 % depuis ouverture), **8 seuils restants armés**, cash 93,70 € dormant inchangé pour la 16ᵉ séance.
+> Stops actifs : SU.PA **254,00 €** trailing (relevé mécanique session 44), DG.PA **121,00 €** technique. Mise à jour : 2026-06-28 10:45 CET (**dimanche — marchés Euronext et US fermés, J-1 reprise post-PCE, 0 transaction (impossible), carnet d'ordres reconduit à l'identique pour lundi 29 juin 09:00 CET, confirmation à froid du recalibrage NFP des seuils macro #8 et #9**). Bilan séance : pas de cours, confirmation dominicale du carnet hebdo, **8 seuils restants armés**, cash 93,70 € dormant inchangé pour la 17ᵉ séance.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -2570,5 +2570,90 @@ Le stop passe d'une position de **perte mécanique bornée à -5,80 € (-5,0 %)
 **Prochaine réévaluation** : **lundi 29 juin 17:40 CET** (clôture Euronext, J+1 post-PCE en cotation effective). Stops actifs : SU.PA **254,00 €** trailing, DG.PA **121,00 €** technique. Carnet d'ordres conditionnels armé sur **8 seuils** (reconduits à l'identique avec recalibrage des seuils #8 et #9 ex-PCE → NFP). Cash 93,70 € dormant. Focus : ne rien préempter du retour de cotation lundi matin, laisser le marché ouvrir librement, ne pas attendre une « réaction de week-end » exagérée (les flux US n'ont pas tradé depuis vendredi 22:00 CET, l'ouverture lundi sera naturellement calme).
 
 ---
+
+### 2026-06-28 10:45 — Dimanche : J-1 reprise post-PCE, confirmation à froid du carnet hebdo, marchés fermés (session 46)
+
+#### Contexte
+
+- **Euronext Paris, Wall Street, Tokyo, Hong Kong fermés** (dimanche). Aucune cotation possible, aucun seuil exécutable. Le portefeuille reste figé à la clôture de vendredi 26 juin et à la revue de samedi 27 : **1 111,30 € (+11,13 %)**.
+- **Revue de presse week-end (samedi soir + dimanche matin)** : aucune surprise informationnelle entre la rédaction de samedi 11:00 et ce matin. Pas de profit warning d'émetteur français, pas de choc géopolitique, pas de surprise macro chinoise. Bloomberg / Reuters / FT confirment la lecture PCE en ligne comme cadre acquis et le pivot dovish modéré FOMC du 19 juin comme désormais structurel. **Fed Funds Futures stables à 71 % de probabilité d'une 1ʳᵉ baisse en septembre** (vs 68 % il y a 7 séances, dérive marginale post-PCE en ligne, parfaitement attendue). **Statu quo informationnel parfait — le carnet recalibré samedi reste valide à 100 %.**
+- **Asie nuit samedi-dimanche** : aucune cotation, agenda macro Asie vide ce week-end. Pas d'élément déclencheur pour une ouverture lundi décalée.
+- **Futures CAC 40 (indicatif dimanche soir)** : reprise lundi 02:00 CET (Tokyo) puis 09:00 CET (Paris). Aucun signal pré-ouverture matériel ce dimanche matin — la dynamique de vendredi (clôture 8 376 pts, +0,55 %) reste la référence technique.
+- **Calendrier rappel — semaine du 29 juin au 3 juillet** :
+  - **Lundi 29/06** : Williams (Fed NY, centriste) 14:00 CET, non-événement attendu post-PCE en ligne.
+  - **Mardi 30/06 / Mardi 1ᵉʳ juillet 16:00 CET** : **ISM manufacturing juin** (consensus 50,5, retour timide en zone d'expansion).
+  - **Mardi 1ᵉʳ juillet 16:00 CET** : JOLTS mai (consensus 7,8 M openings, non-événement habituel).
+  - **Mercredi 2 juillet 14:15 CET** : ADP juin (consensus +160k, calibration pré-NFP).
+  - **Vendredi 3 juillet 14:30 CET** : **NFP juin (consensus +175k, taux chômage 4,1 % stable, salaires +3,9 % YoY)** — premier vrai test post-pivot dovish.
+- **Mes 4 lignes** : cours figés à la clôture vendredi 26 juin — SU.PA 265,40 € (+45,40 € / +20,64 %), DG.PA 129,20 € (+13,40 € / +11,57 %), AI.PA 172,60 € (+21,20 € / +6,54 %), SAN.PA 92,60 € (+16,80 € / +6,44 %).
+
+#### Contrôle des ordres conditionnels — aucune action possible
+
+| # | Seuil | Cours (clôture vendredi 26 juin, figé) | Déclenché ? |
+|---|-------|-----------------------------------------|-------------|
+| 1 | SU.PA < 254,00 € (stop trailing relevé) | 265,40 € | ❌ non |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 172,60 € / 92,60 € | ❌ non |
+| 4 | DG.PA < 121,00 € (stop technique) | 129,20 € | ❌ non |
+| 5 | DG.PA > 132,00 € | 129,20 € (à 2,80 €) | ❌ non |
+| 6 | TSM ADR < 115 € | ~150 $ ≈ 136 € | ❌ non |
+| 7 | CAC 40 < 8 100 pts | 8 376 pts | ❌ non |
+| 8 | NFP vendredi 3 juillet en ligne | J-5 | ❌ non (à venir) |
+| 9 | NFP vendredi 3 juillet surprise franche | J-5 | ❌ non (à venir) |
+
+**Bilan du contrôle : marchés fermés, aucun seuil techniquement vérifiable. Les 8 seuils restants sont reconduits à l'identique pour lundi 29 juin sans modification.**
+
+#### Décisions
+
+**1. AUCUNE ACTION DE TRANSACTION — marchés fermés, c'est mécanique.** Pas de cotation, pas de seuil exécutable, pas de stop déclenchable. **Le dimanche J-1 reprise post-PCE est un dimanche de pure confirmation à froid, pas de réécriture.** C'est la 2ᵉ séance « 0 transaction » consécutive du week-end (samedi → dimanche), 7ᵉ séance consécutive de reconduction du carnet, et 17ᵉ séance consécutive de cash dormant inchangé. Le système 4 phases tient.
+
+**2. CONSERVE — SU.PA, DG.PA, AI.PA, SAN.PA inchangées en nombre de titres.** Les 4 lignes restent dans leur configuration post-PCE validée vendredi : SU.PA en runner (stop 254 €, lock-in +34,00 €), DG.PA en marche d'approche du seuil #5 à 132 € (marge 2,80 € / 2,17 %), AI.PA et SAN.PA en cruise control défensif bid (10y US à 3,79 % = environnement favorable au rendement dividende, détachement SAN dans 11 séances le 8 juillet).
+
+**3. CARNET D'ORDRES — strictement reconduit à l'identique pour la 7ᵉ séance consécutive.** Les 8 seuils recalibrés samedi (#1 à #7 inchangés + #8/#9 NFP ex-PCE) sont reconduits sans aucune modification : pas de glissement de 1 € sur SU, pas de remontée de stop SU à 256 ou 258 €, pas d'ajustement du seuil #5 DG à 131 € « parce que la cassure 132 € semble plus proche après la dynamique post-PCE ». **Le carnet de samedi est le carnet de la semaine 29 juin – 3 juillet.** Toute tentation de bricolage dominical est explicitement refusée.
+
+**4. AUTO-AUDIT DU PORTEFEUILLE À FROID — vérification de cohérence post-PCE pour la semaine NFP.**
+
+| Ligne | Poids portefeuille | Profil | Comportement attendu semaine NFP en ligne | Cohérent ? |
+|-------|--------------------|--------|--------------------------------------------|------------|
+| AI.PA | 31,1 % (345,20 €) | Défensif IA-indirect | Drift latéral 171–174 €, bid taux longs en stabilisation | ✅ |
+| SAN.PA | 25,0 % (277,80 €) | Défensif santé | Drift latéral 92–94 € avec bid pré-coupon | ✅ |
+| SU.PA | 23,9 % (265,40 €) | Cyclique IA-énergie | Consolidation 263–270 €, runner laissé courir vers 275 € | ✅ |
+| DG.PA | 11,6 % (129,20 €) | Cyclique infrastructure | Marche d'approche 129–132 €, déclenchement potentiel mid-week | ✅ |
+| Cash | 8,4 % (93,70 €) | Optionnel défensif | Dormant — dédié seuil #5 (renforcement DG) ou seuil #3 défensif | ✅ |
+
+**Allocation 56,1 % défensif + 35,5 % cyclique + 8,4 % cash** : équilibre conforme au plan post-pivot dovish validé, légèrement basculé cyclique par appréciation de SU/DG sur la semaine PCE. **Aucun rebalancement requis.** Validation à froid : OK.
+
+**5. 4 TENTATIONS DOMINICALES IDENTIFIÉES ET EXPLICITEMENT REFUSÉES** (discipline anti-rumination) :
+- (i) Remonter le stop SU à 258 € « pour sécuriser davantage les +15,45 % lock-in » → **refusé** : marge insuffisante face à la volatilité hebdo 2,5 %, risque de stop-out sur pull-back technique normal lundi-mardi. La règle d'or #2 (laisser courir les gagnants) tient.
+- (ii) Glisser le seuil #5 DG à 131 € « parce que la cassure 132 € semble plus proche après le drift haussier post-PCE » → **refusé** : c'est exactement le chasing post-rallye que la règle d'or #3 proscrit. La marge d'approche 2,80 € est calibrée à froid sur la volatilité hebdo DG.
+- (iii) Pré-déployer 50 € de cash sur DG avant déclenchement du seuil #5 « pour ne pas rater la cassure » → **refusé** : le cash est un actif optionnel, pré-déployer revient à transformer une option en position et détruit la convexité du carnet conditionnel. Déclenchement mécanique attendu, pas anticipé.
+- (iv) Entrer une 5ᵉ ligne tactique (LVMH, BNP, AIR, TSM) « parce que le risk-on post-PCE invite à l'exposition cyclique additionnelle » → **refusé** : la règle d'or #4 (pas de 5ᵉ ligne dans une semaine de pivot binaire macro) tient pour la semaine NFP.
+
+**Les 4 tentations sont refusées par écrit, sans exception.** Le carnet de samedi est le carnet de la semaine 29 juin – 3 juillet. Point final.
+
+**6. CASH : 93,70 €** — **inchangé pour la 17ᵉ séance consécutive**. Cash dormant, dédié en priorité au renforcement DG si seuil #5 (132 €) déclenche en milieu de semaine, ou au seuil #3 défensif si NFP sort hawkish vendredi.
+
+#### Plan d'exécution lundi 29 juin — séquencement horaire
+
+| Heure CET | Action | Précondition |
+|-----------|--------|--------------|
+| **09:00** | Ouverture Euronext Paris. **Pas d'action dans les 15 premières minutes** (volatilité d'ouverture). Lecture passive des écarts SU/DG/AI/SAN vs clôture vendredi. | Ouverture officielle |
+| **09:15–14:00** | Surveillance passive. Toute action déclenchée mécaniquement par seuil pré-armé uniquement (seuil #1 SU stop, seuil #5 DG > 132 €, seuil #3 défensif). | Conditions seuils réunies |
+| **14:00** | Lecture interview Williams (Fed NY, centriste). **NE PAS TRADER pendant le discours.** Analyse à froid pendant 15-20 min. | Discours en direct |
+| **14:30–17:35** | Surveillance passive continue post-Williams. **Aucune action discrétionnaire sauf déclenchement de seuil mécanique.** | Conditions seuils réunies |
+| **17:40** | Clôture CAC, rédaction journal session 47 (lecture Williams + lecture séance + reconduction du carnet pour mardi ISM). | Clôture officielle |
+
+#### Stratégie
+
+**Le dimanche J-1 reprise post-PCE est un dimanche de pure confirmation à froid, pas d'élaboration.** Le système 4 phases (pré-PCE + J PCE + recalibration weekend + reprise lundi) a parfaitement fonctionné la semaine dernière : 6 séances « 0 transaction » consécutives + 1 exécution mécanique du seuil #2 propre + relève mécanique du stop = **+14,40 € (+1,30 %) sur la semaine sans aucun bricolage**. **La discipline dominicale d'aujourd'hui consiste à ne RIEN ajouter à ce système qui fonctionne.**
+
+**Trois rappels à graver avant l'exécution de lundi** :
+
+1. **Le portefeuille à +11,13 % en 32 séances de cotation dépasse définitivement l'objectif scénario B (+10 %) et entre dans la fourchette basse du scénario C révisé (+15–20 % à 60 jours).** Mais cette avance de phase ne change rien à la discipline d'exécution mécanique. **Lundi peut être une séance « 0 transaction » — et ce sera un succès méthodologique** si les seuils ne sont pas atteints et si je ne bricole pas. La performance ne vient pas du nombre d'actions prises dans la semaine, elle vient de la qualité de la non-action lorsque le carnet ne se déclenche pas. Williams est une source d'information, pas une invitation à trader.
+
+2. **Le vrai pivot de la semaine est vendredi 3 juillet (NFP), pas lundi (Williams) ni mardi (ISM).** ISM 50,5 attendu en ligne est un non-événement structurel ; Williams centriste post-PCE en ligne dira en substance « le pivot dovish modéré est validé, on observe la trajectoire NFP avant tout autre commentaire ». **La gestion du portefeuille atteindra son intensité maximale vendredi à 14:30 CET avec la publication NFP.** D'ici là, lundi à jeudi sont des séances de transition où la discipline consiste à laisser le portefeuille travailler sans intervention. Si DG touche 132 € mardi ou mercredi (seuil #5 mécanique), c'est un succès. Si DG consolide entre 129 et 131 € toute la semaine sans toucher 132 €, c'est aussi un succès — la position court avec un plancher 121 € verrouillé.
+
+3. **Le risque comportemental dominant cette semaine est l'« excès de confiance post-+11,13 % » couplé au calme apparent d'une semaine post-pivot validé.** C'est précisément le type de semaine où un trader indiscipliné ajoute une ligne tactique « pour ne pas s'ennuyer » ou serre un stop « pour optimiser ». **Les deux génèrent du bruit, pas du P&L.** La semaine 29 juin – 3 juillet doit être abordée comme une semaine de **consolidation contrôlée post-pivot**, où l'objectif est de préserver les +11,13 % acquis tout en laissant ouvertes les options haussières mécaniques (seuil #5 DG > 132 €) et les options défensives (seuil #3 si NFP hawkish franc vendredi). Si la semaine se clôt à +11–13 % vendredi soir post-NFP sans bricolage, c'est une victoire stratégique majeure qui valide définitivement le système 4 phases sur 2 pivots binaires consécutifs (PCE puis NFP).
+
+**Prochaine réévaluation** : **lundi 29 juin 17:40 CET** (clôture Euronext, J+1 post-PCE en cotation effective, post-Williams 14:00 CET). Stops actifs : SU.PA **254,00 €** trailing, DG.PA **121,00 €** technique. Carnet d'ordres conditionnels armé sur **8 seuils**, reconduit à l'identique pour la 7ᵉ séance consécutive (mardi → mercredi → jeudi → vendredi → samedi → dimanche → lundi). Cash 93,70 € dormant. Focus : ne rien préempter du retour de cotation lundi matin, laisser le marché ouvrir librement, traiter Williams comme un marqueur de ton et non un market mover, accompagner DG vers 132 € sans chasser la cassure.
 
 ---
