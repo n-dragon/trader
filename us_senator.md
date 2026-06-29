@@ -2,7 +2,7 @@
 
 > **Source visée :** [CapitolTrades — trades (buy)](https://www.capitoltrades.com/trades?txType=buy)
 > **Note réseau :** CapitolTrades et l'ensemble des agrégateurs de trades du Congrès (Quiver Quantitative, Trendlyne, InsiderFinance, StockCircle, MarketBeat, CREW…) renvoient une erreur **HTTP 403** depuis cet environnement d'exécution distant (politique réseau + protection anti-bot). Trendlyne expose bien une fenêtre récente (divulgations du **11 au 20 juin 2026**) mais son contenu détaillé n'est pas accessible ici. Les données ci-dessous ont donc été **reconstituées via recherche web** à partir des mêmes divulgations publiques (STOCK Act / PTR du Sénat) relayées par la presse financière. Pour un suivi en temps réel, à rafraîchir depuis un environnement avec accès réseau complet.
-> **Dernière mise à jour :** 2026-06-22 (rafraîchissement #2 — ajout Hagerty/Contour & Mullin/Nvidia ; datation du cluster IA corrigée en **2025**)
+> **Dernière mise à jour :** 2026-06-29 (rafraîchissement #3 — nouvel achat **Mullin / Parker-Hannifin (PH)** du 12 juin 2026, équipementier aéro-défense, recoupant la commission Armed Services)
 
 ---
 
@@ -16,7 +16,21 @@
 
 ---
 
-## 🆕 Nouveautés de ce rafraîchissement (2026-06-22)
+## 🆕 Nouveautés de ce rafraîchissement (2026-06-29)
+
+Le site cible (CapitolTrades) et tous les agrégateurs (Quiver, Trendlyne, StockCircle, MarketBeat, Barchart…) restent en **HTTP 403** depuis cet environnement (politique réseau + anti-bot). Les éléments ci-dessous proviennent de divulgations STOCK Act relayées par la presse financière, reconstituées via recherche web. **Une nouvelle position d'achat** apparaît dans la fenêtre de divulgation **11–20 juin 2026**.
+
+| Sénateur | Parti / État | Commission sensible | Société | Ticker | Date d'achat | Montant | Probabilité de gain | **Probabilité de délit d'initié** |
+|----------|--------------|---------------------|---------|--------|--------------|---------|---------------------|-----------------------------------|
+| **Markwayne Mullin** 🆕 | R — Oklahoma | **Armed Services** | Parker-Hannifin | PH | **2026-06-12** | 15–50 k$ | Élevée (~65 %) — momentum aéro-défense (≈ +46 % sur 1 an), proche de plus-hauts | **Modérée-Élevée** ⚠️ (équipementier aéro-défense, segment Aerospace Systems / dépenses militaires US — recoupe Armed Services) |
+
+> 🔎 **Contexte Parker-Hannifin (PH)** : équipementier industriel dont le segment **Aerospace Systems** profite des marchés **commercial ET défense** (OEM + aftermarket ; revenus organiques du segment ≈ **+14 % a/a** au T3 fiscal 2026). En **mai 2026**, PH a signé le rachat de l'activité **Commercial & Defense Aerospace de CIRCOR pour ~2,55 Md$** (clôture attendue au 2ᵉ semestre). L'action a gagné ≈ **+46 % sur 12 mois** et évolue près de ses plus-hauts — d'où une probabilité de gain élevée mais un **risque de valorisation** (des initiés de PH ont vendu ~17 M$ d'actions, signal de prudence). Mullin siégeant à **Armed Services**, l'exposition à un fournisseur de la défense constitue un **chevauchement de conflit d'intérêts** (soupçon **Modéré-Élevé**), sans preuve de connaissance privilégiée ; ordre passé par un gérant tiers selon son bureau ; **légal**.
+
+> 🔁 **Hors périmètre `buy` ce mois-ci** : les divulgations récentes de **Sheldon Whitehouse (D-RI)** restent dominées par des **ventes** (Home Depot/HD le 23/02, PepsiCo/PEP, Verizon/VZ, Mastercard/MA). **Bernie Moreno (R-OH)** : son achat marquant (Canadian Imperial Bank / **CM**, banque — alors qu'il siège à **Banking & Commerce**) date du **17/12/2025**, déjà antérieur ; pas de nouvel achat confirmé sur la fenêtre de juin. **John Kennedy (R-LA)** : gain mensuel estimé ~209 k$ par Quiver, sans nouvel achat sensible isolable ici.
+
+---
+
+## 🆕 Nouveautés du rafraîchissement précédent (2026-06-22)
 
 Le site cible (CapitolTrades) et tous les agrégateurs (Quiver, Trendlyne, StockCircle, MarketBeat…) restent en **HTTP 403** depuis cet environnement. Les éléments ci-dessous proviennent de divulgations STOCK Act relayées par la presse financière (Quiver, Nasdaq, Newsweek, Finbold). Deux **achats récents** s'ajoutent, et la **datation du cluster IA est corrigée**.
 
@@ -36,6 +50,7 @@ Le site cible (CapitolTrades) et tous les agrégateurs (Quiver, Trendlyne, Stock
 
 | Sénateur | Parti / État | Commission sensible | Société | Ticker | Date d'achat | Montant | Probabilité de gain | **Probabilité de délit d'initié** |
 |----------|--------------|---------------------|---------|--------|--------------|---------|---------------------|-----------------------------------|
+| Markwayne Mullin 🆕 | R — Oklahoma | Armed Services | Parker-Hannifin | PH | **2026-06-12** | 15–50 k$ | Élevée (~65 %) — aéro-défense, ≈ +46 %/an | **Modérée-Élevée** ⚠️ (équipementier défense) |
 | Markwayne Mullin | R — Oklahoma | Armed Services | Chevron | CVX | 2025-12-29 | 15–50 k$ | Élevée (~70 %) — déjà +10 % | **Élevée** ⚠️ |
 | Markwayne Mullin | R — Oklahoma | Armed Services | RTX (Raytheon) | RTX | 2025-12-29 | 15–50 k$ | Élevée (~70 %) — déjà +9,5 % | **Élevée** ⚠️ |
 | Markwayne Mullin | R — Oklahoma | Armed Services | ConocoPhillips | COP | 2025-12 (fin) | 15–50 k$ | Modérée-Élevée (~65 %) | **Élevée** ⚠️ |
@@ -75,6 +90,13 @@ Le profil le plus actif et le plus sensible du tableau. Mullin a déclaré avoir
 - **Carpenter Technology (CRS)** : alliages utilisés par Raytheon / Lockheed → **+22 %**, plus haut historique.
 - **Amkor (AMKR)** : packaging de semi-conducteurs, chaîne d'approvisionnement militaire → **+60 %**.
 - Autres : Adobe, Citigroup, APi Group, FirstCash, Stride, McKesson, Monolithic Power → conflit faible.
+
+### 🆕 🔴 Markwayne Mullin (R — OK) — achat Parker-Hannifin (PH) — *Senate Armed Services* *(nouveauté 2026-06-29)*
+
+- Achat de **Parker-Hannifin (PH)** le **12 juin 2026** pour **15 001–50 000 $**, divulgué dans la fenêtre 11–20 juin 2026.
+- PH est un **équipementier industriel à forte composante aéro-défense** : son segment **Aerospace Systems** sert à la fois les marchés commercial et **défense** (OEM + pièces de rechange), et le groupe a annoncé en **mai 2026** le rachat de l'activité **Commercial & Defense Aerospace de CIRCOR (~2,55 Md$)**. Forte dynamique : action ≈ **+46 % sur 12 mois**, près de ses plus-hauts.
+- Mullin siège à la commission **Armed Services**, qui supervise la politique de défense → **chevauchement** avec un fournisseur de la défense en pleine montée des budgets militaires.
+- ➡️ **Probabilité de délit d'initié : Modérée-Élevée** ⚠️ (recoupement commission défense / fournisseur). **Probabilité de gain : Élevée (~65 %)** — momentum aéro-défense soutenu, mais **risque de valorisation** (titre proche de plus-hauts ; ventes d'initiés PH ~17 M$ relevées comme signal de prudence). Ordre passé par un gérant tiers selon son bureau ; **légal**.
 
 ### 🆕 🔴 Markwayne Mullin (R — OK) — achat UnitedHealth (UNH) — *Senate HELP Committee*
 
@@ -154,5 +176,10 @@ Le profil le plus actif et le plus sensible du tableau. Mullin a déclaré avoir
 - [NOTUS — Mullin pledges to sell stock holdings if confirmed (DHS)](https://www.notus.org/trump-white-house/markwayne-mullin-dhs-stock-holdings-sell)
 - [Quiver / Nasdaq — Senator Bill Hagerty just disclosed new stock trades](https://www.nasdaq.com/articles/congress-trade-senator-bill-hagerty-just-disclosed-new-stock-trades)
 - [CapitolTrades — Hagerty bought Contour Venture Partners V LP (2026-01-23)](https://www.capitoltrades.com/trades/10000064641)
+- [Nasdaq / Quiver — U.S. Senator Markwayne Mullin Just Reported a Purchase of $PH Stock (12/06/2026)](https://www.nasdaq.com/articles/us-senator-markwayne-mullin-just-reported-purchase-ph-stock)
+- [Barchart — U.S. Senator Markwayne Mullin Just Reported a Purchase of $PH Stock](https://www.barchart.com/story/news/27363400/us-senator-markwayne-mullin-just-reported-a-purchase-of-ph-stock)
+- [Zacks / TradingView — PH Gains From Strength in Aerospace Systems Unit (segment défense/commercial, CIRCOR)](https://www.tradingview.com/news/zacks:21a21eb2c094b:0-ph-gains-from-strength-in-aerospace-systems-unit-can-it-sustain/)
+- [Stock Analysis — Parker-Hannifin (PH) performance (~+46 % sur 12 mois)](https://stockanalysis.com/stocks/ph/)
+- [CapitolTrades — Bernie Moreno first stock buy (CIBC / CM, Banking & Commerce, 17/12/2025)](https://www.capitoltrades.com/buzz/bernie-moreno-makes-first-stock-buy-in-congress-with-eye-on-banking-and-commerce-2026-01-13)
 
-> *Données reconstituées le 2026-06-22 à partir de divulgations publiques STOCK Act. Ne constitue pas un conseil en investissement ni une imputation de fait délictueux.*
+> *Données reconstituées le 2026-06-29 (rafraîchissement #3) à partir de divulgations publiques STOCK Act. Ne constitue pas un conseil en investissement ni une imputation de fait délictueux.*
