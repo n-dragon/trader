@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 172,60 | +21,20 | +6,54% |
-| Sanofi | SAN.PA | 3 | 87,00 | 92,60 | +16,80 | +6,44% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 265,40 | +45,40 | +20,64% |
-| Vinci | DG.PA | 1 | 115,80 | 129,20 | +13,40 | +11,57% |
+| Air Liquide | AI.PA | 2 | 162,00 | 173,00 | +22,00 | +6,79% |
+| Sanofi | SAN.PA | 3 | 87,00 | 92,80 | +17,40 | +6,67% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 266,80 | +46,80 | +21,27% |
+| Vinci | DG.PA | 1 | 115,80 | 130,40 | +14,60 | +12,61% |
 
 **Liquidités disponibles :** 93,70 €  
-**Valeur investie (cours actuels) :** 1 017,60 €  
-**Valeur totale du portefeuille :** 1 111,30 € (**+11,13 %** depuis ouverture)
+**Valeur investie (cours actuels) :** 1 021,60 €  
+**Valeur totale du portefeuille :** 1 115,30 € (**+11,53 %** depuis ouverture)
 
-> Stops actifs : SU.PA **254,00 €** trailing (relevé mécanique session 44), DG.PA **121,00 €** technique. Mise à jour : 2026-06-28 10:45 CET (**dimanche — marchés Euronext et US fermés, J-1 reprise post-PCE, 0 transaction (impossible), carnet d'ordres reconduit à l'identique pour lundi 29 juin 09:00 CET, confirmation à froid du recalibrage NFP des seuils macro #8 et #9**). Bilan séance : pas de cours, confirmation dominicale du carnet hebdo, **8 seuils restants armés**, cash 93,70 € dormant inchangé pour la 17ᵉ séance.
+> Stops actifs : SU.PA **254,00 €** trailing, DG.PA **121,00 €** technique. Mise à jour : 2026-06-29 17:40 CET (**lundi — clôture Euronext, J+1 post-PCE en cotation effective, Williams centriste non-événement à 14:00 CET, drift haussier modéré confirmé sur les 4 lignes, 0 transaction (aucun seuil déclenché), carnet d'ordres reconduit à l'identique pour mardi 30 juin 09:00 CET avec ISM manufacturing à 16:00**). Bilan séance : 4 lignes en glissement haussier propre, DG.PA à 1,60 € du seuil #5 (132 €), **8 seuils restants armés**, cash 93,70 € dormant inchangé pour la 18ᵉ séance.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -2655,5 +2655,68 @@ Le stop passe d'une position de **perte mécanique bornée à -5,80 € (-5,0 %)
 3. **Le risque comportemental dominant cette semaine est l'« excès de confiance post-+11,13 % » couplé au calme apparent d'une semaine post-pivot validé.** C'est précisément le type de semaine où un trader indiscipliné ajoute une ligne tactique « pour ne pas s'ennuyer » ou serre un stop « pour optimiser ». **Les deux génèrent du bruit, pas du P&L.** La semaine 29 juin – 3 juillet doit être abordée comme une semaine de **consolidation contrôlée post-pivot**, où l'objectif est de préserver les +11,13 % acquis tout en laissant ouvertes les options haussières mécaniques (seuil #5 DG > 132 €) et les options défensives (seuil #3 si NFP hawkish franc vendredi). Si la semaine se clôt à +11–13 % vendredi soir post-NFP sans bricolage, c'est une victoire stratégique majeure qui valide définitivement le système 4 phases sur 2 pivots binaires consécutifs (PCE puis NFP).
 
 **Prochaine réévaluation** : **lundi 29 juin 17:40 CET** (clôture Euronext, J+1 post-PCE en cotation effective, post-Williams 14:00 CET). Stops actifs : SU.PA **254,00 €** trailing, DG.PA **121,00 €** technique. Carnet d'ordres conditionnels armé sur **8 seuils**, reconduit à l'identique pour la 7ᵉ séance consécutive (mardi → mercredi → jeudi → vendredi → samedi → dimanche → lundi). Cash 93,70 € dormant. Focus : ne rien préempter du retour de cotation lundi matin, laisser le marché ouvrir librement, traiter Williams comme un marqueur de ton et non un market mover, accompagner DG vers 132 € sans chasser la cassure.
+
+---
+
+### 2026-06-29 17:40 — Lundi : reprise post-PCE, Williams centriste non-événement, drift haussier discipliné, 0 transaction (session 47)
+
+#### Contexte de marché
+
+- **Asie nuit dimanche-lundi** : Nikkei +0,28 % à 39 980 pts (continuation post-PCE), Hang Seng +0,15 %, Shanghai Comp +0,04 %. Pas d'élément déclencheur, ouverture Euronext sans gap matériel attendu.
+- **Ouverture Euronext (09:00 CET)** : CAC 40 ouvre à 8 384 pts (+0,10 % vs clôture vendredi 8 376), drift d'ouverture propre, **pas de gap, pas de panique, pas d'euphorie** — exactement le profil attendu d'un lundi J+1 post-PCE en ligne.
+- **Williams (Fed NY, 14:00 CET)** : intervention centriste, ton calibré « le pivot dovish modéré de juin est validé, la trajectoire NFP de vendredi sera la prochaine donnée de décision, pas de nouveau signal directionnel ce mois-ci ». **Strictement non-événement de marché** — réaction CAC 40 nulle (8 388 → 8 391 pts dans les 30 min post-discours, soit +0,04 %, dans l'épaisseur du trait).
+- **Clôture CAC 40 (17:35 CET)** : **8 394 pts (+0,21 %)**, séance de drift haussier discipliné, volumes étales (3,1 Mds €, légèrement en dessous de la moyenne 20 séances 3,3 Mds), **VIX 11,1 (+0,2 pt, négligeable)**, 10y US **3,80 % (+1 bp, marginal)**, EUR/USD 1,1071 (+0,03 %).
+- **Wall Street ouverture (15:30 CET)** : S&P 500 +0,12 %, Nasdaq +0,18 %, Russell 2000 +0,28 %. **Continuation modérée du drift post-PCE**, profil exactement conforme au Scénario central (60 %) anticipé hier.
+- **Or** : 2 406 → 2 411 $/oz (+0,21 %, statu quo). **Brent** : 81,10 → 81,40 $ (+0,37 %, statu quo). Aucun signal de stress.
+
+#### Mes 4 lignes au cours de la séance Euronext
+
+- **SU.PA** : ouverture **266,00 €** (+0,23 %), drift haussier propre matinée 265,80–266,80, **bid latéral discipliné l'après-midi** dans le range 266–267,40, clôture **266,80 € (+0,53 %)**, plus haut intraday **267,40 €** atteint à 16:20 CET. **Marche d'approche tranquille vers 275 €** (résistance technique cible), encore à 8,20 € (+3,07 %). Stop trailing 254 € maintenu, marge 12,80 € (-4,80 %). P&L latent : **+46,80 € soit +21,27 %**.
+- **DG.PA** : ouverture **129,40 €** (+0,15 %), drift haussier propre vers 130, range après-midi 129,80–130,80, **clôture 130,40 € (+0,93 %)**, plus haut **130,80 €** atteint à 16:55 CET. **4ᵉ clôture consécutive au-dessus de 128 € avec continuation haussière post-PCE confirmée** — DG à **1,60 € du seuil #5 (132 €)**, marge d'approche réduite de 2,80 € à 1,60 € en une séance (-43 %). **Probabilité de déclenchement du seuil #5 mardi/mercredi remontée de 55 % à ~65 %**, conditionnellement à un ISM mardi en ligne (50,5). Stop 121 € technique, marge 9,40 € (-7,21 %). P&L latent : **+14,60 € soit +12,61 %**.
+- **AI.PA** : ouverture **172,80 €** (+0,12 %), bid latéral défensif toute la séance, range 172,40–173,20, clôture **173,00 € (+0,23 %)**, plus haut **173,20 €**. Cruise control parfait. P&L : **+22,00 € soit +6,79 %**.
+- **SAN.PA** : ouverture **92,70 €** (+0,11 %), bid pré-coupon discret (détachement dividende dans 9 séances, le 8 juillet), range 92,60–92,90, clôture **92,80 € (+0,22 %)**, plus haut **92,90 €**. Cruise control parfait. P&L : **+17,40 € soit +6,67 %**.
+
+#### Contrôle des ordres conditionnels — aucun déclenchement
+
+| # | Seuil | Cours clôture lundi 29 juin | Déclenché ? |
+|---|-------|------------------------------|-------------|
+| 1 | SU.PA < 254,00 € (stop trailing) | 266,80 € | ❌ non |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 173,00 € / 92,80 € | ❌ non |
+| 4 | DG.PA < 121,00 € (stop technique) | 130,40 € | ❌ non |
+| 5 | DG.PA > 132,00 € | 130,40 € (à 1,60 €) | ❌ non, mais marge réduite à 1,23 % |
+| 6 | TSM ADR < 115 € | ~151 $ ≈ 136 € | ❌ non |
+| 7 | CAC 40 < 8 100 pts | 8 394 pts | ❌ non |
+| 8 | NFP vendredi 3 juillet en ligne | J-4 | ❌ non (à venir) |
+| 9 | NFP vendredi 3 juillet surprise franche | J-4 | ❌ non (à venir) |
+
+**Bilan : 0 déclenchement, 0 transaction.** Le carnet de samedi est reconduit à l'identique pour mardi 30 juin (ISM manufacturing 16:00 CET).
+
+#### Décisions
+
+**1. AUCUNE TRANSACTION — séance « 0 mouvement » assumée comme succès méthodologique.** Pas un seul seuil n'a été touché, le carnet est resté dormant, **et c'est exactement le profil de séance recherché** sur un lundi de reprise post-PCE avec Williams centriste prévu. Les 4 lignes ont travaillé seules, sans intervention. 7ᵉ séance « 0 transaction » sur les 8 dernières (l'exécution mécanique du seuil #2 vendredi 26 juin est l'exception). 18ᵉ séance consécutive de cash 93,70 € dormant.
+
+**2. CONSERVE — les 4 lignes inchangées en nombre de titres.** SU.PA en runner (stop 254 € maintenu, lock-in +34,00 €/titre), DG.PA en marche d'approche serrée du seuil #5 (1,60 € à parcourir), AI.PA et SAN.PA en cruise control défensif bid (10y US à 3,80 % = environnement parfait pour les rendements dividende, détachement SAN dans 9 séances).
+
+**3. PAS DE RELÈVE DISCRÉTIONNAIRE DU STOP SU À 256 € — règle d'or #2 maintenue.** La tentation de « capter les +1,40 € supplémentaires de SU pour resserrer la protection » est explicitement refusée. La volatilité hebdo SU reste ~2,5 %, le stop 254 € absorbe sans drame un pull-back technique normal. Le runner garde tout son potentiel haussier vers 275 €. **Le seul mécanisme de relève du stop SU est une cassure technique calibrée à froid au-delà du seuil #2 déjà consommé** — la prochaine relève mécanique n'interviendra qu'à la cassure 275 € (résistance horizontale 2024-2025), avec stop trailing relevé à 264 €. Pas avant.
+
+**4. PAS DE PRÉ-DÉPLOIEMENT DU CASH SUR DG À 131 € — règle d'or #3 maintenue.** La tentation de « renforcer DG dès maintenant à 131 € pour ne pas rater la cassure 132 € mardi ou mercredi » est explicitement refusée. Le cash 93,70 € est un actif optionnel, **son déploiement est conditionnel au déclenchement du seuil #5 et non anticipatif**. Si DG casse 132 € en clôture mardi/mercredi, la décision à chaud sera : attendre confirmation J+1 (anti-fausse cassure) avant d'engager les 93,70 €. La discipline reste : **seuil mécanique d'abord, action ensuite. Jamais l'inverse.**
+
+**5. CARNET D'ORDRES — strictement reconduit à l'identique pour mardi 30 juin (8ᵉ séance consécutive de reconduction).** Aucun seuil n'est modifié : seuil #1 SU stop 254 €, seuil #3 AI < 160 € ou SAN < 85 €, seuil #4 DG stop 121 €, seuil #5 DG > 132 €, seuil #6 TSM ADR < 115 €, seuil #7 CAC < 8 100 pts, seuils #8 / #9 NFP vendredi 3 juillet. **Tentation de glisser le seuil #5 à 131,50 € « parce qu'on est presque à 132 € » → refusée.** Le seuil 132 € est une résistance technique horizontale lisible sur 18 mois, pas un nombre rond arbitraire — il reste à 132 €.
+
+**6. CASH : 93,70 €** — **inchangé pour la 18ᵉ séance consécutive**.
+
+#### Stratégie
+
+**Le portefeuille passe de 1 111,30 € à 1 115,30 € (+4,00 €, +0,36 %) sur la séance**, sans aucune transaction. Performance depuis ouverture : **+11,53 % en 33 séances de cotation**. La séance a parfaitement validé le scénario central (60 %) d'un lundi de drift haussier modéré post-pivot dovish, Williams en marqueur de ton sans market move. **Le système 4 lignes + cash dormant + carnet conditionnel a généré +0,36 % de rendement avec 0 intervention** — c'est la définition même de la qualité d'exécution recherchée.
+
+**Trois points pour mardi 30 juin** :
+
+1. **DG.PA à 130,40 € est à 1,60 € (1,23 %) du seuil #5 (132 €) — c'est la situation tactique la plus sensible du portefeuille cette semaine.** Probabilité de déclenchement mardi/mercredi remontée à ~65 % conditionnellement à un ISM en ligne (50,5). **Pré-décision à froid réaffirmée** : si DG > 132 € en clôture mardi, on attend confirmation mercredi (anti-fausse cassure pré-NFP). Si DG > 132 € en clôture mercredi (J+1 confirmation), on engage les 93,70 € de cash sur un demi-titre DG via le calibrage suivant : achat partiel de 0,7 titre DG si broker fractionne, sinon décalage à la prochaine cassure technique 134 € pour avoir une marge plus franche permettant l'achat plein d'un titre. **Aucune action mécanique avant clôture mardi.**
+
+2. **ISM manufacturing mardi 16:00 CET est le seul vrai event macro de la journée**. Consensus 50,5 (retour timide en zone d'expansion). Toute lecture entre 49,5 et 51,5 = non-événement, drift latéral attendu. Lecture ≥ 52 = risk-on franc, accélération possible DG vers seuil #5. Lecture ≤ 48,5 = repli cyclique modéré, possible retest 128–129 € sur DG sans rupture du stop 121 €. **Aucune action discrétionnaire prévue sur ISM, le carnet conditionnel absorbe les 3 scénarios sans modification.**
+
+3. **Le risque comportemental de mardi est de « pré-armer » une action sur seuil #5 trop tôt** (placer un ordre d'achat DG à 131,80 € « pour devancer la cassure 132 € »). C'est exactement le piège anti-mécanique que la discipline 4 phases proscrit. **Le seuil est déclenché par la clôture, pas par l'intraday. Toute exécution mécanique se fait à 17:35 CET sur la clôture, pas avant.** Si DG touche 132 € en intraday à 11:00 puis reflue à 131,20 € en clôture, le seuil **n'est pas déclenché** — c'est précisément le mécanisme anti-fausse cassure inscrit dans la définition du seuil depuis le 26 mai. Discipline maintenue.
+
+**Prochaine réévaluation** : **mardi 30 juin 17:40 CET** (clôture Euronext, post-ISM manufacturing 16:00 CET). Stops actifs : SU.PA **254,00 €** trailing (inchangé), DG.PA **121,00 €** technique (inchangé). Carnet d'ordres conditionnels armé sur **8 seuils**, reconduit à l'identique pour la 8ᵉ séance consécutive. Cash 93,70 € dormant pour la 19ᵉ séance. Focus : surveiller passivement DG dans son approche du seuil #5, lire ISM à 16:00 sans trader le discours, ne rien préempter de la cassure 132 €.
 
 ---
