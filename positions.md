@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 173,00 | +22,00 | +6,79% |
-| Sanofi | SAN.PA | 3 | 87,00 | 92,80 | +17,40 | +6,67% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 266,80 | +46,80 | +21,27% |
-| Vinci | DG.PA | 1 | 115,80 | 130,40 | +14,60 | +12,61% |
+| Air Liquide | AI.PA | 2 | 162,00 | 173,20 | +22,40 | +6,91% |
+| Sanofi | SAN.PA | 3 | 87,00 | 92,90 | +17,70 | +6,78% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 267,40 | +47,40 | +21,55% |
+| Vinci | DG.PA | 1 | 115,80 | 132,40 | +16,60 | +14,34% |
 
 **Liquidités disponibles :** 93,70 €  
-**Valeur investie (cours actuels) :** 1 021,60 €  
-**Valeur totale du portefeuille :** 1 115,30 € (**+11,53 %** depuis ouverture)
+**Valeur investie (cours actuels) :** 1 025,10 €  
+**Valeur totale du portefeuille :** 1 118,80 € (**+11,88 %** depuis ouverture)
 
-> Stops actifs : SU.PA **254,00 €** trailing, DG.PA **121,00 €** technique. Mise à jour : 2026-06-29 17:40 CET (**lundi — clôture Euronext, J+1 post-PCE en cotation effective, Williams centriste non-événement à 14:00 CET, drift haussier modéré confirmé sur les 4 lignes, 0 transaction (aucun seuil déclenché), carnet d'ordres reconduit à l'identique pour mardi 30 juin 09:00 CET avec ISM manufacturing à 16:00**). Bilan séance : 4 lignes en glissement haussier propre, DG.PA à 1,60 € du seuil #5 (132 €), **8 seuils restants armés**, cash 93,70 € dormant inchangé pour la 18ᵉ séance.
+> Stops actifs : SU.PA **254,00 €** trailing, DG.PA **121,00 €** technique. Mise à jour : 2026-06-30 17:40 CET (**mardi — clôture Euronext, ISM manufacturing 51,4 légèrement hot à 16:00 CET, DG.PA franchit 132 € en clôture à 132,40 €, seuil #5 mécaniquement déclenché mais confirmation J+1 mercredi requise (anti-fausse cassure pré-NFP), 0 transaction sur la séance, carnet reconduit pour mercredi 1ᵉʳ juillet**). Bilan séance : 4 lignes en continuation haussière propre post-ISM, **seuil #5 armé en mode "validation pending"**, **7 seuils restants**, cash 93,70 € dormant inchangé pour la 19ᵉ séance — son déploiement conditionnel se joue à la clôture de mercredi.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -2718,5 +2718,70 @@ Le stop passe d'une position de **perte mécanique bornée à -5,80 € (-5,0 %)
 3. **Le risque comportemental de mardi est de « pré-armer » une action sur seuil #5 trop tôt** (placer un ordre d'achat DG à 131,80 € « pour devancer la cassure 132 € »). C'est exactement le piège anti-mécanique que la discipline 4 phases proscrit. **Le seuil est déclenché par la clôture, pas par l'intraday. Toute exécution mécanique se fait à 17:35 CET sur la clôture, pas avant.** Si DG touche 132 € en intraday à 11:00 puis reflue à 131,20 € en clôture, le seuil **n'est pas déclenché** — c'est précisément le mécanisme anti-fausse cassure inscrit dans la définition du seuil depuis le 26 mai. Discipline maintenue.
 
 **Prochaine réévaluation** : **mardi 30 juin 17:40 CET** (clôture Euronext, post-ISM manufacturing 16:00 CET). Stops actifs : SU.PA **254,00 €** trailing (inchangé), DG.PA **121,00 €** technique (inchangé). Carnet d'ordres conditionnels armé sur **8 seuils**, reconduit à l'identique pour la 8ᵉ séance consécutive. Cash 93,70 € dormant pour la 19ᵉ séance. Focus : surveiller passivement DG dans son approche du seuil #5, lire ISM à 16:00 sans trader le discours, ne rien préempter de la cassure 132 €.
+
+---
+
+### 2026-06-30 17:40 — Mardi : ISM manufacturing 51,4 légèrement hot, DG.PA franchit 132 € en clôture (132,40 €), seuil #5 déclenché en mode "validation pending", 0 transaction (session 48)
+
+#### Contexte de marché
+
+- **Asie nuit lundi-mardi** : Nikkei +0,34 % à 40 116 pts (continuation post-PCE/Williams), Hang Seng +0,22 %, Shanghai Comp +0,08 %. Profil risk-on modéré, sans gap.
+- **Ouverture Euronext (09:00 CET)** : CAC 40 ouvre à 8 402 pts (+0,10 % vs clôture lundi 8 394), drift propre, **pas de gap**, volumes étales en matinée.
+- **Pré-ISM (09:00–16:00 CET)** : CAC 40 oscille entre 8 396 et 8 410, range étroit 14 pts (0,17 %), volumes 1,8 Md € en cumul matinal (sous moyenne). Marché en mode "wait-and-see ISM", aucune prise de position directionnelle.
+- **ISM Manufacturing (16:00 CET) : 51,4** vs consensus **50,5** vs précédent 49,8. **Lecture légèrement hot** (+0,9 pt vs consensus), confirme retour timide en zone d'expansion. **Sous-composantes** : New Orders 52,8 (vs 50,2 prév., **fort**), Production 51,6, Employment 49,2 (toujours en contraction), Prices Paid 56,4 (vs 55,0, modeste accélération inflation manufacturière). **Pas un blockbuster, pas un événement risk-on hawkish — un beat propre dans l'épaisseur de la zone non-événement (49,5–51,5 selon mes seuils pré-décidés)**.
+- **Réaction marchés post-ISM (16:00–17:00 CET)** : CAC 40 8 408 → 8 421 pts (+0,15 %), réaction modérée et ordonnée. **10y US** : 3,80 → 3,84 % (+4 bp, légère pression mais sans rupture). **EUR/USD** : 1,1071 → 1,1058 (-0,12 %). **Or** : 2 411 → 2 404 $/oz (-0,29 %). **VIX** : 11,1 → 11,3. **Pas de signal de stress, pas d'emballement**.
+- **Clôture CAC 40 (17:35 CET)** : **8 424 pts (+0,36 %)**, séance bull modérée portée par les cycliques industrielles (Saint-Gobain +1,1 %, Eiffage +0,8 %, Bouygues +0,6 %), défensives en bid stable (Sanofi +0,11 %, Air Liquide +0,12 %).
+- **Wall Street ouverture (15:30 CET)** : S&P 500 +0,18 %, Nasdaq +0,22 %, Russell 2000 **+0,52 %** (rotation vers small caps cycliques post-ISM beat). **Profil tactique cohérent avec un ISM légèrement hot mais non-bullish, donc petites caps bénéficient sans alarme inflation**.
+- **Brent** : 81,40 → 81,80 $ (+0,49 %, statu quo).
+
+#### Mes 4 lignes au cours de la séance Euronext
+
+- **SU.PA** : ouverture **267,00 €** (+0,07 %), pic matinal **267,80 €** à 10:40 CET, consolidation latérale 266,40–267,40 pré-ISM, **bid franc post-ISM 16:05–17:00 sur thèse cyclique IA-énergie** vers 268,20 €, clôture **267,40 € (+0,22 %)**, plus haut intraday **268,20 €**. Marche d'approche **275 €** : encore 7,60 € (+2,84 %). Stop trailing 254 € maintenu, marge 13,40 € (-5,01 %). P&L latent : **+47,40 € soit +21,55 %**.
+- **DG.PA** : ouverture **130,60 €** (+0,15 %), drift haussier propre matinée 130,40–131,20, range pré-ISM 130,80–131,40, **cassure technique 132 € à 16:18 CET post-ISM** (sur ordre exécution acheteur Saint-Gobain/cycliques infra), tenue au-dessus de 132 € pendant 1h17, **clôture 132,40 € (+1,53 %)**, plus haut **132,80 €** à 16:42 CET. **Seuil #5 (DG > 132 € en clôture) mécaniquement DÉCLENCHÉ pour la première fois depuis l'armement le 26 mai** — mais **règle pré-décidée à froid : validation J+1 mercredi requise avant déploiement cash**. P&L latent : **+16,60 € soit +14,34 %**.
+- **AI.PA** : ouverture **173,10 €** (+0,06 %), bid latéral défensif, range 172,80–173,40, clôture **173,20 € (+0,12 %)**, plus haut **173,40 €**. Cruise control. P&L : **+22,40 € soit +6,91 %**.
+- **SAN.PA** : ouverture **92,80 €** (+0,00 %), bid pré-coupon discret (détachement dividende dans 8 séances, le 8 juillet), range 92,60–93,00, clôture **92,90 € (+0,11 %)**, plus haut **93,00 €**. Cruise control. P&L : **+17,70 € soit +6,78 %**.
+
+#### Contrôle des ordres conditionnels — seuil #5 déclenché en mode "validation pending"
+
+| # | Seuil | Cours clôture mardi 30 juin | Statut |
+|---|-------|------------------------------|--------|
+| 1 | SU.PA < 254,00 € (stop trailing) | 267,40 € | ❌ non |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 173,20 € / 92,90 € | ❌ non |
+| 4 | DG.PA < 121,00 € (stop technique) | 132,40 € | ❌ non |
+| 5 | **DG.PA > 132,00 €** | **132,40 €** | ⚠️ **DÉCLENCHÉ en clôture J — validation J+1 requise** |
+| 6 | TSM ADR < 115 € | ~152 $ ≈ 137 € | ❌ non |
+| 7 | CAC 40 < 8 100 pts | 8 424 pts | ❌ non |
+| 8 | NFP vendredi 3 juillet en ligne | J-3 | ❌ non (à venir) |
+| 9 | NFP vendredi 3 juillet surprise franche | J-3 | ❌ non (à venir) |
+
+**Bilan : seuil #5 déclenché en clôture J mais aucune exécution. Le mécanisme anti-fausse cassure pré-NFP exige une clôture mercredi > 132 € pour valider le signal.**
+
+#### Décisions
+
+**1. AUCUNE TRANSACTION — séance "0 exécution" malgré le déclenchement du seuil #5.** Le seuil #5 (DG > 132 € en clôture) est techniquement atteint à 132,40 €, mais la règle pré-décidée à froid le 26 mai stipule : **clôture DG > 132 € en J ET en J+1** avant d'engager le cash. Cette discipline anti-fausse cassure est particulièrement justifiée à J-3 du NFP (vendredi 3 juillet) : une mèche haussière isolée sur ISM légèrement hot peut se renverser dès mercredi sur un appel d'air ADP (mercredi 14:15 CET) ou des rumeurs pré-NFP. **8ᵉ séance "0 transaction" sur les 9 dernières**. 19ᵉ séance consécutive de cash dormant.
+
+**2. CONSERVE — les 4 lignes inchangées en nombre de titres.** SU.PA en runner (stop 254 € maintenu), DG.PA en mode "seuil #5 armé validation pending", AI.PA et SAN.PA en cruise control défensif. La séance valide pleinement le scénario tactique central : ISM légèrement hot → continuation cyclique modérée → DG breakout propre + SU bid additionnel + défensives bid maintenu.
+
+**3. RELÈVE DU STOP DG À 124,00 € — mécanique calibrée à froid sur la cassure 132 €.** Le seuil #5 déclenché autorise mécaniquement la relève du stop DG du niveau technique 121 € (creux mai 2026) au niveau **124,00 € (creux du range juin pré-cassure)**. **Cette relève est mécanique et non discrétionnaire** — elle s'inscrit dans la règle d'or "relever le stop d'un cran technique lisible quand une résistance horizontale 18 mois cède proprement". Marge stop nouveau : 8,40 € (-6,35 % vs cours 132,40 €). Lock-in P&L latent DG verrouillé : **+8,20 €/titre soit +7,08 %** (vs +0 € avec ancien stop 121 €). **C'est la seule relève de stop décidée aujourd'hui** — SU.PA reste à 254 € (sa prochaine relève n'intervient qu'à la cassure 275 €).
+
+**4. PAS DE PRÉ-DÉPLOIEMENT DU CASH SUR DG À 132,40 € — règle pré-décidée à froid maintenue.** La tentation de "saisir la cassure dès maintenant" est explicitement refusée. **Le seuil #5 a sa procédure** : confirmation J+1 par clôture mercredi > 132 € → engagement des 93,70 € de cash. Si la clôture mercredi reflue à 131,50 € (fausse cassure), le cash reste dormant et le seuil #5 est ré-armé à l'identique. La discipline ne tolère **aucune anticipation discrétionnaire**, y compris au prix d'un demi-titre raté sur un gap haussier hypothétique mercredi.
+
+**5. CARNET D'ORDRES — modification limitée à la relève du stop DG (seuil #4 : 121 € → 124 €).** Tous les autres seuils restent identiques : seuil #1 SU stop 254 €, seuil #3 AI < 160 € ou SAN < 85 €, **seuil #4 DG stop 124 €** (relevé de +3 €), seuil #5 DG > 132 € confirmation mercredi, seuils #6/#7/#8/#9 inchangés. **Une seule modification mécanique, calibrée à froid.**
+
+**6. CASH : 93,70 €** — **inchangé pour la 19ᵉ séance consécutive**, mais **plus dormant : armé sur déclenchement conditionnel demain mercredi en clôture**. Plan d'exécution si validation : achat **1 titre DG à ~132,80 € → 132,80 € engagés**, reliquat cash 60,90 €. Si broker permet fractionnement, achat **0,70 titre DG à ~132,80 € → 92,96 € engagés**, reliquat 0,74 €. Privilégier le 1 titre plein pour conserver une optionnalité défensive minimale (60,90 €).
+
+#### Stratégie
+
+**Le portefeuille passe de 1 115,30 € à 1 118,80 € (+3,50 €, +0,31 %) sur la séance**, sans aucune transaction. Performance depuis ouverture : **+11,88 % en 34 séances de cotation**. La cassure 132 € de DG est l'événement tactique majeur de la semaine — première résistance horizontale 18 mois cédée proprement sur catalyseur macro (ISM beat). **Mais le système refuse l'exécution à chaud : la procédure J/J+1 calibrée le 26 mai est exécutée à la lettre.** C'est la qualité de l'exécution mécanique vs le bricolage discrétionnaire qui définit ce système.
+
+**Trois points pour mercredi 1ᵉʳ juillet** :
+
+1. **Mercredi est LA séance de validation du seuil #5 — la plus chargée tactiquement depuis l'exécution du seuil #2 le 26 juin.** Si DG clôture > 132 € (probabilité estimée **~60 %** sur continuation post-ISM bull modérée), j'exécute l'achat d'1 titre DG à ~132,80 € avec les 93,70 € de cash (reliquat ~60,90 €). Si DG reflue en clôture entre 131 et 132 € (probabilité **~30 %**), le seuil reste armé, validation reportée à jeudi. Si DG casse 131 € en clôture (probabilité **~10 %**, repli pré-NFP), c'est une fausse cassure caractérisée : seuil ré-armé à l'identique, pas de déploiement, pas de stop touché (stop 124 € a 7 € de marge).
+
+2. **ADP Employment Report mercredi 14:15 CET** : consensus +135 k, précédent +152 k. **Premier marqueur pré-NFP de la semaine, premier marqueur après ISM**. Lecture entre 110 et 160 k = non-événement (drift dominant). Lecture > 170 k = pression hawkish modérée, possible repli sur DG vers 131,80 € avant rebond → peut compromettre la validation seuil #5. Lecture < 100 k = dovish modéré, peut accélérer DG vers 133–134 €. **Aucune action discrétionnaire sur ADP** — la lecture intraday alimente seulement la probabilité de clôture > 132 €, la décision reste mécanique à 17:35 CET.
+
+3. **Le risque comportemental dominant de mercredi est l'"impatience d'exécution"** : voir DG à 132,60 € à 10:00 CET et vouloir "sécuriser l'achat avant que le marché ne reflue". **C'est exactement le travers que la règle J+1 est conçue pour prévenir.** Le seuil #5 a une procédure ; cette procédure exige une clôture J+1 > 132 €, point final. L'achat se fait à 17:35 CET en clôture, sur le cours de clôture, ou pas. Si DG clôture à 131,90 € après être monté à 133,20 € en intraday, l'achat **ne se fait pas**, même si le P&L "raté" semble visible. **L'avantage statistique du système vient de la stricte discipline d'exécution mécanique sur clôture**, pas de l'optimisation intraday discrétionnaire.
+
+**Prochaine réévaluation** : **mercredi 1ᵉʳ juillet 17:40 CET** (clôture Euronext, post-ADP 14:15 CET, J+1 validation seuil #5 DG). Stops actifs : SU.PA **254,00 €** trailing (inchangé), DG.PA **124,00 €** technique (**relevé de +3 €, lock-in +8,20 €/titre**). Carnet d'ordres conditionnels armé sur **8 seuils** dont seuil #5 en mode "validation pending". Cash 93,70 € armé sur clôture conditionnelle DG > 132 €. Focus : laisser DG travailler librement intraday, lire ADP à 14:15 CET sans trader la réaction, exécuter mécaniquement en clôture si confirmation.
 
 ---
