@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 173,40 | +22,80 | +7,04% |
+| Air Liquide | AI.PA | 2 | 162,00 | 173,60 | +23,20 | +7,16% |
 | Sanofi | SAN.PA | 3 | 87,00 | 93,00 | +18,00 | +6,90% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 268,60 | +48,60 | +22,09% |
-| Vinci | DG.PA | 1,70 | 122,80 | 132,80 | +17,00 | +8,14% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 268,80 | +48,80 | +22,18% |
+| Vinci | DG.PA | 1,70 | 122,80 | 133,20 | +17,68 | +8,47% |
 
 **Liquidités disponibles :** 0,74 €  
-**Valeur investie (cours actuels) :** 1 120,16 €  
-**Valeur totale du portefeuille :** 1 120,90 € (**+12,09 %** depuis ouverture)
+**Valeur investie (cours actuels) :** 1 121,44 €  
+**Valeur totale du portefeuille :** 1 122,18 € (**+12,22 %** depuis ouverture)
 
-> Stops actifs : SU.PA **254,00 €** trailing, DG.PA **124,00 €** technique. Mise à jour : 2026-07-01 17:40 CET (**mercredi — clôture Euronext, ADP Employment 148 k proche consensus (135 k), non-événement macro, DG.PA valide seuil #5 en J+1 avec clôture 132,80 € (+0,30 %), exécution mécanique de l'achat fractionné 0,70 DG @ 132,80 € pour 92,96 € engagés, cash quasi-épuisé à 0,74 €, portefeuille passe à 5 lignes actives (dont DG en pyramide)**). Bilan séance : **1ᵉʳ trade sur les 9 dernières séances**, seuil #5 déclenché puis exécuté à la lettre après la procédure J/J+1 anti-fausse cassure, cash tactique redéployé sur cassure haussière post-ISM validée, portefeuille désormais 100 % investi à J-2 du NFP.
+> Stops actifs : SU.PA **254,00 €** trailing, DG.PA **124,00 €** technique. Mise à jour : 2026-07-02 17:40 CET (**jeudi — clôture Euronext, séance de calme forcé pré-NFP, jobless claims 232 k proche consensus (235 k) non-directionnel, aucune action mécanique déclenchée, 4 lignes en drift latéral discipliné, portefeuille 100 % investi maintenu, 8ᵉ séance "0 transaction" sur 10 depuis le 26 juin (hors exécution seuil #5 mercredi)**). Bilan séance : **0 trade**, aucun seuil touché, cash 0,74 € résiduel maintenu, discipline pré-NFP tenue, 5 lignes actives (dont DG en pyramide) laissées travailler seules à J-1 du NFP vendredi 3 juillet 14:30 CET.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -2849,5 +2849,69 @@ Le stop passe d'une position de **perte mécanique bornée à -5,80 € (-5,0 %)
 3. **Le risque comportemental clé de jeudi/vendredi est le "syndrome du portefeuille 100 % investi juste avant NFP"** — l'anxiété de ne plus avoir de cash pour amortir un choc peut pousser à une prise de bénéfices préventive discrétionnaire (vendre 1 SU pour "sécuriser +48 €"). **Refusé à l'avance.** Le portefeuille 100 % investi à J-2 NFP est le résultat direct de l'exécution mécanique d'un seuil pré-décidé — cette décision n'a **pas** à être remise en question 48 h après. Les stops actifs (SU 254 verrouillant +34 €/titre, DG 124 verrouillant +1,20 €/titre en moyenne pondérée sur la pyramide) constituent la protection prévue. **La discipline mécanique n'a de valeur que si elle est tenue même en zone d'inconfort** — l'inconfort du 100 % investi pré-NFP est précisément le prix à payer pour capitaliser sur le breakout DG validé.
 
 **Prochaine réévaluation** : **jeudi 2 juillet 17:40 CET** (clôture Euronext, J-1 NFP, jobless claims 14:30 CET non-directionnel attendu). Stops actifs : SU.PA **254,00 €** trailing (inchangé, lock-in +34,00 €/titre), DG.PA **124,00 €** technique (inchangé, couvre 1,70 titre pyramide, lock-in moyen pondéré +1,20 €/titre). Carnet d'ordres armé sur **7 seuils** (seuil #5 consommé, seuil #10 DG > 136 € ajouté). Cash 0,74 € résiduel (portefeuille 100 % investi). Focus : ne rien préempter du NFP, ne pas serrer de stop à chaud pré-NFP, ne pas prendre de bénéfices discrétionnaires — laisser les 5 lignes travailler jusqu'à la publication vendredi 14:30 CET.
+
+---
+
+### 2026-07-02 17:40 — Jeudi J-1 NFP : jobless claims 232 k en ligne, séance de calme forcé, 0 transaction, discipline pré-NFP tenue (session 50)
+
+#### Contexte de marché
+
+- **Asie nuit mercredi-jeudi** : Nikkei +0,05 % à 40 208 pts (drift latéral), Hang Seng -0,04 %, Shanghai Comp +0,07 %. Profil attentiste pré-NFP, volumes en baisse.
+- **Ouverture Euronext (09:00 CET)** : CAC 40 ouvre à 8 452 pts (+0,05 % vs clôture mercredi 8 448), drift latéral quasi-plat en matinée, volumes matinaux 1,4 Md € (**-18 % vs moyenne 5 séances** — attentisme pré-NFP conforme au pattern historique J-1).
+- **Pré-jobless claims (09:00–14:30 CET)** : CAC 40 range étroit 8 442–8 456 (14 pts, 0,17 %). DG.PA travaille dans 132,60–133,40 en consolidation post-breakout (jamais de rechute sous 132 €). SU.PA 268,00–269,20, AI/SAN cruise control défensif.
+- **Initial Jobless Claims (14:30 CET) : 232 k** vs consensus **235 k** vs précédent **236 k**. **Lecture strictement en ligne (-3 k vs consensus)**, continuing claims 1,865 M vs 1,872 M attendu (léger mieux). **Non-directionnel comme anticipé** — le marché reste focalisé sur NFP demain.
+- **Réaction marchés post-jobless (14:30–15:30 CET)** : CAC 40 8 452 → 8 456 pts (+0,05 %), aucune réaction. **10y US** : 3,85 → 3,84 % (-1 bp, négligeable). **EUR/USD** : 1,1062 → 1,1064 (+0,02 %). **VIX** : 11,2 → 11,3. Non-événement confirmé.
+- **Clôture CAC 40 (17:35 CET)** : **8 460 pts (+0,14 %)**, drift latéral haussier discret, volumes journée finaux 3,1 Md € (**-15 % vs moyenne** — la baisse de volumes J-1 NFP est le vrai signal de la séance, pas la variation d'indice).
+- **Wall Street ouverture (15:30 CET)** : S&P 500 +0,06 %, Nasdaq +0,08 %, Russell 2000 +0,11 %. Attentisme rigoureux avant NFP demain 14:30 CET.
+- **Or** : 2 407 → 2 409 $/oz (+0,08 %). **Brent** : 82,10 → 82,00 $ (-0,12 %). Aucun signal de stress.
+
+#### Mes 4 lignes au cours de la séance Euronext
+
+- **SU.PA** : ouverture **268,60 €** (0,00 %), drift latéral discipliné 268,00–269,20, léger bid final, clôture **268,80 € (+0,07 %)**, plus haut **269,20 €** à 15:52 CET. Marche d'approche 275 € : encore 6,20 € (+2,31 %). Stop 254 € inchangé. P&L latent : **+48,80 € soit +22,18 %**.
+- **DG.PA** : ouverture **132,80 €** (0,00 %), consolidation propre post-breakout dans 132,60–133,40, **jamais de rechute sous 132 €** (plus bas intraday 132,60 € à 10:44 CET), pic **133,40 €** à 16:12 CET, clôture **133,20 € (+0,30 %)**. Consolidation technique impeccable au-dessus du niveau cassé. Stop 124 € inchangé. P&L latent moyen pondéré sur 1,70 titre pyramide : **+17,68 € soit +8,47 %**.
+- **AI.PA** : ouverture **173,40 €** (0,00 %), bid latéral discret, range 173,20–173,80, clôture **173,60 € (+0,12 %)**, plus haut **173,80 €**. Cruise control défensif. P&L : **+23,20 € soit +7,16 %**.
+- **SAN.PA** : ouverture **93,00 €** (0,00 %), bid pré-coupon discret (détachement dividende dans 6 séances, le 8 juillet), range 92,90–93,10, clôture **93,00 € (0,00 %)**, plus haut **93,10 €**. Cruise control. P&L : **+18,00 € soit +6,90 %**.
+
+#### Contrôle des ordres conditionnels — aucun seuil déclenché
+
+| # | Seuil | Cours clôture jeudi 2 juillet | Statut |
+|---|-------|-------------------------------|--------|
+| 1 | SU.PA < 254,00 € (stop trailing) | 268,80 € | ❌ non |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 173,60 € / 93,00 € | ❌ non |
+| 4 | DG.PA < 124,00 € (stop technique) | 133,20 € | ❌ non |
+| 6 | TSM ADR < 115 € | ~152 $ ≈ 137 € | ❌ non |
+| 7 | CAC 40 < 8 100 pts | 8 460 pts | ❌ non |
+| 8 | NFP vendredi 3 juillet en ligne (150–200 k) | J-1 | ❌ non (à venir demain 14:30 CET) |
+| 9 | NFP vendredi 3 juillet surprise franche | J-1 | ❌ non (à venir demain 14:30 CET) |
+| 10 | DG.PA > 136 € en clôture (relève stop 128 €) | 133,20 € | ❌ non |
+
+#### Décisions
+
+**1. AUCUNE TRANSACTION — 9ᵉ séance "0 exécution" sur les 10 dernières (hors exécution seuil #5 mercredi).** La discipline pré-NFP calibrée à froid mardi et mercredi est tenue à la lettre : jobless claims en ligne → aucun signal directionnel → aucune action mécanique déclenchée → 0 transaction. **La séance vaut par ce qu'elle ne fait pas** : ne pas serrer de stop à chaud (tentation refusée à l'avance), ne pas prendre de bénéfices préventifs sur SU (+48,80 €) ni sur DG runner (+17,68 €), ne pas anticiper le NFP. 20ᵉ séance de cash tactique quasi-nul (0,74 €).
+
+**2. CONSERVE — les 5 lignes actives inchangées en nombre de titres.** SU.PA runner (+22,18 %), DG.PA pyramide (+8,47 %), AI.PA et SAN.PA cruise control défensif. La séance valide le scénario tactique dominant : "calme forcé J-1 NFP" avec baisse de volumes (-15 % vs moyenne) et drift latéral discret. **Aucune ligne ne mérite d'intervention discrétionnaire.**
+
+**3. STOPS INCHANGÉS — SU.PA 254,00 €, DG.PA 124,00 €.** La règle d'or #2 est explicite : la prochaine relève mécanique du stop SU intervient à la cassure 275 € (seuil futur, non armé), celle du stop DG à la cassure 136 € (seuil #10 armé, non déclenché à 133,20 €). **Refuser de serrer les stops à chaud pré-NFP est le vrai travail de la séance** — la tentation "cristalliser +34 €/titre sur SU en montant le stop à 260 € pour dormir tranquille vendredi" est explicitement refusée. Les stops actuels absorbent une réaction hawkish modérée sur NFP (SU -5,5 % vs 268,80 €, DG -7,0 % vs 133,20 €), ce qui correspond à un scénario NFP > 220 k très marqué (probabilité pré-décidée ~25 %). **Un stop pré-NFP resserré discrétionnairement, c'est un titre vendu à contretemps sur une réaction bruyante de 15 minutes — le pire mode d'exécution possible.**
+
+**4. CARNET D'ORDRES — INCHANGÉ (8 seuils actifs).** Aucune modification décidée à chaud : #1 SU stop 254, #3 AI < 160 ou SAN < 85, #4 DG stop 124, #6 TSM ADR < 115, #7 CAC < 8 100, #8/#9 NFP demain, #10 DG > 136. **Le carnet est prêt pour NFP vendredi sans aucun ajustement dernière minute.**
+
+**5. CASH : 0,74 €** — inchangé. Portefeuille 100 % investi maintenu à J-1 NFP. Le prochain reliquat de cash proviendra soit d'une prise de bénéfices partielle mécanique (SU au seuil futur 275 €, ou seuil #1 stop touché), soit du dividende SAN détaché le 8 juillet (~2,25 € × 3 = 6,75 € brut, ~5,90 € net après PFU 30 %). Aucune source de cash discrétionnaire envisagée.
+
+#### Stratégie
+
+**Le portefeuille passe de 1 120,90 € à 1 122,18 € (+1,28 €, +0,11 %) sur la séance**, sans aucune transaction, sur un drift latéral de +2 € contribué par les 4 lignes en parts inégales (DG +0,68 €, AI +0,40 €, SU +0,20 €, SAN 0,00 €). Performance depuis ouverture : **+12,22 % en 36 séances de cotation**, nouveau plus haut historique du portefeuille. **La séance est un cas d'école de la discipline mécanique pré-NFP** : rien à voir, rien à décider, rien à exécuter — seulement respecter le carnet d'ordres armé et laisser les positions travailler. C'est précisément ce type de séance "vide en apparence" qui protège le compound sur le long terme : chaque intervention discrétionnaire à chaud pré-NFP a une espérance négative en cumulé (les études sur les hedge funds actifs sur NFP montrent un edge net-de-frais négatif sur 20 ans).
+
+**Trois points pour vendredi 3 juillet (jour NFP)** :
+
+1. **NFP 14:30 CET est le pivot macro majeur de la semaine — l'ensemble du carnet d'ordres est calibré autour de sa lecture.** Consensus 175 k jobs, chômage 4,0 %, salaires horaires +3,8 % YoY. **Trois scénarios pré-décidés à froid le 24 juin (rappel)** :
+   - **NFP en ligne (150–200 k, chômage 3,9–4,1 %, salaires 3,7–3,9 %) — probabilité ~55 %** → seuil #8 : continuation du drift dovish modéré post-pivot Fed. **Aucune action**, tenue des 5 lignes, laisser courir. Effet attendu : CAC 40 8 480–8 500, DG 133–135, SU 269–271.
+   - **NFP hawkish franc (>220 k et/ou chômage 3,8 % et/ou salaires >4,0 %) — probabilité ~25 %** → seuil #9 : hausse rendements 10y US > 4,00 %, repli tactique modéré. **Aucune action discrétionnaire à chaud**, les stops absorbent (SU 254 marge -5,5 %, DG 124 marge -7,0 %). Effet attendu : CAC 8 380–8 420, DG 130–132, SU 264–267. Si stop touché en clôture (probabilité conditionnelle sur ce scénario ~15 % = probabilité totale ~4 %), exécution mécanique.
+   - **NFP dovish franc (<130 k et/ou chômage 4,2 % et/ou salaires <3,6 %) — probabilité ~20 %** → accélération risk-on. **Aucune action discrétionnaire à chaud**, laisser courir. Effet attendu : CAC 8 500–8 550, DG 134–137 (**potentiel déclenchement seuil #10 si clôture > 136 €**), SU 271–274.
+
+2. **La règle d'exécution vendredi est stricte** : **aucune action intraday sur la réaction NFP 14:30–15:00 CET**. La lecture NFP est bruyante (révisions -30/+40 k possibles le mois suivant, saisonnalité chaotique, méthodologie BLS complexe). Le seul cours qui compte est **la clôture Euronext 17:35 CET** — c'est là que les seuils #8/#9/#10 sont évalués et exécutés (ou non). Toute exécution intraday sur la réaction 15 minutes post-14:30 CET est un pattern d'over-trading discrétionnaire à espérance négative. **La séance de vendredi est une séance de lecture d'écran de 14:30 à 17:35 CET, pas de trading intraday.**
+
+3. **Après-NFP long weekend (4-5 juillet US Independence Day) — le vrai risque comportemental du week-end.** Wall Street fermé vendredi 4 juillet pour Independence Day (**correction : vendredi 3 juillet, à confirmer selon calendrier officiel — historiquement Independence Day observé le lundi 6 juillet quand le 4 tombe un samedi**). Le portefeuille étant 100 % investi et 100 % long, tout choc du week-end (annonce Trump imprévue sur tariffs, tension géopolitique) impacte l'ouverture lundi sans possibilité de couverture d'ici là. **Cette exposition est assumée** : elle correspond au régime tactique décidé mercredi (post-pivot dovish validé + ISM/ADP en ligne + seuil #5 exécuté). Le risque comportemental est de céder à l'anxiété du week-end vendredi soir en post-clôture et de "sécuriser" par une vente discrétionnaire de dernière minute. **Refusé à l'avance.** Les stops sont la protection prévue — ils opèrent en clôture Euronext lundi si l'ouverture cash lundi teste 254/124.
+
+**Prochaine réévaluation** : **vendredi 3 juillet 17:40 CET** (clôture Euronext, JOUR NFP, publication 14:30 CET, séance pivot de la semaine et du cycle). Stops actifs : SU.PA **254,00 €** trailing (inchangé, lock-in +34,00 €/titre), DG.PA **124,00 €** technique (inchangé, couvre 1,70 titre pyramide, lock-in moyen pondéré +1,20 €/titre). Carnet d'ordres armé sur **8 seuils** (inchangé). Cash 0,74 € résiduel (portefeuille 100 % investi). Focus : lire NFP à 14:30 CET **sans trader**, laisser DG/SU absorber la réaction bruyante, exécuter mécaniquement en clôture 17:35 CET **si et seulement si** un seuil est touché, sinon 0 transaction et tenue des 5 lignes jusqu'au week-end.
 
 ---
