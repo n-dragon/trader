@@ -15,7 +15,7 @@
 **Valeur investie (cours actuels) :** 1 134,48 €  
 **Valeur totale du portefeuille :** 1 135,22 € (**+13,52 %** depuis ouverture)
 
-> Stops actifs : SU.PA **254,00 €** trailing, DG.PA **128,00 €** technique. Mise à jour : 2026-07-04 11:30 CET (**samedi — Independence Day US férié fédéral, Euronext et Wall Street fermés, revue de week-end à froid J+1 post-NFP, cours figés à la clôture vendredi 3 juillet, 0 transaction par construction, 8 seuils armés reconduits à l'identique, week-end de discipline conservatrice sur plus haut historique**). Bilan séance : **0 action**, cash 0,74 € résiduel maintenu, portefeuille 100 % investi conservé, plus haut historique de vendredi confirmé à **+13,52 %** en 37 séances de cotation.
+> Stops actifs : SU.PA **254,00 €** trailing, DG.PA **128,00 €** technique. Mise à jour : 2026-07-05 10:00 CET (**dimanche — J-1 reprise Euronext après long week-end US Independence Day, marchés fermés, revue à froid J+2 post-NFP, cours figés à la clôture vendredi 3 juillet, 0 transaction par construction, 8 seuils armés reconduits à l'identique pour l'ouverture lundi 6 juillet sans lead US**). Bilan séance : **0 action**, cash 0,74 € résiduel maintenu, portefeuille 100 % investi conservé, plus haut historique confirmé à **+13,52 %** en 37 séances de cotation, 38ᵉ séance attendue lundi 6 juillet en régime « observation pure ».
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -3043,5 +3043,60 @@ Le stop passe d'une position de **perte mécanique bornée à -5,80 € (-5,0 %)
 3. **La séquence NFP dovish soft → minutes FOMC (dovish/centriste probable) → CPI potentiellement soft dessine une trajectoire risk-on prolongée** dont la marche d'approche exacte va se jouer sur les seuils #11 (SU > 275) et #12 (DG > 140). Marge #11 : 3,40 € (+1,25 %), atteignable en une bonne semaine risk-on. Marge #12 : 3,60 € (+2,64 %), plus exigeante mais possible si CPI soft franc vendredi. **Le portefeuille est structurellement positionné pour capter la continuation dovish**, sans avoir besoin d'ajouter de risque ni de bricoler à chaud : les seuils armés font le travail. La discipline du 4 phases continue de produire ses effets.
 
 **Prochaine réévaluation** : **lundi 6 juillet 17:40 CET** (clôture Euronext, séance sans lead US Independence Day observé, drift latéral discipliné attendu, aucune décision structurante prévue — aucune action mécanique du carnet ne devrait s'y déclencher). Stops actifs : SU.PA **254,00 €** trailing (inchangé), DG.PA **128,00 €** technique (inchangé). Carnet d'ordres armé sur **8 seuils** (reconduits à l'identique). Cash 0,74 € résiduel (portefeuille 100 % investi). Focus : traverser le long week-end US sans intervention discrétionnaire, ne rien préempter du retour de cotation lundi matin, laisser Euronext ouvrir librement dans un contexte historique de faible directionnalité (précédent Memorial Day 25 mai), et se préparer mentalement à un mercredi 9 juillet (minutes FOMC) puis vendredi 10 juillet (CPI) qui redeviennent les vrais pivots de la semaine.
+
+---
+
+### 2026-07-05 10:00 — Dimanche J-1 reprise Euronext : marchés fermés, revue à froid J+2 post-NFP, 0 transaction, préparation lundi sans lead US (session 53)
+
+#### Contexte de marché
+
+- **Euronext et Wall Street fermés** (dimanche + prolongation Independence Day US, lundi 6 juillet observé férié fédéral côté US). Pas de cours, pas de transaction possible. 8ᵉ dimanche consécutif traité en « 0 action par construction » depuis l'ouverture du portefeuille le 19 mai.
+- **Rappel clôture vendredi 3 juillet (cours toujours figés depuis 44 h)** : CAC 40 **8 510 pts (+0,59 %)**, S&P 500 +0,42 %, Nasdaq +0,58 %, 10y US **3,78 %** (-7 bps sur NFP dovish soft), VIX **10,7**, EUR/USD **1,1088**. Aucune modification possible du cliché de vendredi soir avant l'ouverture Euronext lundi 09:00 CET.
+- **Asie nuit samedi-dimanche** : agenda macro vide (dimanche traditionnel). Pas de flash politique majeur du week-end (agenda G7/OTAN vide, pas de sommet Trump-Xi programmé, pas de tension géopolitique nouvelle). **Pas de gap directionnel identifiable avant reprise lundi matin.**
+- **Rappel calendrier semaine 6-10 juillet** : lundi 6 juillet Wall Street fermée (Independence Day observé), Euronext ouverte sans lead US ; mardi 7 juillet NFIB Small Business Optimism (non-événement) ; mercredi 8 juillet **détachement dividende SAN.PA** (~5,90 € net attendu) ; **mercredi 9 juillet 20:00 CET minutes FOMC du 18 juin** (dot plot 2026 à réconcilier) ; jeudi 10 juillet 10y Treasury auction + jobless claims ; **vendredi 10 juillet 14:30 CET CPI US** (catalyseur macro majeur, consensus +2,7 % / +2,9 % core).
+- **Mes 4 lignes** : cours figés à la clôture vendredi 3 juillet — SU.PA **271,60 €**, DG.PA **136,40 €**, AI.PA **174,80 €**, SAN.PA **93,80 €**. Portefeuille figé à **1 135,22 € (+13,52 %)**.
+
+#### Contrôle des ordres conditionnels — aucune action possible
+
+| # | Seuil | Cours (clôture vendredi 3 juillet, figé) | Déclenché ? |
+|---|-------|-------------------------------------------|-------------|
+| 1 | SU.PA < 254,00 € (stop trailing) | 271,60 € | ❌ non |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 174,80 € / 93,80 € | ❌ non |
+| 4 | DG.PA < 128,00 € (stop technique) | 136,40 € | ❌ non |
+| 6 | TSM ADR < 115 € | ~153 $ ≈ 138 € | ❌ non |
+| 7 | CAC 40 < 8 100 pts | 8 510 pts | ❌ non |
+| 11 | SU.PA > 275,00 € en clôture (relève stop 254 → 260) | 271,60 € (à 3,40 €) | ❌ non |
+| 12 | DG.PA > 140,00 € en clôture (relève stop 128 → 132) | 136,40 € (à 3,60 €) | ❌ non |
+| 13 | SAN.PA détachement coupon mercredi 8 juillet | J-3 | ❌ non (mécanique programmée) |
+
+**Bilan : marchés fermés, aucun seuil vérifiable, 8 seuils reconduits à l'identique pour l'ouverture Euronext lundi 6 juillet 09:00 CET.**
+
+#### Décisions
+
+**1. AUCUNE ACTION — dimanche + prolongation férié US, marchés fermés, 0 transaction par construction.** Deuxième jour de suspension involontaire consécutif dans la même séquence week-end long, dans la stricte continuité de la session 52 samedi. Aucune tentation, aucun bricolage, aucune anticipation de mouvement lundi. **8ᵉ dimanche consécutif traité en « 0 action par construction »** — reproductibilité totale de la règle.
+
+**2. CONSERVE — SU.PA, DG.PA, AI.PA, SAN.PA inchangées en nombre de titres.** Les 4 lignes restent dans leur configuration post-NFP validée vendredi. Aucune raison structurelle d'en modifier une seule à J-1 d'une ouverture Euronext sans lead US qui est, par construction historique, la moins directionnelle du calendrier hebdomadaire.
+
+**3. PAS DE RELÈVE DE STOP DISCRÉTIONNAIRE DIMANCHE — règle d'or #3 maintenue pour la 8ᵉ fois consécutive.** Aucune anticipation, aucun ajustement à froid. La tentation habituelle d'« ajuster à la marge en profitant du calme du dimanche » est refusée à l'avance : les stops SU 254 € et DG 128 € sont calibrés pour un choc d'ouverture lundi de -6 à -7 %, ce qui couvre largement le scénario le plus adverse plausible (queue de distribution week-end long historique : écart moyen +0,08 %, écart-type 0,74 % — un choc de -3 σ resterait absorbé).
+
+**4. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue pour la 8ᵉ fois consécutive.** Cash 0,74 € structurellement inopérant. La seule perspective d'injection cash de la semaine reste le dividende SAN mercredi 8 juillet (~5,90 € net attendu 9-10 juillet en compte), soit 0,52 % du portefeuille — incapable d'ouvrir une nouvelle ligne isolément.
+
+**5. CASH : 0,74 €** — **inchangé pour la 4ᵉ séance consécutive depuis exécution du seuil #5 mercredi 1ᵉʳ juillet**. Cash résiduel purement comptable, portefeuille 100 % investi préservé.
+
+**6. CARNET D'ORDRES — RECONDUCTION À L'IDENTIQUE POUR LUNDI 6 JUILLET.** Les 8 seuils (#1, #3, #4, #6, #7, #11, #12, #13) sont maintenus sans modification. **Aucun nouveau seuil armé ce dimanche** — la décision d'armer les seuils #14 (CPI soft) et #15 (CPI hot) est confirmée reportée à jeudi 9 juillet soir post-minutes FOMC, comme prévu en session 52. Armer à froid dimanche des seuils CPI 5 jours à l'avance introduirait une calibration prématurée qui devrait être révisée dès mercredi.
+
+#### Stratégie
+
+**Le portefeuille reste à 1 135,22 € (cours figés du vendredi 3 juillet), soit +13,52 % depuis ouverture en 37 séances de cotation.** Aucun mouvement possible dimanche. La session 53 est une **continuation stricte de la session 52** — le calendrier impose la suspension, la discipline se contente de la respecter, et le carnet armé attend passivement la reprise Euronext lundi matin.
+
+**Trois points pour lundi 6 juillet et la trajectoire hebdomadaire** :
+
+1. **Lundi 6 juillet est une séance d'observation pure, pas d'action.** Le précédent Memorial Day 25 mai (session 10) l'a démontré : Euronext ouverte sans lead US → volumes 20-30 % sous moyenne, drift latéral discipliné, absence de directionnalité claire, aucun catalyseur macro européen susceptible d'imposer un mouvement. **Aucun déclenchement de seuil du carnet attendu.** La probabilité qu'un seuil #11 SU > 275 € ou #12 DG > 140 € soit atteint dès lundi est très faible (marches d'approche 1,25 % et 2,64 % nécessitant un catalyseur de continuation risk-on qui n'est simplement pas là lundi).
+
+2. **La stratégie pour la semaine reste inchangée : laisser les seuils travailler, se préparer aux minutes FOMC mercredi soir et au CPI vendredi.** Le portefeuille est structurellement positionné pour capter une continuation dovish (10y US à 3,78 % favorable aux défensives dividende AI/SAN, environnement risk-on modéré favorable au runner SU et à la pyramide DG). L'ajout des seuils #14/#15 CPI jeudi soir viendra clore l'architecture de couverture pour la fin de semaine.
+
+3. **Le seul « événement » interne du portefeuille cette semaine est le détachement coupon SAN mercredi 8 juillet** (~5,90 € net). Micro-injection cash mécanique attendue 9-10 juillet, non-signifiante en soi mais qui portera le cash total à ~6,64 € (0,58 % du portefeuille) — toujours largement insuffisant pour ouvrir une 5ᵉ ligne. La règle d'or #4 (pas de 5ᵉ ligne sans cash tactique ≥ 5 % du portefeuille, soit ≥ 57 €) reste hors d'atteinte sauf déclenchement d'un stop SU/DG combiné à la réinjection dividende, scénario non anticipé.
+
+**Prochaine réévaluation** : **lundi 6 juillet 17:40 CET** (clôture Euronext, séance sans lead US Independence Day observé, drift latéral discipliné attendu, aucune décision structurante prévue). Stops actifs : SU.PA **254,00 €** trailing (inchangé), DG.PA **128,00 €** technique (inchangé). Carnet d'ordres armé sur **8 seuils** (reconduits à l'identique). Cash 0,74 € résiduel (portefeuille 100 % investi). Focus : ne rien préempter du retour de cotation lundi matin, laisser Euronext ouvrir librement dans un contexte historique de faible directionnalité, et se préparer mentalement à un mercredi 9 juillet (minutes FOMC) puis vendredi 10 juillet (CPI) qui sont les vrais pivots de la semaine.
 
 ---
