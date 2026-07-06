@@ -2,7 +2,21 @@
 
 > **Source visée :** [CapitolTrades — trades (buy)](https://www.capitoltrades.com/trades?txType=buy)
 > **Note réseau :** CapitolTrades et l'ensemble des agrégateurs de trades du Congrès (Quiver Quantitative, Trendlyne, InsiderFinance, StockCircle, MarketBeat, CREW…) renvoient une erreur **HTTP 403** depuis cet environnement d'exécution distant (politique réseau + protection anti-bot). Trendlyne expose bien une fenêtre récente (divulgations du **11 au 20 juin 2026**) mais son contenu détaillé n'est pas accessible ici. Les données ci-dessous ont donc été **reconstituées via recherche web** à partir des mêmes divulgations publiques (STOCK Act / PTR du Sénat) relayées par la presse financière. Pour un suivi en temps réel, à rafraîchir depuis un environnement avec accès réseau complet.
-> **Dernière mise à jour :** 2026-06-29 (rafraîchissement #3 — nouvel achat **Mullin / Parker-Hannifin (PH)** du 12 juin 2026, équipementier aéro-défense, recoupant la commission Armed Services)
+> **Dernière mise à jour :** 2026-07-06 (rafraîchissement #4 — nouvel achat **Gary Peters (D-MI) / AT&T (T)** du 29 juin 2026, télécom sous juridiction de la commission Commerce ; divulgation du ~2 juillet 2026)
+
+---
+
+## 🆕 Nouveautés de ce rafraîchissement (2026-07-06)
+
+CapitolTrades et les agrégateurs (Quiver, Trendlyne, StockCircle, MarketBeat, Benzinga, Finviz, Barchart…) restent en **HTTP 403** depuis cet environnement (politique réseau + anti-bot). Les éléments ci-dessous proviennent de divulgations STOCK Act relayées par la presse financière (MarketBeat, Benzinga, Quiver, Markets Daily). **Un nouvel achat d'action** apparaît dans la fenêtre de divulgation de **fin juin / début juillet 2026**.
+
+| Sénateur | Parti / État | Commission sensible | Société | Ticker | Date d'achat | Montant | Probabilité de gain | **Probabilité de délit d'initié** |
+|----------|--------------|---------------------|---------|--------|--------------|---------|---------------------|-----------------------------------|
+| **Gary Peters** 🆕 | D — Michigan | **Commerce, Science & Transportation** (télécom/FCC) ; Armed Services ; Homeland Security (RM) ; Appropriations | AT&T | T | **2026-06-29** | 1–15 k$ | Modérée (~55 %) — télécom défensif à haut dividende, faible volatilité, upside limité | **Faible-Modérée** ⚠️ (télécom sous juridiction Commerce/FCC, mais petit montant, AT&T méga-cap peu sensible à une info isolée ; Peters est **auteur de lois anti-conflits** et **ne se représente pas** en 2026 → soupçon atténué) |
+
+> 🔎 **Contexte Peters / AT&T (T)** : achat de **1 001–15 000 $** d'actions **AT&T** le **29 juin 2026**, divulgué vers le **2 juillet 2026** (relayé par MarketBeat/Benzinga le 5 juillet). Peters (D-MI) siège à la commission **Commerce, Science & Transportation**, qui supervise les **télécommunications et la FCC** → chevauchement de juridiction avec un opérateur télécom. **Facteurs atténuants notables** : (1) le montant est **faible** (tranche 1–15 k$) ; (2) AT&T est une **méga-cap défensive à dividende élevé**, peu susceptible de bouger sur une information privilégiée ponctuelle ; (3) Peters est **co-auteur de plusieurs lois bipartites anti-conflits d'intérêts** (contractants fédéraux) ; (4) il a annoncé **ne pas se représenter en 2026** (fin de mandat), ce qui réduit l'intérêt spéculatif. ➡️ soupçon **Faible-Modéré**. Gain **Modéré (~55 %)** : profil rendement/défensif plus que croissance.
+
+> 🔁 **Hors périmètre `buy` / non attribuable ce mois-ci** : une divulgation d'un **achat obligataire municipal** (bons d'assainissement du comté d'Allegheny, PA ; **250–500 k$**, transaction du **18 juin 2026**) apparaît dans les trackers mais **n'a pas pu être attribuée nommément** de façon fiable depuis cet environnement ; les **obligations municipales** présentent de toute façon un **risque de délit d'initié quasi nul** (pas d'exposition à un émetteur privé sensible à une décision législative). Côté **Mullin (R-OK)** : pas de nouvel achat d'action confirmé postérieur au **Parker-Hannifin (PH) du 12 juin** déjà listé. **Sheldon Whitehouse (D-RI)** : divulgations toujours dominées par des **ventes**.
 
 ---
 
@@ -50,7 +64,8 @@ Le site cible (CapitolTrades) et tous les agrégateurs (Quiver, Trendlyne, Stock
 
 | Sénateur | Parti / État | Commission sensible | Société | Ticker | Date d'achat | Montant | Probabilité de gain | **Probabilité de délit d'initié** |
 |----------|--------------|---------------------|---------|--------|--------------|---------|---------------------|-----------------------------------|
-| Markwayne Mullin 🆕 | R — Oklahoma | Armed Services | Parker-Hannifin | PH | **2026-06-12** | 15–50 k$ | Élevée (~65 %) — aéro-défense, ≈ +46 %/an | **Modérée-Élevée** ⚠️ (équipementier défense) |
+| Gary Peters 🆕 | D — Michigan | Commerce (télécom/FCC) | AT&T | T | **2026-06-29** | 1–15 k$ | Modérée (~55 %) — télécom défensif, dividende | **Faible-Modérée** ⚠️ (télécom / Commerce ; montant faible, réformateur, fin de mandat) |
+| Markwayne Mullin | R — Oklahoma | Armed Services | Parker-Hannifin | PH | **2026-06-12** | 15–50 k$ | Élevée (~65 %) — aéro-défense, ≈ +46 %/an | **Modérée-Élevée** ⚠️ (équipementier défense) |
 | Markwayne Mullin | R — Oklahoma | Armed Services | Chevron | CVX | 2025-12-29 | 15–50 k$ | Élevée (~70 %) — déjà +10 % | **Élevée** ⚠️ |
 | Markwayne Mullin | R — Oklahoma | Armed Services | RTX (Raytheon) | RTX | 2025-12-29 | 15–50 k$ | Élevée (~70 %) — déjà +9,5 % | **Élevée** ⚠️ |
 | Markwayne Mullin | R — Oklahoma | Armed Services | ConocoPhillips | COP | 2025-12 (fin) | 15–50 k$ | Modérée-Élevée (~65 %) | **Élevée** ⚠️ |
@@ -128,6 +143,13 @@ Le profil le plus actif et le plus sensible du tableau. Mullin a déclaré avoir
 - Côté **achat** : une participation dans **Contour Venture Partners V LP** (fonds de capital-risque *early-stage*), déclarée le **23 janvier 2026**. Il s'agit d'un **fonds aveugle non coté** (engagement de capital, déploiement progressif sur plusieurs années).
 - ➡️ **Probabilité de délit d'initié : Très faible** — un fonds de VC diversifié et illiquide n'offre aucune exposition à un émetteur public unique sensible à une décision législative. **Probabilité de gain : non quantifiable** (horizon 7–10 ans, illiquidité, dispersion). Quiver estime ~**812 k$** de gain mensuel sur l'ensemble de son portefeuille (titres cotés détenus par ailleurs).
 
+### 🆕 🔵 Gary Peters (D — Michigan) — achat AT&T (T) — *Senate Commerce Committee* *(nouveauté 2026-07-06)*
+
+- Achat de **1 001–15 000 $** d'actions **AT&T (T)** le **29 juin 2026**, divulgué vers le **2 juillet 2026** (relais MarketBeat / Benzinga / Markets Daily du 5 juillet 2026).
+- Peters siège à la commission **Commerce, Science & Transportation** (qui supervise les **télécommunications et la FCC**), ainsi qu'à **Armed Services**, **Appropriations** et comme *Ranking Member* de **Homeland Security & Governmental Affairs** → chevauchement de juridiction avec un opérateur télécom.
+- **Éléments d'atténuation du soupçon** : (1) montant **faible** (tranche 1–15 k$) ; (2) AT&T est une **méga-cap défensive à dividende élevé**, dont le cours répond surtout aux taux et aux résultats trimestriels — peu susceptible de bouger sur une information privilégiée ponctuelle ; (3) Peters est **co-auteur de plusieurs textes bipartites anti-conflits d'intérêts** (contractants fédéraux) ; (4) il a annoncé **ne pas se représenter en 2026**, ce qui réduit l'intérêt spéculatif de fin de mandat.
+- ➡️ **Probabilité de délit d'initié : Faible-Modérée** ⚠️ (juridiction télécom/Commerce, atténuée par les facteurs ci-dessus). **Probabilité de gain : Modérée (~55 %)** — profil rendement/défensif (dividende, fibre, désendettement) plus que forte croissance ; upside limité. **Légal** (STOCK Act, déclaration dans les délais).
+
 ### 🔵 John Hickenlooper (D — Colorado) — membre du *Senate Commerce Committee*
 
 - Investissement dans **Palo Alto Networks (PANW)**, société de cybersécurité, déclaré **quelques mois avant** l'expansion d'un programme fédéral d'achats élargissant l'accès des agences aux produits de la firme.
@@ -181,5 +203,10 @@ Le profil le plus actif et le plus sensible du tableau. Mullin a déclaré avoir
 - [Zacks / TradingView — PH Gains From Strength in Aerospace Systems Unit (segment défense/commercial, CIRCOR)](https://www.tradingview.com/news/zacks:21a21eb2c094b:0-ph-gains-from-strength-in-aerospace-systems-unit-can-it-sustain/)
 - [Stock Analysis — Parker-Hannifin (PH) performance (~+46 % sur 12 mois)](https://stockanalysis.com/stocks/ph/)
 - [CapitolTrades — Bernie Moreno first stock buy (CIBC / CM, Banking & Commerce, 17/12/2025)](https://www.capitoltrades.com/buzz/bernie-moreno-makes-first-stock-buy-in-congress-with-eye-on-banking-and-commerce-2026-01-13)
+- [MarketBeat — Sen. Gary C. Peters Buys Shares of AT&T Inc. (NYSE:T) (05/07/2026)](https://www.marketbeat.com/instant-alerts/sen-gary-c-peters-buys-shares-of-att-inc-nyset-2026-07-05/)
+- [Benzinga — This Senator Just Bought Up To $15K In AT&T Stock (Gary Peters, 29/06/2026)](https://www.benzinga.com/government/26/07/60266082/senator-just-bought-15k-t-stock)
+- [Markets Daily — Sen. Gary C. Peters Buys Shares of AT&T Inc. (NYSE:T)](https://www.themarketsdaily.com/2026/07/05/sen-gary-c-peters-buys-shares-of-att-inc-nyset.html)
+- [Quiver — Congress Trade: Senator Gary C. Peters Just Disclosed New Stock Trades](https://www.quiverquant.com/news/Congress+Trade:+Senator+Gary+C.+Peters+Just+Disclosed+New+Stock+Trades)
+- [U.S. Senator Gary Peters — Committee Assignments (Commerce ; Armed Services ; HSGAC RM ; Appropriations)](https://www.peters.senate.gov/about/committee-assignments)
 
-> *Données reconstituées le 2026-06-29 (rafraîchissement #3) à partir de divulgations publiques STOCK Act. Ne constitue pas un conseil en investissement ni une imputation de fait délictueux.*
+> *Données reconstituées le 2026-07-06 (rafraîchissement #4) à partir de divulgations publiques STOCK Act. Ne constitue pas un conseil en investissement ni une imputation de fait délictueux.*
