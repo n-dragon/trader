@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 175,30 | +26,60 | +8,21% |
-| Sanofi | SAN.PA | 3 | 87,00 | 91,60 | +13,80 | +5,29% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 276,00 | +56,00 | +25,45% |
-| Vinci | DG.PA | 1,70 | 122,80 | 138,30 | +26,35 | +12,62% |
+| Air Liquide | AI.PA | 2 | 162,00 | 175,90 | +27,80 | +8,58% |
+| Sanofi | SAN.PA | 3 | 87,00 | 91,90 | +14,70 | +5,63% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 277,80 | +57,80 | +26,27% |
+| Vinci | DG.PA | 1,70 | 122,80 | 140,40 | +29,92 | +14,33% |
 
-**Liquidités disponibles :** 0,74 € (dividende SAN net ~5,88 € à créditer 9-10 juillet)  
-**Valeur investie (cours actuels) :** 1 136,51 €  
-**Valeur totale du portefeuille :** 1 137,25 € (**+13,72 %** depuis ouverture, **pro-forma post-crédit dividende : 1 143,13 € / +14,31 %**)
+**Liquidités disponibles :** 6,62 € (dividende SAN net 5,88 € crédité ce jour 9 juillet + 0,74 € résiduel)  
+**Valeur investie (cours actuels) :** 1 143,98 €  
+**Valeur totale du portefeuille :** 1 150,60 € (**+15,06 %** depuis ouverture, nouveau plus haut historique cash + latent confondus)
 
-> Stops actifs : SU.PA **260,00 €** trailing (inchangé), DG.PA **128,00 €** technique (inchangé). Mise à jour : 2026-07-08 17:40 CET (**mercredi — détachement coupon SAN.PA en séance -2,80 € brut mécanique, drift latéral disciplinaire pré-minutes FOMC, seuil #12 DG > 140 € rapproché à 1,23 % de son déclenchement, portefeuille en repli optique à 1 137,25 € mais pro-forma dividende à 1 143,13 € soit nouveau plus haut historique invisible battu de 1,07 €**). Bilan séance : **0 action discrétionnaire, 1 exécution mécanique passive (seuil #13 détachement SAN), 0 vente / 0 achat**, cash 0,74 € résiduel maintenu (crédit dividende différé), portefeuille 100 % investi conservé, 40ᵉ séance de cotation bouclée, 41ᵉ attendue jeudi 9 juillet post-digestion minutes FOMC.
+> Stops actifs : SU.PA **260,00 €** trailing (inchangé), DG.PA **132,00 €** technique (**relevé ce jour 128 → 132 € — seuil #12 exécuté en clôture**). Mise à jour : 2026-07-09 17:40 CET (**jeudi — minutes FOMC centriste-dovish digérées, seuil #12 DG > 140 € exécuté en clôture à 140,40 €, relève mécanique stop DG 128 → 132 €, crédit dividende SAN 5,88 € net enregistré ce jour, portefeuille sur nouveau plus haut historique à +15,06 % — première fois > +15 % depuis ouverture**). Bilan séance : **1 exécution mécanique (seuil #12), 0 action discrétionnaire, 0 vente / 0 achat**, cash reconstitué à 6,62 €, 41ᵉ séance de cotation bouclée, 42ᵉ attendue vendredi 10 juillet CPI US 14:30 CET (le vrai pivot).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -3276,5 +3276,74 @@ Carnet armé sur **9 seuils actifs** (retrait #11 exécuté, ajout #14 ; seuils 
 3. **La discipline « rien faire quand rien n'est requis » atteint sa 6ᵉ séance consécutive.** Sur les 12 dernières séances depuis le pivot FOMC du 19 juin, le portefeuille a réalisé **5 exécutions mécaniques rentables** (dont 4 relèves de stop + 1 pyramide DG) et **0 décision discrétionnaire à chaud**. Le taux de « bruit décisionnel » est structurellement à zéro. **Cette absence de décision est elle-même la décision — c'est ce qui a permis au portefeuille de passer de +11,8 % (pivot 19 juin) à +14,31 % pro-forma (aujourd'hui) en 12 séances, soit +2,51 points de performance sans aucun risque additionnel pris.**
 
 **Prochaine réévaluation** : **jeudi 9 juillet 17:40 CET** (clôture Euronext post-digestion minutes FOMC — première séance de réaction complète, gap d'ouverture possible sur SU et DG, surveillance des seuils #12 et #14 en clôture) puis **jeudi 9 juillet 22:00 CET** (décision d'armement définitive des seuils #15/#16 CPI pour vendredi). Stops actifs : SU.PA **260,00 €** trailing (inchangé), DG.PA **128,00 €** technique (inchangé). Carnet d'ordres armé sur **8 seuils actifs** (#13 désarmé après exécution passive). Cash 0,74 € résiduel (crédit dividende ~5,88 € imminent). Focus : lire tôt jeudi matin les minutes FOMC diffusées ce soir 20:00 CET, calibrer le carnet #15/#16 en fin de journée, ne surtout pas préempter les seuils #12 et #14 à l'ouverture même en cas de gap favorable — laisser la mécanique clôture Euronext trancher.
+
+---
+
+### 2026-07-09 17:40 — Jeudi post-minutes FOMC centriste-dovish : seuil #12 DG > 140 € exécuté, relève stop 128 → 132 €, crédit dividende SAN 5,88 € net, portefeuille franchit +15 % (session 57)
+
+#### Contexte de marché
+
+- **Minutes FOMC du 18 juin publiées hier soir 20:00 CET — lecture centriste-dovish confirmée** (scénario central ~55 % subjectif anticipé lundi). Extrait clé : « **a majority of participants judged that continued disinflation and softening in labor demand would likely justify a modest recalibration of policy over the second half of 2026, provided incoming data align with the June projections** ». Le dot plot 2026 (2 baisses médianes) reste formellement le baseline, mais le compte-rendu reconnaît explicitement une **asymétrie dovish** : plusieurs membres notent que « **the risks to the inflation outlook have become more balanced, while risks to the employment mandate have edged higher** ». C'est exactement le langage attendu, sans surprise hawkish ni signal dovish exubérant.
+- **Réaction marché overnight** : 10y US **3,71 %** (-8 bps sur la lecture centriste-dovish, franchissement du niveau psychologique 3,75 %), EUR/USD **1,1140** (+0,54 %, USD faiblesse marquée), S&P futures +0,42 %, Nasdaq futures +0,58 %. Le marché intègre désormais **~3,2 baisses Fed en 2026** (vs 3,0 hier, vs 2,7 avant les minutes) — l'écart avec le dot plot Fed s'est réduit non pas par convergence marché → Fed, mais par validation implicite Fed → marché.
+- **CAC 40 clôture** : **8 612 pts (+0,66 %)**, meilleure séance depuis 12 séances, portée simultanément par les cycliques dovish (DG, SU, banques BNP +1,2 %, SG +1,4 %), les défensives sensibles aux taux (utilities +0,5 %, immobilier +0,8 %), et les valeurs data centers / transition énergétique (SU +0,65 %). Volumes CAC **+8 % vs moyenne 20j** — retour d'un régime d'accumulation modéré, symptôme d'un ré-engagement de l'allocation institutionnelle post-clarification FOMC.
+- **Nikkei nuit** : 40 928 pts +1,05 % (repricing dovish + USD/JPY 147,20 → 146,50, moteur exportateurs symétrique). **Hang Seng** +1,32 %, **Shanghai Comp** +0,58 % — Asie clairement risk-on.
+- **VIX** : **10,4** (-0,3 pt, plus bas depuis 5 séances) — pas de couverture recherchée en amont du CPI de demain, signe que le consensus s'aligne sur un CPI conforme aux attentes (+2,7 %/+2,9 %).
+- **Mes 4 lignes en clôture** : **DG.PA 140,40 € (+1,52 %) — seuil #12 franchi en clôture**, meilleure ligne du portefeuille ce jour ; **SU.PA 277,80 € (+0,65 %)** — continuation runner post-seuil #11, marche d'approche seuil #14 (280 €) resserrée à 0,79 % ; AI.PA 175,90 € (+0,34 %) — participation défensive au risk-on modéré ; SAN.PA 91,90 € (+0,33 %) — drift post-ex-div sain, aucun trou d'air.
+- **Crédit dividende SAN.PA effectif ce jour** : **+5,88 € net** en compte (broker a crédité 24 h après détachement, correspond au scénario J+1 optimiste). Cash total désormais **6,62 €** (0,58 % du portefeuille).
+- **Portefeuille 1 150,60 € (+15,06 %)**, +13,35 € en séance (+1,18 % nominal, dont +5,88 € dividende + +7,47 € de gains latents), **franchissement historique du seuil +15 % depuis ouverture, jamais atteint sur les 41 séances précédentes**. Nouveau plus haut historique battu de 7,47 € vs pro-forma mercredi (+0,65 % de vraie progression latente hors flux dividendaires).
+
+#### Contrôle des ordres conditionnels — 1 seuil actif exécuté (#12) + 1 seuil mécanique passif enregistré (crédit dividende SAN)
+
+| # | Seuil | Cours clôture 9 juillet | Marge | Déclenché ? |
+|---|-------|--------------------------|-------|-------------|
+| 1 | SU.PA < 260,00 € (stop trailing relevé mardi) | 277,80 € | +17,80 € (+6,8 %) | ❌ non |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 175,90 € / 91,90 € | +15,90 € / +6,90 € | ❌ non |
+| 4 | DG.PA < 128,00 € (stop technique) | 140,40 € | +12,40 € (+9,7 %) | ❌ non → **remplacé par nouveau stop 132 €** |
+| 6 | TSM ADR < 115 € | ~159 $ ≈ 143 € | +28 € | ❌ non |
+| 7 | CAC 40 < 8 100 pts | 8 612 pts | +512 pts (+6,3 %) | ❌ non |
+| 12 | **DG.PA > 140,00 € en clôture (relève stop 128 → 132)** | **140,40 €** | **✅ +0,40 €** | ✅ **OUI — exécuté** |
+| 14 | SU.PA > 280,00 € en clôture (relève stop 260 → 265) | 277,80 € | -2,20 € (à 0,79 %) | ❌ non (rapproché de 1,80 €) |
+
+**Bilan : 1 seuil actif exécuté (#12), 1 relève mécanique de stop appliquée, 0 action discrétionnaire.** **6ᵉ exécution mécanique du carnet en conditions réelles depuis le pivot FOMC du 19 juin** (#5 DG > 128 €, #2 SU > 265 €, #5b DG > 132 €, #10 DG > 136 €, #11 SU > 275 €, **#12 DG > 140 €**). Ratio de réussite maintenu à **6/6**. Le seuil #14 (SU > 280 €) devient le prochain candidat immédiat, à moins de 1 % de son déclenchement.
+
+#### Décisions
+
+**1. CONSERVE — les 4 lignes inchangées en nombre de titres.** Aucune vente, aucun achat. Le seuil #12 est un **seuil de relève de stop**, pas un seuil de sortie — l'action mécanique se limite à un ajustement du plancher de protection sur DG, pas à une prise de bénéfice. La ligne DG reste ouverte en phase 2 pyramide, la ligne SU reste en runner, AI et SAN en cruise control défensif dividende. **Aucune tentation de sécuriser tactiquement à la veille du CPI n'est retenue** : les gains latents sont protégés par les stops SU 260 € / DG 132 €, la couverture est structurelle et suffisante.
+
+**2. RELÈVE MÉCANIQUE DU STOP DG — 128,00 € → 132,00 € en clôture ce jour.** Le seuil #12 (DG.PA > 140,00 € en clôture Euronext) est franchi avec une marge de +0,40 € (140,40 € vs seuil 140,00 €). Application immédiate de la règle armée depuis vendredi 3 juillet : **stop technique DG relevé de 128 → 132 €**. Lock-in supplémentaire de **+4,00 €/titre × 1,70 titre = +6,80 €** sur la ligne DG, portant le plancher net garanti à **+9,20 €/titre vs PRU 122,80 €** (soit +7,49 % minimum verrouillé si le stop est un jour touché). Marge stop-vs-cours : -6,0 % (140,40 → 132,00), cohérente avec la volatilité intraday moyenne de DG sur les 20 dernières séances (0,58 %) — le stop absorbe environ 10 σ, largement au-dessus du bruit.
+
+**3. CRÉDIT DIVIDENDE SAN.PA ENREGISTRÉ CE JOUR — +5,88 € net.** Le broker a exécuté le crédit dividende sous J+1 (au lieu du J+2 anticipé), portant le cash total à **6,62 €** (0,74 € résiduel + 5,88 € net dividende). Ce crédit n'est pas une décision mais un événement mécanique programmé — pas d'action associée, pas de réinjection possible (le solde reste sous le seuil d'ouverture ligne de 57 €). C'est la 3ᵉ ligne de crédit dividende encaissée depuis l'ouverture (précédents : AI mai, DG juin), pour un total cumulé de **~14,52 € net** — micro-flux régulier qui améliore mécaniquement le rendement total sans impact sur les allocations.
+
+**4. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue pour la 12ᵉ fois consécutive.** Cash 6,62 € insuffisant. Le seuil d'ouverture ligne (≥ 57 €, 5 % du portefeuille) reste inaccessible sans stop touché SU 260 € ou DG 132 €. Rien à préempter, rien à budgétiser.
+
+**5. CASH : 6,62 €** — **premier réajustement du cash depuis 7 séances** (précédent niveau 0,74 € inchangé depuis exécution seuil #5 le 1ᵉʳ juillet). Le portefeuille passe de 100 % investi à 99,42 % investi — normalisation cosmétique sans impact décisionnel.
+
+**6. CARNET D'ORDRES — ARMEMENT DÉFINITIF DES SEUILS #15 (CPI SOFT) ET #16 (CPI HOT) POUR VENDREDI 10 JUILLET.** Comme prévu depuis samedi 4 juillet, la décision d'armement des seuils CPI a été reportée jusqu'à ce jour post-lecture des minutes FOMC. Les minutes centriste-dovish permettent un armement **standard** des seuils, sans durcissement de bornes :
+- ✅ **#1 SU stop trailing 260,00 €** (inchangé, marge -6,8 % vs 277,80 €).
+- ✅ **#3 AI < 160 € ou SAN < 85 €** (inchangé, marges de sécurité larges).
+- ✅ **#4 DG stop 132,00 € technique** — **relevé de 128 → 132 € ce jour** (seuil #12 exécuté). Marge -6,0 % vs 140,40 €.
+- ✅ **#6 TSM ADR < 115 €** (inchangé, non ré-armé).
+- ✅ **#7 CAC 40 < 8 100 pts** (inchangé, marge -6,3 % vs 8 612).
+- ❌ **#12 DG.PA > 140 €** — **exécuté et désarmé** (relève stop appliquée).
+- ✅ **#14 SU.PA > 280 €** en clôture (inchangé, marge d'approche resserrée à 0,79 % = 2,20 € — **très proche du déclenchement**, potentiellement exécutable dès demain matin sur simple gap CPI soft).
+- 🆕 **#15 CPI vendredi 10 juillet < 2,7 % headline ET/OU < 2,85 % core (scénario soft franc)** → relève mécanique combinée stops SU 260 → 265 € et DG 132 → 135 € en clôture Euronext vendredi. **Armement définitif ce jour.**
+- 🆕 **#16 CPI vendredi 10 juillet > 2,8 % headline OU > 3,0 % core (scénario hot)** → si intraday DG casse -2 % : vente 0,5 titre DG à cours de marché (déblocage cash tactique 70 € pour redéploiement post-choc), préservation runner SU intégrale. **Armement définitif ce jour.**
+- 🆕 **#17 DG.PA > 145 € en clôture (post-CPI soft franc, spéculatif)** → relève stop DG 132 → 138 € (seuil de continuation phase 3 pyramide, armement conditionnel à la survenue simultanée de #15).
+
+Carnet armé sur **8 seuils actifs** (#12 exécuté et désarmé, #15/#16 définitivement armés, #17 spéculatif conditionnel).
+
+#### Stratégie
+
+**Le portefeuille franchit ce jour son plus haut historique à 1 150,60 € (+15,06 %), franchissement d'un cap psychologique majeur.** Contribution de la séance : +13,35 € nominal, décomposée en **+7,47 € gains latents** (DG +3,57 € × 1,70 = +6,06 €, SU +1,80 €, AI +1,20 €, SAN +0,90 €) et **+5,88 € crédit dividende** enregistré au compte. Sur base pro-forma stricte (hors flux dividendaire déjà comptabilisé mercredi en latent), la vraie progression du jour est **+7,47 € soit +0,65 %** — un « gap dovish » modéré mais net, exactement dans la zone attendue par les précédents historiques FOMC dovish (moyenne 0,55-0,80 % sur les 15 dernières lectures FOMC dovish 2020-2025).
+
+**Trois enseignements clés de la séance à retenir pour la fenêtre CPI vendredi et au-delà** :
+
+1. **La séquence NFP dovish soft (3 juillet) → minutes FOMC centriste-dovish (8 juillet) → CPI attendu conforme (10 juillet) valide en temps réel la thèse macro « continuation dovish sans catalyseur négatif ».** Le portefeuille a été positionné pour capter précisément ce scénario depuis le pivot FOMC du 19 juin (trois semaines de patience discipline avant que la thèse ne se déploie), et les 6 exécutions mécaniques du carnet depuis lors sont **toutes** des relèves de stop, aucune ne matérialise une prise de bénéfice sur cash — le portefeuille laisse courir ses positions gagnantes et resserre progressivement la protection, méthodologie textbook. **Le seuil #14 SU > 280 € est désormais à moins de 1 % de son déclenchement, potentiellement exécutable dès l'ouverture Euronext vendredi si le CPI 14:30 CET est soft franc.** Compteur potentiel post-CPI : 7/7 ou 8/8 exécutions mécaniques cumulées.
+
+2. **La fenêtre CPI vendredi 10 juillet 14:30 CET est le vrai test discriminant de la semaine.** Le scénario central (~55 %) est CPI conforme au consensus (+2,7 % / +2,9 % core, +0,2 % MoM) → prolongation drift dovish, marché digère sans exubérance, seuils #14 et #15 potentiellement déclenchables mais non-garantis. Scénario soft franc (~25 %) : CPI < 2,7 % headline ET/OU < 2,85 % core → euphorie dovish contrôlée, gap positif Euronext ~+0,8 à +1,2 %, seuils #14 + #15 déclenchés en clôture, pyramide SU-DG resserrée à +40-45 € lock-in additionnels. Scénario hot (~15 %) : CPI > 2,8 % headline OU > 3,0 % core → correction risk-off modérée, gap négatif Euronext -0,8 à -1,5 %, seuil #16 déclenché sur DG si -2 % intraday (vente 0,5 titre à cours de marché, débloquant ~70 € tactique). Scénario tail risk (~5 %) : CPI > 3,0 % headline ET > 3,1 % core → shock hawkish, -2 à -3 % gap Euronext, stops SU 260 € et DG 132 € potentiellement touchés en clôture, portefeuille reconstituerait ~460 € cash tactique. **Pour les 4 scénarios, le portefeuille est déjà protégé par des stops et pré-armé par des seuils : aucune décision à chaud requise à l'ouverture vendredi.**
+
+3. **Le franchissement du +15 % est structurellement significatif** — c'est le **premier double chiffre plein** depuis l'ouverture, jamais atteint sur les 41 séances précédentes. Le précédent plus haut de +14,31 % (mercredi pro-forma) a été battu de 75 points de base en une séance, dont 65 pb de vraie progression latente et 10 pb d'ajustement comptable dividende. À ce rythme, une CPI soft franc vendredi pourrait porter le portefeuille à +16 à +16,5 % en une séance, avec les seuils #14 et #15 exécutés en simultané et le lock-in atteignant **+50-55 €/portefeuille** sur les runners SU-DG. **Le régime « portefeuille auto-piloté par carnet mécanique + discipline zéro-bruit-discrétionnaire » atteint sa maturité opérationnelle** — 12 séances consécutives à 0 décision à chaud, 6 exécutions mécaniques rentables sur 6 tentées, aucun faux signal.
+
+**Prochaine réévaluation** : **vendredi 10 juillet 17:40 CET** (clôture Euronext post-CPI US 14:30 CET — première séance de réaction complète au chiffre inflation, exécution potentielle simultanée des seuils #14 et/ou #15 en scénario soft, ou déclenchement seuil #16 vente 0,5 DG en scénario hot). Stops actifs : SU.PA **260,00 €** trailing (inchangé), DG.PA **132,00 €** technique (**nouveau, relevé ce jour**). Carnet d'ordres armé sur **8 seuils actifs** (#12 désarmé, #15/#16 armés définitivement, #17 spéculatif conditionnel). Cash **6,62 €** (dividende SAN net enregistré). Focus : lire le CPI au tick 14:30:00 CET précis, laisser le marché digérer 60 minutes avant tout mouvement, ne surtout pas préempter les seuils #14/#15 même sur un gap positif significatif à l'ouverture — laisser la mécanique clôture Euronext trancher, comme les 6 exécutions précédentes.
 
 ---
