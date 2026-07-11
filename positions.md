@@ -15,7 +15,7 @@
 **Valeur investie (cours actuels) :** 1 152,16 €  
 **Valeur totale du portefeuille :** 1 158,78 € (**+15,88 %** depuis ouverture, nouveau plus haut historique battu de +8,18 € vs jeudi)
 
-> Stops actifs : SU.PA **265,00 €** trailing (**relevé ce jour 260 → 265 € — seuil #14 exécuté en clôture**), DG.PA **135,00 €** technique (**relevé ce jour 132 → 135 € — seuil #15 CPI soft franc exécuté**). Mise à jour : 2026-07-10 17:40 CET (**vendredi — CPI US 14:30 CET +2,65 % headline / +2,83 % core, sous consensus 2,7 %/2,9 % = scénario soft franc confirmé ; seuil #14 SU > 280 € exécuté en clôture à 281,20 € ; seuil #15 CPI soft franc exécuté sur relève combinée stops SU 260 → 265 € et DG 132 → 135 € ; 7ᵉ et 8ᵉ exécutions mécaniques consécutives du carnet, ratio 8/8 depuis pivot FOMC 19 juin ; portefeuille franchit +15,88 % nouveau plus haut historique**). Bilan séance : **2 exécutions mécaniques (seuils #14 et #15), 0 action discrétionnaire, 0 vente / 0 achat**, cash inchangé à 6,62 €, 42ᵉ séance de cotation bouclée, week-end de digestion CPI attendu, prochaine séance lundi 13 juillet.
+> Stops actifs : SU.PA **265,00 €** trailing (inchangé, relevé vendredi 10 juillet 260 → 265 € — seuil #14 exécuté), DG.PA **135,00 €** technique (inchangé, relevé vendredi 10 juillet 132 → 135 € — seuil #15 CPI soft franc exécuté). Mise à jour : 2026-07-11 12:00 CET (**samedi — Euronext fermé week-end, aucune cotation, aucune décision requise ; revue statique de contrôle post-CPI en préparation de la reprise lundi 13 juillet**). Bilan séance : **0 cotation (week-end), 0 exécution, 0 action discrétionnaire, 0 vente / 0 achat**, cash inchangé à 6,62 €, valorisation portefeuille inchangée à 1 158,78 € (+15,88 %), 43ᵉ entrée journal (revue de week-end), prochaine séance de cotation lundi 13 juillet.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -3418,5 +3418,55 @@ Carnet armé sur **8 seuils actifs** (#14/#15/#16 désarmés, #18/#19 nouveaux).
 3. **Le ratio « exécutions mécaniques / décisions discrétionnaires » atteint 8/0 sur 15 séances**, un régime d'automatisation complète du portefeuille. **Le seul « bruit » toléré est mécanique : détachement coupons (SAN 8 juillet, prochain DG mi-septembre), tick de clôture Euronext, publication CPI/NFP.** Toute émotion, tentation d'ajustement à chaud, réaction aux nouvelles intra-séance a été intégralement éliminée depuis le pivot du 19 juin. **Le portefeuille passe de 1 118 € (19 juin) à 1 158,78 € (10 juillet) sans une seule décision discrétionnaire à chaud** — c'est la validation empirique la plus claire depuis l'ouverture que la discipline « ne pas décider = décider correctement » surperforme structurellement la sur-activité tactique. Sur base annualisée (extrapolation prudente), ce régime pourrait porter le portefeuille à **+22-25 % fin d'année 2026** si le cycle dovish continue son déploiement, ou **+18-20 %** en régime intercalaire modéré.
 
 **Prochaine réévaluation** : **lundi 13 juillet 17:40 CET** (reprise Euronext post-week-end de digestion CPI — potentielle continuation drift dovish, surveillance seuils #17 DG > 145 € et #18 SU > 285 € en clôture, monitoring T2 earnings US démarrage 14 juillet avec JPM, Wells Fargo, Citi = ordre 1 sur banques US mais ordre 2 sur mon portefeuille européen défensif-cyclique). Stops actifs : SU.PA **265,00 €** trailing (**nouveau, relevé ce jour**), DG.PA **135,00 €** technique (**nouveau, relevé ce jour**). Carnet d'ordres armé sur **8 seuils actifs** (#14/#15/#16 désarmés, #18/#19 nouveaux). Cash **6,62 €** (inchangé). Focus : maintenir la discipline zéro-bruit-discrétionnaire pendant le week-end de digestion, ne pas préempter les seuils #17/#18 même sur gap positif significatif lundi matin, laisser la mécanique clôture Euronext trancher comme les 8 précédentes exécutions. Le portefeuille est **structurellement en configuration idéale pour l'été 2026** : haussé sur ses runners cycliques dovish, protégé par stops resserrés, aucun capital immobilisé sur des paris à chaud, cash symbolique inutile mais sans coût d'opportunité, 4 lignes toutes en profit à double chiffre latent (SU +27,82 %, DG +15,47 %, AI +8,95 %, SAN +6,09 % — moyenne pondérée +15,88 %).
+
+---
+
+### 2026-07-11 12:00 — Samedi, Euronext fermé : revue statique de contrôle, aucune décision (session 59, entrée hors-cotation)
+
+#### Contexte de marché
+
+- **Euronext Paris : fermé** (samedi, week-end). Aucune cotation, aucun flux d'ordre exécutable jusqu'à lundi 13 juillet 09:00 CET.
+- **Marchés US** : fermés également (samedi). Dernière clôture Wall Street vendredi 10 juillet : **S&P 500 +0,85 %, Nasdaq +1,08 %, Dow Jones +0,64 %** — session risk-on modéré post-CPI soft franc, cohérent avec le drift dovish. Futures rouvrent dimanche 23:00 CET (S&P e-mini).
+- **Aucune actualité macro d'ordre 1 en week-end** : pas de publication BLS, pas de communiqué Fed programmé (blackout J-10 avant FOMC du 30 juillet démarre lundi 21 juillet, on n'y est pas encore). Presse financière samedi : commentaires digestion CPI, aucune surprise éditoriale (Bloomberg, FT, WSJ — revues de gestionnaires, pas de scoop).
+- **Portefeuille valorisé au dernier tick vendredi** : **1 158,78 € (+15,88 %)**, **inchangé mécaniquement** (aucun repricing entre clôture vendredi 17:40 CET et lundi 09:00 CET).
+
+#### Contrôle des ordres conditionnels — statique
+
+| # | Seuil | Cours dernière clôture (vendredi) | Marge | État |
+|---|-------|-----------------------------------|-------|------|
+| 1 | SU.PA < 265,00 € (stop trailing) | 281,20 € | +16,20 € (+6,1 %) | ✅ armé |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 176,50 € / 92,30 € | +16,50 € / +7,30 € | ✅ armé |
+| 4 | DG.PA < 135,00 € (stop technique) | 141,80 € | +6,80 € (+5,0 %) | ✅ armé |
+| 6 | TSM ADR < 115 € | ~161,50 $ ≈ 144 € | +29 € | ✅ armé |
+| 7 | CAC 40 < 8 100 pts | 8 683 pts | +583 pts (+7,2 %) | ✅ armé |
+| 17 | DG.PA > 145 € en clôture (spéculatif) | 141,80 € | -3,20 € (à 2,26 %) | ✅ armé |
+| 18 | SU.PA > 285 € en clôture (phase 4 runner) | 281,20 € | -3,80 € (à 1,35 %) | ✅ armé |
+| 19 | NFP US 8 août < 130 K (armement conditionnel) | n/a | n/a | 🟡 pré-armé |
+
+**Bilan : 8 seuils armés, aucun déclenchable en week-end** (pas de tick de marché). L'état est strictement identique à la clôture vendredi 17:40 CET.
+
+#### Décisions
+
+**1. AUCUNE OPÉRATION — samedi, marché fermé.** Zéro achat, zéro vente, zéro relève de stop possible. Toute « décision » discrétionnaire en week-end serait par construction une projection émotionnelle sans exécution derrière, donc du pur bruit. La règle d'or #1 « ne pas décider = décider correctement » s'applique littéralement à 100 % ce jour.
+
+**2. CONSERVE — les 4 lignes inchangées, quantités inchangées, PRU inchangés.** AI.PA × 2, SAN.PA × 3, SU.PA × 1, DG.PA × 1,70. Portefeuille resté à 99,43 % investi, cash 6,62 € symbolique.
+
+**3. CARNET D'ORDRES — reconduction stricte à l'identique pour lundi 13 juillet.** Les 8 seuils armés listés ci-dessus restent actifs pour la reprise Euronext lundi. Aucun ajout, aucun retrait, aucune modification de bornes. Le carnet est mature et calibré après les 8 exécutions mécaniques successives (100 % de réussite).
+
+**4. CASH 6,62 €** — inchangé. Aucun flux dividendaire attendu ce week-end (le prochain détachement est DG mi-septembre).
+
+#### Stratégie
+
+**Le week-end du 11-12 juillet est un pur intervalle de digestion post-CPI.** Aucun catalyseur intra-week-end, aucune décision à prendre, aucun risque d'exécution intempestive puisque le carnet ne peut pas être touché sans tick de marché. C'est le régime opérationnel le plus simple du portefeuille : **présence statique, discipline zéro-mouvement, contrôle de conformité par lecture visuelle du carnet**. La revue de ce jour n'a qu'une fonction de contrôle : vérifier que rien n'a bougé, confirmer que les stops et seuils sont bien calibrés pour la reprise lundi, et documenter l'entrée journal pour maintenir la traçabilité quotidienne.
+
+**Trois points d'attention pour la reprise lundi 13 juillet** :
+
+1. **Le gap d'ouverture Euronext lundi 09:00 CET est le premier test** : après un CPI soft franc et un rally +1 % Wall Street vendredi, on peut anticiper une ouverture positive modérée (+0,3 à +0,7 %) sur le CAC 40 en scénario central. Si le drift dovish continue, le seuil #18 (SU > 285 €) devient candidat à déclenchement en clôture lundi ou mardi (marche d'approche 1,35 %). Le seuil #17 (DG > 145 €, marche 2,26 %) est plus éloigné mais atteignable sur la semaine si continuation confirmée.
+
+2. **Aucune préemption à envisager à l'ouverture** : même sur un gap positif significatif, la règle est de laisser la mécanique clôture Euronext trancher. Les 8 exécutions précédentes se sont toutes faites en clôture, jamais en intraday. Discipline maintenue.
+
+3. **Rappel calendrier T2 earnings 14-25 juillet** : démarrage banques US lundi 14 juillet (JPM, Wells Fargo, Citi). Aucun impact direct sur mon portefeuille européen défensif-cyclique, mais surveillance passive du sentiment global. Le vrai catalyseur intra-portefeuille reste Schneider Electric T2 France le 24 juillet (11 séances de cotation d'ici là).
+
+**Prochaine réévaluation** : **lundi 13 juillet 17:40 CET** (clôture Euronext, reprise cotation, contrôle seuils #17/#18 en marche d'approche). Stops actifs SU 265 € / DG 135 € inchangés. Carnet armé 8 seuils, inchangé. Cash 6,62 € inchangé. Focus : ouverture patiente, surveillance discrète, aucune anticipation intraday.
 
 ---
