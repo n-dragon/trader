@@ -2,7 +2,38 @@
 
 > **Source visée :** [CapitolTrades — trades (buy)](https://www.capitoltrades.com/trades?txType=buy)
 > **Note réseau :** CapitolTrades et l'ensemble des agrégateurs de trades du Congrès (Quiver Quantitative, Trendlyne, InsiderFinance, StockCircle, MarketBeat, CREW…) renvoient une erreur **HTTP 403** depuis cet environnement d'exécution distant (politique réseau + protection anti-bot). Trendlyne expose bien une fenêtre récente (divulgations du **11 au 20 juin 2026**) mais son contenu détaillé n'est pas accessible ici. Les données ci-dessous ont donc été **reconstituées via recherche web** à partir des mêmes divulgations publiques (STOCK Act / PTR du Sénat) relayées par la presse financière. Pour un suivi en temps réel, à rafraîchir depuis un environnement avec accès réseau complet.
-> **Dernière mise à jour :** 2026-07-06 (rafraîchissement #4 — nouvel achat **Gary Peters (D-MI) / AT&T (T)** du 29 juin 2026, télécom sous juridiction de la commission Commerce ; divulgation du ~2 juillet 2026)
+> **Dernière mise à jour :** 2026-07-13 (rafraîchissement #5 — ajout des achats **John Hickenlooper (D-CO) / Uber (UBER) + Eaton (ETN)** du 14 janvier 2026, recoupant la commission Commerce/Transports & l'énergie ; et nouvelle affaire **violation du STOCK Act par Hickenlooper (D-CO) & Rounds (R-SD)** — divulgations tardives de ventes Palantir / Liberty Broadband / Aeronics)
+
+---
+
+## 🆕 Nouveautés de ce rafraîchissement (2026-07-13)
+
+CapitolTrades et les agrégateurs (Quiver, Trendlyne, StockCircle, MarketBeat, Benzinga, Finviz, Barchart, GovTrades…) restent en **HTTP 403** depuis cet environnement (politique réseau + anti-bot). Les éléments ci-dessous proviennent de divulgations STOCK Act relayées par la presse (NOTUS, Benzinga, Colorado Newsline, Hoodline, Kavout).
+
+**Constat de la fenêtre 7–13 juillet 2026 :** côté **sénateurs**, l'activité de divulgation récente est **dominée par des ventes** (Sheldon Whitehouse : Apple/AAPL le 24/06 divulgué le 08/07, Crown Castle/CCI le 25/06 divulgué le 08/07 → **hors périmètre `buy`**). **Aucun nouvel achat d'action de sénateur** n'apparaît dans cette fenêtre **au-delà du Peters/AT&T (T)** déjà listé au rafraîchissement #4. Les achats médiatisés de la semaine (**SpaceX** par Meuser & Cisneros ; **J&J** par Doggett/McCormick/McClain ; **Brookfield Renewables** par Salazar) concernent des membres de la **Chambre des représentants** → **hors périmètre « sénateurs »**.
+
+Ce rafraîchissement apporte donc **(a)** deux **achats de sénateur** authentiques pas encore enregistrés (Hickenlooper, janvier 2026) et **(b)** une **affaire de conflit / transparence** nouvelle et directement pertinente pour la colonne « délit d'initié ».
+
+### (a) Achats — John Hickenlooper (D — Colorado)
+
+| Sénateur | Parti / État | Commission sensible | Société | Ticker | Date d'achat | Montant | Probabilité de gain | **Probabilité de délit d'initié** |
+|----------|--------------|---------------------|---------|--------|--------------|---------|---------------------|-----------------------------------|
+| **John Hickenlooper** 🆕 | D — Colorado | **Commerce, Science & Transportation** | Uber Technologies | UBER | **2026-01-14** | **100–250 k$** | Modérée (~55 %) — rebond (EPS +44 % T1, catalyseur robotaxi/Waymo, cibles ~100–115 $) mais titre −10 % YTD, volatil | **Modérée-Élevée** ⚠️ (Uber = plateforme de **transport**, cœur de juridiction de la commission Transports de Hickenlooper ; **pas de *blind trust* qualifié** → atténuation faible) |
+| **John Hickenlooper** 🆕 | D — Colorado | Énergie (via Eaton) ; Commerce | Eaton Corporation | ETN | **2026-01-14** | **50–100 k$** | **Élevée (~65 %)** — momentum *data-center power* (commandes électriques +60 % a/a, +27 % sur 1 an) mais valorisation tendue | **Modérée** ⚠️ (électricité/réseau/data-center, recoupe la commission **Energy & Natural Resources** ; ordre passé par un gérant tiers selon son bureau) |
+
+> 🔎 **Contexte Hickenlooper / Uber (UBER) & Eaton (ETN)** : le 14 janvier 2026, Hickenlooper a acheté **100 001–250 000 $** d'**Uber** et **50 001–100 000 $** d'**Eaton** (divulgation début février 2026, relayée jusqu'en juillet dans le sillage de l'affaire STOCK Act ci-dessous). **Uber** est une plateforme de **transport** relevant directement de la commission **Commerce, Science & Transportation** où il siège → **chevauchement de juridiction net**. **Eaton** (gestion de l'énergie, réseau électrique, alimentation des data-centers) recoupe la commission **Energy & Natural Resources**. Facteur **aggravant** relevé par la presse (Colorado Newsline, NOTUS) : Hickenlooper **n'a pas constitué de *blind trust* qualifié** approuvé par la commission d'éthique du Sénat, ce qui affaiblit l'argument « gérant tiers ». Trades **légaux**. Soupçon **Modéré-Élevé** (Uber) / **Modéré** (Eaton).
+
+### (b) 🚨 Nouvelle affaire — violations du STOCK Act : Hickenlooper (D-CO) & Rounds (R-SD)
+
+| Sénateur | Parti / État | Titre concerné | Ticker | Sens | Date transaction | Montant | Retard de divulgation | **Probabilité de délit d'initié / gravité** |
+|----------|--------------|----------------|--------|------|------------------|---------|-----------------------|---------------------------------------------|
+| **John Hickenlooper** 🚨 | D — Colorado | Palantir (via enfant à charge) | PLTR | Vente | 2025 | ~3 312 $ | Env. **1 an de retard** | **Modérée** ⚠️ — *violation de transparence* avérée (déclaration tardive), pas d'insider prouvé ; PLTR = contractant défense/ICE, sensible |
+| **John Hickenlooper** 🚨 | D — Colorado | Liberty Broadband (conjoint) | LBRDK | Vente | ~2024 | **500 k–1 M$** | Près d'**un an de retard** | **Faible-Modérée** — violation de déclaration ; média (télécom, Commerce) |
+| **Mike Rounds** 🚨 | R — Dakota du Sud | Aeronics Inc. (titre non coté) | — | Vente | ~début 2026 | **1–5 M$** | **> 5 mois de retard** | **Faible-Modérée** — titre non coté, violation de déclaration |
+
+> 🔎 **Contexte (NOTUS, ~juillet 2026)** : deux sénateurs ont **enfreint le STOCK Act** par des divulgations **au-delà du délai de 45 jours**. **Hickenlooper (D-CO)** a déclaré avec ~1 an de retard la vente par son épouse d'actions **Liberty Broadband (500 k–1 M$)** et, tout aussi tardivement, la vente par son enfant à charge d'actions **Palantir (PLTR)** — valorisée 2–30 k$ dans le dépôt mais **3 312 $** selon son bureau ; Palantir est un **contractant défense/ICE** aux gros contrats fédéraux. **Rounds (R-SD)** a déclaré avec **plus de 5 mois de retard** la vente de **1–5 M$** d'actions **non cotées d'Aeronics Inc.** (fabricant d'équipements). ⚠️ Il s'agit de **violations de l'obligation de divulgation** (transparence), **pas d'accusations de délit d'initié** ; aucune connaissance d'information privilégiée n'est établie. La gravité tient au **retard** et, pour Hickenlooper, au **chevauchement** avec ses commissions (Commerce ; contractant défense).
+
+> 🔁 **Hors périmètre `buy` / hors « sénateurs » ce mois-ci** : **Whitehouse (D-RI)** — ventes AAPL & CCI (juin, divulguées le 08/07). Cluster **SpaceX** (Meuser, Cisneros) et **santé/J&J** (Doggett, McCormick, McClain) + **Brookfield Renewables** (Salazar) = **membres de la Chambre**, non repris dans ce suivi Sénat. **Mullin (R-OK)** : pas de nouvel achat d'action confirmé postérieur à Parker-Hannifin (PH, 12/06).
 
 ---
 
@@ -64,6 +95,8 @@ Le site cible (CapitolTrades) et tous les agrégateurs (Quiver, Trendlyne, Stock
 
 | Sénateur | Parti / État | Commission sensible | Société | Ticker | Date d'achat | Montant | Probabilité de gain | **Probabilité de délit d'initié** |
 |----------|--------------|---------------------|---------|--------|--------------|---------|---------------------|-----------------------------------|
+| John Hickenlooper 🆕 | D — Colorado | Commerce & Transports | Uber Technologies | UBER | **2026-01-14** | 100–250 k$ | Modérée (~55 %) — rebond robotaxi, −10 % YTD | **Modérée-Élevée** ⚠️ (transport / Commerce ; pas de blind trust qualifié) |
+| John Hickenlooper 🆕 | D — Colorado | Énergie ; Commerce | Eaton Corporation | ETN | **2026-01-14** | 50–100 k$ | Élevée (~65 %) — data-center power, +27 %/an | **Modérée** ⚠️ (réseau/énergie ; gérant tiers) |
 | Gary Peters 🆕 | D — Michigan | Commerce (télécom/FCC) | AT&T | T | **2026-06-29** | 1–15 k$ | Modérée (~55 %) — télécom défensif, dividende | **Faible-Modérée** ⚠️ (télécom / Commerce ; montant faible, réformateur, fin de mandat) |
 | Markwayne Mullin | R — Oklahoma | Armed Services | Parker-Hannifin | PH | **2026-06-12** | 15–50 k$ | Élevée (~65 %) — aéro-défense, ≈ +46 %/an | **Modérée-Élevée** ⚠️ (équipementier défense) |
 | Markwayne Mullin | R — Oklahoma | Armed Services | Chevron | CVX | 2025-12-29 | 15–50 k$ | Élevée (~70 %) — déjà +10 % | **Élevée** ⚠️ |
@@ -150,9 +183,11 @@ Le profil le plus actif et le plus sensible du tableau. Mullin a déclaré avoir
 - **Éléments d'atténuation du soupçon** : (1) montant **faible** (tranche 1–15 k$) ; (2) AT&T est une **méga-cap défensive à dividende élevé**, dont le cours répond surtout aux taux et aux résultats trimestriels — peu susceptible de bouger sur une information privilégiée ponctuelle ; (3) Peters est **co-auteur de plusieurs textes bipartites anti-conflits d'intérêts** (contractants fédéraux) ; (4) il a annoncé **ne pas se représenter en 2026**, ce qui réduit l'intérêt spéculatif de fin de mandat.
 - ➡️ **Probabilité de délit d'initié : Faible-Modérée** ⚠️ (juridiction télécom/Commerce, atténuée par les facteurs ci-dessus). **Probabilité de gain : Modérée (~55 %)** — profil rendement/défensif (dividende, fibre, désendettement) plus que forte croissance ; upside limité. **Légal** (STOCK Act, déclaration dans les délais).
 
-### 🔵 John Hickenlooper (D — Colorado) — membre du *Senate Commerce Committee*
+### 🔵 John Hickenlooper (D — Colorado) — membre du *Senate Commerce, Science & Transportation Committee*
 
 - Investissement dans **Palo Alto Networks (PANW)**, société de cybersécurité, déclaré **quelques mois avant** l'expansion d'un programme fédéral d'achats élargissant l'accès des agences aux produits de la firme.
+- **🆕 (2026-07-13) Achats du 14 janvier 2026** : **Uber (UBER, 100–250 k$)** et **Eaton (ETN, 50–100 k$)**. Uber (plateforme de **transport**) relève directement de sa commission **Commerce/Transports** → conflit **Modéré-Élevé** ; Eaton (énergie/réseau/data-center) recoupe **Energy & Natural Resources** → conflit **Modéré**. La presse (Colorado Newsline, NOTUS, Hoodline) souligne l'**absence de *blind trust* qualifié**, qui affaiblit l'argument « gérant tiers ». Gain estimé : **Modéré (~55 %)** pour UBER (rebond robotaxi mais −10 % YTD), **Élevé (~65 %)** pour ETN (momentum data-center, +27 % sur 1 an).
+- **🚨 (2026-07-13) Violation du STOCK Act** : divulgations tardives (~1 an) de ventes **Liberty Broadband (LBRDK, 500 k–1 M$, conjoint)** et **Palantir (PLTR, ~3 312 $, enfant à charge)** — voir section « Nouveautés 2026-07-13 (b) ». **Violation de transparence** avérée, sans preuve de délit d'initié ; PLTR (contractant défense/ICE) rend le retard sensible.
 - Chevauchement avec la commission Commerce → **risque de conflit d'intérêts Modéré-Élevé** signalé par les organismes de surveillance.
 
 ### 🔴 Tommy Tuberville (R — Alabama)
@@ -208,5 +243,15 @@ Le profil le plus actif et le plus sensible du tableau. Mullin a déclaré avoir
 - [Markets Daily — Sen. Gary C. Peters Buys Shares of AT&T Inc. (NYSE:T)](https://www.themarketsdaily.com/2026/07/05/sen-gary-c-peters-buys-shares-of-att-inc-nyset.html)
 - [Quiver — Congress Trade: Senator Gary C. Peters Just Disclosed New Stock Trades](https://www.quiverquant.com/news/Congress+Trade:+Senator+Gary+C.+Peters+Just+Disclosed+New+Stock+Trades)
 - [U.S. Senator Gary Peters — Committee Assignments (Commerce ; Armed Services ; HSGAC RM ; Appropriations)](https://www.peters.senate.gov/about/committee-assignments)
+- [NOTUS — Two U.S. Senators Violated the STOCK Act With Late Disclosures (Hickenlooper, Rounds ; Palantir / Liberty Broadband / Aeronics)](https://www.notus.org/congress/senators-hickenlooper-rounds-stock-trading-act-violations-palantir-transparency-law)
+- [NOTUS — John Hickenlooper Just Bought a Ton of Uber Stock. He Also Sits on the Senate's Transportation Committee](https://www.notus.org/money/john-hickenlooper-uber-stock-purchase-transportation-senate-ethics)
+- [Colorado Newsline — Hickenlooper investments raise questions amid push to ban congressional stock trading (Uber, Eaton, blind trust)](https://coloradonewsline.com/2026/03/26/hickenlooper-stock-trade-questions/)
+- [Hoodline — Hickenlooper's Uber Buy Puts Colorado Senator On Ethics Defensive](https://hoodline.com/2026/03/hickenlooper-s-uber-buy-puts-colorado-senator-on-ethics-defensive/)
+- [Kavout — Why is Senator Hickenlooper Investing in Uber (UBER 100–250 k$, ETN 50–100 k$, 14/01/2026)](https://www.kavout.com/market-lens/why-is-senator-hickenlooper-investing-in-uber)
+- [Benzinga — This Senator Just Sold Up To $165K In Apple Stock (Whitehouse, AAPL, divulg. 08/07/2026)](https://www.benzinga.com/government/26/07/60362118/senator-just-sold-165k-apple-stock)
+- [Daily Political — Sen. Sheldon Whitehouse Sells Off Crown Castle Inc. (CCI) Stock (10/07/2026)](https://www.dailypolitical.com/2026/07/10/sen-sheldon-whitehouse-sells-off-crown-castle-inc-nysecci-stock.html)
+- [CNBC — First known congressional SpaceX stock buys surface after record IPO (Meuser & Cisneros — Chambre, hors périmètre)](https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html)
+- [Yahoo Finance / Zacks — Eaton (ETN) surged on accelerated demand for data center power solutions (+27 %/an)](https://finance.yahoo.com/markets/stocks/articles/eaton-etn-surged-accelerated-demand-135055504.html)
+- [TIKR — Uber stock rose 6% in a single day; where the stock could go in 2026 (cibles ~100–115 $)](https://www.tikr.com/blog/uber-stock-rose-6-in-a-single-day-heres-where-the-stock-could-go-in-2026)
 
-> *Données reconstituées le 2026-07-06 (rafraîchissement #4) à partir de divulgations publiques STOCK Act. Ne constitue pas un conseil en investissement ni une imputation de fait délictueux.*
+> *Données reconstituées le 2026-07-13 (rafraîchissement #5) à partir de divulgations publiques STOCK Act. Ne constitue pas un conseil en investissement ni une imputation de fait délictueux. Les « violations du STOCK Act » mentionnées désignent des retards de déclaration (transparence), non des délits d'initié établis.*
