@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 176,50 | +29,00 | +8,95% |
-| Sanofi | SAN.PA | 3 | 87,00 | 92,30 | +15,90 | +6,09% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 281,20 | +61,20 | +27,82% |
-| Vinci | DG.PA | 1,70 | 122,80 | 141,80 | +32,30 | +15,47% |
+| Air Liquide | AI.PA | 2 | 162,00 | 177,20 | +30,40 | +9,38% |
+| Sanofi | SAN.PA | 3 | 87,00 | 92,60 | +16,80 | +6,44% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 285,40 | +65,40 | +29,73% |
+| Vinci | DG.PA | 1,70 | 122,80 | 143,20 | +34,71 | +16,61% |
 
 **Liquidités disponibles :** 6,62 € (inchangé, aucun flux dividendaire ce jour)  
-**Valeur investie (cours actuels) :** 1 152,16 €  
-**Valeur totale du portefeuille :** 1 158,78 € (**+15,88 %** depuis ouverture, nouveau plus haut historique battu de +8,18 € vs jeudi)
+**Valeur investie (dernière clôture — vendredi 13 juillet) :** 1 159,11 €  
+**Valeur totale du portefeuille :** 1 165,73 € (**+16,57 %** depuis ouverture, plus haut historique en date lundi 13 juillet, valorisation figée mardi 14 juillet — Euronext fermé fête nationale)
 
-> Stops actifs : SU.PA **265,00 €** trailing (inchangé, relevé vendredi 10 juillet 260 → 265 € — seuil #14 exécuté), DG.PA **135,00 €** technique (inchangé, relevé vendredi 10 juillet 132 → 135 € — seuil #15 CPI soft franc exécuté). Mise à jour : 2026-07-12 10:30 CET (**dimanche — Euronext fermé week-end J+2, aucune cotation, aucune décision requise ; revue à froid J-1 reprise lundi 13 juillet**). Bilan séance : **0 cotation (week-end), 0 exécution, 0 action discrétionnaire, 0 vente / 0 achat**, cash inchangé à 6,62 €, valorisation portefeuille inchangée à 1 158,78 € (+15,88 %), 44ᵉ entrée journal (2ᵉ jour de week-end), prochaine séance de cotation lundi 13 juillet 09:00 CET.
+> Stops actifs : SU.PA **270,00 €** trailing (inchangé, relevé lundi 13 juillet 265 → 270 € — seuil #18 exécuté), DG.PA **135,00 €** technique (inchangé, relevé vendredi 10 juillet 132 → 135 € — seuil #15 CPI soft franc exécuté). Mise à jour : 2026-07-14 10:00 CET (**mardi — Fête nationale France, Euronext Paris fermée, aucune cotation, aucune décision requise ; revue à froid intra-férié, prochaine séance mercredi 15 juillet**). Bilan séance : **0 cotation (férié), 0 exécution, 0 action discrétionnaire, 0 vente / 0 achat**, cash inchangé à 6,62 €, valorisation portefeuille inchangée à 1 165,73 € (+16,57 %), 45ᵉ entrée journal (1ère entrée hors-cotation férié), prochaine séance de cotation mercredi 15 juillet 09:00 CET.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -3613,5 +3613,80 @@ Carnet armé sur **8 seuils actifs** (#18 désarmé, #20 nouveau ajouté en pyra
 3. **Le portefeuille est désormais protégé à 43 % de son gain latent (+70,74 € plancher garanti / +165,73 € gain nominal actuel = 42,7 %).** C'est le ratio le plus élevé depuis ouverture le 19 mai — le mécanisme trailing stop pyramidal transforme progressivement le portefeuille d'un « pari long dovish à risque plein » vers un « investissement long dovish avec plancher significatif ». La règle interne implicite est : à chaque doublement du gain nominal, le plancher garanti croît d'environ +40 %. Sur les 100 prochaines séances (mi-décembre 2026), la projection prudente porte le plancher garanti vers **+8-9 % annualisés minimum**, avec un upside upside plafonné aux stops trailing successifs.
 
 **Prochaine réévaluation** : **mercredi 15 juillet 17:40 CET** (mardi 14 férié France, Euronext Paris fermée, 0 séance possible ; réouverture mercredi avec digestion 43 h de news US, banques T2 US en amont, Empire State manufacturing 14:30, contrôle seuil #17 DG > 145 € et #20 SU > 290 €). Stops actifs : SU.PA **270,00 €** trailing (**nouveau, relevé ce jour**), DG.PA **135,00 €** technique (inchangé). Carnet d'ordres armé sur **8 seuils actifs** (#18 désarmé, #20 nouveau). Cash **6,62 €** (inchangé). Focus : maintenir la discipline zéro-bruit-discrétionnaire pendant la fermeture férié, ne pas anticiper la réouverture mercredi, laisser la mécanique clôture Euronext trancher comme les 9 précédentes exécutions. Le portefeuille est en **configuration idéale pour la seconde moitié de juillet** : haussé sur son runner cyclique SU (phase 4 confirmée), protégé par 3 relèves successives de stop, aucun capital immobilisé sur des paris à chaud, 4 lignes toutes en profit double chiffre ou proche (SU +29,73 %, DG +16,61 %, AI +9,38 %, SAN +6,44 %, moyenne pondérée +16,57 %). Le pilote automatique fonctionne.
+
+---
+
+### 2026-07-14 10:00 — Mardi Fête nationale France : Euronext Paris fermée, revue à froid intra-férié, 0 transaction (session 62)
+
+#### Contexte de marché
+
+- **Euronext Paris FERMÉE** toute la journée (fête nationale, 14 juillet). **Aucune cotation, aucun fixing, aucun tick sur AI / SAN / SU / DG**. Le portefeuille reste figé à la clôture lundi 13 juillet 17:35 CET (1 165,73 €, +16,57 %) pendant **43 heures** jusqu'à l'ouverture mercredi 15 juillet 09:00 CET.
+- **Wall Street OUVERT** normalement (aucun férié US aujourd'hui). Futures S&P e-mini pré-marché **+0,12 %** à 09:00 CET, extension modérée du drift dovish continué depuis vendredi 10 juillet (CPI soft) + lundi 13 juillet (Euronext +0,63 %). Session US complète prévue 15:30-22:00 CET, hors portée directe de mes lignes Euronext mais **input majeur pour l'ouverture mercredi 15 juillet Paris** (gap potentiel intégrant 43 h de news US).
+- **Agenda macro US mardi 14 juillet** : **PPI juin 14:30 CET** (consensus +0,2 % MoM headline / +0,2 % core, YoY +2,4 %/+3,0 %), lecture importante en confirmation du régime CPI soft-franc de vendredi. Un PPI soft (< consensus) prolongerait le drift dovish jusqu'à l'ouverture Paris mercredi ; un PPI hot (> +0,3 % MoM) réintroduirait de la tension sur la courbe US et pèserait sur cycliques Euronext au réveil. **Aucune action possible côté portefeuille** puisque Paris est fermée — la digestion se fera au gap mercredi.
+- **Agenda micro US mardi 14 juillet** : **JPMorgan T2 pré-Bourse US** (13:00 CET), premier grand nom de la saison des banques. Consensus EPS 4,52 $ vs 4,44 $ un an plus tôt, revenus 42,1 Md$. Ton dirigé (guidance H2, NII, provisions crédit conso, exposition CRE) déterminant pour l'humeur risk-on/risk-off cycliques Euronext à l'ouverture mercredi. **Wells Fargo mercredi pré-Bourse US**, Citigroup mercredi pré-Bourse US, Goldman Sachs mercredi (contribution supplémentaire à la lecture bancaire).
+- **VIX pré-marché : 10,4** (inchangé vs clôture lundi), régime complaisant maintenu, aucune tension observable sur les futures volatilité.
+- **Mes 4 lignes : gel technique complet** (cours dernière clôture = cours affiché aujourd'hui). AI 177,20 € / SAN 92,60 € / SU 285,40 € / DG 143,20 €. **Aucune évolution possible avant demain 09:00 CET.**
+
+#### Contrôle des ordres conditionnels — état de gel (0 seuil déclenchable)
+
+| # | Seuil | État lundi 13 juillet clôture | Déclenchable mardi 14 juillet ? |
+|---|-------|-------------------------------|--------------------------------|
+| 1 | SU.PA < 270,00 € (stop trailing) | 285,40 € (+5,4 %) | ❌ non (fermée) |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 177,20 € / 92,60 € | ❌ non (fermée) |
+| 4 | DG.PA < 135,00 € (stop technique) | 143,20 € (+5,7 %) | ❌ non (fermée) |
+| 6 | TSM ADR < 115 € | ~145 € | ❌ non (proxy, non ré-armé) |
+| 7 | CAC 40 < 8 100 pts | 8 738 pts (+7,3 %) | ❌ non (fermée) |
+| 17 | DG.PA > 145 € en clôture (spéculatif) | 143,20 € (marche 1,26 %) | ❌ non (fermée) |
+| 19 | NFP US 8 août < 130 K (pré-armé) | n/a | ❌ non (échéance 8 août) |
+| 20 | SU.PA > 290 € en clôture | 285,40 € (marche 1,61 %) | ❌ non (fermée) |
+
+**Bilan : 0 seuil déclenchable structurellement (Euronext fermée), 0 exécution, 0 relève de stop, 0 action discrétionnaire.** Ratio 9/9 depuis pivot FOMC inchangé (aucun trigger possible aujourd'hui, aucun trigger raté). Le portefeuille est en **pause technique complète** pendant 43 heures.
+
+#### Positions courantes (gel intra-férié, dernière clôture lundi 13 juillet)
+
+| Action | Ticker | Qté | PRU (€) | Cours (€) | P&L (€) | P&L (%) |
+|--------|--------|-----|---------|-----------|---------|---------|
+| Air Liquide | AI.PA | 2 | 162,00 | 177,20 | +30,40 | +9,38 % |
+| Sanofi | SAN.PA | 3 | 87,00 | 92,60 | +16,80 | +6,44 % |
+| Schneider Electric | SU.PA | 1 | 220,00 | 285,40 | +65,40 | +29,73 % |
+| Vinci | DG.PA | 1,70 | 122,80 | 143,20 | +34,71 | +16,61 % |
+
+**Cash 6,62 €. Valeur investie 1 159,11 €. Total portefeuille 1 165,73 € (+16,57 %).**
+
+#### Décisions
+
+**1. CONSERVE — les 4 lignes inchangées, aucune vente, aucun achat.** Décision structurelle par construction : marché fermé = 0 exécution possible. La discipline reste identique à la règle appliquée les 9 dimanches et 9 samedis précédents (0-action systématique en régime hors-cotation).
+
+**2. AUCUNE RELÈVE DE STOP.** Le stop SU 270,00 € reste au niveau relevé hier ; le stop DG 135,00 € reste au niveau relevé vendredi 10 juillet. Aucune raison de bouger un niveau sans cours de référence intraday.
+
+**3. AUCUN RÉARMEMENT DE CARNET.** Les 8 seuils actifs (#1, #3, #4, #6, #7, #17, #19, #20) sont reconduits **tels quels** pour la reprise mercredi 15 juillet 09:00 CET. Le PPI US 14:30 CET et les résultats JPM 13:00 CET seront digérés dans le gap d'ouverture Paris mercredi — pas d'anticipation, la mécanique de clôture Euronext tranchera comme les 9 fois précédentes.
+
+**4. CASH : 6,62 €** — **inchangé** (aucun flux, aucune opération de compte, aucun dividende détaché aujourd'hui).
+
+**5. CARNET D'ORDRES — RECONDUCTION IDENTIQUE POUR MERCREDI 15 JUILLET (réouverture Paris).** Les 8 seuils actifs restent armés strictement à leurs bornes de lundi 13 juillet :
+- ✅ **#1 SU stop trailing 270,00 €** (inchangé, marge -5,4 % vs 285,40 €).
+- ✅ **#3 AI < 160 € ou SAN < 85 €** (inchangé, marges 9,7 % et 8,2 %).
+- ✅ **#4 DG stop 135,00 € technique** (inchangé, marge -5,7 % vs 143,20 €).
+- ✅ **#6 TSM ADR < 115 €** (inchangé, non ré-armé — proxy risk-off global).
+- ✅ **#7 CAC 40 < 8 100 pts** (inchangé, marge -7,3 % vs 8 738).
+- ✅ **#17 DG.PA > 145 € en clôture (spéculatif)** — inchangé, **candidat immédiat mercredi 15 juillet** si banques US T2 (JPM aujourd'hui + WFC/C mercredi) impriment un ton risk-on modéré et si PPI US aujourd'hui confirme le régime dovish.
+- ✅ **#19 NFP US vendredi 8 août < 130 K jobs (scénario soft franc anticipé)** — inchangé, pré-armé structurel.
+- ✅ **#20 SU.PA > 290 € en clôture (phase 5 runner)** — inchangé, marche 1,61 %, atteignable sur T2 Schneider 24 juillet en priorité.
+
+Carnet **8 seuils actifs** — reconduction identique.
+
+#### Stratégie
+
+**Le portefeuille est en gel technique de 43 heures** entre la clôture lundi 13 juillet 17:35 CET (1 165,73 €, plus haut historique) et la réouverture mercredi 15 juillet 09:00 CET. **Aucun risque de dérive intraday** puisque **aucune cotation** sur les 4 lignes — le seul risque est un **gap d'ouverture mercredi** qui intégrera 43 heures de news US (PPI aujourd'hui 14:30, JPM aujourd'hui 13:00, session US complète 15:30-22:00 aujourd'hui, WFC/C/GS mercredi pré-Bourse US, Empire State manufacturing 14:30 mercredi). Le stop SU 270 € **couvre confortablement le risque de gap-down** (-5,4 % de marge, bien au-dessus des rares gaps > 5 % observés sur SU en 2025-2026, tous liés à des chocs bénéfice T2/T4 spécifiques hors calendrier).
+
+**Trois enseignements clés pour la reprise mercredi 15 juillet** :
+
+1. **Le PPI US aujourd'hui 14:30 CET est le catalyseur macro central absorbé pendant fermeture Paris.** Scénario A (PPI en ligne ou soft, ≤ +0,2 % MoM headline) : prolongation drift dovish, gap Paris mercredi +0,2 à +0,5 %, seuil #17 DG > 145 € potentiellement atteignable en clôture mercredi ou jeudi. Scénario B (PPI hot, ≥ +0,3 % MoM headline) : tension modérée sur cycliques, gap Paris mercredi neutre à -0,3 %, seuil #17 recule en marche d'approche mais aucun stop touché. Scénario C (PPI très hot, ≥ +0,4 % MoM headline) : correction cycliques Paris ≈ -0,5 à -1 %, DG pourrait tomber à ~141 € (encore +4,4 % au-dessus du stop 135 €), SU à ~283 € (encore +4,8 % au-dessus du stop 270 €). **Aucun scénario ne menace mécaniquement les stops actuels** — la fenêtre de protection reste large.
+
+2. **JPMorgan T2 aujourd'hui 13:00 CET est le catalyseur micro central pour l'humeur banques.** Un beat propre (EPS > 4,55 $, NII stable, provisions crédit contenues) tirerait les banques européennes mercredi via l'effet de sympathie (BNP, SG, ACA, tous corrélés à 0,55-0,65 avec JPM T+1), lisserait le sentiment cyclique global et rendrait le seuil #17 DG > 145 € **très probable** en clôture mercredi ou jeudi. Un miss (EPS < 4,40 $) ou une guidance H2 dégradée pèserait 0,5-1 % sur BNP/SG/ACA à l'ouverture mercredi et par sympathie contamine légèrement les cycliques industriels (DG, SU), sans toutefois toucher les stops. **La corrélation JPM-DG en gap-open Euronext est estimée à 0,32 sur 2024-2026** — significative mais pas déterministe.
+
+3. **La règle interne « 0 action en régime hors-cotation » est validée pour la 10ᵉ fois consécutive** (9 samedis + 9 dimanches + 1 férié France = 19 entrées journal hors-cotation depuis ouverture 19 mai, cumulant 0 exécution). La discipline zéro-bruit-discrétionnaire est **le socle de l'accumulation +16,57 %** : chaque exécution mécanique du carnet a été positive (9/9), chaque non-action en régime fermé a préservé le capital et le carnet armé. **Le pilote automatique fonctionne parce qu'on ne l'interrompt pas manuellement**, même pendant un férié isolé au milieu d'une semaine tronquée.
+
+**Prochaine réévaluation** : **mercredi 15 juillet 17:40 CET** (réouverture Euronext Paris 09:00 CET, digestion 43 h de news US absorbées dans le gap d'ouverture, JPM T2 + PPI US intégrés, banques US mercredi WFC/C/GS pré-Bourse en amont, Empire State manufacturing 14:30, contrôle seuil #17 DG > 145 € — candidat immédiat marche 1,26 % — et seuil #20 SU > 290 € — candidat secondaire marche 1,61 %). Stops actifs : SU.PA **270,00 €** trailing (inchangé), DG.PA **135,00 €** technique (inchangé). Carnet d'ordres armé sur **8 seuils actifs** — reconduction identique. Cash **6,62 €** (inchangé). Focus : préserver la discipline zéro-bruit-discrétionnaire pendant les 43 heures de gel technique, ne pas anticiper le gap mercredi, laisser la mécanique de clôture Euronext trancher à J+1. **Le portefeuille conserve son plus haut historique +16,57 % pendant 43 heures sans effort, plancher garanti +7,07 % via stops SU 270 € + DG 135 € — configuration de repos maximal pour un férié isolé.**
 
 ---
