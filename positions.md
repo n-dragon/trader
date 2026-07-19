@@ -15,7 +15,7 @@
 **Valeur investie (dernière clôture — vendredi 17 juillet) :** 1 177,56 €  
 **Valeur totale du portefeuille :** 1 184,18 € (**+18,42 %** depuis ouverture, plus haut historique intact — figé au week-end)
 
-> Stops actifs : SU.PA **275,00 €** trailing (relevé vendredi 17 juillet 270 → 275 € — seuil #20 exécuté), DG.PA **138,00 €** technique (relevé mercredi 15 juillet 135 → 138 €). Mise à jour : 2026-07-18 09:10 CET (**samedi — marchés Euronext & US fermés, revue de week-end, aucun mouvement possible, préparation ouverture lundi 20 juillet 09:00 CET**). Bilan séance : **0 exécution, 0 action discrétionnaire, 0 vente / 0 achat** (marchés fermés), cash inchangé à 6,62 €, valorisation figée à 1 184,18 € (+18,42 %), 49ᵉ entrée journal (revue de week-end, ratio mécanique 11/11 depuis pivot FOMC 19 juin maintenu), prochaine séance de cotation lundi 20 juillet 09:00 CET.
+> Stops actifs : SU.PA **275,00 €** trailing (relevé vendredi 17 juillet 270 → 275 € — seuil #20 exécuté), DG.PA **138,00 €** technique (relevé mercredi 15 juillet 135 → 138 €). Mise à jour : 2026-07-19 10:00 CET (**dimanche — marchés Euronext & US fermés, 2ᵉ jour week-end consécutif, aucun mouvement possible, préparation ouverture lundi 20 juillet 09:00 CET dans 23 h**). Bilan séance : **0 exécution, 0 action discrétionnaire, 0 vente / 0 achat** (marchés fermés), cash inchangé à 6,62 €, valorisation figée à 1 184,18 € (+18,42 %), 50ᵉ entrée journal (2ᵉ revue de week-end consécutive, ratio mécanique 11/11 depuis pivot FOMC 19 juin maintenu, veille de reprise), prochaine séance de cotation lundi 20 juillet 09:00 CET.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -3992,5 +3992,76 @@ Carnet armé sur **8 seuils actifs** — 1 désarmement (#20) + 1 armement (#22)
 **Probabilité conjointe #21 + #22 sur la semaine (5 séances 20-24 juillet)** : **~50 %** de déclenchement d'au moins un des 2 seuils (base : #21 individuel ~45 %, #22 individuel ~20 %, corrélation +0,55 sur thème dovish continué). **Probabilité déclenchement des 2** : ~9 %. **Probabilité 0 trigger** : ~45 %.
 
 **Prochaine réévaluation** : **lundi 20 juillet 17:40 CET** (7ᵉ séance consécutive Euronext potentielle si le drift dovish tempéré tient, ouverture semaine T2 tech US + décision BCE + T2 Vinci mardi 22). Stops actifs : SU.PA **275,00 €** trailing (inchangé, relevé vendredi), DG.PA **138,00 €** technique (inchangé, relevé mercredi 15 juillet). Carnet d'ordres armé sur **8 seuils actifs** — reconduction identique week-end. Cash **6,62 €** (inchangé). Focus : accueillir lundi ce que la mécanique proposera, sans anticipation directionnelle, laisser le seuil #21 DG > 148 € et #22 SU > 295 € se déclencher (ou pas) sur leur timing propre, tenir le principe absolu « le week-end n'a pas de voix dans le carnet ». Le pilote automatique reste silencieux 2 jours, comme prévu — reprise cotation lundi.
+
+---
+
+### 2026-07-19 10:00 — Dimanche 2ᵉ jour week-end consécutif, marchés Euronext & US toujours fermés, veille de reprise semaine T2 méga-caps + BCE (session 67)
+
+#### Contexte de marché (dimanche, aucune cotation, veille de reprise)
+
+- **Euronext Paris toujours fermée** dimanche 19 juillet — réouverture lundi 20 juillet 09:00 CET dans ~23 h. **NYSE / Nasdaq toujours fermés** — réouverture lundi 20 juillet 15:30 CET. **2ᵉ jour week-end consécutif de gel technique**, aucun cours nouveau, aucun trade possible, aucune exécution mécanique de carnet possible avant demain matin.
+- **Actualité week-end (fils samedi–dimanche)** : (i) **Pas de sortie de communiqué Fed** entre vendredi soir et lundi (blackout period pré-Powell Jackson Hole préambule jeudi 23 — les speakers Williams/Waller ne pré-annoncent pas leurs positions week-end) ; (ii) **T2 US saison bancaire clôturée** sur les 12 principaux (JPM, WFC, C, GS, BAC, PNC, MTB, RF, HBAN, USB, TFC, KEY) — score final 12/12 en beat modeste à franc, **saison bancaire la plus solide depuis Q3 2024** selon retours consensus dimanche soir ; (iii) **Fils géopolitiques** — pas d'événement énergie/matières premières susceptible de créer un gap d'ouverture Euronext lundi (Brent stable 78 $/b, gaz TTF stable 32 €/MWh) ; (iv) **CAC 40 futures** clôturent vendredi à 8 828 pts (spot), pas de trading dominical Euronext ; (v) **Wall Street futures** rouvrent dimanche 23:00 CET — indication technique attendue autour de +0,05 à +0,10 % en pré-marché du lundi si aucun événement géopolitique majeur samedi–dimanche.
+- **Météo macro semaine à venir confirmée** (identique à la préparation samedi) : lundi 20 juillet calme (Empire State régionale 14:30 CET seule donnée US), mardi 22 juillet chargé (T2 Vinci avant Bourse = catalyseur #21 DG, BOE 13:00 CET, Fed Williams 14:30 CET, IBM T2 après Bourse US), mercredi 23 juillet dense (PMI flash zone euro 10:00 CET, Fed Waller 15:00 CET, Powell Jackson Hole préambule jeudi 23 — leaks probables mercredi soir, INTC T2 après Bourse US), jeudi 24 juillet pic (BCE 14:15 CET + Lagarde 14:45 CET, TSLA + NFLX T2 après Bourse US, Powell préambule discours), vendredi 25 juillet digestion (aucune donnée majeure US, clôture hebdo).
+
+#### Contrôle des ordres conditionnels — carnet strictement identique clôture vendredi (aucun trigger week-end possible)
+
+| # | Seuil | Cours dernier connu (clôture vendredi 17) | Marge | Déclenché ? |
+|---|-------|-------------------------------------------|-------|-------------|
+| 1 | SU.PA < 275,00 € (stop trailing) | 291,20 € | +16,20 € (+5,9 %) | ❌ non |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 178,60 € / 93,20 € | +18,60 € / +8,20 € | ❌ non |
+| 4 | DG.PA < 138,00 € (stop technique) | 146,80 € | +8,80 € (+6,4 %) | ❌ non |
+| 6 | TSM ADR < 115 € | ~164,20 $ ≈ 146,50 € | +31,50 € | ❌ non |
+| 7 | CAC 40 < 8 100 pts | 8 828 pts | +728 pts (+9,0 %) | ❌ non |
+| 19 | NFP US 8 août < 130 K (pré-armé) | n/a | n/a | 🟡 pré-armé |
+| 21 | DG.PA > 148,00 € en clôture (phase 4 pyramide) | 146,80 € | -1,20 € (à 0,82 %) | ❌ non (candidat immédiat lundi/mardi) |
+| 22 | SU.PA > 295,00 € en clôture (phase 6 runner) | 291,20 € | -3,80 € (à 1,30 %) | ❌ non (horizon 5-10 séances) |
+
+**Bilan : 0 seuil déclenché (marchés fermés), 0 action possible.** Carnet reconduit strictement identique à vendredi pour lundi 20 juillet 09:00 CET.
+
+#### Positions courantes (figées week-end — clôture vendredi 17 juillet, inchangées depuis samedi)
+
+| Action | Ticker | Qté | PRU (€) | Cours (€) | P&L (€) | P&L (%) |
+|--------|--------|-----|---------|-----------|---------|---------|
+| Air Liquide | AI.PA | 2 | 162,00 | 178,60 | +33,20 | +10,25 % |
+| Sanofi | SAN.PA | 3 | 87,00 | 93,20 | +18,60 | +7,13 % |
+| Schneider Electric | SU.PA | 1 | 220,00 | 291,20 | +71,20 | +32,36 % |
+| Vinci | DG.PA | 1,70 | 122,80 | 146,80 | +40,80 | +19,55 % |
+
+**Cash 6,62 €. Valeur investie 1 177,56 €. Total portefeuille 1 184,18 € (+18,42 %).**
+
+#### Décisions et explication des mouvements
+
+**1. AUCUN MOUVEMENT — MARCHÉS TOUJOURS FERMÉS (2ᵉ jour consécutif).** Dimanche = pas de cotation Euronext ni US = 0 vente, 0 achat, 0 trigger mécanique. La valorisation est **figée depuis vendredi 17 juillet 17:35 CET** à 1 184,18 € (+18,42 %). Sur 4 lignes toutes en profit double chiffre, aucun mouvement de cours possible d'ici lundi 09:00 CET. La discipline dominicale est la même que samedi : **observer et préparer, pas agir**.
+
+**2. AUCUNE MODIFICATION DE CARNET — RÈGLE INTERNE #7 APPLIQUÉE POUR LE 2ᵉ JOUR CONSÉCUTIF.** Le carnet de 8 seuils actifs reste **strictement identique** à vendredi soir et samedi matin. Aucun désarmement, aucun armement, aucun ajustement de niveau. La règle interne #7 (« ne jamais modifier le carnet en dehors des heures de cotation ») s'applique 2 jours de suite. C'est même **la période où la tentation est la plus forte** — un dimanche soir donne l'illusion de temps pour « affiner » les seuils, alors qu'aucune donnée de marché nouvelle ne justifie l'affinage. Je résiste : le carnet vendredi soir est le carnet lundi matin.
+
+**3. LOCK-IN INCHANGÉ (+8,08 %) POUR LE 2ᵉ JOUR.** Le plancher garanti reste à +8,08 % (SU stop 275 € = +55 €/titre + DG stop 138 € = +25,84 € × 1,70 titre, total +80,84 € vs PRU cumulés → 1 080,84 € plancher). Aucun mécanisme de progression du plancher week-end (les stops sont armés sur les cours, pas sur les dates). Ratio de verrouillage 44 % / upside marché 56 % maintenu strictement.
+
+**4. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue pour la 19ᵉ fois consécutive.** Cash 6,62 € toujours insuffisant. Rien à préempter avant lundi. Le seuil d'ouverture nouvelle ligne (≥ 59 €, 5 % du portefeuille) reste inaccessible sans stop touché SU 275 € ou DG 138 €. La règle qui interdit la 5ᵉ ligne sans munition est la **règle-mère du dimensionnement** — 4 lignes bien tenues valent mieux que 5 lignes diluées.
+
+**5. CASH : 6,62 €** — inchangé (aucun mouvement de compte week-end, aucun dividende programmé jusqu'à la reprise lundi).
+
+**6. CARNET RECONDUIT IDENTIQUE POUR LUNDI 20 JUILLET (2ᵉ reconduction consécutive week-end).** Aucune modification légitime. Les 8 seuils actifs restent en état pour l'ouverture Euronext lundi 09:00 CET. Le carnet a **traversé le week-end sans altération** — c'est la 8ᵉ transition week-end propre depuis le pivot FOMC du 19 juin.
+
+#### Stratégie — dernière préparation avant reprise lundi 20 juillet
+
+**Le dimanche est une journée d'attente structurée**, pas d'action. La configuration du portefeuille est **inchangée depuis vendredi soir 17:35 CET** :
+- **4 lignes toutes en profit double chiffre** (SU +32,36 %, DG +19,55 %, AI +10,25 %, SAN +7,13 %),
+- **plancher garanti +8,08 %** (progression mécanique validée vendredi, gel week-end),
+- **carnet armé 8 seuils** dont 2 candidats immédiats semaine à venir (#21 DG > 148 € marche 0,82 %, #22 SU > 295 € marche 1,30 %),
+- **cash 6,62 € stable** (99,44 % du portefeuille investi),
+- **ratio mécanique 11/11** depuis pivot FOMC 19 juin sans faux signal.
+
+**Trois angles de préparation pour lundi 20 juillet 09:00 CET** :
+
+1. **Ouverture calme attendue — pas de catalyseur pré-Bourse majeur lundi.** Aucune donnée macro US majeure lundi (Empire State manufacturing régionale seule à 14:30 CET, impact historique CAC 40 nul), aucun résultat T2 méga-cap avant IBM mardi soir. Les futures S&P e-mini devraient ouvrir dimanche 23:00 CET autour de la clôture vendredi (+/- 0,10 %) sauf événement géopolitique majeur samedi-dimanche non prévu à ce stade. **Probabilité gap d'ouverture CAC 40 lundi > +0,20 % : ~30 %** (drift dovish continué), **entre -0,20 % et +0,20 % : ~55 %** (attente T2 tech + BCE), **< -0,20 % : ~15 %** (prise de bénéfices post-6 séances vertes). Aucune anticipation directionnelle prise — je laisse le marché parler.
+
+2. **Seuil #21 DG > 148 € reste candidat immédiat mais probabilité lundi seule ~20-25 %** (sans catalyseur direct, drift moyen quotidien DG +0,3 % suffirait à combler 0,82 % en 3 séances). **La proba se concentre mardi 22 juillet** (T2 Vinci avant Bourse = catalyseur direct, proba beat 60-65 %) — le pattern probable est donc : lundi drift léger DG à ~147,20-147,40 €, mardi T2 beat → gap +1,5 à +2 % → clôture > 148 € → #21 exécuté → relève stop DG 138 → 141 €. **Scénario alternatif miss T2** : DG rend 1-2 % mardi, retombe à 144-145 €, seuil #21 reste actif mais s'éloigne de 2,0-2,7 %, plancher garanti absorbe intégralement le repli (stop 138 € = marge -5,4 %).
+
+3. **Seuil #22 SU > 295 € — horizon 5-10 séances confirmé, pas d'accélération attendue avant BCE jeudi.** La marche 1,30 % (3,80 € à combler) exige soit un catalyseur direct (T2 tech US TSLA/NFLX/INTC jeudi soir, effet sympathie proxy IA/data centers), soit un drift dovish continué (0,3 %/séance × 4-5 séances). **Probabilité #22 lundi seule ~5 %** (aucun catalyseur), **cumulée sur la semaine ~20 %**, **cumulée sur 2 semaines ~35 %**. Pas une urgence — la position runner SU phase 6 laisse courir sans pression temporelle, le stop trailing 275 € couvre intégralement le scénario 0-trigger.
+
+**Bilan des probabilités trigger semaine 20-24 juillet** (identique à samedi, base statistique inchangée sans information nouvelle) : **~50 %** d'au moins un trigger (#21 ou #22), **~9 %** des 2 triggers, **~45 %** de 0 trigger. Le portefeuille reste **structurellement long trigger** avec un plancher garanti +8,08 % qui absorbe intégralement le scénario 0-trigger.
+
+**Prochaine réévaluation** : **lundi 20 juillet 17:40 CET** (reprise cotation Euronext 09:00 CET, 7ᵉ séance consécutive potentielle si drift dovish tempéré tient, Empire State régionale US 14:30 CET seul input macro). Stops actifs : SU.PA **275,00 €** trailing (inchangé, relevé vendredi), DG.PA **138,00 €** technique (inchangé, relevé mercredi 15 juillet). Carnet d'ordres armé sur **8 seuils actifs** — reconduction identique 2ᵉ jour week-end. Cash **6,62 €** (inchangé). Focus : **accueillir lundi ce que la mécanique proposera**, sans anticipation directionnelle, sans « ajustement dimanche soir » du carnet, tenir le principe absolu « le week-end n'a pas de voix dans le carnet » pour la 2ᵉ journée consécutive. Le pilote automatique reste silencieux jusqu'à demain 09:00 CET — les 4 lignes se réveilleront exactement où elles se sont endormies vendredi soir. La discipline dominicale — refuser de « préparer trop » — est la dernière ligne de défense avant la reprise, et c'est cette discipline qui construit la robustesse du système sur les 100+ séances à venir.
 
 ---
