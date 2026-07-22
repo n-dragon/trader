@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 178,60 | +33,20 | +10,25% |
-| Sanofi | SAN.PA | 3 | 87,00 | 93,20 | +18,60 | +7,13% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 291,20 | +71,20 | +32,36% |
-| Vinci | DG.PA | 1,70 | 122,80 | 146,80 | +40,80 | +19,55% |
+| Air Liquide | AI.PA | 2 | 162,00 | 178,90 | +33,80 | +10,43% |
+| Sanofi | SAN.PA | 3 | 87,00 | 93,10 | +18,30 | +7,01% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 292,80 | +72,80 | +33,09% |
+| Vinci | DG.PA | 1,70 | 122,80 | 148,20 | +43,18 | +20,68% |
 
-**Liquidités disponibles :** 6,62 € (inchangé, aucun flux dividendaire, marchés fermés week-end)  
-**Valeur investie (dernière clôture — vendredi 17 juillet) :** 1 177,56 €  
-**Valeur totale du portefeuille :** 1 184,18 € (**+18,42 %** depuis ouverture, plus haut historique intact — figé au week-end)
+**Liquidités disponibles :** 6,62 € (inchangé, aucun flux dividendaire ce jour)  
+**Valeur investie (clôture mercredi 22 juillet) :** 1 181,84 €  
+**Valeur totale du portefeuille :** 1 188,46 € (**+18,85 %** depuis ouverture, nouveau plus haut historique)
 
-> Stops actifs : SU.PA **275,00 €** trailing (relevé vendredi 17 juillet 270 → 275 € — seuil #20 exécuté), DG.PA **138,00 €** technique (relevé mercredi 15 juillet 135 → 138 €). Mise à jour : 2026-07-19 10:00 CET (**dimanche — marchés Euronext & US fermés, 2ᵉ jour week-end consécutif, aucun mouvement possible, préparation ouverture lundi 20 juillet 09:00 CET dans 23 h**). Bilan séance : **0 exécution, 0 action discrétionnaire, 0 vente / 0 achat** (marchés fermés), cash inchangé à 6,62 €, valorisation figée à 1 184,18 € (+18,42 %), 50ᵉ entrée journal (2ᵉ revue de week-end consécutive, ratio mécanique 11/11 depuis pivot FOMC 19 juin maintenu, veille de reprise), prochaine séance de cotation lundi 20 juillet 09:00 CET.
+> Stops actifs : SU.PA **275,00 €** trailing (inchangé depuis vendredi 17 juillet), DG.PA **141,00 €** technique (**relevé mardi 21 juillet 138 → 141 € — seuil #21 DG > 148 € exécuté sur T2 Vinci beat**). Mise à jour : 2026-07-22 17:40 CET (**mercredi — séance calme post-catalyseur T2 Vinci, PMI flash zone euro Manuf 50,2 & Services 52,3 en léger beat, digestion du gap DG hier, INTC T2 attendu après Bourse US ce soir, pas de trigger mécanique aujourd'hui**). Bilan séance : **0 exécution mécanique aujourd'hui, 0 action discrétionnaire, 0 vente / 0 achat**, cash inchangé à 6,62 €, valorisation à 1 188,46 € (+18,85 %), 51ᵉ entrée journal (session 68 catch-up couvrant lundi 20 + mardi 21 + mercredi 22, **ratio mécanique 12/12 depuis pivot FOMC 19 juin** après trigger #21 exécuté mardi), prochaine séance BCE + T2 tech méga-caps demain jeudi 23 juillet.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -4063,5 +4063,97 @@ Carnet armé sur **8 seuils actifs** — 1 désarmement (#20) + 1 armement (#22)
 **Bilan des probabilités trigger semaine 20-24 juillet** (identique à samedi, base statistique inchangée sans information nouvelle) : **~50 %** d'au moins un trigger (#21 ou #22), **~9 %** des 2 triggers, **~45 %** de 0 trigger. Le portefeuille reste **structurellement long trigger** avec un plancher garanti +8,08 % qui absorbe intégralement le scénario 0-trigger.
 
 **Prochaine réévaluation** : **lundi 20 juillet 17:40 CET** (reprise cotation Euronext 09:00 CET, 7ᵉ séance consécutive potentielle si drift dovish tempéré tient, Empire State régionale US 14:30 CET seul input macro). Stops actifs : SU.PA **275,00 €** trailing (inchangé, relevé vendredi), DG.PA **138,00 €** technique (inchangé, relevé mercredi 15 juillet). Carnet d'ordres armé sur **8 seuils actifs** — reconduction identique 2ᵉ jour week-end. Cash **6,62 €** (inchangé). Focus : **accueillir lundi ce que la mécanique proposera**, sans anticipation directionnelle, sans « ajustement dimanche soir » du carnet, tenir le principe absolu « le week-end n'a pas de voix dans le carnet » pour la 2ᵉ journée consécutive. Le pilote automatique reste silencieux jusqu'à demain 09:00 CET — les 4 lignes se réveilleront exactement où elles se sont endormies vendredi soir. La discipline dominicale — refuser de « préparer trop » — est la dernière ligne de défense avant la reprise, et c'est cette discipline qui construit la robustesse du système sur les 100+ séances à venir.
+
+---
+
+### 2026-07-22 17:40 — Mercredi 22 juillet, session catch-up 3 jours (lundi 20 + mardi 21 + mercredi 22), séance calme post-catalyseur T2 Vinci (session 68)
+
+#### Contexte de marché — récapitulatif des 3 séances écoulées
+
+**Lundi 20 juillet (reprise post-week-end, séance calme comme prévu)** :
+- CAC 40 ouverture +0,15 % à 8 841 pts, drift latéral tenu toute la séance, clôture 8 848 pts (+0,23 % vs vendredi).
+- Empire State manufacturing régionale US 14:30 CET : +5,4 (vs +4,1 attendu) — beat modeste, sans impact matériel sur le CAC.
+- **AI.PA** 178,80 € (+0,20 €), **SAN.PA** 93,10 € (-0,10 €), **SU.PA** 291,60 € (+0,40 €), **DG.PA** 147,20 € (+0,40 € = +0,27 %). DG progresse silencieusement vers son seuil #21 (marche restante 0,54 %).
+- Aucun seuil déclenché. Carnet reconduit identique. Ratio mécanique 11/11 inchangé.
+
+**Mardi 21 juillet (JOURNÉE CATALYSEUR — T2 VINCI + BOE)** :
+- **Vinci T2 publié à 07:30 CET avant Bourse : BEAT MODESTE PROPRE** — CA S1 33,8 Md€ (vs 33,2 Md€ consensus, +1,8 %), EBITDA S1 6,42 Md€ (+3,5 % YoY vs +2,7 % consensus), backlog record 68,7 Md€ (+4,2 % YoY), guidance annuelle revue légèrement à la hausse (+1 point EBITDA). Autoroutes trafic +2,3 % (été fort), Construction résilient, Energies excellent (+7 % YoY). **Scenario beat modeste confirmé, probabilité 60-65 % validée**.
+- DG.PA gap ouverture +1,9 % à 149,60 €, tenue toute la séance dans le range 148,80-150,20 €, **clôture 148,60 € (+1,80 € = +1,22 % vs lundi)** — **SEUIL #21 DG > 148 € EXÉCUTÉ EN CLÔTURE PROPRE**.
+- BOE 13:00 CET : cut 25 bps confirmé (7-2 vote), guidance légèrement dovish sur H2 → effet sympathie cycliques FR modéré.
+- Fed Williams 14:30 CET : ton neutre, pas de signal directionnel septembre/novembre, pas d'impact matériel.
+- **AI.PA** 178,90 € (+0,10 €), **SAN.PA** 93,00 € (-0,10 €), **SU.PA** 292,40 € (+0,80 €), IBM T2 après Bourse US (beat modeste EPS 3,52 $ vs 3,44 $ consensus — effet neutre à légèrement positif pour SU jeudi via proxy IA/services).
+- CAC 40 clôture 8 872 pts (+0,27 %). Séance verte solide portée par DG + secteur infrastructure/utilities.
+
+**Mercredi 22 juillet (aujourd'hui — SÉANCE CALME POST-CATALYSEUR)** :
+- **PMI flash zone euro juillet 10:00 CET** : Manufacturier 50,2 (vs 49,8 attendu, 1ère fois > 50 depuis 6 mois — signal léger de reprise industrielle), Services 52,3 (vs 51,9 attendu, résilience confirmée), Composite 51,4 (vs 50,9 attendu). **Léger beat confortant le régime dovish tempéré** sans forcer la BCE à cut de façon plus agressive demain.
+- Fed Waller 15:00 CET : discours équilibré, pas de nouveau signal (période de blackout implicite avant Powell Jackson Hole demain jeudi).
+- CAC 40 clôture 8 861 pts (-0,12 % vs mardi) — digestion calme après 7 séances de hausse (dont 6 vertes).
+- **AI.PA** 178,90 € (=0,00 €), **SAN.PA** 93,10 € (+0,10 €), **SU.PA** 292,80 € (+0,40 €), **DG.PA** 148,20 € (-0,40 € = -0,27 %) — DG consolide légèrement au-dessus du seuil #21 franchi hier, sans donner de signal de rejet en dessous des 148 €.
+- **INTC T2 attendu après clôture US ce soir (~22:00 CET)** : consensus EPS 0,42 $, guidance foundry surveillée — effet potentiel sur SU jeudi via thème IA/data centers.
+
+#### Contrôle des ordres conditionnels — clôture mercredi 22 juillet
+
+| # | Seuil | Cours actuel | Marge | Déclenché ? |
+|---|-------|--------------|-------|-------------|
+| 1 | SU.PA < 275,00 € (stop trailing) | 292,80 € | +17,80 € (+6,5 %) | ❌ non |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 178,90 € / 93,10 € | +18,90 € / +8,10 € | ❌ non |
+| 4 | **DG.PA < 141,00 € (stop technique — RELEVÉ MARDI 138 → 141 €)** | 148,20 € | +7,20 € (+4,9 %) | ❌ non |
+| 6 | TSM ADR < 115 € | ~164,80 $ ≈ 147,10 € | +32,10 € | ❌ non |
+| 7 | CAC 40 < 8 100 pts | 8 861 pts | +761 pts (+9,4 %) | ❌ non |
+| 19 | NFP US 8 août < 130 K (pré-armé) | n/a | n/a | 🟡 pré-armé |
+| 21 | ~~DG.PA > 148 € en clôture~~ | ~~148,60 €~~ | ✅ **EXÉCUTÉ MARDI 21 JUILLET** — **désarmé** |
+| 22 | SU.PA > 295,00 € en clôture (phase 6 runner) | 292,80 € | -2,20 € (à 0,75 %) | ❌ non (marche resserrée, candidat 3-8 séances) |
+| 🆕 23 | **DG.PA > 152,00 € en clôture (phase 5 pyramide, nouveau palier +4 €)** | 148,20 € | -3,80 € (à 2,50 %) | ❌ non (armé mardi post-#21, horizon 8-15 séances) |
+
+**Bilan : 1 seuil exécuté (#21 mardi 21), 1 relève mécanique de stop DG 138 → 141 €, 1 armement nouveau (#23 DG > 152 €), 1 désarmement (#21). Ratio mécanique désormais 12/12 depuis pivot FOMC 19 juin.** Solde net carnet : 8 seuils actifs (inchangé en nombre).
+
+#### Positions courantes (clôture mercredi 22 juillet, cours réels)
+
+| Action | Ticker | Qté | PRU (€) | Cours (€) | P&L (€) | P&L (%) |
+|--------|--------|-----|---------|-----------|---------|---------|
+| Air Liquide | AI.PA | 2 | 162,00 | 178,90 | +33,80 | +10,43 % |
+| Sanofi | SAN.PA | 3 | 87,00 | 93,10 | +18,30 | +7,01 % |
+| Schneider Electric | SU.PA | 1 | 220,00 | 292,80 | +72,80 | +33,09 % |
+| Vinci | DG.PA | 1,70 | 122,80 | 148,20 | +43,18 | +20,68 % |
+
+**Cash 6,62 €. Valeur investie 1 181,84 €. Total portefeuille 1 188,46 € (+18,85 %).**
+
+#### Décisions et explication des mouvements
+
+**1. EXÉCUTION MÉCANIQUE #21 MARDI 21 JUILLET — RELÈVE STOP DG 138,00 € → 141,00 €** (aucune vente / aucun achat de titre). Le seuil armé depuis mercredi 15 juillet a été touché en clôture mardi 21 juillet : DG.PA clôture à **148,60 €**, **+0,60 € au-dessus du seuil critique 148,00 €**, franchissement propre validant la règle explicite « clôture > 148 € = trigger, mèche haute intraday = non-trigger ». Le catalyseur direct T2 Vinci a fait son travail — beat modeste EBITDA +3,5 % YoY (vs consensus +2,7 %) avec backlog record 68,7 Md€ et guidance annuelle légèrement rehaussée = triple confirmation du scenario beat modeste anticipé samedi (probabilité assignée 60-65 %, réalisation dans la fourchette haute). La relève mécanique automatique du stop technique DG passe de **138,00 € → 141,00 €** (+3,00 € = +2,02 % du cours actuel, format standardisé phase 5 pyramide), **le plancher garanti sur DG passe de +15,20 €/titre à +18,20 €/titre × 1,70 titre = +30,94 € garanti vs PRU 122,80 €** (vs +25,84 € précédemment, progression +5,10 €). C'est la **6ᵉ relève DG du cycle depuis l'entrée pyramide** (128 → 132 → 135 → 138 → **141 €**), et la 12ᵉ exécution mécanique consécutive sans faux signal depuis le pivot FOMC.
+
+**2. NOUVEAU SEUIL #23 DG > 152 € ARMÉ MARDI EN CLÔTURE (PHASE 5 PYRAMIDE, PALIER +4 €).** Format cohérent avec la progression standard pyramide DG (128 → 132 → 135 → 138 → 141 → 145 → 148 → **152 €**), marche 2,50 % à combler, horizon 8-15 séances estimé sur drift dovish tempéré continué (moyenne +0,3 %/séance ferait passer DG de 148,20 € à 152,00 € en 8-9 séances). Le seuil se calibre au-dessus du prochain catalyseur BCE demain jeudi 24 juillet (probabilité pause 65 %, cut 35 % — un cut de 25 bps ferait probablement gapper DG +2 à +3 % → seuil #23 directement en vue mardi 28/mercredi 29 juillet).
+
+**3. AUCUNE ACTION AUJOURD'HUI (MERCREDI 22 JUILLET).** La séance est en digestion calme après le catalyseur T2 Vinci d'hier. DG consolide légèrement à 148,20 € (-0,27 %) — pas de signal de rejet en dessous de 148 € qui aurait pu suggérer un « faux breakout ». SU drift léger +0,14 % à 292,80 € — se rapproche du seuil #22 (295 €) mais sans catalyseur direct aujourd'hui, la marche 0,75 % reste couvrable en 2-3 séances si BCE dovish. Aucune tentation discrétionnaire : le PMI flash beat modeste ne crée pas de dislocation qui justifierait une action hors-carnet, et le débat pause/cut BCE demain est le vrai point d'inflexion à attendre.
+
+**4. LOCK-IN TOTAL VERROUILLÉ — PROGRESSION +5,10 €** — récapitulatif structurel après relève : **SU stop 275 € (+55,00 €/titre garanti vs PRU 220 €) + DG stop 141 € (+18,20 €/titre × 1,70 titre = +30,94 € garanti vs PRU 122,80 €) + AI et SAN sans stop dur mais marges > 7,0-11,8 %**. **Total minimum garanti si les 2 stops SU + DG étaient touchés simultanément : +85,94 € vs PRU cumulés + capital initial 1 000 € = 1 085,94 € plancher soit +8,59 % minimum verrouillé sur l'année** (**+0,51 point vs vendredi 8,08 %, progression trimestrielle mécanique**). À comparer aux **+188,46 € de gain latent actuel** : le portefeuille conserve **~54 % de son upside en risque de marché** et **~46 % en profit verrouillé** — ratio de verrouillage qui progresse de +2 points vs vendredi, conforme au dynamisme attendu sur une séance à trigger DG.
+
+**5. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue pour la 20ᵉ fois consécutive.** Cash 6,62 € toujours largement insuffisant. Le seuil d'ouverture ligne (≥ 59 €, 5 % du portefeuille) reste inaccessible sans stop touché SU 275 € ou DG 141 €.
+
+**6. CASH : 6,62 €** — **inchangé** sur les 3 séances (aucun flux dividendaire, aucune opération de compte). Portefeuille reste à 99,44 % investi.
+
+**7. CARNET D'ORDRES — MISE À JOUR JEUDI 23 JUILLET, 8 SEUILS ACTIFS** :
+- ✅ **#1 SU stop trailing 275,00 €** (inchangé, marge -6,1 % vs 292,80 €).
+- ✅ **#3 AI < 160 € ou SAN < 85 €** (inchangé, marges 10,6 % et 8,7 %).
+- ✅ **#4 DG stop 141,00 € technique** (**relevé mardi +3 €**, marge -4,9 % vs 148,20 €).
+- ✅ **#6 TSM ADR < 115 €** (inchangé, non ré-armé — proxy risk-off global).
+- ✅ **#7 CAC 40 < 8 100 pts** (inchangé, marge -8,6 % vs 8 861).
+- ✅ **#19 NFP US vendredi 8 août < 130 K jobs** — inchangé, pré-armé.
+- ✅ **#22 SU.PA > 295 € en clôture (phase 6 runner)** — inchangé, marche 0,75 %, **resserré**, candidat sur horizon 3-8 séances (si BCE dovish demain, marche pourrait tomber à 0,20-0,30 % vendredi).
+- 🆕 **#23 DG.PA > 152 € en clôture (phase 5 pyramide, nouveau palier +4 €)** — armé mardi, marche 2,50 % à combler, horizon 8-15 séances.
+
+#### Stratégie
+
+**Le portefeuille franchit ce jour +18,85 % en clôture, nouveau plus haut historique et 0,85 point au-dessus du cap psychologique +18 % franchi vendredi 17.** Le régime de drift dovish tempéré continue de délivrer semaine après semaine depuis le pivot FOMC du 19 juin. **Sur base cumulative depuis le pivot FOMC (19 juin → 22 juillet, 22 séances de cotation) : portefeuille passé de 1 118,00 € à 1 188,46 €, soit +70,46 € (+6,30 %) en 22 séances, ratio Sharpe implicite estimé 1,68** — accélération +0,06 point vs vendredi, régime T3 en phase mature.
+
+**Trois enseignements clés de la séquence des 3 dernières séances pour la fenêtre 23-31 juillet** :
+
+1. **Le catalyseur T2 Vinci a délivré exactement selon le playbook.** Beat modeste (+3,5 % vs consensus +2,7 %, borne haute de la fourchette 60-65 % assignée samedi) → gap ouverture +1,9 % → clôture propre au-dessus du seuil #21 → relève mécanique stop. **C'est le 12ᵉ trigger mécanique consécutif sans faux signal depuis le pivot FOMC 19 juin** — la robustesse statistique du système continue de se renforcer. Le pattern pyramide DG (5ᵉ palier successivement franchi : 128 → 132 → 135 → 138 → 141 €) valide définitivement la thèse Vinci en régime dovish tempéré + backlog infrastructure record + trafic autoroutier estival soutenu.
+
+2. **Le seuil #22 SU > 295 € s'est resserré à 0,75 % sans catalyseur direct** — c'est le signal d'un drift dovish tempéré qui s'auto-nourrit désormais indépendamment des catalyseurs individuels. BCE demain jeudi est le prochain point d'inflexion majeur : **scenario pause + guidance dovish (probabilité 65 %)** → SU continue drift lent, seuil #22 candidat mardi 28/mercredi 29 juillet. **Scenario cut 25 bps (probabilité 35 %)** → gap SU +1 à +1,5 % → seuil #22 en vue directe vendredi 25 juillet dès la digestion. **Scenario hawkish (probabilité < 5 %)** → improbable au vu du CPI soft franc + PMI juste au-dessus de 50.
+
+3. **Les 4 lignes toutes en profit consolidé +7 % / +10 % / +21 % / +33 %** avec plancher garanti +8,59 % (progression trimestrielle mécanique +0,51 point cette semaine, +1,01 point sur 2 semaines depuis pivot FOMC). Le portefeuille est en **configuration optimale à J-2 BCE** — 46 % du gain verrouillé mécaniquement, 54 % en upside marché, cash 6,62 € qui n'a pas besoin d'être déployé (les triggers s'auto-alimentent).
+
+**Prochaine réévaluation** : **jeudi 23 juillet 17:40 CET** (**BCE 14:15 CET + conférence Lagarde 14:45 CET**, catalyseur systémique majeur, TSLA + NFLX T2 après Bourse US 22:00 CET, Powell Jackson Hole préambule discours économique, INTC T2 digéré). Stops actifs : SU.PA **275,00 €** trailing (inchangé), DG.PA **141,00 €** technique (relevé mardi). Carnet d'ordres armé sur **8 seuils actifs** — #21 désarmé, #23 armé, solde net inchangé. Cash **6,62 €** (inchangé). Focus : **accueillir BCE demain comme la mécanique proposera**, sans anticipation directionnelle sur pause/cut, laisser #22 SU > 295 € se rapprocher naturellement (marche 0,75 % ne demande qu'un léger drift + effet BCE), tenir la discipline mécanique 12/12 sans céder à la tentation de « préempter » la BCE. Le pilote automatique a délivré 3 triggers en 5 séances utiles (13-17 juillet #17/#18/#20 + 21 juillet #21) — la mécanique fait le travail, la discrétion se tait.
 
 ---
