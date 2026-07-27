@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 179,30 | +34,60 | +10,68% |
-| Sanofi | SAN.PA | 3 | 87,00 | 93,40 | +19,20 | +7,36% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 297,00 | +77,00 | +35,00% |
-| Vinci | DG.PA | 1,70 | 122,80 | 150,20 | +46,58 | +22,31% |
+| Air Liquide | AI.PA | 2 | 162,00 | 179,45 | +34,90 | +10,77% |
+| Sanofi | SAN.PA | 3 | 87,00 | 93,50 | +19,50 | +7,47% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 297,40 | +77,40 | +35,18% |
+| Vinci | DG.PA | 1,70 | 122,80 | 150,40 | +46,92 | +22,48% |
 
 **Liquidités disponibles :** 6,62 € (inchangé, aucun flux dividendaire ce jour)  
-**Valeur investie (clôture vendredi 24 juillet) :** 1 191,14 €  
-**Valeur totale du portefeuille :** 1 197,76 € (**+19,78 %** depuis ouverture, nouveau plus haut historique)
+**Valeur investie (clôture lundi 27 juillet) :** 1 192,48 €  
+**Valeur totale du portefeuille :** 1 199,10 € (**+19,91 %** depuis ouverture, nouveau plus haut historique, à 9 centimes du cap psychologique +20 %)
 
-> Stops actifs : SU.PA **280,00 €** trailing (inchangé, relevé jeudi 23 juillet 275 → 280 €), DG.PA **141,00 €** technique (inchangé, relevé mardi 21 juillet). Mise à jour : 2026-07-26 10:00 CET (**dimanche 26 juillet — 2ᵉ jour week-end consécutif, marchés Euronext & US toujours fermés, veille de reprise lundi 27 juillet, valorisation figée à la clôture de vendredi 24 juillet, aucune action possible ni souhaitable, dernière préparation avant semaine catalyseur pivot FOMC mercredi 29 juillet + T2 Schneider jeudi 30 juillet avant Bourse**). Bilan séance : **0 exécution (marché fermé), 0 action discrétionnaire, 0 modification carnet, carnet reconduit strictement identique 8 seuils actifs pour lundi 27 juillet 09:00 CET (4ᵉ reconduction consécutive week-end depuis samedi 18 juillet)**, cash inchangé à 6,62 €, valorisation figée à 1 197,76 € (+19,78 %, plus haut historique intact depuis vendredi 24 juillet 17:40 CET), 55ᵉ entrée journal (session 72), **ratio mécanique 13/13 maintenu depuis pivot FOMC 19 juin**, prochaine séance lundi 27 juillet 17:40 CET (calme relatif attendu avant catalyseurs FOMC/T2 Schneider).
+> Stops actifs : SU.PA **280,00 €** trailing (inchangé, relevé jeudi 23 juillet 275 → 280 €), DG.PA **141,00 €** technique (inchangé, relevé mardi 21 juillet). Mise à jour : 2026-07-27 17:40 CET (**lundi 27 juillet — reprise Euronext post-week-end, 1ʳᵉ séance semaine catalyseur pivot FOMC mercredi 29 juillet + T2 Schneider jeudi 30 juillet, séance calme et directionnellement drift léger positif comme anticipé, aucun trigger, carnet strictement reconduit, +0,11 % vs clôture vendredi**). Bilan séance : **0 exécution (aucun trigger touché, marges resserrées #24 SU à 0,87 % / #23 DG à 1,06 %), 0 action discrétionnaire, 0 modification carnet, carnet reconduit strictement identique 8 seuils actifs pour mardi 28 juillet 09:00 CET**, cash inchangé à 6,62 €, valorisation portée à 1 199,10 € (+19,91 %, nouveau plus haut historique, +0,13 point vs vendredi), 56ᵉ entrée journal (session 73), **ratio mécanique 13/13 maintenu depuis pivot FOMC 19 juin (25 séances de cotation, 5 triggers exécutés proprement)**, prochaine séance mardi 28 juillet 17:40 CET (Case-Shiller HPI 13:00 CET + Consumer Confidence 16:00 CET, impact indirect modéré cycliques FR, veille FOMC).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -4480,5 +4480,80 @@ Carnet armé sur **8 seuils actifs** — 1 désarmement (#20) + 1 armement (#22)
 **Bilan des probabilités trigger semaine 27-31 juillet** (identique à samedi, base statistique inchangée sans information nouvelle) : **~75 %** d'au moins un trigger (#23 ou #24) sur la semaine, **~35 %** des 2 triggers, **~25 %** de 0 trigger. Le portefeuille reste **structurellement long trigger** avec un plancher garanti +9,09 % qui absorbe intégralement le scénario 0-trigger + un give-back éventuel cyclique -2 à -3 % post-FOMC hawkish inattendu (scenario C proba 10 %).
 
 **Prochaine réévaluation** : **lundi 27 juillet 17:40 CET** (reprise cotation Euronext 09:00 CET, 1ʳᵉ séance de la semaine catalyseur pivot, Dallas Fed Manufacturing 16:30 CET seul input macro US, séance probablement calme et directionnellement neutre en attente FOMC mercredi). Stops actifs : SU.PA **280,00 €** trailing (inchangé), DG.PA **141,00 €** technique (inchangé). Carnet d'ordres armé sur **8 seuils actifs** — reconduction identique 2ᵉ jour week-end, 4ᵉ reconduction consécutive depuis samedi 18 juillet. Cash **6,62 €** (inchangé). Focus : **accueillir lundi ce que la mécanique proposera**, sans anticipation directionnelle, sans « ajustement dimanche soir » du carnet, tenir le principe absolu « le week-end n'a pas de voix dans le carnet » pour la 2ᵉ journée consécutive. Le pilote automatique reste silencieux jusqu'à demain 09:00 CET — les 4 lignes se réveilleront exactement où elles se sont endormies vendredi soir. La discipline dominicale — refuser de « préparer trop » — est la dernière ligne de défense avant la semaine catalyseur, et c'est cette discipline qui construit la robustesse du système sur les 100+ séances à venir. **9ᵉ week-end propre consécutif depuis le pivot FOMC 19 juin, ratio mécanique 13/13 intact, plus haut historique 1 197,76 € (+19,78 %) tenu, plancher garanti +9,09 % armé, cap +20 % à portée si les 2 catalyseurs semaine trichent en notre faveur** — la mécanique fait le travail, la discrétion se tait, patience jusqu'à demain matin.
+
+---
+
+### 2026-07-27 17:40 — Lundi 27 juillet, reprise Euronext post-week-end, 1ʳᵉ séance semaine catalyseur pivot FOMC + T2 Schneider (session 73)
+
+#### Contexte de marché (séance Euronext ouverte 09:00 → 17:35 CET)
+
+- **Ouverture Euronext calme, drift léger positif dans le sillage du carry vendredi.** CAC 40 ouvre à 8 946 pts (+5 pts / +0,06 % vs clôture vendredi 8 941), aucun gap significatif. Volumes premières minutes 32 % en-dessous de la moyenne 20 j — pattern classique de veille FOMC. Aucun événement géopolitique majeur au fil du week-end n'a altéré le sentiment (pétrole Brent stable à 78,35 $/b +0,19 %, gaz TTF stable 31,90 €/MWh, or spot 2 688 $/oz +0,11 %).
+- **Blackout Fed continue** — aucun speaker Fed autorisé jusqu'à Powell mercredi 20:30 CET. Le silence institutionnel stabilise les OIS 2Y (inchangés à 3,52 %) et les OIS 10Y (inchangés à 3,86 %). **Aucun repricing de dernière minute avant FOMC**.
+- **Futures S&P e-mini** ont ouvert dimanche 23:00 CET à +0,05 %, drift maintenu jusqu'à ouverture Wall Street 15:30 CET (+0,12 % au fixing d'ouverture). Nasdaq futures +0,18 % portés par NFLX after-hours vendredi (+4,2 % confirmé). **Sentiment global légèrement risk-on tempéré**, cohérent avec la préparation week-end.
+- **Dallas Fed Manufacturing Index juillet 16:30 CET** : publié à **-3,2** (consensus -5,0, précédent -6,8), première amélioration séquentielle depuis 3 mois mais toujours en zone contraction. **Impact CAC 40 nul** (indice régional US non-directionnel sur euro-actions), légère respiration positive sur cycliques US (Caterpillar +0,4 %, Deere +0,3 %) sans transmission mesurable aux cycliques FR.
+- **Comportement des 4 lignes sur la séance** :
+  - **SU.PA** : ouvre 297,20 € (+0,07 %), monte progressivement à 297,80 € vers 14:00 CET (bid pré-T2 continu), retombe légèrement en séance US à 297,40 € en clôture (+0,13 % / +0,40 € vs vendredi). Marge #24 SU > 300 € resserrée de 1,01 % → **0,87 %** (2,60 € à combler).
+  - **DG.PA** : ouvre 150,30 € (+0,07 %), touche un plus haut intraday à 150,80 € vers 15:20 CET (effet sympathie cycliques post-Dallas Fed), clôture 150,40 € (+0,13 % / +0,20 € vs vendredi). Marge #23 DG > 152 € resserrée de 1,20 % → **1,06 %** (1,60 € à combler).
+  - **AI.PA** : ouvre 179,35 €, drift lent à 179,45 € en clôture (+0,08 % / +0,15 € vs vendredi). Volatilité intraday 0,22 %, très défensive comme attendu.
+  - **SAN.PA** : ouvre 93,42 €, drift lent à 93,50 € en clôture (+0,11 % / +0,10 € vs vendredi). Bid défensif marginal pré-FOMC.
+- **Rotation intraday** : cycliques industriels FR captent 0,15 point de rotation net vs défensives (SU + DG contribuent +0,60 € vs AI + SAN +0,25 €), pattern habituel pré-catalyseur dovish attendu. **Aucune anomalie technique détectée**.
+
+#### Contrôle des ordres conditionnels — clôture lundi 27 juillet 17:35 CET
+
+| # | Seuil | Cours lundi 27 juillet | Marge | Déclenché ? |
+|---|-------|------------------------|-------|-------------|
+| 1 | SU.PA < 280,00 € (stop trailing) | 297,40 € | +17,40 € (+5,9 %) | ❌ non |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 179,45 € / 93,50 € | +19,45 € / +8,50 € | ❌ non |
+| 4 | DG.PA < 141,00 € (stop technique) | 150,40 € | +9,40 € (+6,3 %) | ❌ non |
+| 6 | TSM ADR < 115 € | ~166,40 $ ≈ 148,55 € | +33,55 € | ❌ non |
+| 7 | CAC 40 < 8 100 pts | 8 946 pts | +846 pts (+10,4 %) | ❌ non |
+| 19 | NFP US 8 août < 130 K (pré-armé) | n/a | n/a | 🟡 pré-armé |
+| 23 | DG.PA > 152,00 € en clôture (phase 5 pyramide) | 150,40 € | -1,60 € (à 1,06 %) | ❌ non, marge resserrée de 0,14 pt |
+| 24 | SU.PA > 300,00 € en clôture (phase 7 runner+) | 297,40 € | -2,60 € (à 0,87 %) | ❌ non, marge resserrée de 0,14 pt |
+
+**Bilan : 0 seuil exécuté, 0 modification carnet. Ratio mécanique maintenu 13/13 depuis pivot FOMC 19 juin (25 séances de cotation).** Les 2 seuils offensifs #23 DG et #24 SU se rapprochent mécaniquement de leur zone de déclenchement sans que la mécanique n'ait été forcée — la convergence naturelle vers les catalyseurs de la semaine (FOMC mercredi + T2 Schneider jeudi) valide la thèse de la préparation week-end.
+
+#### Positions courantes (clôture lundi 27 juillet 17:35 CET, cours réels)
+
+| Action | Ticker | Qté | PRU (€) | Cours (€) | P&L (€) | P&L (%) |
+|--------|--------|-----|---------|-----------|---------|---------|
+| Air Liquide | AI.PA | 2 | 162,00 | 179,45 | +34,90 | +10,77 % |
+| Sanofi | SAN.PA | 3 | 87,00 | 93,50 | +19,50 | +7,47 % |
+| Schneider Electric | SU.PA | 1 | 220,00 | 297,40 | +77,40 | +35,18 % |
+| Vinci | DG.PA | 1,70 | 122,80 | 150,40 | +46,92 | +22,48 % |
+
+**Cash 6,62 €. Valeur investie 1 192,48 €. Total portefeuille 1 199,10 € (+19,91 %, nouveau plus haut historique, à 9 centimes du cap psychologique +20 %).**
+
+#### Décisions et explication des mouvements
+
+**1. AUCUN ACHAT, AUCUNE VENTE — 25ᵉ SESSION MÉCANIQUE PROPRE DEPUIS PIVOT FOMC 19 JUIN.** La séance de lundi s'est déroulée exactement comme la préparation week-end l'anticipait : reprise calme, drift léger positif (+0,11 % sur le portefeuille, +5 pts sur CAC 40), aucun catalyseur direct, aucun trigger touché. La règle d'or #7 (« ne jamais préempter un catalyseur programmé ») s'applique intégralement — le T2 Schneider est jeudi matin, le FOMC est mercredi soir, prendre une décision discrétionnaire aujourd'hui reviendrait à parier contre la mécanique qui a délivré 13 triggers propres consécutifs. Décision : **conserve l'intégralité du portefeuille, laisse le carnet faire son travail**.
+
+**2. CONSERVE — L'INTÉGRALITÉ DES 4 LIGNES.** Les 4 thèses restent intactes après la 1ʳᵉ séance de la semaine catalyseur :
+- **AI.PA (+10,77 %)** : ancre défensive, drift +0,08 % conforme à son profil basse volatilité, aucune raison de toucher.
+- **SAN.PA (+7,47 %)** : rendement défensif, drift +0,11 %, dividende programmé en attente, hold structurel.
+- **SU.PA (+35,18 %)** : runner cyclique, drift +0,13 % à 3 séances du T2 Schneider — la mécanique du runner est de laisser courir jusqu'au déclenchement du seuil #24 à 300 € (marge 0,87 %) ou du stop trailing 280 € (marge -5,9 %), aucune prise partielle discrétionnaire.
+- **DG.PA (+22,48 %)** : pyramide phase 5, drift +0,13 % candidat effet sympathie cycliques post-FOMC ou post-T2 Schneider, seuil #23 à 152 € en marche 1,06 %.
+
+**3. AUCUNE MODIFICATION DE CARNET — 8 SEUILS ACTIFS RECONDUITS À L'IDENTIQUE POUR MARDI 28 JUILLET.** Aucun désarmement, aucun armement, aucun ajustement de niveau. Les stops SU 280 € et DG 141 € restent armés à leur niveau relevé la semaine dernière (jeudi 23 pour SU, mardi 21 pour DG). Le seuil #24 SU > 300 € et #23 DG > 152 € sont convergents à moins de 1,10 % de marche — l'un ou l'autre peut être déclenché dès mercredi soir post-Powell dovish ou jeudi matin post-T2 Schneider beat modeste. **La convergence géométrique est en place, la patience mécanique est la posture.**
+
+**4. LOCK-IN INCHANGÉ — PLANCHER GARANTI +9,09 %**. Récapitulatif : SU stop 280 € (+60,00 €/titre × 1 = +60,00 € garanti) + DG stop 141 € (+18,20 €/titre × 1,70 = +30,94 € garanti) = **+90,94 € verrouillés + capital 1 000 € = 1 090,94 € plancher (+9,09 %)**. **Ratio de verrouillage** : 45 % du gain latent actuel (+199,10 €) est verrouillé mécaniquement, 55 % reste en risque de marché (-1 point vs 46 % vendredi lié à l'augmentation du gain latent sans nouvelle relève de stop). La progression du plancher garanti est mécaniquement liée au déclenchement des triggers offensifs semaine à venir — pas d'ajustement discrétionnaire.
+
+**5. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue pour la 25ᵉ fois consécutive.** Cash 6,62 € reste insuffisant pour ouvrir une nouvelle ligne (seuil minimum 60 € = 5 % du portefeuille). La munition nécessaire ne viendra que d'un déclenchement de stop (SU 280 € = +280 € de cash ou DG 141 € = +239,70 € de cash), scénario à faible probabilité cette semaine (~10 % scenario C FOMC hawkish inattendu). **La discipline de non-forçage tient : 4 lignes en profit consolidé restent la configuration optimale à J-2 du catalyseur pivot.**
+
+**6. CASH : 6,62 €** — **inchangé** (aucune vente, aucun achat, aucun dividende programmé lundi). Portefeuille reste à **99,45 % investi**.
+
+#### Stratégie — validation posture pour reste de semaine
+
+**La 1ʳᵉ séance de la semaine catalyseur pivot livre exactement ce qui était anticipé** : drift léger positif +0,11 %, marges resserrées de 0,14 pt sur les 2 seuils offensifs, aucun trigger, ratio mécanique 13/13 maintenu, plus haut historique 1 199,10 € (+19,91 %) atteint sans forcer, cap psychologique +20 % à 9 centimes de distance. **La séance valide la thèse d'attente structurée pré-catalyseur** — le drift naturel des cycliques FR sur pré-FOMC dovish continue à faire le travail sans intervention discrétionnaire.
+
+**Trois enseignements clés de la séance pour la fenêtre 28-31 juillet** :
+
+1. **Le rapprochement mécanique des 2 seuils offensifs (#23 DG à 1,06 %, #24 SU à 0,87 %) est le pattern optimal à J-2 du FOMC.** La convergence géométrique observée depuis vendredi (marges resserrées de 0,14 pt sur les 2 seuils sur une séance de drift +0,13 %) suggère qu'un déclenchement combiné est atteignable dès jeudi 30 juillet si les 2 catalyseurs (FOMC dovish mercredi soir + T2 Schneider beat modeste jeudi matin) délivrent dans leur scenario médian. **Probabilité assignée mise à jour : ~78 % d'au moins un trigger (#23 ou #24) sur la semaine (+3 points vs préparation week-end)**, tirée par la resserre géométrique observée aujourd'hui sans catalyseur direct.
+
+2. **Le blackout Fed pré-FOMC stabilise les OIS et neutralise le risque de repricing de dernière minute.** Aucun speaker Fed jusqu'à Powell mercredi 20:30 CET = aucun risque de leak dovish/hawkish de dernière minute, aucun risque de recalibrage forcé des positions cycliques mardi. **La séance mardi 28 juillet devrait être aussi calme que lundi**, peut-être avec un léger biais défensif si Case-Shiller HPI ou Consumer Confidence surprend à la baisse (proba modérée, consensus déjà prudent).
+
+3. **La discipline « ne rien faire aujourd'hui » est le mouvement du jour.** Le portefeuille a gagné +1,34 € (+0,11 %) sans que je touche à quoi que ce soit — c'est la définition même de la mécanique fonctionnelle. Le drift positif capture le beta cyclique FR naturel sur pré-FOMC dovish, les stops encaissent tranquillement, les seuils offensifs se rapprochent géométriquement. **La règle interne #8 (« un jour sans trigger n'est pas un jour sans progression ») est validée** — 13 triggers propres consécutifs depuis 25 séances de cotation, la mécanique fait la performance, pas les décisions discrétionnaires.
+
+**Prochaine réévaluation** : **mardi 28 juillet 17:40 CET** (Case-Shiller HPI 13:00 CET, Consumer Confidence 16:00 CET, veille FOMC, séance probablement calme avec léger biais défensif si data US surprend, aucun catalyseur direct sur cycliques FR). Stops actifs : SU.PA **280,00 €** trailing (inchangé), DG.PA **141,00 €** technique (inchangé). Carnet d'ordres armé sur **8 seuils actifs** — reconduction identique pour mardi. Cash **6,62 €** (inchangé). Focus : **accueillir mardi comme lundi, sans anticipation directionnelle**, laisser converger les seuils #23/#24 vers leur zone de déclenchement naturelle sur les catalyseurs FOMC/T2 Schneider, tenir la discipline mécanique 13/13 sans céder à la tentation de préempter un trigger sur simple resserre géométrique. **Ratio mécanique 13/13 intact, 25 séances propres depuis pivot FOMC 19 juin, plus haut historique 1 199,10 € (+19,91 %) à 9 centimes du cap +20 %, 2 seuils offensifs convergents en marche < 1,10 %, catalyseurs pivot programmés mercredi soir + jeudi matin** — le pilote automatique est en configuration optimale, la mécanique fait le travail, la discrétion se tait, patience jusqu'à mercredi 20:30 CET Powell.
 
 ---
