@@ -2,7 +2,35 @@
 
 > **Source visée :** [CapitolTrades — trades (buy)](https://www.capitoltrades.com/trades?txType=buy)
 > **Note réseau :** CapitolTrades et l'ensemble des agrégateurs de trades du Congrès (Quiver Quantitative, Trendlyne, InsiderFinance, StockCircle, MarketBeat, CREW…) renvoient une erreur **HTTP 403** depuis cet environnement d'exécution distant (politique réseau + protection anti-bot). Trendlyne expose bien une fenêtre récente (divulgations du **11 au 20 juin 2026**) mais son contenu détaillé n'est pas accessible ici. Les données ci-dessous ont donc été **reconstituées via recherche web** à partir des mêmes divulgations publiques (STOCK Act / PTR du Sénat) relayées par la presse financière. Pour un suivi en temps réel, à rafraîchir depuis un environnement avec accès réseau complet.
-> **Dernière mise à jour :** 2026-07-13 (rafraîchissement #5 — ajout des achats **John Hickenlooper (D-CO) / Uber (UBER) + Eaton (ETN)** du 14 janvier 2026, recoupant la commission Commerce/Transports & l'énergie ; et nouvelle affaire **violation du STOCK Act par Hickenlooper (D-CO) & Rounds (R-SD)** — divulgations tardives de ventes Palantir / Liberty Broadband / Aeronics)
+> **Dernière mise à jour :** 2026-07-27 (rafraîchissement #6 — nouveau sénateur **Alan Armstrong (R-OK)**, successeur de Mullin, ~703 trades de fin mars 2026 divulgués **tardivement** (violation STOCK Act) : rotation « Magnificent Seven » via *direct indexing* — **achats AAPL / GOOGL / NVDA / BRK** & liquidation de son ancien groupe **Williams (WMB)** ; + contexte réglementaire majeur : la **Chambre a adopté le *Stop Insider Trading Act* (H.R. 7008, Steil) le 22 juillet 2026**, 232-198)
+
+---
+
+## 🆕 Nouveautés de ce rafraîchissement (2026-07-27)
+
+CapitolTrades et l'ensemble des agrégateurs (Quiver, Trendlyne, StockCircle, MarketBeat, Benzinga, InsiderFinance, CongressStock…) restent en **HTTP 403** depuis cet environnement (politique réseau + anti-bot ; NOTUS et Quiver renvoient également 403 sur les pages détaillées). Les éléments ci-dessous ont été **reconstitués via recherche web** à partir des divulgations STOCK Act / PTR du Sénat relayées par la presse financière (Benzinga, NOTUS, Washington Post, Fortune, Quiver, moomoo).
+
+**Constat de la fenêtre 14–27 juillet 2026 :** l'évènement dominant est l'entrée d'un **nouveau sénateur**, **Alan Armstrong (R-OK)**, nommé le 24 mars 2026 par le gouverneur Stitt pour occuper le siège laissé vacant par **Markwayne Mullin** (parti diriger le **DHS**). Armstrong, ex-PDG (2011-2025) du groupe gazier **Williams (WMB)**, a réalisé **~703 transactions** dans les jours suivant sa prestation de serment (fin mars 2026) et ne les a divulguées qu'en **juillet 2026 — plus de deux mois après le délai de 45 jours** : c'est la **plus grosse divulgation tardive de l'année** (violation du STOCK Act). Côté **`buy`**, il s'agit d'une **rotation « Magnificent Seven »** exécutée par un gérant tiers via une stratégie de ***direct indexing*** (panier large et algorithmique), financée par la **liquidation de sa participation historique dans Williams (WMB)**.
+
+### (a) Achats — Alan Armstrong (R — Oklahoma) — rotation *direct indexing* (fin mars 2026)
+
+| Sénateur | Parti / État | Commission sensible | Société | Ticker | Date d'achat | Montant | Probabilité de gain | **Probabilité de délit d'initié** |
+|----------|--------------|---------------------|---------|--------|--------------|---------|---------------------|-----------------------------------|
+| **Alan Armstrong** 🆕 | R — Oklahoma | Profil **énergie** (ex-PDG Williams) ; commissions en cours d'attribution (siège d'intérim) | Apple | AAPL | **~2026-03-25** (fin mars) | **≥ 250 k$** | Modérée-Élevée (~60 %) — méga-cap, plus gros achat du lot | **Très faible-Faible** (panier *direct indexing* diversifié, méga-cap, ordre gérant tiers J+1 de l'entrée en fonction, avant tout accès à une info de commission) |
+| **Alan Armstrong** 🆕 | R — Oklahoma | idem | Alphabet | GOOGL | **~2026-03-25** (fin mars) | **≥ 50 k$** | Modérée-Élevée (~60 %) — méga-cap tech | **Très faible-Faible** (idem — basket algorithmique) |
+| **Alan Armstrong** 🆕 | R — Oklahoma | idem | Nvidia | NVDA | **~2026-03-25** (fin mars) | **≥ 50 k$** | Élevée (~65 %) — momentum IA soutenu | **Faible** (méga-cap, basket ; pas de pari isolé) |
+| **Alan Armstrong** 🆕 | R — Oklahoma | idem | Berkshire Hathaway | BRK | **~2026-03-25** (fin mars) | **≥ 50 k$** | Modérée (~55 %) — holding diversifié défensif | **Très faible** (holding diversifié) |
+
+> 🔎 **Contexte Armstrong (700+ trades, fin mars 2026)** : total estimé **≥ 25 M$** sur **703 transactions**, dont **≥ 7,66 M$ d'achats** et **≥ 17,37 M$ de ventes**. La plus grosse opération est une **vente** : liquidation de **5–25 M$** d'actions **Williams (WMB)** (son ancien groupe) + **250–500 k$** d'options WMB → **désengagement** de l'émetteur où il pourrait détenir une information privilégiée (facteur **atténuant** net). Ses cinq plus gros mouvements incluent **Apple, Alphabet et Nvidia** ; ses plus gros **achats** sont **AAPL (≥ 250 k$)**, puis **GOOGL / BRK / NVDA (≥ 50 k$ chacun)**. Une **note jointe au dépôt** précise : « *les transactions de mars 2026 ont été initiées par un conseiller tiers pour mettre en œuvre une stratégie de* ***direct indexing*** ». ➡️ **Probabilité de délit d'initié : Très faible-Faible** — panier large et algorithmique de méga-caps, exécuté par un gérant tiers **le lendemain de la prise de fonction** (avant tout accès à une information de commission), et **financé par la sortie de son propre ancien titre**. **En revanche, la gravité côté *transparence* est Élevée** : ~700 déclarations **hors délai** de plus de deux mois = **violation caractérisée du STOCK Act** (la plus importante de 2026), qui plus est la **semaine même où la Chambre vote l'interdiction** (voir ci-dessous). Trades **légaux** sur le fond ; la faute est la **déclaration tardive**.
+
+### (b) 🏛️ Contexte réglementaire majeur — la Chambre adopte le *Stop Insider Trading Act* (22 juillet 2026)
+
+- La **Chambre des représentants** a adopté le **22 juillet 2026**, par **232-198** (vote bipartite), le **Stop Insider Trading Act** (**H.R. 7008**), porté par **Bryan Steil (R-WI)**.
+- **Dispositions clés** : interdiction pour les **membres du Congrès, leur conjoint et leurs enfants à charge** d'**acheter des actions cotées** ; obligation de **préavis public de 7 jours** avant toute **vente** ; **pénalité de 2 000 $ ou 10 % de la valeur** de l'investissement concerné (le plus élevé) ; **confiscation des plus-values** réalisées. Les titres **déjà détenus** et les **titres privés** restent autorisés.
+- **Perspective Sénat : incertaine.** Le texte devrait **buter sur la règle des 60 voix** (filibuster) et sur des dispositions ajoutées (voter ID) ; les précédentes propositions d'interdiction ont **calé à la chambre haute**. À noter (Fortune) : le texte **exempterait les ~3 600 trades du T1 de Donald Trump**.
+- ➡️ **Impact sur ce suivi** : si (et seulement si) le Sénat suivait, la colonne « achats de sénateurs » deviendrait **structurellement vide** pour les titres cotés. En l'état (juillet 2026), le suivi reste pertinent — mais le **momentum politique anti-conflit** est à son plus haut, ce qui accroît le **coût réputationnel** des cas comme Armstrong (retard) ou Mullin (chevauchement défense).
+
+> 🔁 **Hors périmètre `buy` / non attribuable ce mois-ci** : **Angus King (I-ME)** apparaît dans les trackers (gains mensuels estimés par Quiver ~120 k$–515 k$ sur son portefeuille) mais ses **achats datés isolables sont de 2025** (XOM, NVDA, GOOGL, JPM, BAC, AMD, AMAT, UBER — juillet 2025) ; **aucun nouvel achat 2026 clairement daté** n'est isolable de façon fiable ici → non repris dans le tableau. Les **ventes** d'Armstrong (WMB en tête) sont hors périmètre `buy`. Côté **Chambre** (hors « sénateurs »), l'actualité reste dominée par les débats sur H.R. 7008.
 
 ---
 
@@ -95,6 +123,10 @@ Le site cible (CapitolTrades) et tous les agrégateurs (Quiver, Trendlyne, Stock
 
 | Sénateur | Parti / État | Commission sensible | Société | Ticker | Date d'achat | Montant | Probabilité de gain | **Probabilité de délit d'initié** |
 |----------|--------------|---------------------|---------|--------|--------------|---------|---------------------|-----------------------------------|
+| Alan Armstrong 🆕 | R — Oklahoma | Énergie (ex-PDG Williams) ; interim | Apple | AAPL | **~2026-03-25** | ≥ 250 k$ | Modérée-Élevée (~60 %) | **Très faible-Faible** (direct indexing, méga-cap, J+1 prise de fonction) |
+| Alan Armstrong 🆕 | R — Oklahoma | Énergie ; interim | Nvidia | NVDA | **~2026-03-25** | ≥ 50 k$ | Élevée (~65 %) — momentum IA | **Faible** (basket algorithmique) |
+| Alan Armstrong 🆕 | R — Oklahoma | Énergie ; interim | Alphabet | GOOGL | **~2026-03-25** | ≥ 50 k$ | Modérée-Élevée (~60 %) | **Très faible-Faible** (basket) |
+| Alan Armstrong 🆕 | R — Oklahoma | Énergie ; interim | Berkshire Hathaway | BRK | **~2026-03-25** | ≥ 50 k$ | Modérée (~55 %) | **Très faible** (holding diversifié) |
 | John Hickenlooper 🆕 | D — Colorado | Commerce & Transports | Uber Technologies | UBER | **2026-01-14** | 100–250 k$ | Modérée (~55 %) — rebond robotaxi, −10 % YTD | **Modérée-Élevée** ⚠️ (transport / Commerce ; pas de blind trust qualifié) |
 | John Hickenlooper 🆕 | D — Colorado | Énergie ; Commerce | Eaton Corporation | ETN | **2026-01-14** | 50–100 k$ | Élevée (~65 %) — data-center power, +27 %/an | **Modérée** ⚠️ (réseau/énergie ; gérant tiers) |
 | Gary Peters 🆕 | D — Michigan | Commerce (télécom/FCC) | AT&T | T | **2026-06-29** | 1–15 k$ | Modérée (~55 %) — télécom défensif, dividende | **Faible-Modérée** ⚠️ (télécom / Commerce ; montant faible, réformateur, fin de mandat) |
@@ -122,6 +154,14 @@ Le site cible (CapitolTrades) et tous les agrégateurs (Quiver, Trendlyne, Stock
 ---
 
 ## Analyse détaillée par sénateur
+
+### 🆕 🟠 Alan Armstrong (R — Oklahoma) — nouveau sénateur, ex-PDG de Williams (WMB) *(nouveauté 2026-07-27)*
+
+- **Nomination** : le **24 mars 2026**, le gouverneur **Kevin Stitt** nomme Armstrong (Tulsa, ex-PDG 2011-2025 du groupe gazier **Williams / WMB**) pour occuper — jusqu'à fin 2026 — le siège du Sénat laissé vacant par **Markwayne Mullin**, parti diriger le **Department of Homeland Security**. Profil énergie affiché (« *permitting reform* »).
+- **Activité `buy`** : dans les jours suivant sa prestation de serment (fin mars 2026), **~703 transactions** pour **≥ 25 M$**, dont **≥ 7,66 M$ d'achats** et **≥ 17,37 M$ de ventes**. Les **achats** significatifs sont une **rotation « Magnificent Seven »** : **Apple (AAPL, ≥ 250 k$)**, puis **Alphabet (GOOGL)**, **Nvidia (NVDA)** et **Berkshire Hathaway (BRK)** (≥ 50 k$ chacun). Une **note du dépôt** attribue ces mouvements à une stratégie de ***direct indexing*** mise en œuvre par un **conseiller tiers**.
+- **Facteurs atténuants (délit d'initié)** : (1) panier **large, diversifié, algorithmique** (direct indexing) plutôt que paris ciblés ; (2) méga-caps peu sensibles à une information ponctuelle ; (3) ordres passés **le lendemain de son entrée en fonction**, avant tout accès plausible à une information de commission ; (4) surtout, l'essentiel des flux est une **vente** — la **liquidation de 5–25 M$ de son ancien titre Williams (WMB)** + 250–500 k$ d'options, soit un **désengagement** de l'émetteur où il aurait le plus d'information privilégiée.
+- **Facteur aggravant (transparence)** : ~700 déclarations **hors délai de plus de deux mois** → **violation caractérisée du STOCK Act**, la **plus importante de 2026** — et symboliquement mal placée, révélée la **semaine du vote de la Chambre** sur l'interdiction du trading (H.R. 7008).
+- ➡️ **Probabilité de délit d'initié : Très faible-Faible** ⚠️ (le risque réel porte sur la *transparence*, **Élevé**, pas sur l'*insider*). **Probabilité de gain : Modérée-Élevée** — méga-caps porteuses (NVDA momentum IA le plus fort du lot), mais achats déjà anciens (fin mars). **Légal** sur le fond ; **infraction de déclaration** avérée.
 
 ### 🔴 Markwayne Mullin (R — Oklahoma) — membre du *Senate Armed Services Committee*
 
@@ -207,6 +247,8 @@ Le profil le plus actif et le plus sensible du tableau. Mullin a déclaré avoir
 - Une **analyse de CNN (février 2026)** a identifié au moins **10 sénateurs** ayant tradé des titres dans des secteurs supervisés par leurs commissions : R — Hagerty, Kennedy, Moody, Moran, Moreno, Mullin, Tuberville ; D — Hickenlooper, Peters, Whitehouse.
 - Un **projet de loi bipartisan (Ossoff)** d'interdiction du trading d'actions au Congrès a passé une commission clé du Sénat — réforme en cours de discussion en 2026.
 - **17 juin 2026** : la commission des forces armées du Sénat a approuvé un texte interdisant aux **sous-traitants de la défense** de racheter leurs propres actions sans accord du Pentagone (contexte de défiance accru autour des conflits d'intérêts).
+- **🆕 22 juillet 2026** : la **Chambre des représentants** a adopté (**232-198**, bipartite) le **Stop Insider Trading Act** (**H.R. 7008**, porté par **Bryan Steil (R-WI)**) : interdiction pour les membres, conjoints et enfants à charge d'**acheter des actions cotées**, **préavis de 7 jours** avant toute vente, **pénalité 2 000 $ ou 10 %** et **confiscation des plus-values**. **Sort incertain au Sénat** (règle des 60 voix ; dispositions annexes). Fortune relève que le texte **exempterait les ~3 600 trades du T1 de D. Trump**. Si le Sénat suivait, ce suivi « achats de sénateurs » deviendrait structurellement caduc pour les titres cotés.
+- **🆕 ~juillet 2026** : le nouveau sénateur **Alan Armstrong (R-OK)**, successeur de Mullin, a **enfreint le STOCK Act** en divulguant **~700 transactions** de fin mars 2026 avec **plus de deux mois de retard** — la plus grosse divulgation tardive de l'année (voir fiche dédiée).
 - **Bill Hagerty (R — TN)** : détail désormais partiellement récupéré (voir fiche dédiée) — achat du fonds **Contour Venture Partners V LP** (23/01/2026) et ventes ETRN/AZO/INTU ; gain mensuel estimé ~812 k$ par Quiver.
 
 ---
@@ -254,4 +296,16 @@ Le profil le plus actif et le plus sensible du tableau. Mullin a déclaré avoir
 - [Yahoo Finance / Zacks — Eaton (ETN) surged on accelerated demand for data center power solutions (+27 %/an)](https://finance.yahoo.com/markets/stocks/articles/eaton-etn-surged-accelerated-demand-135055504.html)
 - [TIKR — Uber stock rose 6% in a single day; where the stock could go in 2026 (cibles ~100–115 $)](https://www.tikr.com/blog/uber-stock-rose-6-in-a-single-day-heres-where-the-stock-could-go-in-2026)
 
-> *Données reconstituées le 2026-07-13 (rafraîchissement #5) à partir de divulgations publiques STOCK Act. Ne constitue pas un conseil en investissement ni une imputation de fait délictueux. Les « violations du STOCK Act » mentionnées désignent des retards de déclaration (transparence), non des délits d'initié établis.*
+- [NOTUS — Sen. Alan Armstrong Violated STOCK Act With 700 Tardy Stock Disclosures](https://www.notus.org/congress/sen-alan-armstrong-violated-stock-act-with-700-tardy-stock-disclosures)
+- [Benzinga — New Senator Makes 700+ Stock Trades, Ditches Old Oil Company for Magnificent Seven (Armstrong : AAPL, GOOGL, NVDA, BRK ; vente WMB)](https://www.benzinga.com/news/politics/26/07/60657916/new-senator-makes-700-stock-trades-ditches-old-oil-company-for-magnificent-seven)
+- [Benzinga — This Senator Just Sold Up To $28.36M In Williams Companies Stock (Armstrong / WMB)](https://www.benzinga.com/government/26/07/60610986/senator-just-sold-28-36m-williams-companies-stock)
+- [moomoo — Congress Trade: Senator Alan Armstrong Just Disclosed New Stock Trades](https://www.moomoo.com/news/post/73386138/congress-trade-senator-alan-armstrong-just-disclosed-new-stock-trades)
+- [NonDoc — Seeking 'permitting reform,' Stitt appoints former Williams CEO Alan Armstrong to U.S. Senate (24/03/2026)](https://nondoc.com/2026/03/24/seeking-permitting-reform-stitt-appoints-former-williams-ceo-alan-armstrong-to-u-s-senate/)
+- [Steil.house.gov — House Passes Steil's Congressional Stock Trading Ban (H.R. 7008, 22/07/2026)](https://steil.house.gov/media/press-releases/house-passes-steil-s-congressional-stock-trading-ban)
+- [NOTUS — House Lawmakers Pass Bill Restricting Congressional Stock Trading](https://www.notus.org/money/congressional-stock-ban-bill-passes-house)
+- [Washington Post — House passes stock-trading restrictions for lawmakers, but not a full ban (22/07/2026)](https://www.washingtonpost.com/politics/2026/07/22/house-passes-stock-trading-restrictions-lawmakers-not-full-ban/)
+- [Fortune — The Republican-controlled House just passed a stock trading bill — that exempts Trump's 3,600 Q1 trades](https://fortune.com/2026/07/23/house-stock-trading-ban-trump-exemption-vote/)
+- [CNN — House passes bill to restrict lawmaker stock trading (22/07/2026)](https://www.cnn.com/2026/07/22/politics/stock-trading-restriction-congress)
+- [Congress.gov — H.R.7008, 119th Congress: Stop Insider Trading Act](https://www.congress.gov/bill/119th-congress/house-bill/7008)
+
+> *Données reconstituées le 2026-07-27 (rafraîchissement #6) à partir de divulgations publiques STOCK Act relayées par la presse. Ne constitue pas un conseil en investissement ni une imputation de fait délictueux. Les « violations du STOCK Act » mentionnées (Armstrong, Hickenlooper, Rounds) désignent des **retards de déclaration** (transparence), non des délits d'initié établis. La colonne « probabilité de délit d'initié » est un **score de soupçon / conflit d'intérêts** fondé sur des facteurs publics (chevauchement de commission, timing, nature du titre), pas une constatation juridique.*
