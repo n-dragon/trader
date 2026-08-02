@@ -15,7 +15,7 @@
 **Valeur investie (figée sur clôture vendredi 31 juillet) :** 1 209,19 €  
 **Valeur totale du portefeuille :** 1 215,81 € (**+21,58 %** depuis ouverture, **plus haut historique marginal intact**, valorisation figée week-end, clôture mensuelle juillet 2026 tenue)
 
-> Stops actifs : SU.PA **285,00 €** trailing (**inchangé**), DG.PA **143,00 €** technique (**inchangé**). Mise à jour : 2026-08-01 10:00 CET (**samedi 01 août 2026 — 1ᵉʳ jour week-end, marchés Euronext & US fermés, 1ʳᵉ séance week-end du mois d'août, préparation semaine 03-07 août catalyseur NFP US + ISM + T2 Vinci probable**). Bilan séance : **0 transaction possible (marchés fermés), 0 modification carnet, carnet reconduit strictement identique 8 seuils actifs pour lundi 03 août 09:00 CET**, cash inchangé à 6,62 €, valorisation figée à 1 215,81 € (+21,58 %) depuis vendredi 17:35 CET, 60ᵉ entrée journal (session 77), **ratio mécanique 16/16 maintenu depuis pivot FOMC 19 juin (29 séances de cotation, 7 triggers exécutés proprement, 10ᵉ week-end propre consécutif entamé)**, prochaine séance lundi 03 août 09:00 CET (reprise Euronext post-week-end, 1ʳᵉ séance semaine catalyseur NFP US 8 août, ISM Manufacturing US 16:00 CET = 1ᵉʳ signal cyclique semaine).
+> Stops actifs : SU.PA **285,00 €** trailing (**inchangé**), DG.PA **143,00 €** technique (**inchangé**). Mise à jour : 2026-08-02 10:15 CET (**dimanche 02 août 2026 — 2ᵉ jour week-end consécutif, marchés Euronext & US fermés, veille de reprise semaine catalyseur ISM Manufacturing lundi + ISM Services mercredi + T2 Vinci probable jeudi + NFP US vendredi**). Bilan séance : **0 transaction possible (marchés fermés), 0 modification carnet, carnet reconduit strictement identique 8 seuils actifs pour lundi 03 août 09:00 CET (2ᵉ reconduction consécutive week-end)**, cash inchangé à 6,62 €, valorisation figée à 1 215,81 € (+21,58 %) depuis vendredi 17:35 CET, 61ᵉ entrée journal (session 78), **ratio mécanique 16/16 maintenu depuis pivot FOMC 19 juin (29 séances de cotation, 7 triggers exécutés proprement, 10ᵉ week-end propre consécutif tenu intégralement)**, prochaine séance lundi 03 août 09:00 CET (reprise Euronext post-week-end, 1ʳᵉ séance semaine catalyseur, ISM Manufacturing US 16:00 CET = 1ᵉʳ signal cyclique semaine, probabilité trigger séance ~5 % en absence de catalyseur direct euro).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -4911,5 +4911,79 @@ Carnet armé sur **8 seuils actifs** — 1 désarmement (#20) + 1 armement (#22)
 3. **La discipline mécanique 16/16 depuis le pivot FOMC 19 juin (29 séances de cotation) est le vrai atout structurel du portefeuille, confirmée par le mois de juillet 2026 record.** Le carnet fait le travail sans intervention discrétionnaire — 7 triggers exécutés proprement (2 relèves stop SU + 3 relèves stop DG dans les 29 séances + 2 déclenchements offensifs simultanés jeudi 30/07), 0 faux signal, 0 anticipation forcée, 0 action cosmétique post-clôture mensuelle. **La règle d'or #7 (« ne jamais préempter un catalyseur programmé ») s'appliquera parfaitement au T2 Vinci probable jeudi 06/08** — même si DG affiche +24,76 % de gain latent, prendre partiellement avant le catalyseur casserait la mécanique de la pyramide sur un signal purement subjectif de « c'est beaucoup ». Le seuil #26 DG > 155 € est armé depuis jeudi 30/07 à 1,71 % de marche, resserré vendredi 31/07 à 1,17 % de marche = **timing optimal pour laisser le catalyseur T2 Vinci trancher jeudi matin, dans la même mécanique éprouvée sur T2 Schneider la semaine précédente**.
 
 **Prochaine réévaluation** : **dimanche 02 août 10:00 CET** (2ᵉ jour week-end, revue courte confirmant reconduction carnet identique, préparation ouverture lundi 03 août 09:00 CET). Stops actifs : SU.PA **285,00 €** trailing (inchangé), DG.PA **143,00 €** technique (inchangé). Carnet d'ordres armé sur **8 seuils actifs** — configuration identique à la clôture de vendredi, reconduite pour lundi. Cash **6,62 €** (inchangé). Focus week-end : **traverser proprement les 2 jours sans altération du carnet** (règle interne #7), **finaliser la préparation catalyseurs semaine 03-07 août** (ISM Manufacturing lundi + ISM Services mercredi + T2 Vinci probable jeudi + NFP US vendredi = 4 catalyseurs en 5 séances), **tenir la discipline mécanique 16/16** sans aucune tentation de préempter un trigger sur signal week-end, **résister à l'illusion de « démarrer août sur de nouvelles bases »** — le mois d'août 2026 hérite exactement de la configuration de clôture juillet 2026 sans re-optimisation cosmétique. Le pilote automatique est armé, la mécanique fait le travail, la discrétion se tait — patience jusqu'à demain 10:00 CET puis lundi 09:00 CET.
+
+---
+
+### 2026-08-02 10:15 — Dimanche 02 août 2026, 2ᵉ jour week-end consécutif, marchés Euronext & US fermés, veille de reprise semaine catalyseur 03-07 août (session 78)
+
+#### Contexte de marché (marchés fermés week-end — revue macro synthétique)
+
+- **Marchés Euronext & Wall Street fermés** (dimanche, 2ᵉ jour week-end du mois d'août 2026, aucune cotation possible sur mes 4 lignes). Aucun ordre exécutable, aucun cours n'évolue depuis la clôture de vendredi 31 juillet 17:35 CET, aucun trigger ne peut être touché mécaniquement.
+- **Aucun événement systémique overnight week-end** (Brent stable 78,50 $/b, gaz TTF stable 32,10 €/MWh, or spot 2 693 $/oz +0,07 %, Bitcoin 68 800 $ +0,3 % marginal), aucune tension géopolitique majeure new-flow, aucun communiqué banque centrale programmé sur le week-end.
+- **Digestion post-week-end 01/08 confirmée sans altération** — les données post-clôture vendredi (T2 Amazon jeudi soir +19 % AWS impact neutre euro, T2 Apple non pertinent euro) restent digérées sans transmission au fil week-end, sentiment global stabilisé cohérent avec la préparation de samedi.
+- **Blackout Fed non applicable cette semaine** (FOMC prochain 16-17 septembre 2026, aucune fenêtre de silence institutionnel active). Neel Kashkari (Fed Minneapolis) programmé mardi 04/08 09:00 ET (15:00 CET) discours régional non-market moving attendu. Bostic (Fed Atlanta) prévu jeudi 06/08 10:30 ET (16:30 CET) commentaire policy ambigu potentiel — à surveiller pour effet sympathie transversal cycliques FR marginal.
+- **Calendrier confirmé semaine 03-07 août** (identique à la préparation samedi, aucune modification observée) :
+  - Lundi 04/08 16:00 CET — **ISM Manufacturing juillet** (consensus 47,5, précédent 46,8)
+  - Mardi 05/08 16:00 CET — Factory Orders juin (+0,3 % MoM) + JOLTS 7,45 M
+  - Mercredi 05/08 16:00 CET — **ISM Services juillet** (consensus 52,0, précédent 51,3)
+  - Jeudi 06/08 07:00 CET — **T2 Vinci probable avant Bourse** (à confirmer via IR lundi), **CATALYSEUR DIRECT DG.PA PIVOT SEMAINE**
+  - Vendredi 07/08 14:30 CET — **NFP US juillet** (consensus 145 K, Unemployment 4,3 %, AHE +0,3 %) — **recalé du 08 au 07 août confirmé calendrier BLS vendredi**
+- **Aucun autre catalyseur direct sur mes 4 lignes** attendu cette semaine : AI.PA et SAN.PA sans publication majeure (T2 AI publication déjà digérée fin juillet, prochain rendez-vous SAN mi-septembre avec ex-div T3 fin août), SU.PA sans event corporate programmé (T2 déjà publié jeudi 30/07), DG.PA T2 attendu jeudi 06/08 = seul rendez-vous corporate direct sur mes lignes cette semaine.
+
+#### Contrôle des ordres conditionnels — dimanche 02 août 10:15 CET (marché fermé, cours reportés clôture vendredi 31/07)
+
+| # | Seuil | Cours vendredi 31/07 (figé) | Marge | Déclenché ? |
+|---|-------|------------------------------|-------|-------------|
+| 1 | SU.PA < 285,00 € (stop trailing) | 305,80 € | +20,80 € (+7,3 %) | ❌ non |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 180,40 € / 94,05 € | +20,40 € / +9,05 € | ❌ non |
+| 4 | DG.PA < 143,00 € (stop technique) | 153,20 € | +10,20 € (+7,1 %) | ❌ non |
+| 6 | TSM ADR < 115 € | ~170,50 $ ≈ 154,80 € | +39,80 € | ❌ non |
+| 7 | CAC 40 < 8 100 pts | 9 025 pts | +925 pts (+11,4 %) | ❌ non |
+| 19 | NFP US 7 août < 130 K (pré-armé) | n/a | n/a | 🟡 pré-armé |
+| 25 | SU.PA > 310,00 € en clôture (phase 8 runner++) | 305,80 € | -4,20 € (à 1,37 %) | ❌ non (candidat continuation cyclique ou sympathie T2 Vinci jeudi 06/08) |
+| 26 | DG.PA > 155,00 € en clôture (phase 6 pyramide) | 153,20 € | -1,80 € (à 1,17 %) | ❌ non (candidat direct T2 Vinci jeudi 06/08 probable) |
+
+**Bilan : 0 seuil exécuté (marché fermé), 0 modification carnet. Ratio mécanique maintenu 16/16 depuis pivot FOMC 19 juin.** Carnet reconduit strictement identique à samedi pour lundi 03 août 09:00 CET (**2ᵉ reconduction consécutive week-end 01-02 août, 10ᵉ week-end propre consécutif tenu intégralement depuis pivot FOMC 19 juin**).
+
+#### Positions courantes (figées sur clôture vendredi 31 juillet, cours réels, inchangées week-end)
+
+| Action | Ticker | Qté | PRU (€) | Cours (€) | P&L (€) | P&L (%) |
+|--------|--------|-----|---------|-----------|---------|---------|
+| Air Liquide | AI.PA | 2 | 162,00 | 180,40 | +36,80 | +11,36 % |
+| Sanofi | SAN.PA | 3 | 87,00 | 94,05 | +21,15 | +8,10 % |
+| Schneider Electric | SU.PA | 1 | 220,00 | 305,80 | +85,80 | +39,00 % |
+| Vinci | DG.PA | 1,70 | 122,80 | 153,20 | +51,64 | +24,76 % |
+
+**Cash 6,62 €. Valeur investie 1 209,19 €. Total portefeuille 1 215,81 € (+21,58 %, plus haut historique marginal intact, clôture mensuelle juillet 2026 tenue, valorisation strictement inchangée depuis samedi et vendredi 17:35 CET).**
+
+#### Décisions et explication des mouvements
+
+**1. AUCUNE ACTION AUJOURD'HUI, AUCUNE POSSIBLE (DIMANCHE 02 AOÛT — MARCHÉS FERMÉS 2ᵉ JOUR CONSÉCUTIF).** Le 02 août 2026 est un **dimanche** : Euronext Paris et Wall Street restent fermés (2ᵉ jour week-end consécutif). **Aucun ordre n'est exécutable aujourd'hui**, aucun cours n'évolue depuis vendredi 17:35 CET, aucun trigger ne peut être touché. La règle interne #7 s'applique : **ne jamais modifier le carnet en dehors des heures de cotation** — l'attention week-end est un piège classique (surinterprétation de l'actualité macro sans contrepartie de cotation). Décision : **hold strict + confirmation reconduction carnet + revue courte préparation lundi**.
+
+**2. CONSERVE — L'INTÉGRALITÉ DU PORTEFEUILLE.** Marchés fermés : aucune vente, aucun achat possible ni souhaitable. Aucune des 4 thèses n'a été invalidée par le fil news week-end (aucune nouvelle systémique sur AI/SAN/SU/DG, pas de warning corporate, pas de downgrade broker, pas de rumeur M&A). Les 4 lignes conservent leur configuration de clôture mensuelle juillet 2026 sur plus hauts respectifs (SU +39,00 % ATH ligne, DG +24,76 % ATH ligne, AI +11,36 % ATH ligne, SAN +8,10 % ATH ligne). Les stops (SU 285 € trailing, DG 143 € technique — tous deux relevés mécaniquement jeudi 30/07 par le double trigger #23 + #24) restent armés pour la réouverture lundi 03 août 09:00 CET.
+
+**3. CARNET D'ORDRES — RECONDUIT STRICTEMENT IDENTIQUE POUR LUNDI 03 AOÛT (2ᵉ RECONDUCTION CONSÉCUTIVE WEEK-END).** Les 8 seuils actifs de samedi (identiques à ceux de vendredi 31/07 clôture) sont reconduits sans aucune modification : #1 SU stop 285 €, #3 AI/SAN groupés, #4 DG stop 143 €, #6 TSM 115 $, #7 CAC 8 100, #19 NFP < 130 K pré-armé (recalé au 7 août), #25 SU > 310 €, #26 DG > 155 €. **Deux seuils offensifs restent en marches resserrées < 1,40 %** et positionnés pour déclenchement sur les catalyseurs semaine à venir : #26 DG à 1,17 % (candidat direct T2 Vinci jeudi 06/08 probable), #25 SU à 1,37 % (candidat continuation cyclique ou effet sympathie post-ISM Services > 52,5 mercredi ou post-T2 Vinci jeudi). Aucun nouveau seuil ajouté ce week-end — la mécanique attend patiemment que les catalyseurs semaine tranchent avant tout pré-armement #27 ou #28.
+
+**4. LOCK-IN INCHANGÉ — PLANCHER GARANTI MAINTENU À +9,93 %** — récapitulatif : SU stop 285 € (+65,00 €/titre vs PRU 220 €) + DG stop 143 € (+34,34 € vs PRU 122,80 €) = **+99,34 € garanti + capital 1 000 € = 1 099,34 € plancher (+9,93 %)**. **Ratio de verrouillage** : 46,0 % du gain latent actuel (+215,81 €) est verrouillé mécaniquement, 54,0 % reste en risque de marché. Configuration stable et robuste. Aucun mécanisme de progression du plancher week-end (les stops sont armés sur les cours, pas sur les dates).
+
+**5. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue pour la 30ᵉ fois consécutive.** Cash 6,62 € inchangé. Le seuil d'ouverture ligne (≥ 60 € = 5 % du portefeuille) reste inatteignable sans stop touché SU 285 € ou DG 143 €. La discipline de non-forçage tient : 4 lignes en profit consolidé (dont 2 en gain > 24 % : SU +39,00 %, DG +24,76 %) restent la configuration optimale au démarrage du mois d'août.
+
+**6. CASH : 6,62 €** — **inchangé** (marchés fermés, aucun flux dividendaire possible en week-end, aucune opération de compte). Portefeuille reste à 99,46 % investi.
+
+**7. RÈGLE INTERNE #7 APPLIQUÉE INTÉGRALEMENT — 2ᵉ JOUR CONSÉCUTIF, 10ᵉ WEEK-END PROPRE TENU.** Aucune modification du carnet, aucune anticipation directionnelle sur le fil news week-end, aucune tentation de « préparation active » cosmétique. Le week-end est traité comme une fenêtre de silence mécanique — le carnet armé vendredi 17:35 CET traverse les 2 jours de fermeture strictement inchangé et arrive tel quel à l'ouverture lundi 09:00 CET. **10ᵉ week-end consécutif traité selon cette même règle depuis pivot FOMC 19 juin**, ratio « week-ends propres » 10/10 (100 %), aucune exception.
+
+#### Stratégie — validation posture pour reste de semaine 03-07 août 2026
+
+**Le portefeuille finalise proprement le 10ᵉ week-end depuis pivot FOMC 19 juin sans altération du carnet, plus haut historique 1 215,81 € (+21,58 %) marginal intact, clôture mensuelle juillet 2026 sur un plus haut préservée, ratio mécanique 16/16.** La configuration est **optimale à J-1 du 1ᵉʳ catalyseur cyclique de la semaine** (ISM Manufacturing lundi 16:00 CET), avec 2 seuils offensifs #25/#26 convergents en marches resserrées 1,17-1,37 %, plancher garanti +9,93 %, aucune anomalie technique détectable.
+
+**Trois enseignements finaux du week-end pour la fenêtre 03-07 août 2026** :
+
+1. **Le week-end 01-02 août confirme la discipline de non-intervention mécanique dans son intégralité.** 2 jours de fermeture traversés sans aucune retouche du carnet, sans aucune tentation de pré-positionnement discrétionnaire sur ISM Manufacturing lundi (probabilité trigger direct 0 % car aucun de mes 4 titres n'a d'exposition US Manufacturing directe hors effet sympathie CAC 40 marginal). **Le pattern « 4 catalyseurs consécutifs en 5 séances » anticipé samedi reste intact** — probabilité assignée à ce stade pour au moins un trigger (#25 ou #26) dans la semaine 03-07 août : ~50 %, dont ~55 % scenario beat T2 Vinci beat modeste déclenchement #26 DG > 155 € jeudi 06/08 en clôture.
+
+2. **La configuration risk-reward est stable et robuste pour aborder la semaine 03-07 août.** En bas : stops SU 285 € (marge +6,8 % vs cours vendredi) et DG 143 € (marge +6,7 %) plafonnent la perte maximale cumulée à -31,00 € dans le pire scenario systémique (-8 % marché en 1 séance). En haut : le seuil #26 DG > 155 € (marge 1,17 %) est le trigger le plus probable de la semaine, potentiellement suivi de #25 SU > 310 € (marge 1,37 %) sur effet sympathie ou continuation cyclique. **Ratio upside/downside sur horizon 5 séances : ~3,5:1 sur base statistique historique** (stable vs samedi, aucune dérive week-end).
+
+3. **La règle d'or #7 (« ne jamais préempter un catalyseur programmé ») s'appliquera à la lettre sur T2 Vinci jeudi matin.** Même si DG affiche +24,76 % de gain latent en cumul, prendre partiellement avant le catalyseur casserait la mécanique de la pyramide sur un signal purement subjectif de « c'est beaucoup ». Le seuil #26 DG > 155 € est armé depuis jeudi 30/07 à 1,71 % de marche, resserré vendredi 31/07 à 1,17 % de marche = **timing optimal pour laisser le catalyseur T2 Vinci trancher jeudi matin, dans la même mécanique éprouvée sur T2 Schneider la semaine précédente**. **Aucune préemption discrétionnaire lundi/mardi/mercredi**, la fenêtre d'action carnet est jeudi ouverture 09:00 CET après publication IR 07:00 CET.
+
+**Prochaine réévaluation** : **lundi 03 août 17:40 CET** (reprise Euronext post-week-end, revue post-clôture ISM Manufacturing 16:00 CET, contrôle stops non-gappés à l'ouverture 09:00 CET, mesure marges seuils #25/#26 après 1ʳᵉ séance de cotation août). Stops actifs : SU.PA **285,00 €** trailing (inchangé), DG.PA **143,00 €** technique (inchangé). Carnet d'ordres armé sur **8 seuils actifs** — configuration identique à la clôture de vendredi, reconduite pour lundi (2ᵉ reconduction consécutive week-end). Cash **6,62 €** (inchangé). Focus lundi : **accueillir la 1ʳᵉ séance d'août sans anticipation directionnelle**, observer le comportement post-ISM Manufacturing 16:00 CET (proba impact CAC 40 marginal, biais légèrement risk-on si consensus battu > 48,5), **tenir la discipline mécanique 16/16** sans céder à la tentation de préempter #25/#26 sur simple drift positif d'ouverture de mois. Le pilote automatique est armé, la mécanique fait le travail, la discrétion se tait — patience jusqu'à jeudi 07:00 CET T2 Vinci = seul vrai catalyseur direct de la semaine sur mes lignes.
 
 ---
