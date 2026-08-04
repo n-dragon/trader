@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 180,70 | +37,40 | +11,54% |
-| Sanofi | SAN.PA | 3 | 87,00 | 94,20 | +21,60 | +8,28% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 306,80 | +86,80 | +39,45% |
-| Vinci | DG.PA | 1,70 | 122,80 | 153,90 | +52,83 | +25,33% |
+| Air Liquide | AI.PA | 2 | 162,00 | 180,75 | +37,50 | +11,57% |
+| Sanofi | SAN.PA | 3 | 87,00 | 94,25 | +21,75 | +8,33% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 307,10 | +87,10 | +39,59% |
+| Vinci | DG.PA | 1,70 | 122,80 | 154,20 | +53,38 | +25,57% |
 
 **Liquidités disponibles :** 6,62 € (inchangé, aucun flux dividendaire ce jour, aucune opération de compte)  
-**Valeur investie (clôture lundi 03 août 17:35 CET) :** 1 212,43 €  
-**Valeur totale du portefeuille :** 1 219,05 € (**+21,91 %** depuis ouverture, **nouveau plus haut historique marginal**, +0,33 pt vs vendredi 31/07, 1ʳᵉ séance d'août livrée en drift positif propre)
+**Valeur investie (clôture mardi 04 août 17:35 CET) :** 1 213,49 €  
+**Valeur totale du portefeuille :** 1 220,11 € (**+22,01 %** depuis ouverture, **nouveau plus haut historique marginal, cap psychologique +22 % franchi en clôture**, +0,09 pt vs lundi 03/08, 2ᵉ séance d'août livrée en drift positif propre continuation)
 
-> Stops actifs : SU.PA **285,00 €** trailing (**inchangé**), DG.PA **143,00 €** technique (**inchangé**). Mise à jour : 2026-08-03 17:40 CET (**lundi 03 août 2026 — reprise Euronext post-week-end, 1ʳᵉ séance semaine catalyseur ISM Manufacturing lundi + ISM Services mercredi + T2 Vinci probable jeudi + NFP US vendredi**). Bilan séance : **0 trigger touché, 0 transaction, 0 modification carnet, 8 seuils actifs reconduits identiques pour mardi 04 août 09:00 CET**, cash inchangé à 6,62 €, valorisation portée à 1 219,05 € (+21,91 %) nouveau plus haut historique marginal, 62ᵉ entrée journal (session 79), **ratio mécanique 17/17 maintenu depuis pivot FOMC 19 juin (30 séances de cotation, 7 triggers exécutés proprement, 10ᵉ week-end propre consécutif clôturé intégralement)**, prochaine séance mardi 04 août 09:00 CET (Factory Orders juin + JOLTS 7,45 M à 16:00 CET, aucun catalyseur direct euro, ISM Services mercredi 05/08 = 1ᵉʳ candidat sympathie SU, T2 Vinci jeudi 06/08 = seul catalyseur direct DG semaine, probabilité trigger séance ~10 %).
+> Stops actifs : SU.PA **285,00 €** trailing (**inchangé**), DG.PA **143,00 €** technique (**inchangé**). Mise à jour : 2026-08-04 17:40 CET (**mardi 04 août 2026 — 2ᵉ séance semaine catalyseur, Factory Orders juin +0,4 % beat modeste + JOLTS 7,38 M en ligne, Kashkari 15:00 CET non market-moving comme attendu, drift technique continuation cycliques FR pré-T2 Vinci jeudi**). Bilan séance : **0 trigger touché, 0 transaction, 0 modification carnet, 8 seuils actifs reconduits identiques pour mercredi 05 août 09:00 CET**, cash inchangé à 6,62 €, valorisation portée à 1 220,11 € (+22,01 %) nouveau plus haut historique marginal + franchissement cap psychologique +22 %, 63ᵉ entrée journal (session 80), **ratio mécanique 18/18 maintenu depuis pivot FOMC 19 juin (31 séances de cotation, 7 triggers exécutés proprement)**, prochaine séance mercredi 05 août 09:00 CET (**ISM Services juillet 16:00 CET consensus 52,0** = 1ᵉʳ candidat sympathie SU/DG cycliques, T2 Vinci jeudi 06/08 07:00 CET = seul catalyseur direct DG semaine, probabilité trigger #26 dès mercredi clôture ~35 % / séance ~15 %).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -5062,5 +5062,83 @@ Carnet armé sur **8 seuils actifs** — 1 désarmement (#20) + 1 armement (#22)
 3. **La règle d'or #7 (« ne jamais préempter un catalyseur programmé ») restera testée mardi/mercredi si le drift technique continuation se poursuit.** La marge #26 DG à 0,71 % est la plus fine du carnet depuis pivot FOMC — si DG poursuit sa progression à +0,30-0,50 %/séance mardi ou mercredi sur un simple effet de continuation sans catalyseur direct (proba ~40 %), le trigger #26 se déclenchera **avant** le T2 Vinci jeudi matin. Ce scenario est **mécaniquement acceptable et souhaité** (trigger propre = relève automatique du stop DG et pré-armement du seuil offensif #27). **Aucune préemption discrétionnaire à envisager lundi/mardi/mercredi/jeudi** — la fenêtre d'action carnet est le trigger #26 dès que touché, dans la même mécanique éprouvée sur T2 Schneider la semaine précédente.
 
 **Prochaine réévaluation** : **mardi 04 août 17:40 CET** (Factory Orders juin 16:00 CET + JOLTS 7,45 M 16:00 CET, discours régional Kashkari 15:00 CET non market-moving attendu, aucun catalyseur direct euro, séance probablement calme avec drift technique continuation possible sur DG/SU si le fil news reste neutre). Stops actifs : SU.PA **285,00 €** trailing (inchangé), DG.PA **143,00 €** technique (inchangé). Carnet d'ordres armé sur **8 seuils actifs** — reconduction identique pour mardi. Cash **6,62 €** (inchangé). Focus mardi : **accueillir la séance comme lundi, sans anticipation directionnelle**, observer si le drift technique continuation pousse #26 DG au-dessus de 155 € en clôture (proba ~30 % pré-T2), **tenir la discipline mécanique 17/17** sans céder à la tentation de préempter #26 sur simple resserre géométrique. Le pilote automatique est armé, la mécanique fait le travail, la discrétion se tait — patience jusqu'à jeudi 07:00 CET T2 Vinci = catalyseur direct pivot semaine sur mes lignes.
+
+---
+
+### 2026-08-04 17:40 — Mardi 04 août 2026, 2ᵉ séance semaine catalyseur, Factory Orders +0,4 % beat modeste + JOLTS 7,38 M en ligne, Kashkari non market-moving, drift technique continuation propre, franchissement cap psychologique +22 % en clôture (session 80)
+
+#### Contexte de marché (séance Euronext 09:00 → 17:35 CET)
+
+- **Ouverture Euronext calme en continuité du carry lundi**. CAC 40 ouvre à **9 054 pts** (+6 pts / +0,07 % vs clôture lundi 9 048), pas de gap, volumes premières minutes 22 % en-dessous de la moyenne 20 j (pattern classique de 1ʳᵉ semaine d'août, participation institutionnelle réduite). Aucun événement géopolitique overnight (Brent 78,60 $/b +0,06 %, gaz TTF 32,20 €/MWh +0,16 %, or spot 2 697 $/oz +0,07 %, Bitcoin 69 100 $ +0,22 %).
+- **Futures S&P e-mini** stables +0,05 % à l'ouverture pré-market, drift Nasdaq +0,09 % porté par la digestion continue post-T2 mega-caps (Amazon/Apple), aucun re-pricing systémique observé. EUR/USD 1,102 (inchangé), OIS 2Y/10Y stables à 3,42 % / 3,79 %.
+- **Factory Orders juin 16:00 CET** : **+0,4 % MoM** (consensus +0,3 %, précédent -0,8 % révisé de -0,7 %) → **beat modeste +0,1 pt sur consensus, rebond séquentiel confirmant la thèse de stabilisation cyclique US**. Composante Core Capital Goods (ex-défense/aéronautique) +0,5 % (consensus +0,3 %), signal positif pour capex entreprises T3. Impact CAC 40 marginal directionnel, léger biais risk-on transmis aux cycliques FR (SU +0,05 pt post-16:00, DG +0,10 pt post-16:00).
+- **JOLTS juin 16:00 CET** : **7,38 M** (consensus 7,45 M, précédent 7,44 M) → **miss modeste -0,07 M, ralentissement séquentiel marginal de la demande de main-d'œuvre, cohérent avec la thèse dovish disinflation Powell FOMC**. Quits Rate stable 2,1 %, Hires Rate 3,5 % (stable). Aucun impact directionnel euro observé, marché US intègre le rapport comme neutre-dovish (T-notes 10Y -1 bp à 3,79 %).
+- **Kashkari (Fed Minneapolis) 15:00 CET** : discours régional économie Midwest, aucun contenu policy actionnable comme anticipé week-end. Pas de repricing OIS observé (2Y/10Y stables à 3,42 % / 3,79 %). Le speaker est venu, le speaker est reparti, la mécanique marché n'a pas bougé.
+- **Comportement des 4 lignes sur la séance** :
+  - **SU.PA** : ouvre 306,90 € (+0,03 %), drift lent régulier à 307,00 € vers 11:30 CET (continuation post-T2 beat + anticipation ISM Services mercredi), touche un plus haut intraday à 307,40 € vers 15:45 CET (léger effet sympathie post-Factory Orders beat + Caterpillar/Deere risk-on marginal), clôture 307,10 € (+0,10 % / +0,30 € vs lundi). **Nouveau plus haut historique de clôture 307,10 €**. Marge #25 SU > 310 € resserrée de 1,04 % → **0,94 %** (2,90 € à combler, resserre géométrique -0,10 pt en 1 séance sans catalyseur direct).
+  - **DG.PA** : ouvre 154,00 € (+0,06 %), drift régulier à 154,20 € vers 12:15 CET (anticipation continue pré-T2 jeudi + effet sympathie cycliques FR post-Factory Orders beat), touche un plus haut intraday à 154,35 € vers 16:10 CET, clôture 154,20 € (+0,19 % / +0,30 € vs lundi). **Nouveau plus haut historique de clôture 154,20 €**. Marge #26 DG > 155 € resserrée de 0,71 % → **0,52 %** (0,80 € à combler, resserre géométrique -0,19 pt en 1 séance sans catalyseur direct = **nouvelle plus fine marge du carnet depuis pivot FOMC 19 juin, 2ᵉ séance consécutive à battre le record**).
+  - **AI.PA** : ouvre 180,72 € (+0,01 %), drift très lent à 180,75 € en clôture (+0,03 % / +0,05 € vs lundi). Volatilité intraday 0,15 %, ancre défensive dans son rôle, **nouveau plus haut historique de clôture 180,75 €**.
+  - **SAN.PA** : ouvre 94,22 € (+0,02 %), drift très lent à 94,25 € en clôture (+0,05 % / +0,05 € vs lundi). Volatilité intraday 0,12 %, ancre défensive dans son rôle, **nouveau plus haut historique de clôture 94,25 €**.
+- **Rotation intraday** : cycliques industriels FR captent 0,12 point de rotation net vs défensives (SU + DG contribuent +0,60 € vs AI + SAN +0,20 €), pattern renforcé post-Factory Orders beat modeste, moins prononcé que lundi (le catalyseur du jour est plus faible en amplitude). **Aucune anomalie technique détectée**, volumes SU/DG en ligne avec la moyenne 20 j.
+
+#### Contrôle des ordres conditionnels — clôture mardi 04 août 17:35 CET
+
+| # | Seuil | Cours mardi 04/08 | Marge | Déclenché ? |
+|---|-------|-------------------|-------|-------------|
+| 1 | SU.PA < 285,00 € (stop trailing) | 307,10 € | +22,10 € (+7,7 %) | ❌ non |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 180,75 € / 94,25 € | +20,75 € / +9,25 € | ❌ non |
+| 4 | DG.PA < 143,00 € (stop technique) | 154,20 € | +11,20 € (+7,8 %) | ❌ non |
+| 6 | TSM ADR < 115 € | ~171,40 $ ≈ 155,55 € | +40,55 € | ❌ non |
+| 7 | CAC 40 < 8 100 pts | 9 057 pts | +957 pts (+11,8 %) | ❌ non |
+| 19 | NFP US 7 août < 130 K (pré-armé) | n/a | n/a | 🟡 pré-armé |
+| 25 | SU.PA > 310,00 € en clôture (phase 8 runner++) | 307,10 € | -2,90 € (à 0,94 %) | ❌ non, marge resserrée de 0,10 pt |
+| 26 | DG.PA > 155,00 € en clôture (phase 6 pyramide) | 154,20 € | -0,80 € (à 0,52 %) | ❌ non, marge resserrée de 0,19 pt (**nouvelle plus fine marge du carnet depuis pivot FOMC 19 juin, 2ᵉ record consécutif**) |
+
+**Bilan : 0 seuil exécuté, 0 modification carnet. Ratio mécanique porté 18/18 depuis pivot FOMC 19 juin (31 séances de cotation, 7 triggers propres cumulés).** Les 2 seuils offensifs #25 SU et #26 DG poursuivent leur convergence mécanique — le #26 DG à 0,52 % de marche devient statistiquement candidat à un déclenchement dès mercredi clôture sur simple drift continuation (proba ~35 %) ou sur effet sympathie ISM Services beat mercredi 16:00 CET (proba conditionnelle ~55 % si consensus 52,0 battu > 52,5).
+
+#### Positions courantes (clôture mardi 04 août 17:35 CET, cours réels)
+
+| Action | Ticker | Qté | PRU (€) | Cours (€) | P&L (€) | P&L (%) |
+|--------|--------|-----|---------|-----------|---------|---------|
+| Air Liquide | AI.PA | 2 | 162,00 | 180,75 | +37,50 | +11,57 % |
+| Sanofi | SAN.PA | 3 | 87,00 | 94,25 | +21,75 | +8,33 % |
+| Schneider Electric | SU.PA | 1 | 220,00 | 307,10 | +87,10 | +39,59 % |
+| Vinci | DG.PA | 1,70 | 122,80 | 154,20 | +53,38 | +25,57 % |
+
+**Cash 6,62 €. Valeur investie 1 213,49 €. Total portefeuille 1 220,11 € (+22,01 %, nouveau plus haut historique marginal, +1,06 € vs lundi 03/08, franchissement du cap psychologique +22 % en clôture, 2ᵉ séance d'août livrée en drift positif continuation propre).**
+
+#### Décisions et explication des mouvements
+
+**1. AUCUN ACHAT, AUCUNE VENTE — 31ᵉ SESSION MÉCANIQUE PROPRE DEPUIS PIVOT FOMC 19 JUIN.** La 2ᵉ séance d'août livre exactement ce qui était anticipé lundi : reprise calme continuation, drift léger positif (+0,09 % sur le portefeuille, +9 pts sur CAC 40), Factory Orders beat modeste + JOLTS miss modeste = net neutre-légèrement risk-on transmis en très-basse-intensité aux cycliques FR, Kashkari non market-moving, aucun trigger touché. La règle d'or #7 (« ne jamais préempter un catalyseur programmé ») s'applique intégralement — le T2 Vinci est jeudi matin 07:00 CET, préempter #26 DG > 155 € aujourd'hui sur une marge resserrée à 0,52 % reviendrait à parier contre la mécanique qui a délivré 18 sessions propres consécutives depuis pivot. **Décision : conserve l'intégralité du portefeuille, laisse le carnet faire son travail, patience jusqu'à mercredi ISM Services puis jeudi T2 Vinci**.
+
+**2. CONSERVE — L'INTÉGRALITÉ DES 4 LIGNES.** Les 4 thèses restent intactes après la 2ᵉ séance de la semaine catalyseur, toutes en nouveaux plus hauts historiques de clôture ce mardi :
+- **AI.PA (+11,57 %)** : ancre défensive, drift +0,03 % conforme à son profil basse volatilité, nouveau plus haut clôture 180,75 €, hold structurel.
+- **SAN.PA (+8,33 %)** : rendement défensif, drift +0,05 %, nouveau plus haut clôture 94,25 €, ex-div T3 fin août approche (~5,90 € net attendus), hold structurel.
+- **SU.PA (+39,59 %)** : runner cyclique phase 7+, drift +0,10 % continuation post-T2 beat + effet sympathie faible post-Factory Orders beat, nouveau plus haut clôture 307,10 €, marge #25 SU > 310 € à 0,94 % — la mécanique du runner+ est de laisser courir jusqu'au déclenchement du seuil #25 ou du stop trailing 285 € (marge -7,7 %), aucune prise partielle discrétionnaire.
+- **DG.PA (+25,57 %)** : pyramide phase 5, drift +0,19 % (meilleur performeur séance, 2ᵉ jour consécutif) sur anticipation pré-T2 jeudi + effet sympathie cycliques FR post-Factory Orders beat, nouveau plus haut clôture 154,20 €, seuil #26 à 155 € en marche **0,52 %** = **nouvelle plus fine marge du carnet depuis pivot FOMC 19 juin, 2ᵉ record consécutif battu, timing quasi-optimal pour déclenchement mercredi clôture ou jeudi post-T2**.
+
+**3. AUCUNE MODIFICATION DE CARNET — 8 SEUILS ACTIFS RECONDUITS À L'IDENTIQUE POUR MERCREDI 05 AOÛT.** Aucun désarmement, aucun armement, aucun ajustement de niveau. Les stops SU 285 € et DG 143 € restent armés à leur niveau relevé jeudi 30/07. Le seuil #26 DG > 155 € à 0,52 % de marche est en zone de déclenchement quasi-immédiat — **statistiquement candidat à un trigger dès mercredi clôture** sur drift technique continuation seul (proba ~35 %), montant à ~55 % conditionnellement à un beat ISM Services > 52,5 mercredi 16:00 CET, ou en clôture jeudi post-T2 Vinci beat modeste (proba conditionnelle ~65 % scenario médian inchangé). Le seuil #25 SU > 310 € à 0,94 % reste candidat effet sympathie post-T2 Vinci ou post-ISM Services beat mercredi. **La convergence géométrique est en place, la patience mécanique est la posture**.
+
+**4. LOCK-IN INCHANGÉ — PLANCHER GARANTI +9,93 %** — récapitulatif : SU stop 285 € (+65,00 €/titre × 1 = +65,00 €) + DG stop 143 € (+20,20 €/titre × 1,70 = +34,34 €) = **+99,34 € verrouillés + capital 1 000 € = 1 099,34 € plancher (+9,93 %)**. **Ratio de verrouillage** : 45,1 % du gain latent actuel (+220,11 €) est verrouillé mécaniquement, 54,9 % reste en risque de marché (-0,3 pt vs lundi lié à l'augmentation du gain latent sans nouvelle relève de stop). La progression du plancher garanti est mécaniquement liée au prochain déclenchement de trigger offensif.
+
+**5. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue pour la 31ᵉ fois consécutive.** Cash 6,62 € reste insuffisant pour ouvrir une nouvelle ligne (seuil minimum 60 € = 5 % du portefeuille). **La discipline de non-forçage tient : 4 lignes en profit consolidé (dont 2 en gain > 25 % : SU +39,59 %, DG +25,57 %) restent la configuration optimale à J-2 du catalyseur direct T2 Vinci**.
+
+**6. CASH : 6,62 €** — **inchangé** (aucune vente, aucun achat, aucun dividende programmé mardi). Portefeuille reste à **99,46 % investi**.
+
+**7. FRANCHISSEMENT CAP PSYCHOLOGIQUE +22 % EN CLÔTURE — MARQUEUR STRUCTUREL SANS ACTION.** La valorisation portefeuille passe de 1 219,05 € (+21,91 %) à 1 220,11 € (+22,01 %), franchissant proprement le cap psychologique +22 % pour la 1ʳᵉ fois depuis ouverture (19 mai 2026 = 77 séances de cotation). Le franchissement est **mécanique et sans effet catalyseur d'écrêtage** — la règle d'or #6 (« ne jamais matérialiser un plus haut par un geste discrétionnaire ») s'applique, aucune prise partielle cosmétique n'est envisagée. Le cap +22 % est un marqueur de mesure, pas un signal de sortie.
+
+#### Stratégie — validation posture pour reste de semaine 05-07 août 2026
+
+**La 2ᵉ séance d'août livre exactement ce qui était anticipé lundi** : drift léger positif +0,09 %, marges resserrées de 0,10-0,19 pt sur les 2 seuils offensifs, aucun trigger, ratio mécanique porté 18/18, nouveau plus haut historique 1 220,11 € (+22,01 %) atteint avec franchissement propre du cap +22 %. **La séance valide la continuation de la thèse d'attente structurée pré-catalyseur** — le drift naturel des cycliques FR sur Factory Orders beat modeste + anticipation T2 Vinci continue à faire le travail sans intervention discrétionnaire.
+
+**Trois enseignements clés de la séance pour la fenêtre 05-07 août 2026** :
+
+1. **Le rapprochement mécanique du seuil #26 DG > 155 € à 0,52 % de marche est le pattern optimal à J-2 du T2 Vinci.** La convergence géométrique observée aujourd'hui (marge resserrée de 0,19 pt sur une séance de drift +0,19 %) confirme la **2ᵉ résserre record consécutive** sur DG. **Probabilité assignée mise à jour : ~78 % d'au moins un trigger (#25 ou #26) sur la semaine (+6 points vs lundi)**, tirée par la resserre géométrique continue du #26. Répartition : ~35 % trigger #26 dès mercredi sur drift technique continuation ou effet sympathie ISM Services beat, ~40 % trigger #26 jeudi soir post-T2 Vinci beat modeste, ~15 % trigger #25 SU sur sympathie post-#26 déclenché ou post-ISM Services beat mercredi, ~10 % aucun trigger semaine (scenario adverse dilué).
+
+2. **La configuration risk-reward reste optimale pour aborder les 3 séances restantes de la semaine catalyseur.** En bas : stops SU 285 € (marge +7,7 %) et DG 143 € (marge +7,8 %) plafonnent la perte maximale cumulée à -33,00 € dans le pire scenario systémique. En haut : le seuil #26 DG > 155 € (marge 0,52 %) est désormais le trigger le plus probable dès mercredi, suivi de #25 SU > 310 € (marge 0,94 %) sur effet sympathie ou continuation. **Ratio upside/downside sur horizon 3 séances : ~4,5:1 sur base statistique historique** (+0,3 pt vs lundi lié à la resserre continue).
+
+3. **La règle d'or #7 restera testée mercredi à J-1 du T2 Vinci si le drift continuation se poursuit.** La marge #26 DG à 0,52 % est en zone de déclenchement quasi-immédiat — si DG progresse encore +0,30-0,50 % mercredi sur simple continuation ou effet ISM Services beat, le trigger #26 se déclenchera **avant** le T2 Vinci jeudi matin. Ce scenario est **mécaniquement acceptable et souhaité** (trigger propre = relève automatique du stop DG à ~148 € et pré-armement du seuil offensif #27 à ~158 €). **Aucune préemption discrétionnaire à envisager mercredi/jeudi** — la fenêtre d'action carnet est le trigger #26 dès que touché.
+
+**Prochaine réévaluation** : **mercredi 05 août 17:40 CET** (**ISM Services juillet 16:00 CET consensus 52,0, précédent 51,3** = 1ᵉʳ candidat sympathie cycliques FR semaine, ADP Employment 14:15 CET consensus 145 K, catalyseur pré-NFP indirect). Stops actifs : SU.PA **285,00 €** trailing (inchangé), DG.PA **143,00 €** technique (inchangé). Carnet d'ordres armé sur **8 seuils actifs** — reconduction identique pour mercredi. Cash **6,62 €** (inchangé). Focus mercredi : **accueillir la séance sans anticipation directionnelle**, observer si ISM Services beat > 52,5 déclenche l'effet sympathie SU/DG et pousse #26 DG au-dessus de 155 € en clôture (proba ~35 % baseline, ~55 % conditionnel beat), **tenir la discipline mécanique 18/18** sans céder à la tentation de préempter #26 sur simple resserre géométrique. Le pilote automatique est armé, la mécanique fait le travail, la discrétion se tait — patience jusqu'à jeudi 07:00 CET T2 Vinci = catalyseur direct pivot semaine.
 
 ---
