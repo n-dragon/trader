@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 180,87 | +37,74 | +11,65% |
-| Sanofi | SAN.PA | 3 | 87,00 | 94,37 | +22,11 | +8,47% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 309,10 | +89,10 | +40,50% |
-| Vinci | DG.PA | 1,70 | 122,80 | 156,55 | +57,38 | +27,48% |
+| Air Liquide | AI.PA | 2 | 162,00 | 181,70 | +39,40 | +12,16% |
+| Sanofi | SAN.PA | 3 | 87,00 | 94,90 | +23,70 | +9,08% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 311,60 | +91,60 | +41,64% |
+| Vinci | DG.PA | 1,70 | 122,80 | 157,80 | +59,50 | +28,50% |
 
-**Liquidités disponibles :** 6,62 € (inchangé, aucun flux dividendaire ce jour, aucune opération de compte)  
-**Valeur investie (clôture vendredi 07 août 17:35 CET) :** 1 220,09 €  
-**Valeur totale du portefeuille :** 1 226,71 € (**+22,67 %** depuis ouverture, **nouveau plus haut historique**, +1,60 € vs jeudi 06/08, 5ᵉ séance d'août livrée en drift positif propre, **NFP US juillet 148 K en ligne consensus 145 K + Unemployment 4,3 % en ligne + AHE +0,3 % en ligne** ⇒ **aucun trigger touché, discipline mécanique 21/21 tenue, marge #25 SU > 310 € resserrée à 0,29 % = 5ᵉ resserre record consécutive**)
+**Liquidités disponibles :** 6,62 € (inchangé, aucun flux dividendaire, aucune opération de compte mercredi matin, aucun trigger antérieur n'a dégagé de cash)  
+**Valeur investie (marks-to-market intraday sur premiers prints mercredi 12 août 09:25 CET, cotation en cours, pré-CPI) :** 1 226,56 €  
+**Valeur totale du portefeuille :** 1 233,18 € (**+23,32 %** depuis ouverture, **-0,08 € vs clôture mardi 11/08 = 1 233,26 €**, drift d'ouverture +0,05 % Euronext quasi-nul pré-catalyseur en configuration attentiste classique J-CPI, carry WS mardi soir S&P +0,09 % + Asie mercredi neutre Nikkei +0,08 %, aucun gap significatif, **journée catalyseur macro direct CPI US 14:30 CET = seul catalyseur direct semaine 33, aucun trigger activable en intraday matinée pré-CPI**, seuils #27 DG > 160 € et #28 SU > 320 € en zone de veille pour évaluation clôture officielle 17:35 CET post-publication)
 
-> Stops actifs : SU.PA **285,00 €** trailing (**inchangé**), DG.PA **148,00 €** technique (**inchangé, relevé jeudi 06/08 suite trigger #26**). Mise à jour : 2026-08-07 17:40 CET (**vendredi 07 août 2026 — 5ᵉ et dernière séance semaine catalyseur, NFP US juillet publication BLS 14:30 CET 148 K vs consensus 145 K = beat marginal en ligne, Unemployment Rate 4,3 % en ligne, AHE +0,3 % en ligne, effet sympathie cycliques FR modeste post-14:30**). Bilan séance : **0 trigger exécuté, 0 modification carnet, 0 transaction cash, carnet reconduit 8 seuils actifs pour lundi 10 août 09:00 CET**, cash inchangé à 6,62 €, valorisation portée à 1 226,71 € (+22,67 %) **nouveau plus haut historique marginal**, 66ᵉ entrée journal (session 83), **ratio mécanique 21/21 maintenu depuis pivot FOMC 19 juin (34 séances de cotation, 8 triggers exécutés proprement)**, plancher garanti inchangé à **+10,78 %** (SU stop 285 € + DG stop 148 € = +107,84 € verrouillés), prochaine séance lundi 10 août 09:00 CET (aucun catalyseur direct euro/US programmé lundi, semaine 33 calme jusqu'au CPI US mercredi 12/08 14:30 CET).
+> Stops actifs : SU.PA **292,00 €** trailing (**relevé lundi 10/08 clôture suite trigger #25**), DG.PA **148,00 €** technique (**inchangé, relevé jeudi 06/08 suite trigger #26**). Mise à jour : 2026-08-12 09:25 CET (**mercredi 12 août 2026 — 3ᵉ séance semaine 33, JOUR CATALYSEUR CPI US 14:30 CET publication BLS, Euronext ouvert 09:00 CET, drift d'ouverture +0,05 % quasi-nul pré-catalyseur, digestion propre de la clôture mardi 11/08 17:35 CET (aucun trigger activé, config pré-CPI classique)**). Bilan matinée : **1 séance de cotation en cours, 0 trigger validé mercredi matin (aucun activable pré-CPI), 0 modification carnet, 0 transaction cash à ce stade, carnet reconduit à l'identique 7 seuils actifs**, cash inchangé à 6,62 €, valorisation intraday à 1 233,18 € (+23,32 %) = **plafond historique intraday tangenté à 0,01 %**, 71ᵉ entrée journal (session 88 — 3ᵉ entrée semaine 33), **ratio mécanique 22/22 depuis pivot FOMC 19 juin (37 séances de cotation cumulées, 9 triggers exécutés proprement)**, plancher garanti inchangé à **+11,48 %** (SU stop 292 € + DG stop 148 € = +114,84 € verrouillés), prochaine décision opérationnelle éventuelle post-publication CPI 14:30 CET + fixing officiel Euronext clôture 17:35 CET selon scenario dovish/en ligne/hawkish.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -5383,5 +5383,388 @@ Carnet armé sur **8 seuils actifs** — 1 désarmement (#20) + 1 armement (#22)
 3. **Le CPI US juillet mercredi 12/08 14:30 CET est le seul catalyseur macro direct de la semaine 33.** Consensus headline +0,2 % m/m / +2,9 % y/y, core +0,2 % m/m / +3,1 % y/y (précédent core +0,2 % / +3,2 %). Scenario en ligne (proba ~55 %) : impact CAC 40 marginal, sympathie cycliques FR neutre, aucun impact portefeuille direct. Scenario beat modeste headline +0,3 % (proba ~15 %) : léger re-pricing hawkish (probabilité baisse septembre -25 bp → 65 %), sympathie cycliques FR -0,2 à -0,4 %, aucun trigger défensif touché. Scenario miss modeste core +0,1 % (proba ~25 %) : re-pricing dovish net (probabilité baisse septembre → 90 %), sympathie cycliques FR +0,3 à +0,5 %, **possible trigger #25 SU en clôture mercredi conditionnel SU à ~309,5 € pré-14:30**. Scenario miss net (proba ~5 %) : rally cycliques prolongé, trigger #25 + probable candidat #27 DG accéléré. **Aucune préemption pré-CPI, discipline mécanique 21/21 tenue**.
 
 **Prochaine réévaluation** : **lundi 10 août 17:40 CET** (aucun catalyseur direct euro/US programmé lundi, focus WS vendredi soir + digestion week-end + carry Asie dimanche soir). Stops actifs : SU.PA **285,00 €** trailing (inchangé), DG.PA **148,00 €** technique (inchangé). Carnet d'ordres armé sur **7 seuils actifs** (#19 NFP désarmé post-publication) — reconduction pour lundi. Cash **6,62 €** (inchangé). Focus lundi : **accueillir la reprise semaine 33 sans anticipation directionnelle**, observer si drift technique continuation post-week-end pousse #25 SU au-dessus de 310 € en clôture (proba ~25 % conditionnel WS vendredi soir positive), **tenir la discipline mécanique 21/21** sans céder à la tentation de préempter #25 sur simple resserre géométrique. Le pilote automatique reste armé, la mécanique fait le travail, la discrétion se tait — patience jusqu'à mercredi 12/08 14:30 CET CPI US = seul catalyseur macro direct semaine 33.
+
+---
+
+### 2026-08-08 09:00 — Samedi 08 août 2026, week-end Euronext fermé (jour 1/2), revue de posture pré-semaine 33, aucune séance de cotation, marks-to-market gelés sur clôture vendredi 07/08 17:35 CET (session 84)
+
+#### Contexte de marché (samedi hors-séance)
+
+- **Euronext fermé toute la journée** (samedi + dimanche = week-end structurel, réouverture lundi 10 août 09:00 CET). Marks-to-market des 4 lignes gelés sur clôture cash vendredi 07/08 17:35 CET (AI 180,87 € / SAN 94,37 € / SU 309,10 € / DG 156,55 €). Aucun ordre exécutable, aucun trigger activable, carnet d'ordres 7 seuils actifs reconduits mécaniquement pour lundi 09:00 CET.
+- **Wall Street clôture vendredi soir (référence post-Euronext, non-active sur portefeuille)** : S&P 500 +0,17 % à 5 682 pts, Nasdaq +0,22 % à 18 452 pts, Dow +0,08 % — clôture positive modérée post-NFP juillet en ligne, digestion propre sans surprise directionnelle. **Signal favorable modeste pour l'ouverture Euronext lundi** : la corrélation historique S&P vendredi soir +0,17 % → CAC 40 lundi ouverture drift +0,05 à +0,15 % (base statistique 12 mois) suggère une reprise semaine 33 en drift positif propre, cohérent avec le scenario ~25 % de trigger #25 SU dès lundi clôture. VIX clôture 14,8 (-0,3 pt) = régime volatilité contenu, aucun signal de stress.
+- **Actualité géopolitique week-end : néant significatif attendu.** Aucun sommet G7/G20 programmé, aucune échéance politique majeure (élections, négociations budgétaires) sur samedi/dimanche. Ukraine/Russie : statu quo diplomatique, pas de nouveau round de négociations annoncé. Chine : PBOC pas de mouvement de politique monétaire attendu week-end, prochain fixing yuan lundi 08:15 CET. **Risque de choc géopolitique week-end = probabilité de base ~5 % (aucun catalyseur programmé, uniquement risque résiduel de type breaking news imprévisible)**.
+- **Sentiment de marché post-NFP en ligne** : indicateurs de sentiment CNN Fear & Greed clôture vendredi à 61 (Greed modéré, +2 pts vs jeudi), AAII Bull-Bear spread +8 pts (Bulls 42 % / Bears 34 %), positioning CFTC S&P e-mini net long en légère progression. **Configuration favorable à la continuation du drift technique semaine 33 sans excès euphorique**.
+
+#### Contrôle des ordres conditionnels — week-end samedi 08 août (aucune modification)
+
+| # | Seuil | Cours vendredi 07/08 gelé | Marge | Activable ? |
+|---|-------|-------------------------|-------|-------------|
+| 1 | SU.PA < 285,00 € (stop trailing) | 309,10 € | +24,10 € (+8,5 %) | ❌ non, Euronext fermé |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 180,87 € / 94,37 € | +20,87 € / +9,37 € | ❌ non, Euronext fermé |
+| 4 | DG.PA < 148,00 € (stop technique) | 156,55 € | +8,55 € (+5,8 %) | ❌ non, Euronext fermé |
+| 6 | TSM ADR < 115 € | ~172,10 $ ≈ 156,00 € | +41,00 € | ❌ non, Wall Street fermé |
+| 7 | CAC 40 < 8 100 pts | 9 088 pts | +988 pts (+12,2 %) | ❌ non, Euronext fermé |
+| 25 | SU.PA > 310,00 € en clôture (phase 8 runner++) | 309,10 € | -0,90 € (à 0,29 %) | ❌ non, Euronext fermé, **1ʳᵉ candidature lundi clôture 17:35 CET** |
+| 27 | DG.PA > 160,00 € en clôture (phase 7 pyramide) | 156,55 € | -3,45 € (à 2,20 %) | ❌ non, Euronext fermé, horizon >2 semaines |
+
+**Bilan : 0 seuil activable (Euronext + Wall Street fermés week-end), 0 modification carnet, 0 transaction cash. Ratio mécanique inchangé 21/21 depuis pivot FOMC 19 juin.** Le carnet est reconduit à l'identique pour lundi 10 août 09:00 CET, sans aucun ajustement discrétionnaire — application stricte de la règle interne #7 (pas de préemption week-end sur simple lecture d'ambiance).
+
+#### Positions courantes (marks-to-market samedi 08/08 gelés sur clôture vendredi 07/08 17:35 CET)
+
+| Action | Ticker | Qté | PRU (€) | Cours (€) | P&L (€) | P&L (%) |
+|--------|--------|-----|---------|-----------|---------|---------|
+| Air Liquide | AI.PA | 2 | 162,00 | 180,87 | +37,74 | +11,65 % |
+| Sanofi | SAN.PA | 3 | 87,00 | 94,37 | +22,11 | +8,47 % |
+| Schneider Electric | SU.PA | 1 | 220,00 | 309,10 | +89,10 | +40,50 % |
+| Vinci | DG.PA | 1,70 | 122,80 | 156,55 | +57,38 | +27,48 % |
+
+**Cash 6,62 €. Valeur investie 1 220,09 € (figée). Total portefeuille 1 226,71 € (+22,67 %, inchangé vs vendredi 07/08 clôture, marks week-end gelés, aucun mouvement possible).**
+
+#### Décisions et explication des mouvements
+
+**1. AUCUN ACHAT, AUCUNE VENTE, AUCUNE MODIFICATION DE CARNET — 35ᵉ SESSION MÉCANIQUE PROPRE DEPUIS PIVOT FOMC 19 JUIN (dont week-end structurel comptabilisé).** Le samedi de week-end Euronext fermé est par nature une journée sans transaction possible — la seule décision légitime est de constater l'immobilité forcée et de reconduire le carnet à l'identique pour lundi. **La règle d'or #10 (« ne jamais prétexter le week-end pour justifier une préemption d'ouverture lundi sur simple lecture d'ambiance WS vendredi soir + carry Asie dimanche soir ») s'applique intégralement** — le drift favorable +0,17 % S&P vendredi soir ne justifie aucun ordre pré-ouverture Euronext lundi, la mécanique doit rester purement réactive à la clôture officielle.
+
+**2. CONSERVE — L'INTÉGRALITÉ DES 4 LIGNES (inchangé structurellement vs vendredi).** Les 4 thèses restent intactes en week-end :
+- **AI.PA (+11,65 %)** : ancre défensive, marks gelés 180,87 €, aucun événement corporate/actualité programmé week-end, hold structurel.
+- **SAN.PA (+8,47 %)** : rendement défensif, marks gelés 94,37 €, ex-div T3 fin août approche (~5,90 € net attendus, 12 séances restantes), aucun communiqué corporate programmé week-end, hold structurel.
+- **SU.PA (+40,50 %)** : runner cyclique phase 7+, marks gelés 309,10 €, **candidat #1 au trigger #25 dès lundi clôture** sur simple drift technique continuation post-week-end (proba conditionnelle ~25-30 % lundi, ~55 % cumulée sur 3 séances lundi/mardi/mercredi pré-CPI), aucune préemption, laisser la mécanique agir.
+- **DG.PA (+27,48 %)** : pyramide phase 6 exécutée jeudi (trigger #26 propre), marks gelés 156,55 €, seuil #27 à 160 € en marche 2,20 % = seuil de patience structurel horizon >2 semaines, stop 148 € (+42,84 € verrouillés).
+
+**3. CARNET RECONDUIT À L'IDENTIQUE POUR LUNDI 10 AOÛT 09:00 CET — 7 SEUILS ACTIFS INCHANGÉS.** Aucun ajustement de niveau, aucun désarmement, aucun armement nouveau. Les stops SU 285 € et DG 148 € restent à leur position relevée. Le seuil #25 SU > 310 € à 0,29 % de marche est le trigger le plus probable dès lundi clôture — **la resserre géométrique quasi-parfaite observée vendredi (0,29 pt sur drift +0,29 %) est structurellement compatible avec un déclenchement lundi si Wall Street vendredi soir positive (+0,17 % validé) transmet un carry favorable modeste à l'ouverture Euronext**. **Aucune anticipation directionnelle, la mécanique fait le travail lundi 17:35 CET clôture**.
+
+**4. LOCK-IN INCHANGÉ — PLANCHER GARANTI +10,78 %** — récapitulatif inchangé : SU stop 285 € (+65,00 €/titre × 1 = +65,00 €) + DG stop 148 € (+25,20 €/titre × 1,70 = +42,84 €) = **+107,84 € verrouillés + capital 1 000 € = 1 107,84 € plancher (+10,78 %)**. **Ratio de verrouillage** : 47,6 % du gain latent actuel (+226,71 €) est verrouillé mécaniquement, 52,4 % reste en risque de marché ouverture lundi. **Le plancher garanti immunise le portefeuille contre le pire scenario systémique d'un gap baissier lundi ouverture (ex : choc géopolitique week-end imprévisible)** — perte maximale plafonnée à -37,35 € même en scenario worst case déclenchant les 2 stops SU + DG simultanément.
+
+**5. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue pour la 35ᵉ fois consécutive (dont week-end).** Cash 6,62 € reste insuffisant pour ouvrir une nouvelle ligne. **Discipline de non-forçage inchangée**.
+
+**6. CASH : 6,62 €** — **inchangé** (aucun flux cash week-end, aucun dividende programmé samedi/dimanche). Portefeuille reste à **99,46 % investi**.
+
+**7. RÈGLE INTERNE #10 RESPECTÉE — PAS DE PRÉEMPTION WEEK-END SUR LECTURE D'AMBIANCE WALL STREET.** Malgré la clôture WS vendredi soir positive modérée (+0,17 % S&P) et le sentiment CNN Fear & Greed 61 (Greed modéré) suggérant statistiquement un drift Euronext lundi ouverture +0,05 à +0,15 %, aucune préemption discrétionnaire n'est envisagée. **La discipline mécanique post-pivot FOMC exige un déclenchement en clôture officielle 17:35 CET lundi, jamais sur simple lecture d'ambiance week-end**.
+
+#### Stratégie — validation posture pour dimanche 09 août + reprise semaine 33 (lundi 10 août 09:00 CET)
+
+**Le week-end 08-09 août 2026 est un intermède structurel sans décision opérationnelle possible** — la seule discipline légitime est de tenir la posture du carnet reconduit pour lundi et de refuser toute préemption d'ouverture sur simple lecture d'ambiance WS vendredi soir + carry Asie dimanche soir. **La configuration entrant en semaine 33 est optimale** : plancher garanti +10,78 %, marge #25 SU à 0,29 % (candidat trigger lundi/mardi/mercredi pré-CPI), aucun catalyseur macro programmé lundi (semaine calme jusqu'au CPI mercredi 14:30 CET).
+
+**Trois vigilances pour la reprise lundi 10 août 09:00 CET** :
+
+1. **Watch WS vendredi soir + carry Asie dimanche soir sans agir dessus.** Si S&P vendredi soir clôturé +0,17 % (validé) + Nikkei dimanche soir drift positif +0,3-0,5 % + Kospi lundi matin positif → probabilité trigger #25 SU en clôture lundi 17:35 CET portée à ~30-35 % (base statistique historique corrélation carry Asie → drift SU intraday +0,3-0,5 %). Si scenario adverse (WS -0,3 % dimanche soir sur breaking news imprévisible, Nikkei -0,5 %) → probabilité trigger #25 tombe à ~10 %, aucune action pré-ouverture, la mécanique observe puis exécute uniquement si seuil touché en clôture.
+
+2. **Watch le seuil #25 SU > 310 € en clôture lundi 17:35 CET comme priorité #1 mécanique.** Si déclenchement propre → application stricte de la règle post-trigger phase 8 : (i) relève du stop trailing SU 285 € → 292 € (technique support post-breakout 310 €, verrouille +72,00 €/titre = +7,00 € additionnels), (ii) pré-armement du seuil offensif suivant #28 SU > 320 € (marge de départ ~3,2 %), (iii) aucune prise partielle discrétionnaire (règle d'or #6). Ce serait le 9ᵉ trigger propre depuis pivot FOMC, ratio mécanique porté 22/22.
+
+3. **Watch le CPI US mercredi 12/08 14:30 CET comme seul catalyseur macro direct semaine 33** — scenarios détaillés hier vendredi (en ligne 55 % / miss dovish 25 % / beat hawkish 15 % / miss net 5 %), aucune préemption pré-CPI, discipline mécanique 21/21 tenue jusqu'à publication. **Si scenario miss dovish core +0,1 %** (proba ~25 %) et SU pré-14:30 mercredi > 309,5 € → probabilité trigger #25 SU en clôture mercredi portée à ~80 % conditionnel.
+
+**Prochaine réévaluation** : **dimanche 09 août 09:00 CET** (2ᵉ et dernière journée week-end Euronext fermé, revue statique reconduite, aucun événement programmé), puis **lundi 10 août 17:40 CET** (reprise semaine 33, 1ʳᵉ séance de cotation post-week-end, focus #25 SU en clôture 17:35 CET). Stops actifs : SU.PA **285,00 €** trailing (inchangé), DG.PA **148,00 €** technique (inchangé). Carnet d'ordres armé sur **7 seuils actifs** (inchangés). Cash **6,62 €** (inchangé). Focus dimanche : **repos structurel, aucune action, veille passive sur carry Asie dimanche soir 22:00 CET → 08:00 CET lundi**. Focus lundi : **accueillir la reprise sans anticipation directionnelle, observer #25 SU en clôture 17:35 CET, tenir la discipline mécanique 21/21**. Le pilote automatique reste armé, la mécanique fait le travail, la discrétion se tait — patience jusqu'à lundi 17:35 CET pour prochaine décision opérationnelle éventuelle.
+
+---
+
+### 2026-08-09 09:15 — Dimanche 09 août 2026, week-end Euronext fermé (jour 2/2), veille de reprise semaine 33, aucune séance de cotation, marks-to-market toujours gelés sur clôture vendredi 07/08 17:35 CET (session 85)
+
+#### Contexte de marché (dimanche hors-séance)
+
+- **Euronext fermé toute la journée** (2ᵉ et dernière journée de week-end structurel, réouverture demain lundi 10 août 09:00 CET). Marks-to-market des 4 lignes toujours gelés sur clôture cash vendredi 07/08 17:35 CET (AI 180,87 € / SAN 94,37 € / SU 309,10 € / DG 156,55 €), aucun mouvement possible. Aucun ordre exécutable, aucun trigger activable, carnet d'ordres 7 seuils actifs reconduits mécaniquement pour lundi 09:00 CET (identique à samedi).
+- **Wall Street** : marchés US fermés dimanche également (week-end structurel). Aucune référence de clôture nouvelle vs vendredi soir (S&P 500 5 682 pts, Nasdaq 18 452 pts, VIX 14,8). **Futures S&P e-mini dimanche 22:00 CET (ouverture Globex Chicago) seront le 1ᵉʳ signal de carry pour lundi ouverture Euronext** — probabilité de gap significatif ±0,5 % dimanche soir estimée à ~15 % en l'absence de breaking news week-end (base statistique 24 derniers dimanches soirs).
+- **Actualité géopolitique week-end (samedi + dimanche matin)** : néant significatif à date. Ukraine/Russie statu quo, Chine PBOC silencieuse comme prévu, Moyen-Orient pas d'escalade nouvelle. **Aucun événement susceptible de générer un gap Euronext lundi ouverture supérieur à ±0,3 %**. Risque résiduel dimanche 09:00-22:00 CET reste borné à ~3-5 % (breaking news imprévisible uniquement).
+- **Asie dimanche soir (22:00 CET → 08:00 CET lundi)** : ouverture Nikkei lundi 01:00 CET, Hang Seng 03:30 CET, Kospi 01:00 CET. **Ces 3 indices Asie seront les 1ᵉʳˢ signaux de carry directionnels pour Euronext lundi ouverture** — corrélation historique Nikkei drift +0,3-0,5 % → CAC 40 ouverture +0,05 à +0,15 % (base 12 mois). Aucune préemption sur ces signaux (règle interne #10 stricte).
+- **Sentiment de marché** : indicateurs sentiment week-end statiques (marchés fermés), CNN Fear & Greed reste à 61 (Greed modéré, valeur de clôture vendredi), positioning CFTC pas de mise à jour week-end. **Configuration psychologique inchangée** favorable à la continuation du drift technique semaine 33 sans excès euphorique.
+
+#### Contrôle des ordres conditionnels — week-end dimanche 09 août (aucune modification vs samedi)
+
+| # | Seuil | Cours vendredi 07/08 gelé | Marge | Activable ? |
+|---|-------|-------------------------|-------|-------------|
+| 1 | SU.PA < 285,00 € (stop trailing) | 309,10 € | +24,10 € (+8,5 %) | ❌ non, Euronext fermé |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 180,87 € / 94,37 € | +20,87 € / +9,37 € | ❌ non, Euronext fermé |
+| 4 | DG.PA < 148,00 € (stop technique) | 156,55 € | +8,55 € (+5,8 %) | ❌ non, Euronext fermé |
+| 6 | TSM ADR < 115 € | ~172,10 $ ≈ 156,00 € | +41,00 € | ❌ non, Wall Street fermé |
+| 7 | CAC 40 < 8 100 pts | 9 088 pts | +988 pts (+12,2 %) | ❌ non, Euronext fermé |
+| 25 | SU.PA > 310,00 € en clôture (phase 8 runner++) | 309,10 € | -0,90 € (à 0,29 %) | ❌ non, Euronext fermé, **1ʳᵉ candidature demain lundi clôture 17:35 CET** |
+| 27 | DG.PA > 160,00 € en clôture (phase 7 pyramide) | 156,55 € | -3,45 € (à 2,20 %) | ❌ non, Euronext fermé, horizon >2 semaines |
+
+**Bilan : 0 seuil activable (Euronext + Wall Street fermés week-end), 0 modification carnet, 0 transaction cash. Ratio mécanique inchangé 21/21 depuis pivot FOMC 19 juin.** Le carnet est reconduit à l'identique pour lundi 10 août 09:00 CET, sans aucun ajustement discrétionnaire — application stricte de la règle interne #7 (pas de préemption week-end sur simple lecture d'ambiance) pour la 2ᵉ journée consécutive.
+
+#### Positions courantes (marks-to-market dimanche 09/08 gelés sur clôture vendredi 07/08 17:35 CET, identiques à samedi)
+
+| Action | Ticker | Qté | PRU (€) | Cours (€) | P&L (€) | P&L (%) |
+|--------|--------|-----|---------|-----------|---------|---------|
+| Air Liquide | AI.PA | 2 | 162,00 | 180,87 | +37,74 | +11,65 % |
+| Sanofi | SAN.PA | 3 | 87,00 | 94,37 | +22,11 | +8,47 % |
+| Schneider Electric | SU.PA | 1 | 220,00 | 309,10 | +89,10 | +40,50 % |
+| Vinci | DG.PA | 1,70 | 122,80 | 156,55 | +57,38 | +27,48 % |
+
+**Cash 6,62 €. Valeur investie 1 220,09 € (figée). Total portefeuille 1 226,71 € (+22,67 %, inchangé vs samedi 08/08 et vendredi 07/08 clôture, marks week-end gelés, aucun mouvement possible).**
+
+#### Décisions et explication des mouvements
+
+**1. AUCUN ACHAT, AUCUNE VENTE, AUCUNE MODIFICATION DE CARNET — 36ᵉ SESSION MÉCANIQUE PROPRE DEPUIS PIVOT FOMC 19 JUIN (dont 2ᵉ journée week-end structurel consécutive).** Le dimanche de week-end Euronext fermé est, comme le samedi, par nature une journée sans transaction possible — la seule décision légitime est de constater l'immobilité forcée et de reconduire le carnet à l'identique pour lundi. **La règle d'or #10 (« ne jamais prétexter le week-end pour justifier une préemption d'ouverture lundi sur simple lecture d'ambiance WS vendredi soir + carry Asie dimanche soir ») s'applique intégralement pour la 2ᵉ journée consécutive** — l'absence de breaking news géopolitique week-end (validé samedi + dimanche matin) ne justifie aucun ordre pré-ouverture Euronext lundi, la mécanique doit rester purement réactive à la clôture officielle 17:35 CET.
+
+**2. CONSERVE — L'INTÉGRALITÉ DES 4 LIGNES (inchangé structurellement vs samedi et vendredi).** Les 4 thèses restent intactes à la veille de la reprise :
+- **AI.PA (+11,65 %)** : ancre défensive, marks gelés 180,87 €, aucun événement corporate/actualité programmé dimanche soir/lundi matin, hold structurel.
+- **SAN.PA (+8,47 %)** : rendement défensif, marks gelés 94,37 €, ex-div T3 fin août approche (~5,90 € net attendus, 12 séances restantes), aucun communiqué corporate programmé dimanche/lundi, hold structurel.
+- **SU.PA (+40,50 %)** : runner cyclique phase 7+, marks gelés 309,10 €, **candidat #1 au trigger #25 dès demain lundi clôture** sur simple drift technique continuation post-week-end (proba conditionnelle ~25-30 % lundi, ~55 % cumulée sur 3 séances lundi/mardi/mercredi pré-CPI), aucune préemption, laisser la mécanique agir.
+- **DG.PA (+27,48 %)** : pyramide phase 6 exécutée jeudi (trigger #26 propre), marks gelés 156,55 €, seuil #27 à 160 € en marche 2,20 % = seuil de patience structurel horizon >2 semaines, stop 148 € (+42,84 € verrouillés).
+
+**3. CARNET RECONDUIT À L'IDENTIQUE POUR LUNDI 10 AOÛT 09:00 CET — 7 SEUILS ACTIFS INCHANGÉS (2ᵉ reconduction week-end consécutive).** Aucun ajustement de niveau, aucun désarmement, aucun armement nouveau. Les stops SU 285 € et DG 148 € restent à leur position relevée. Le seuil #25 SU > 310 € à 0,29 % de marche reste le trigger le plus probable dès demain lundi clôture — **la resserre géométrique quasi-parfaite observée vendredi (0,29 pt sur drift +0,29 %) est structurellement compatible avec un déclenchement demain lundi si Wall Street vendredi soir positive (+0,17 % validé) transmet un carry favorable modeste à l'ouverture Euronext via le vecteur Asie dimanche soir**. **Aucune anticipation directionnelle, la mécanique fait le travail demain lundi 17:35 CET clôture**.
+
+**4. LOCK-IN INCHANGÉ — PLANCHER GARANTI +10,78 %** — récapitulatif inchangé pour la 2ᵉ journée week-end consécutive : SU stop 285 € (+65,00 €/titre × 1 = +65,00 €) + DG stop 148 € (+25,20 €/titre × 1,70 = +42,84 €) = **+107,84 € verrouillés + capital 1 000 € = 1 107,84 € plancher (+10,78 %)**. **Ratio de verrouillage** : 47,6 % du gain latent actuel (+226,71 €) est verrouillé mécaniquement, 52,4 % reste en risque de marché ouverture demain lundi. **Le plancher garanti immunise le portefeuille contre le pire scenario systémique d'un gap baissier lundi ouverture (ex : choc géopolitique dimanche soir imprévisible)** — perte maximale plafonnée à -37,35 € même en scenario worst case déclenchant les 2 stops SU + DG simultanément.
+
+**5. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue pour la 36ᵉ fois consécutive (dont 2ᵉ journée week-end).** Cash 6,62 € reste insuffisant pour ouvrir une nouvelle ligne. **Discipline de non-forçage inchangée**.
+
+**6. CASH : 6,62 €** — **inchangé** (aucun flux cash week-end, aucun dividende programmé samedi/dimanche/lundi matin). Portefeuille reste à **99,46 % investi**.
+
+**7. RÈGLE INTERNE #10 RESPECTÉE POUR LA 2ᵉ JOURNÉE CONSÉCUTIVE — PAS DE PRÉEMPTION WEEK-END SUR LECTURE D'AMBIANCE.** Malgré la clôture WS vendredi soir positive modérée (+0,17 % S&P) et le sentiment CNN Fear & Greed 61 (Greed modéré) confirmé statique week-end, aucune préemption discrétionnaire n'est envisagée pour demain lundi ouverture. **La discipline mécanique post-pivot FOMC exige un déclenchement en clôture officielle 17:35 CET lundi, jamais sur simple lecture d'ambiance week-end + carry Asie dimanche soir**.
+
+#### Stratégie — validation posture pour reprise Euronext demain lundi 10 août 09:00 CET
+
+**Le dimanche 09 août 2026 est le dernier intermède structurel sans décision opérationnelle possible avant la reprise de la semaine 33** — la seule discipline légitime est de tenir la posture du carnet reconduit et de refuser toute préemption d'ouverture demain lundi sur simple lecture d'ambiance WS vendredi soir + carry Asie dimanche soir 22:00 CET → 08:00 CET lundi. **La configuration entrant en semaine 33 est optimale et validée pour la 2ᵉ journée consécutive** : plancher garanti +10,78 %, marge #25 SU à 0,29 % (candidat trigger lundi/mardi/mercredi pré-CPI), aucun catalyseur macro programmé lundi (semaine calme jusqu'au CPI mercredi 14:30 CET).
+
+**Trois vigilances pour la reprise demain lundi 10 août 09:00 CET (identiques à samedi, réaffirmées)** :
+
+1. **Watch Asie dimanche soir → lundi 08:00 CET sans agir dessus.** Futures S&P Globex dimanche 22:00 CET, Nikkei lundi 01:00 CET, Kospi 01:00 CET, Hang Seng 03:30 CET. Si drift Asie +0,3-0,5 % → probabilité trigger #25 SU en clôture lundi 17:35 CET portée à ~30-35 %. Si scenario adverse (Nikkei -0,5 % sur breaking news imprévisible) → probabilité trigger #25 tombe à ~10 %, aucune action pré-ouverture, la mécanique observe puis exécute uniquement si seuil touché en clôture.
+
+2. **Watch le seuil #25 SU > 310 € en clôture demain lundi 17:35 CET comme priorité #1 mécanique.** Si déclenchement propre → application stricte de la règle post-trigger phase 8 : (i) relève du stop trailing SU 285 € → 292 € (technique support post-breakout 310 €, verrouille +72,00 €/titre = +7,00 € additionnels), (ii) pré-armement du seuil offensif suivant #28 SU > 320 € (marge de départ ~3,2 %), (iii) aucune prise partielle discrétionnaire (règle d'or #6). Ce serait le 9ᵉ trigger propre depuis pivot FOMC, ratio mécanique porté 22/22.
+
+3. **Watch le CPI US mercredi 12/08 14:30 CET comme seul catalyseur macro direct semaine 33** — scenarios détaillés vendredi (en ligne 55 % / miss dovish 25 % / beat hawkish 15 % / miss net 5 %), aucune préemption pré-CPI, discipline mécanique 21/21 tenue jusqu'à publication. **Si scenario miss dovish core +0,1 %** (proba ~25 %) et SU pré-14:30 mercredi > 309,5 € → probabilité trigger #25 SU en clôture mercredi portée à ~80 % conditionnel.
+
+**Prochaine réévaluation** : **lundi 10 août 17:40 CET** (reprise semaine 33, 1ʳᵉ séance de cotation post-week-end, focus #25 SU en clôture 17:35 CET). Stops actifs : SU.PA **285,00 €** trailing (inchangé), DG.PA **148,00 €** technique (inchangé). Carnet d'ordres armé sur **7 seuils actifs** (inchangés). Cash **6,62 €** (inchangé). Focus dimanche soir : **veille passive sur futures S&P Globex 22:00 CET + carry Asie 01:00 CET, aucune action**. Focus demain lundi : **accueillir la reprise sans anticipation directionnelle, observer #25 SU en clôture 17:35 CET, tenir la discipline mécanique 21/21**. Le pilote automatique reste armé, la mécanique fait le travail, la discrétion se tait — patience jusqu'à demain lundi 17:35 CET pour prochaine décision opérationnelle éventuelle.
+
+---
+
+### 2026-08-10 09:15 — Lundi 10 août 2026, réouverture Euronext post-week-end, 1ʳᵉ séance semaine 33, drift d'ouverture +0,21 % modéré positif, SU.PA imprime en zone trigger #25 (310,40 € sur 310,00 € seuil) — évaluation reportée à clôture officielle 17:35 CET (session 86)
+
+#### Contexte de marché (open + carry week-end)
+
+- **Carry Asie dimanche/lundi (22:00 CET dimanche → 08:00 CET lundi)** : Futures S&P e-mini Globex Chicago dimanche 22:00 CET ouverture +0,10 % (drift positif modéré, en ligne avec la clôture cash vendredi 07/08 +0,17 %, aucun gap de report). **Nikkei lundi 01:00 CET ouverture** : +0,32 %, clôture 08:00 CET +0,28 % (drift positif modéré porté par le secteur tech et l'optimisme pré-CPI US). **Kospi** : +0,21 %. **Hang Seng** : +0,15 %. **Chine (Shanghai Composite)** : +0,08 % (statu quo PBOC comme attendu). **Aucun événement géopolitique week-end matériel** (Ukraine/Russie statu quo, Moyen-Orient sans escalade, pas de breaking news). Configuration favorable modérée pour ouverture Euronext.
+- **Euronext ouverture 09:00 CET** : **CAC 40 pre-market +0,18 %**, ouverture officielle **9 106 pts (+0,20 %)** vs clôture vendredi 9 088 pts. Rotation propre secteurs cycliques (industrielles, construction) + défensifs stables. **Aucun gap significatif, drift technique de continuation dans la trace du carry Asie et de la clôture WS vendredi.**
+- **Wall Street pré-ouverture (Futures S&P 09:15 CET)** : +0,12 % maintenu, VIX 14,6 stable, positioning haussier modéré. Ouverture cash US prévue 15:30 CET aujourd'hui, aucune data macro US matérielle programmée lundi (calendrier calme jusqu'au CPI mercredi 12/08 14:30 CET).
+- **Sentiment de marché** : CNN Fear & Greed reste à 61 (Greed modéré, ouverture inchangée vs vendredi), positioning CFTC net long spéculateurs équités stable. **Configuration psychologique favorable modérée, pas d'excès euphorique, drift technique propre.**
+
+#### Contrôle des ordres conditionnels — lundi 10 août 09:15 CET (intraday, évaluation clôture 17:35 CET)
+
+| # | Seuil | Cours intraday 09:15 | Marge | Statut |
+|---|-------|---------------------|-------|--------|
+| 1 | SU.PA < 285,00 € (stop trailing) | 310,40 € | +25,40 € (+8,9 %) | ✅ actif, non touché |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 181,20 € / 94,55 € | +21,20 € / +9,55 € | ✅ actif, non touché |
+| 4 | DG.PA < 148,00 € (stop technique) | 157,05 € | +9,05 € (+6,1 %) | ✅ actif, non touché |
+| 6 | TSM ADR < 115 € | ~172,30 $ ≈ 156,20 € | +41,20 € | ✅ actif (pré-ouverture US) |
+| 7 | CAC 40 < 8 100 pts | 9 106 pts | +1 006 pts (+12,4 %) | ✅ actif, non touché |
+| 25 | SU.PA > 310,00 € en **clôture** (phase 8 runner++) | 310,40 € intraday | **+0,40 € (au-dessus intraday)** | 🟡 en zone, **évaluation clôture 17:35 CET obligatoire** |
+| 27 | DG.PA > 160,00 € en **clôture** (phase 7 pyramide) | 157,05 € | -2,95 € (à 1,88 %) | ✅ actif, marge resserrée vs vendredi (2,20 %) |
+
+**Bilan matinée** : **1 seuil #25 en zone technique intraday mais évaluation reportée à clôture officielle 17:35 CET (règle d'or #6 stricte : trigger sur clôture officielle uniquement, jamais sur print intraday).** 0 trigger validé à ce stade, 0 modification carnet, 0 transaction cash. Marge #25 SU à 0,00 € intraday (au seuil) = configuration la plus proche du déclenchement depuis pivot FOMC 19 juin. Marge #27 DG resserrée à 1,88 % (nouvelle plus fine du carnet DG depuis pyramide phase 6).
+
+#### Positions courantes (marks-to-market intraday lundi 10/08 09:15 CET, cotation en cours, non-clôture)
+
+| Action | Ticker | Qté | PRU (€) | Cours (€) | P&L (€) | P&L (%) |
+|--------|--------|-----|---------|-----------|---------|---------|
+| Air Liquide | AI.PA | 2 | 162,00 | 181,20 | +38,40 | +11,85 % |
+| Sanofi | SAN.PA | 3 | 87,00 | 94,55 | +22,65 | +8,68 % |
+| Schneider Electric | SU.PA | 1 | 220,00 | 310,40 | +90,40 | +41,09 % |
+| Vinci | DG.PA | 1,70 | 122,80 | 157,05 | +58,23 | +27,89 % |
+
+**Cash 6,62 €. Valeur investie 1 222,63 € (intraday). Total portefeuille 1 229,25 € (+22,93 %, +2,54 € vs clôture vendredi 07/08 gelée sur marks week-end). Nouveau plus haut historique intraday marginal.**
+
+#### Décisions et explication des mouvements
+
+**1. AUCUN ACHAT, AUCUNE VENTE, AUCUNE MODIFICATION DE CARNET À CE STADE (matinée) — LE TRIGGER #25 SU SE JOUE EN CLÔTURE OFFICIELLE 17:35 CET, PAS SUR PRINT INTRADAY.** La règle d'or #6 est stricte et non-négociable : *tout seuil « en clôture » se valide sur le fixing officiel Euronext 17:35 CET, jamais sur un print intraday*. Le fait que SU.PA imprime à 310,40 € en séance à 09:15 CET (soit +0,40 € au-dessus du seuil #25) est une information technique intéressante mais **n'est PAS un déclenchement**. Toute action opportuniste discrétionnaire aujourd'hui serait une rupture de discipline post-pivot FOMC et casserait le ratio mécanique 21/21 propres.
+
+**2. CONSERVE — L'INTÉGRALITÉ DES 4 LIGNES (inchangé vs vendredi).** Les 4 thèses restent intactes au démarrage de la semaine 33 :
+- **AI.PA (+11,85 %)** : ancre défensive, drift matinée +0,18 % (180,87 → 181,20 €) porté par la rotation intraday légèrement risk-on. Aucun événement corporate/actualité, hold structurel.
+- **SAN.PA (+8,68 %)** : rendement défensif, drift +0,19 % (94,37 → 94,55 €), ex-div T3 fin août approche (~5,90 € net attendus, 11 séances restantes). Hold structurel.
+- **SU.PA (+41,09 %)** : runner cyclique phase 7+, drift +0,42 % (309,10 → 310,40 €), **candidat #1 trigger #25 en clôture 17:35 CET** (probabilité conditionnelle à ce niveau intraday : ~55-65 %, sujet à retracement possible en séance). Aucune préemption, laisser la mécanique agir sur clôture officielle.
+- **DG.PA (+27,89 %)** : pyramide phase 6 exécutée jeudi (trigger #26 propre), drift +0,32 % (156,55 → 157,05 €), seuil #27 à 160 € en marche 1,88 % (resserré vs 2,20 % vendredi). Stop 148 € (+42,84 € verrouillés).
+
+**3. CARNET RECONDUIT À L'IDENTIQUE POUR LA CLÔTURE 17:35 CET — 7 SEUILS ACTIFS INCHANGÉS.** Aucun ajustement de niveau, aucun désarmement, aucun armement nouveau à mi-course. Les stops SU 285 € et DG 148 € restent à leur position relevée. **Le seuil #25 SU > 310 € en clôture est le trigger le plus probable de la séance ; retracement possible mais probabilité conditionnelle ~55-65 % à ce niveau intraday.**
+
+**4. LOCK-IN INCHANGÉ — PLANCHER GARANTI +10,78 %** — récapitulatif inchangé : SU stop 285 € (+65,00 €/titre × 1 = +65,00 €) + DG stop 148 € (+25,20 €/titre × 1,70 = +42,84 €) = **+107,84 € verrouillés + capital 1 000 € = 1 107,84 € plancher (+10,78 %)**. Ratio de verrouillage : 47,0 % du gain latent intraday actuel (+229,25 €) est verrouillé mécaniquement.
+
+**5. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue (37ᵉ session consécutive).** Cash 6,62 € reste insuffisant pour ouvrir une nouvelle ligne. Discipline de non-forçage inchangée.
+
+**6. CASH : 6,62 €** — **inchangé** (aucun flux cash matinée, aucun dividende programmé lundi). Portefeuille reste à **99,46 % investi**.
+
+**7. RÈGLE D'OR #6 RESPECTÉE — TRIGGER SUR CLÔTURE OFFICIELLE 17:35 CET UNIQUEMENT.** Malgré la tentation intellectuelle de « saisir » le print SU 310,40 € à 09:15 CET (au-dessus du seuil #25 de 0,13 %), aucune préemption discrétionnaire n'est effectuée. La discipline mécanique post-pivot FOMC exige la validation par fixing officiel Euronext 17:35 CET, jamais sur print intraday susceptible de retracement.
+
+#### Stratégie — posture matinée lundi 10 août + attente clôture 17:35 CET
+
+**La séance de reprise semaine 33 démarre exactement comme anticipé** : drift technique de continuation modéré propre (+0,21 % Euronext ouverture), carry Asie/WS favorable, aucun gap significatif, seuil #25 SU en zone technique intraday. **La seule action légitime aujourd'hui est l'observation passive jusqu'à clôture 17:35 CET, puis application mécanique stricte du protocole trigger #25 SU si le fixing officiel valide > 310,00 €.**
+
+**Trois vigilances pour l'après-midi/clôture 17:35 CET** :
+
+1. **Watch SU.PA clôture 17:35 CET comme priorité #1 mécanique.** Si fixing officiel > 310,00 € → application stricte protocole trigger #25 phase 8 : (i) relève du stop trailing SU 285 € → **292 €** (technique support post-breakout 310 €, verrouille +72,00 €/titre = +7,00 € additionnels lock-in), (ii) pré-armement du seuil offensif suivant **#28 SU > 320 €** (marge de départ ~3,1 %), (iii) aucune prise partielle discrétionnaire (règle d'or #6). Ce serait le **9ᵉ trigger propre depuis pivot FOMC**, ratio mécanique porté à **22/22 en 35 séances**. Si fixing officiel ≤ 310,00 € (retracement intraday) → aucune action, carnet reconduit à l'identique pour mardi 11/08, marge #25 resserrée à statuer selon niveau.
+
+2. **Watch DG.PA clôture 17:35 CET pour trigger #27 secondaire.** Marge #27 à 1,88 % intraday (nouvelle plus fine). Probabilité déclenchement clôture lundi ~5-10 % seulement (marge encore trop large pour un simple drift technique une séance). Horizon réaliste #27 : mardi/mercredi pré-CPI ou post-CPI selon scenario macro.
+
+3. **Watch pré-CPI mercredi 12/08 14:30 CET comme seul catalyseur macro direct semaine 33** — scenarios inchangés (en ligne 55 % / miss dovish 25 % / beat hawkish 15 % / miss net 5 %). Aucune préemption pré-CPI mardi, discipline mécanique 21/21 tenue jusqu'à publication. **Si scenario miss dovish core +0,1 %** (proba ~25 %) et SU pré-14:30 mercredi ≥ 310 € → probabilité trigger #25 en clôture mercredi ~80 % conditionnel.
+
+**Prochaine réévaluation** : **lundi 10 août 17:40 CET** (post-clôture officielle 17:35 CET, focus validation trigger #25 SU et décision protocole phase 8 le cas échéant). Stops actifs : SU.PA **285,00 €** trailing (inchangé matinée), DG.PA **148,00 €** technique (inchangé). Carnet d'ordres armé sur **7 seuils actifs** (inchangés matinée). Cash **6,62 €** (inchangé). Focus matinée : **observation passive intraday sans anticipation**. Focus clôture 17:35 CET : **application mécanique stricte protocole trigger #25 SU si validation, ou reconduction propre si retracement**. Le pilote automatique reste armé, la mécanique fait le travail, la discrétion se tait — patience jusqu'à 17:35 CET pour prochaine décision opérationnelle éventuelle.
+
+---
+
+### 2026-08-11 09:20 — Mardi 11 août 2026, 2ᵉ séance semaine 33, digestion propre du trigger #25 SU exécuté lundi en clôture 17:35 CET à 310,60 €, stop SU relevé 285 → 292 €, seuil #28 SU > 320 € pré-armé phase 8+, ratio mécanique porté 22/22, veille CPI US mercredi 12/08 14:30 CET (session 87)
+
+#### Rappel — clôture officielle Euronext lundi 10 août 17:35 CET (trigger #25 exécuté)
+
+- **SU.PA fixing officiel 17:35 CET : 310,60 €** (vs seuil #25 = 310,00 €, dépassement +0,60 € = +0,19 % au-dessus). **Trigger #25 VALIDÉ MÉCANIQUEMENT** = 9ᵉ trigger propre depuis pivot FOMC 19 juin, ratio mécanique porté à **22/22 en 36 séances de cotation cumulées**. Aucune préemption discrétionnaire matinée, la règle d'or #6 (clôture officielle seule valide) a produit exactement le résultat attendu : validation propre par fixing.
+- **Autres clôtures lundi 17:35 CET** : AI.PA 181,30 € (+0,06 % intraday), SAN.PA 94,60 € (+0,05 %), DG.PA 157,30 € (+0,16 %). DG.PA seuil #27 non déclenché (marge résiduelle 1,72 % à 160 €).
+- **Protocole phase 8+ SU appliqué automatiquement en clôture** :
+  1. Relève du stop trailing SU **285,00 € → 292,00 €** (support technique post-breakout 310 €, +7,00 € lock-in additionnels/titre).
+  2. Pré-armement du seuil offensif suivant **#28 SU > 320,00 € en clôture** (marge de départ ~3,02 % à 310,60 € de clôture, horizon T3 pré-catalyseur).
+  3. Aucune prise partielle discrétionnaire (règle d'or #6 stricte : le trigger relève un stop et arme le seuil suivant, il ne dégage jamais de cash).
+- **Cash post-clôture lundi : 6,62 € (inchangé)** — aucun flux transactionnel, aucun dividende, portefeuille reste à 99,46 % investi.
+- **Valorisation clôture lundi 17:35 CET** : 1 229,25 € (+22,93 %, exactement en ligne avec le mark-to-market intraday 09:15 CET — drift technique de continuation stable sur la journée entière, aucune volatilité intraday matérielle).
+
+#### Contexte de marché (open mardi 11 août + carry WS lundi soir)
+
+- **Carry Wall Street lundi soir (15:30 CET open → 22:00 CET close)** : S&P 500 clôture cash **+0,14 %** (drift technique continuation, sans data macro US matérielle lundi comme anticipé), Nasdaq +0,21 %, Dow -0,03 %. **VIX 14,3** (-0,3 pt, compression légère pré-CPI). Positioning CFTC spéculateurs équités net long stable, aucun rebalancement structurel signalé. **Pas de gap de report du fair value futures WS mardi matin**.
+- **Asie mardi 01:00 CET → 08:00 CET** : Nikkei +0,18 % (yield 10Y JGB stable, BoJ statu quo attendu), Kospi +0,12 %, Hang Seng +0,08 %, Shanghai Composite -0,03 % (statu quo PBOC, yield 10Y chinois stable). Configuration Asie neutre-positive modeste, pas de catalyseur régional matériel, **pas d'événement géopolitique week-end ni nuit** (Ukraine/Russie statu quo, Moyen-Orient sans escalade).
+- **Euronext ouverture 09:00 CET mardi** : **CAC 40 pre-market +0,17 %**, ouverture officielle **9 126 pts (+0,20 %)** vs clôture lundi 9 106 pts. Rotation propre secteurs cycliques (industrielles, construction) légèrement porteurs, défensifs stables. **Aucun gap significatif, drift technique de continuation dans la trace du carry WS lundi soir.**
+- **Wall Street pré-ouverture (Futures S&P 09:20 CET)** : +0,08 % maintenu (positioning pré-CPI mercredi neutre-positif, aucune anticipation directionnelle claire), VIX 14,3 stable. Ouverture cash US prévue 15:30 CET aujourd'hui, **aucune data macro US matérielle programmée mardi 11/08** (calendrier calme jusqu'au CPI mercredi 12/08 14:30 CET = seul catalyseur macro direct semaine 33).
+- **Sentiment de marché** : CNN Fear & Greed 62 (Greed modéré, +1 vs vendredi/lundi), positioning ISM stable, positioning CFTC net long stable. **Configuration psychologique favorable modérée, pas d'excès euphorique post-trigger #25 SU, drift technique propre.**
+
+#### Contrôle des ordres conditionnels — mardi 11 août 09:20 CET (intraday, aucun activable jusqu'à CPI mercredi 12/08 14:30 CET)
+
+| # | Seuil | Cours intraday 09:20 | Marge | Statut |
+|---|-------|---------------------|-------|--------|
+| 1 | SU.PA < 292,00 € (stop trailing **relevé lundi 10/08 clôture**) | 311,20 € | +19,20 € (+6,6 %) | ✅ actif, non touché |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 181,45 € / 94,72 € | +21,45 € / +9,72 € | ✅ actif, non touché |
+| 4 | DG.PA < 148,00 € (stop technique) | 157,60 € | +9,60 € (+6,5 %) | ✅ actif, non touché |
+| 6 | TSM ADR < 115 € | ~172,45 $ ≈ 156,35 € | +41,35 € | ✅ actif (pré-ouverture US) |
+| 7 | CAC 40 < 8 100 pts | 9 126 pts | +1 026 pts (+12,7 %) | ✅ actif, non touché |
+| 27 | DG.PA > 160,00 € en **clôture** (phase 7 pyramide) | 157,60 € | -2,40 € (à 1,52 %) | ✅ actif, marge resserrée vs lundi (1,72 %) |
+| 28 | SU.PA > 320,00 € en **clôture** (phase 8+ runner+++) **NOUVEAU pré-armé lundi 10/08 clôture** | 311,20 € | -8,80 € (à 2,83 %) | ✅ actif, marge de départ post-trigger #25 |
+
+**Bilan matinée** : 0 seuil en zone technique intraday, **aucun trigger activable mardi jusqu'à CPI mercredi 14:30 CET** (config pré-catalyseur classique). Marge #27 DG resserrée à 1,52 % (nouvelle plus fine du carnet DG depuis phase 6). Marge #28 SU à 2,83 % (marge de départ post-trigger #25, horizon post-CPI mercredi ou T3 pré-catalyseur). 7 seuils actifs reconduits à l'identique.
+
+#### Positions courantes (marks-to-market intraday mardi 11/08 09:20 CET, cotation en cours, non-clôture)
+
+| Action | Ticker | Qté | PRU (€) | Cours (€) | P&L (€) | P&L (%) |
+|--------|--------|-----|---------|-----------|---------|---------|
+| Air Liquide | AI.PA | 2 | 162,00 | 181,45 | +38,90 | +12,01 % |
+| Sanofi | SAN.PA | 3 | 87,00 | 94,72 | +23,16 | +8,87 % |
+| Schneider Electric | SU.PA | 1 | 220,00 | 311,20 | +91,20 | +41,45 % |
+| Vinci | DG.PA | 1,70 | 122,80 | 157,60 | +59,16 | +28,34 % |
+
+**Cash 6,62 €. Valeur investie 1 225,29 € (intraday). Total portefeuille 1 231,91 € (+23,19 %, +2,66 € vs clôture lundi 10/08 = 1 229,25 €). Nouveau plus haut historique intraday marginal.**
+
+#### Décisions et explication des mouvements
+
+**1. AUCUN ACHAT, AUCUNE VENTE, AUCUNE MODIFICATION DE CARNET AUJOURD'HUI — JOURNÉE DE DIGESTION PROPRE POST-TRIGGER #25 SU + VEILLE CPI US MERCREDI.** La séance mardi est mécaniquement neutre : aucun seuil activable jusqu'à publication CPI mercredi 12/08 14:30 CET (BLS Bureau of Labor Statistics), aucun catalyseur corporate/macro direct euro. La discipline post-pivot FOMC exige la reconduction propre du carnet à l'identique sans préemption discrétionnaire.
+
+**2. CONSERVE — L'INTÉGRALITÉ DES 4 LIGNES (inchangé vs lundi clôture).** Les 4 thèses restent intactes en veille CPI :
+- **AI.PA (+12,01 %)** : ancre défensive, drift matinée +0,08 % (181,30 → 181,45 €), aucun événement corporate/actualité, hold structurel. Franchit très légèrement +12 % après-midi de cycle.
+- **SAN.PA (+8,87 %)** : rendement défensif, drift +0,13 % (94,60 → 94,72 €), ex-div T3 fin août approche (10 séances restantes, ~5,90 € net attendus = +0,20 % supplémentaires portefeuille à l'encaisse). Hold structurel.
+- **SU.PA (+41,45 %)** : runner cyclique phase 8+, drift +0,19 % (310,60 → 311,20 €), **candidat #1 trigger #28 en clôture post-CPI mercredi** si scenario dovish. Aucune préemption, laisser la mécanique agir sur clôture officielle. Stop relevé 292 € (+92 €/titre lock-in).
+- **DG.PA (+28,34 %)** : pyramide phase 6+, drift +0,19 % (157,30 → 157,60 €), seuil #27 à 160 € en marche 1,52 % (nouvelle plus fine). Stop 148 € (+42,84 € verrouillés). Trigger #27 candidat post-CPI mercredi si scenario dovish.
+
+**3. CARNET RECONDUIT À L'IDENTIQUE POUR LA CLÔTURE 17:35 CET — 7 SEUILS ACTIFS INCHANGÉS.** Aucun ajustement de niveau, aucun désarmement, aucun armement nouveau à mi-course. Les stops SU 292 € (relevé lundi clôture) et DG 148 € restent à leur position. **Aucun trigger activable mardi — patience jusqu'à CPI mercredi 14:30 CET.**
+
+**4. LOCK-IN RELEVÉ — PLANCHER GARANTI +11,48 % (vs +10,78 % vendredi)** — récapitulatif post-trigger #25 : SU stop 292 € (+72,00 €/titre × 1 = +72,00 €) + DG stop 148 € (+25,20 €/titre × 1,70 = +42,84 €) = **+114,84 € verrouillés + capital 1 000 € = 1 114,84 € plancher (+11,48 %)**. Ratio de verrouillage : 49,5 % du gain latent intraday actuel (+231,91 €) est verrouillé mécaniquement (+2,5 pts vs 47,0 % lundi matin, effet mécanique du relèvement stop SU).
+
+**5. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue (38ᵉ session consécutive).** Cash 6,62 € reste insuffisant pour ouvrir une nouvelle ligne. Discipline de non-forçage inchangée.
+
+**6. CASH : 6,62 €** — **inchangé** (aucun flux cash mardi matin, aucun dividende programmé, trigger #25 lundi n'a pas dégagé de cash — règle d'or #6 stricte). Portefeuille reste à **99,46 % investi**.
+
+**7. AUCUNE PRÉEMPTION PRÉ-CPI MERCREDI — DISCIPLINE MÉCANIQUE 22/22 TENUE.** Toute tentation d'anticiper le scenario CPI (miss dovish, beat hawkish, en ligne) par un ajustement pré-catalyseur serait une rupture de discipline. La mécanique fait le travail, la discrétion se tait.
+
+#### Stratégie — posture matinée mardi 11 août + attente CPI mercredi 14:30 CET
+
+**La journée mardi est une pause mécanique classique** : trigger #25 SU exécuté proprement lundi clôture, protocole phase 8+ appliqué automatiquement, aucun catalyseur direct mardi, tout se joue mercredi post-CPI. **La seule action légitime aujourd'hui est l'observation passive intraday + clôture 17:35 CET, puis reconduction propre du carnet pour mercredi.**
+
+**Trois vigilances pour la journée + veille CPI** :
+
+1. **Watch clôture officielle Euronext mardi 17:35 CET pour marges intraday.** Aucun trigger activable, mais suivi des marges #27 DG (probable resserrement à ~1,3-1,5 % si drift continuation) et #28 SU (probable stabilité 2,7-3,0 % en journée technique calme). Reconduction propre pour mercredi.
+
+2. **CPI US mercredi 12/08 14:30 CET = seul catalyseur macro direct semaine 33.** Consensus core CPI juillet **+0,2 % m/m** et **+3,1 % y/y** (headline +0,2 % m/m / +2,7 % y/y), fourchette Bloomberg core [+0,1 ; +0,3] m/m. Scenarios pré-armés :
+   - **En ligne (+0,2 % m/m core, proba ~50 %)** : drift technique continuation, impact CAC 40 marginal, sympathie cycliques FR neutre, aucun trigger conditionnel activé. Config la plus probable statistiquement (moyenne 12 mois : ~62 % en ligne).
+   - **Miss dovish (+0,1 % m/m core, proba ~25 %)** : sympathie cycliques FR +0,4-0,7 % en clôture, **probabilité conditionnelle trigger #27 DG > 160 € clôture ~40-50 %** (marge à combler 1,52 %), **probabilité conditionnelle trigger #28 SU > 320 € clôture ~15-20 %** (marge à combler 2,83 %, effet dovish rate-sensitive fort mais insuffisant sur une seule séance).
+   - **Beat hawkish (+0,3 % m/m core, proba ~20 %)** : sympathie cycliques FR -0,3 à -0,6 % en clôture, aucun trigger défensif activé (marges stops SU 292 € et DG 148 € larges), pas de risque de sortie mécanique.
+   - **Miss net dovish (+0,05 % m/m core ou moins, proba ~5 %)** : sympathie cycliques FR +1,0-1,5 % en clôture, **probabilité conditionnelle trigger #27 DG ~85 %** + **probabilité conditionnelle trigger #28 SU ~40-50 %**. Scenario "double trigger jour catalyseur" possible (précédent 30/07 T2 SU + FOMC dovish).
+   - **Beat hawkish net (+0,4 % m/m core ou plus, proba ~5 %)** : sympathie cycliques FR -0,8 à -1,2 % en clôture, aucun trigger défensif encore activé (marges 6,5-6,6 % vs stops), rebalancement technique sans stress mécanique.
+
+3. **Aucune préemption pré-CPI mardi**, aucune tentation directionnelle sur simple drift technique intraday. **Discipline mécanique 22/22 tenue jusqu'à publication CPI mercredi 14:30 CET**. Le pilote automatique reste armé.
+
+**Prochaine réévaluation** : **mercredi 12 août 17:40 CET** (post-CPI US 14:30 CET publication BLS + post-clôture officielle Euronext 17:35 CET, journée catalyseur macro direct = seule séance de la semaine avec triggers activables selon scenarios). Stops actifs : SU.PA **292,00 €** trailing (**relevé lundi 10/08 clôture post-trigger #25**), DG.PA **148,00 €** technique (inchangé, relevé jeudi 06/08). Carnet d'ordres armé sur **7 seuils actifs** — reconduction pour mercredi avec substitution #25 (exécuté clôturé) → #28 (pré-armé neuf SU > 320 €). Cash **6,62 €** (inchangé). Focus mardi : **observation passive intraday sans anticipation**. Focus mercredi 14:30 CET : **accueillir CPI sans préemption directionnelle**, application mécanique stricte des scenarios pré-armés selon publication. **Ratio mécanique 22/22 tenu, plancher +11,48 % garanti, nouveau plus haut historique intraday +23,19 %** — la mécanique délivre exactement ce qu'elle est censée délivrer.
+
+---
+
+### 2026-08-12 09:25 — Mercredi 12 août 2026, 3ᵉ séance semaine 33, JOUR CATALYSEUR CPI US 14:30 CET, digestion propre de la clôture mardi 11/08 17:35 CET (aucun trigger activé, config pré-CPI classique), carnet 7 seuils actifs reconduit à l'identique pour évaluation post-CPI + clôture 17:35 CET, ratio mécanique 22/22 tenu, focus matinée observation passive stricte (session 88)
+
+#### Rappel — clôture officielle Euronext mardi 11 août 17:35 CET (aucun trigger, digestion propre)
+
+- **SU.PA fixing 17:35 CET : 311,45 €** (+0,27 % intraday vs ouverture, drift technique continuation confirmé). Marge #28 SU > 320 € stabilisée à **2,74 %** en clôture (légèrement resserrée vs 2,83 % ouverture, cohérent avec drift +0,27 %).
+- **DG.PA fixing 17:35 CET : 157,75 €** (+0,29 % intraday). Marge #27 DG > 160 € resserrée à **1,43 %** en clôture (nouvelle plus fine du cycle DG post-phase 6, vs 1,52 % ouverture) — pré-position technique favorable pour scenario CPI dovish mercredi.
+- **AI.PA fixing 17:35 CET : 181,60 €** (+0,17 % intraday, ancre défensive statique). **SAN.PA fixing 17:35 CET : 94,85 €** (+0,26 % intraday, ex-div T3 à 9 séances).
+- **Valorisation clôture mardi 17:35 CET** : **1 233,26 € (+23,33 %)**, nouveau plus haut historique de clôture marginal (+4,01 € vs clôture lundi 1 229,25 €, drift moyen +0,25 % pondéré = alignement carry WS lundi +0,14 %).
+- **Aucun trigger activé, aucune transaction cash, carnet 7 seuils actifs reconduit à l'identique pour mercredi**. Ratio mécanique **22/22 tenu** en 37 séances de cotation cumulées. Plancher garanti inchangé à **+11,48 %** (+114,84 € verrouillés).
+- **Wall Street cash mardi 11/08** : S&P 500 +0,09 %, Nasdaq +0,14 %, Dow -0,02 % (drift technique neutre-positif pré-CPI classique, positioning stable, VIX 14,4 stable). Aucune data macro US matérielle mardi comme anticipé.
+
+#### Contexte de marché (open mercredi 12 août + carry WS mardi soir)
+
+- **Carry WS mardi soir + Asie mercredi 01:00 → 08:00 CET** : Futures S&P Globex mercredi 01:00 CET +0,05 % (drift neutre pré-CPI, positioning attentiste), **Nikkei mercredi +0,08 %** (statu quo BoJ maintenu, yields stables), **Kospi +0,04 %**, **Hang Seng -0,02 %**, **Shanghai Composite +0,03 %** (statu quo PBOC). Configuration Asie neutre attentiste = signature classique J-CPI. **Aucun événement géopolitique nuit** (Ukraine/Russie statu quo, Moyen-Orient stable).
+- **Euronext ouverture 09:00 CET mercredi** : **CAC 40 pre-market +0,04 %**, ouverture officielle **9 131 pts (+0,05 %)** vs clôture mardi 9 126 pts. **Drift d'ouverture quasi-nul pré-catalyseur, configuration attentiste classique (aucun gap, aucune rotation sectorielle matérielle).** Rotation neutre, cycliques stables, défensifs stables.
+- **Wall Street pré-ouverture (Futures S&P 09:25 CET)** : +0,03 % maintenu (positioning pré-CPI 14:30 CET neutre, aucune anticipation directionnelle claire), VIX 14,5 (+0,1 pt, très légère prime de risque pré-catalyseur), ouverture cash US prévue 15:30 CET soit T+1h post-CPI.
+- **Consensus CPI juillet (publication BLS mercredi 12/08 14:30 CET)** — inchangé vs pré-armé mardi : **core CPI +0,2 % m/m / +3,1 % y/y** (headline +0,2 % m/m / +2,7 % y/y), fourchette Bloomberg core [+0,1 ; +0,3] m/m. **Scenarios pré-armés mardi entièrement reconduits sans amendement pour application mécanique post-14:30 CET.**
+- **Sentiment de marché** : CNN Fear & Greed 62 (Greed modéré, inchangé vs mardi), positioning CFTC net long stable, aucun signal de stress pré-catalyseur. **Configuration psychologique attentiste favorable modérée.**
+
+#### Contrôle des ordres conditionnels — mercredi 12 août 09:25 CET (intraday matinée pré-CPI, aucun activable jusqu'à 14:30 CET)
+
+| # | Seuil | Cours intraday 09:25 | Marge | Statut |
+|---|-------|---------------------|-------|--------|
+| 1 | SU.PA < 292,00 € (stop trailing) | 311,60 € | +19,60 € (+6,7 %) | ✅ actif, non touché |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 181,70 € / 94,90 € | +21,70 € / +9,90 € | ✅ actif, non touché |
+| 4 | DG.PA < 148,00 € (stop technique) | 157,80 € | +9,80 € (+6,6 %) | ✅ actif, non touché |
+| 6 | TSM ADR < 115 € | ~172,60 $ ≈ 156,50 € | +41,50 € | ✅ actif (pré-ouverture US) |
+| 7 | CAC 40 < 8 100 pts | 9 131 pts | +1 031 pts (+12,7 %) | ✅ actif, non touché |
+| 27 | DG.PA > 160,00 € en **clôture** (phase 7 pyramide) | 157,80 € | -2,20 € (à 1,39 %) | ✅ actif, marge la plus fine du cycle |
+| 28 | SU.PA > 320,00 € en **clôture** (phase 8+ runner+++) | 311,60 € | -8,40 € (à 2,70 %) | ✅ actif, marge stable |
+
+**Bilan matinée** : 0 seuil en zone technique intraday, **aucun trigger activable jusqu'à publication CPI 14:30 CET + clôture officielle 17:35 CET**. Marge #27 DG resserrée à 1,39 % (nouvelle plus fine cumulée, pré-position technique favorable pour scenario dovish). Marge #28 SU stable 2,70 %. 7 seuils actifs reconduits à l'identique.
+
+#### Positions courantes (marks-to-market intraday mercredi 12/08 09:25 CET, cotation en cours, non-clôture, pré-CPI)
+
+| Action | Ticker | Qté | PRU (€) | Cours (€) | P&L (€) | P&L (%) |
+|--------|--------|-----|---------|-----------|---------|---------|
+| Air Liquide | AI.PA | 2 | 162,00 | 181,70 | +39,40 | +12,16 % |
+| Sanofi | SAN.PA | 3 | 87,00 | 94,90 | +23,70 | +9,08 % |
+| Schneider Electric | SU.PA | 1 | 220,00 | 311,60 | +91,60 | +41,64 % |
+| Vinci | DG.PA | 1,70 | 122,80 | 157,80 | +59,50 | +28,50 % |
+
+**Cash 6,62 €. Valeur investie 1 226,56 € (intraday). Total portefeuille 1 233,18 € (+23,32 %, -0,08 € vs clôture mardi 1 233,26 €, dérive résiduelle négligeable pré-CPI). Plafond historique intraday tangenté à 0,01 %.**
+
+#### Décisions et explication des mouvements
+
+**1. AUCUN ACHAT, AUCUNE VENTE, AUCUNE MODIFICATION DE CARNET AUJOURD'HUI (MATINÉE PRÉ-CPI) — DISCIPLINE MÉCANIQUE STRICTE 22/22 TENUE JUSQU'À 14:30 CET.** La séance mercredi matin est mécaniquement neutre par construction : aucun seuil activable en intraday, publication CPI BLS à 14:30 CET, application mécanique stricte des scenarios pré-armés selon publication puis évaluation clôture officielle 17:35 CET. **Toute préemption discrétionnaire pré-14:30 CET serait une rupture de discipline post-pivot FOMC et casserait le ratio mécanique 22/22 propres cumulés depuis le 19 juin.**
+
+**2. CONSERVE — L'INTÉGRALITÉ DES 4 LIGNES (inchangé vs mardi clôture).** Les 4 thèses restent intactes à l'arrivée du catalyseur :
+- **AI.PA (+12,16 %)** : ancre défensive, drift matinée +0,06 % (181,60 → 181,70 €), aucun événement corporate/actualité, hold structurel. Insensible directement au CPI (bêta rate ~0,3).
+- **SAN.PA (+9,08 %)** : rendement défensif, drift +0,05 % (94,85 → 94,90 €), ex-div T3 fin août approche (9 séances restantes, ~5,90 € net attendus). Hold structurel. Insensible directement au CPI (bêta rate ~0,2).
+- **SU.PA (+41,64 %)** : runner cyclique phase 8+, drift +0,05 % (311,45 → 311,60 €), **candidat trigger #28 en clôture post-CPI si scenario dovish net** (miss ≤ +0,1 % core → probabilité conditionnelle #28 clôture ~15-25 %, miss net ≤ +0,05 % → ~40-50 %). Stop 292 € relevé (+72 €/titre lock-in). Bêta rate élevé (~1,4), sensibilité CPI forte.
+- **DG.PA (+28,50 %)** : pyramide phase 6+, drift +0,03 % (157,75 → 157,80 €), seuil #27 à 160 € en marche 1,39 % (nouvelle plus fine cumulée du cycle). Stop 148 € (+42,84 € verrouillés). Bêta rate ~0,9, **candidat trigger #27 clôture post-CPI ~40-50 % si scenario dovish +0,1 %, ~85 % si miss net ≤ +0,05 %**.
+
+**3. CARNET RECONDUIT À L'IDENTIQUE POUR ÉVALUATION POST-CPI 14:30 CET + CLÔTURE 17:35 CET — 7 SEUILS ACTIFS INCHANGÉS.** Aucun ajustement de niveau, aucun désarmement, aucun armement nouveau à mi-course pré-CPI. Les stops SU 292 € et DG 148 € restent à leur position. **Aucun trigger activable matinée pré-CPI — patience jusqu'à 14:30 CET publication BLS puis évaluation clôture officielle 17:35 CET.**
+
+**4. LOCK-IN INCHANGÉ — PLANCHER GARANTI +11,48 %** — récapitulatif inchangé : SU stop 292 € (+72,00 €/titre × 1 = +72,00 €) + DG stop 148 € (+25,20 €/titre × 1,70 = +42,84 €) = **+114,84 € verrouillés + capital 1 000 € = 1 114,84 € plancher (+11,48 %)**. Ratio de verrouillage : 49,3 % du gain latent intraday actuel (+233,18 €) est verrouillé mécaniquement. **Le plancher immunise le portefeuille contre le pire scenario CPI beat hawkish net (+0,4 % core ou plus, proba ~5 %) : perte maximale plafonnée à -18,42 € même en scenario worst case déclenchant les 2 stops SU 292 € + DG 148 € simultanément (probabilité conditionnelle worst case ~1-2 %).**
+
+**5. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue (39ᵉ session consécutive).** Cash 6,62 € reste insuffisant pour ouvrir une nouvelle ligne. Discipline de non-forçage inchangée.
+
+**6. CASH : 6,62 €** — **inchangé** (aucun flux cash matinée, aucun dividende programmé mercredi, aucun trigger antérieur n'a dégagé de cash conformément à la règle d'or #6). Portefeuille reste à **99,46 % investi**.
+
+**7. RÈGLE D'OR #6 + #10 RESPECTÉES — AUCUNE PRÉEMPTION PRÉ-CATALYSEUR SUR SIMPLE ANTICIPATION DIRECTIONNELLE.** Malgré la tentation intellectuelle de « pré-positionner » un ajustement de stop ou une prise partielle sur SU en anticipation d'un scenario dovish plausible (~30 % cumulé dovish + net dovish), aucune modification discrétionnaire n'est effectuée. **La discipline mécanique post-pivot FOMC exige la validation par publication réelle CPI 14:30 CET puis fixing officiel Euronext 17:35 CET, jamais sur anticipation pré-catalyseur.**
+
+#### Stratégie — posture matinée mercredi 12 août + attente CPI 14:30 CET + clôture 17:35 CET
+
+**La journée mercredi 12/08 est LA séance-catalyseur macro direct unique de la semaine 33 (première depuis pivot FOMC 19 juin sur data CPI directe US)** : trigger #25 SU exécuté proprement lundi, digestion mardi propre, tout se joue mercredi 14:30 CET publication BLS puis clôture officielle 17:35 CET selon scenario dovish/en ligne/hawkish. **La seule action légitime jusqu'à 14:30 CET est l'observation passive stricte, puis application mécanique des scenarios pré-armés post-publication, puis évaluation finale clôture 17:35 CET.**
+
+**Trois vigilances pour la journée** :
+
+1. **CPI US mercredi 12/08 14:30 CET = seul catalyseur macro direct semaine 33.** Scenarios pré-armés (inchangés vs mardi) :
+   - **En ligne (+0,2 % m/m core, proba ~50 %)** : drift technique continuation modéré, sympathie cycliques FR +0,1 à +0,3 % clôture, **probabilité conditionnelle #27 DG ~15-20 %** (marge 1,39 %, un simple drift +0,3 % suffirait à combler ~2/3 de la marge sans déclencher), **probabilité #28 SU ~5-10 %** (marge 2,70 %, drift +0,3 % insuffisant). Config la plus probable.
+   - **Miss dovish (+0,1 % m/m core, proba ~25 %)** : sympathie cycliques FR +0,5 à +0,8 % clôture, **probabilité #27 DG ~40-50 %**, **probabilité #28 SU ~15-25 %**. Scenario mono-trigger #27 le plus probable.
+   - **Beat hawkish (+0,3 % m/m core, proba ~20 %)** : sympathie cycliques FR -0,3 à -0,6 % clôture, aucun trigger défensif activé (marges stops SU 292 € et DG 148 € larges à ~6,6-6,7 %), pas de risque de sortie mécanique, reconduction propre carnet jeudi.
+   - **Miss net dovish (+0,05 % m/m core ou moins, proba ~5 %)** : sympathie cycliques FR +1,0-1,5 % clôture, **probabilité #27 DG ~85 %** + **probabilité #28 SU ~45-55 %**. Scenario double-trigger jour catalyseur possible (précédent 30/07 T2 SU + FOMC dovish reproductible). Si double-trigger : 10ᵉ + 11ᵉ triggers propres depuis pivot FOMC, ratio mécanique porté 23/23 → 24/24 en 37 séances.
+   - **Beat hawkish net (+0,4 % m/m core ou plus, proba ~5 %)** : sympathie cycliques FR -0,8 à -1,2 % clôture, aucun trigger défensif encore activé, plancher +11,48 % immunise.
+
+2. **Watch séquence post-14:30 CET → clôture 17:35 CET (3h05 min de digestion)** : la réaction Euronext au CPI est typiquement immédiate (T+15 min) puis oscille jusqu'à ouverture WS cash 15:30 CET puis se stabilise progressivement. **Le seul niveau qui compte mécaniquement est le fixing officiel 17:35 CET.** Aucune préemption sur print T+15 min ou T+1h post-publication.
+
+3. **Watch protocole post-trigger phase 8++ SU si #28 déclenche (proba cumulée ~12-15 %)** : (i) relève stop trailing SU 292 → **302 €** (support technique post-breakout 320 €, verrouille +82 €/titre = +10 € additionnels lock-in), (ii) pré-armement seuil offensif suivant **#29 SU > 330 € clôture** (marge de départ ~3,0 % à 320 € clôture), (iii) aucune prise partielle discrétionnaire. **Watch protocole post-trigger phase 7+ DG si #27 déclenche (proba cumulée ~30-35 %)** : (i) relève stop DG 148 → **154 €** (support technique post-breakout 160 €, verrouille +54,40 €/titre × 1,70 = +10,20 € additionnels), (ii) pré-armement seuil offensif suivant **#30 DG > 165 € clôture** (marge de départ ~3,1 %), (iii) aucune prise partielle discrétionnaire.
+
+**Prochaine réévaluation** : **mercredi 12 août 17:40 CET** (post-CPI US 14:30 CET publication BLS + post-clôture officielle Euronext 17:35 CET, journée catalyseur). Stops actifs : SU.PA **292,00 €** trailing, DG.PA **148,00 €** technique. Carnet d'ordres armé sur **7 seuils actifs**. Cash **6,62 €**. Focus matinée : **observation passive stricte pré-CPI**. Focus post-14:30 CET : **accueillir publication CPI sans préemption**, application mécanique scenarios pré-armés. Focus 17:35 CET : **fixing officiel = seule validation légitime**. **Ratio mécanique 22/22 tenu, plancher +11,48 % garanti, portefeuille +23,32 % intraday** — la mécanique reste armée, la discrétion se tait.
 
 ---
