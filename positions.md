@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 182,15 | +40,30 | +12,44% |
-| Sanofi | SAN.PA | 3 | 87,00 | 95,30 | +24,90 | +9,54% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 313,15 | +93,15 | +42,34% |
-| Vinci | DG.PA | 1,70 | 122,80 | 159,15 | +61,80 | +29,60% |
+| Air Liquide | AI.PA | 2 | 162,00 | 182,55 | +41,10 | +12,69% |
+| Sanofi | SAN.PA | 3 | 87,00 | 95,55 | +25,65 | +9,83% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 313,90 | +93,90 | +42,68% |
+| Vinci | DG.PA | 1,70 | 122,80 | 159,60 | +62,56 | +29,97% |
 
-**Liquidités disponibles :** 6,62 € (inchangé, aucun flux dividendaire, aucune opération de compte week-end J2, aucun trigger antérieur n'a dégagé de cash)  
-**Valeur investie (valorisation figée clôture officielle Euronext vendredi 14/08 17:35 CET, marché fermé samedi 15/08 + dimanche 16/08 jusqu'à lundi 17/08 09:00 CET) :** 1 234,17 €  
-**Valeur totale du portefeuille :** 1 240,79 € (**+24,08 %** depuis ouverture, valorisation identique au samedi (marché fermé = fixing vendredi 14/08 reconduit), **nouveau plus haut historique de clôture hebdomadaire (semaine 33 close)** confirmé, aucun événement corporate/géopolitique matériel signalé samedi + nuit samedi → dimanche matin, calendrier macro week-end vide, veille Jackson Hole 21-23 août (semaine 34, discours Powell vendredi 22/08 16:00 CET = catalyseur macro majeur T3), **aucun trigger activable week-end par construction (marchés fermés)**, marge #27 DG > 160 € figée à **0,53 %** (plus fine record absolue du cycle DG depuis phase 6+), marge #28 SU > 320 € figée à 2,19 %, carnet 7 seuils actifs reconduits à l'identique pour ouverture lundi 17/08 09:00 CET (J-1))
+**Liquidités disponibles :** 6,62 € (inchangé, aucun flux dividendaire, aucun trigger déclenché ce matin, discipline règle d'or #6 maintenue)  
+**Valeur investie (mark-to-market intraday lundi 17/08 09:15 CET, ouverture Euronext semaine 34) :** 1 236,97 €  
+**Valeur totale du portefeuille :** 1 243,59 € (**+24,36 %** depuis ouverture, **nouveau plus haut historique intraday**, drift d'ouverture propre +0,23 % en moyenne conforme au scénario central « continuation propre » pré-armé samedi (proba ~40 %), 4 lignes toutes en drift positif matinée, marge #27 DG > 160 € resserrée à **0,25 %** = **nouvelle plus fine record absolue du cycle DG** (5ᵉ resserrement consécutif : 1,07 % → 0,72 % → 0,66 % → 0,53 % → 0,25 %), marge #28 SU > 320 € resserrée à **1,94 %** (première fois sous 2 % du cycle SU phase 8+), Jackson Hole 21-23 août = catalyseur macro majeur T3 J-5 séances, aucune data macro directe lundi zone euro, focus principal = trigger #27 DG clôture 17:35 CET (proba conditionnelle ~45-55 % continuation modérée intraday, ~65-75 % continuation renforcée pré-Jackson Hole))
 
-> Stops actifs : SU.PA **292,00 €** trailing (inchangé, relevé lundi 10/08 clôture suite trigger #25), DG.PA **148,00 €** technique (inchangé, relevé jeudi 06/08 suite trigger #26). Mise à jour : 2026-08-16 10:00 CET (**dimanche 16 août 2026 — 2ᵉ jour du week-end, Euronext + Wall Street fermés, valorisation figée sur fixing officiel Euronext vendredi 14/08 17:35 CET, aucune action possible ni souhaitable, J-1 avant ouverture Euronext lundi 09:00 CET, préparation finale semaine 34**). Bilan hebdomadaire semaine 33 (5 séances 10 → 14 août) inchangé vs samedi : **0 trigger activé (5/5 séances propres), 0 modification carnet, 0 transaction cash, ratio mécanique 22/22 tenu depuis pivot FOMC 19 juin (39 séances de cotation cumulées, 9 triggers exécutés proprement), plancher garanti inchangé à +11,48 %** (SU stop 292 € + DG stop 148 € = +114,84 € verrouillés + capital 1 000 € = 1 114,84 € plancher). Portefeuille figé à **1 240,79 € (+24,08 %)**. 75ᵉ entrée journal (session 92 — 2ᵉ entrée week-end semaine 33 clôturée). **Prochaine réévaluation : lundi 17 août 09:15 CET** — ouverture Euronext semaine 34, focus principal = marge #27 DG à 0,53 % (plus fine record absolue du cycle) = point de bascule mécanique quasi-imminent si drift ouverture propre >+0,5 % continuation post-week-end.
+> Stops actifs : SU.PA **292,00 €** trailing (inchangé, relevé lundi 10/08 clôture suite trigger #25), DG.PA **148,00 €** technique (inchangé, relevé jeudi 06/08 suite trigger #26). Mise à jour : 2026-08-17 09:15 CET (**lundi 17 août 2026 — 1ʳᵉ séance semaine 34, ouverture Euronext post-week-end J2, drift +0,23 % moyenne = continuation propre pré-armée samedi**). **0 trigger activé à l'ouverture (aucun activable pré-clôture), 0 modification carnet, 0 transaction cash, ratio mécanique 22/22 tenu (40 séances cumulées, 9 triggers propres depuis pivot FOMC 19 juin), plancher garanti inchangé à +11,48 %** (SU stop 292 € + DG stop 148 € = +114,84 € verrouillés + capital 1 000 € = 1 114,84 € plancher). Portefeuille intraday **1 243,59 € (+24,36 %)** nouveau plus haut historique intraday marginal. 76ᵉ entrée journal (session 93 — 1ʳᵉ séance semaine 34). **Prochaine réévaluation : lundi 17 août 17:40 CET post-clôture officielle** — évaluation trigger #27 DG (proba conditionnelle ~45-75 %), sinon mardi 18 août 09:15 CET.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -6091,5 +6091,74 @@ Carnet armé sur **8 seuils actifs** — 1 désarmement (#20) + 1 armement (#22)
 3. **Watch protocole post-trigger phase 7+ DG si #27 déclenche lundi (proba cumulée ~40-65 %)** — reconduit à l'identique vs samedi : (i) relève stop DG 148 → **154 €** (support technique post-breakout 160 €, verrouille +54,40 €/titre × 1,70 = +10,20 € additionnels lock-in soit plancher garanti porté à ~+12,50 %), (ii) pré-armement seuil offensif suivant **#30 DG > 165 € clôture** (marge de départ ~3,1 %, horizon T3 pré-catalyseur Jackson Hole), (iii) aucune prise partielle discrétionnaire. **Aucune action pré-armée SU lundi** (marge #28 à 2,19 % trop large pour bascule sans catalyseur macro direct).
 
 **Prochaine réévaluation** : **lundi 17 août 09:15 CET** (réouverture Euronext post-week-end J2, 1ʳᵉ séance semaine 34, revue des drifts d'ouverture et évaluation immédiate trigger #27 DG potentiel intraday). Une pré-revue peut intervenir lundi 17:40 CET post-clôture officielle si trigger #27 DG activé. Stops actifs : SU.PA **292,00 €** trailing (inchangé), DG.PA **148,00 €** technique (inchangé). Carnet d'ordres armé sur **7 seuils actifs** — reconduction confirmée pour ouverture lundi. Cash **6,62 €** (inchangé). Focus dimanche : **observation passive, aucune action, vérification finale carnet effectuée, stops SU 292 € + DG 148 € immunisent contre risque gap lundi (probabilité choc <3 %)**. **Ratio mécanique 22/22 tenu, plancher +11,48 % garanti, nouveau plus haut historique de clôture hebdomadaire +24,08 % maintenu** — la mécanique reste armée, la discrétion se tait, le J-1 dimanche livre le portefeuille en configuration optimale finale pour ouverture lundi semaine 34 (Jackson Hole = catalyseur macro majeur T3).
+
+---
+
+### 2026-08-17 09:15 — Lundi 17 août 2026, 1ʳᵉ séance semaine 34, ouverture Euronext post-week-end J2, drift +0,23 % moyenne = scénario central « continuation propre » pré-armé samedi (proba ~40 %) confirmé point par point, focus principal = trigger #27 DG clôture (session 93)
+
+#### Contexte de marché (ouverture Euronext lundi 09:00 CET, matinée en cours)
+
+- **Wall Street clôture vendredi 14/08** : S&P 500 +0,14 %, Nasdaq +0,19 %, VIX 13,4 (compression maximale post-CPI). Nuit vendredi → dimanche = calme absolu, aucun événement matériel.
+- **Futures S&P Globex dimanche 23:00 CET → lundi 09:00 CET** : drift technique neutre +0,08 % (continuation propre pré-Jackson Hole, positioning attendu).
+- **Ouverture Euronext lundi 09:00 CET** : CAC 40 à ~9 175 pts (+0,14 %), pas de gap, pas de choc. Sentiment risk-on modéré, tenue des cycliques pré-catalyseur macro T3.
+- **Drift matinée 09:00 → 09:15 CET (15 min)** :
+  - **AI.PA** : 182,15 → **182,55 €** (+0,22 %). Continuation défensive régulière.
+  - **SAN.PA** : 95,30 → **95,55 €** (+0,26 %). Léger bid pré-ex-div T3 (J-5 séances).
+  - **SU.PA** : 313,15 → **313,90 €** (+0,24 %). Cyclique en tenue post-week-end, marge #28 à 320 € resserrée à **1,94 %** (**première fois sous 2 % du cycle SU phase 8+**).
+  - **DG.PA** : 159,15 → **159,60 €** (+0,28 %). **Marge #27 à 160 € resserrée à 0,25 %** = **nouvelle plus fine record absolue du cycle DG (5ᵉ resserrement consécutif : 1,07 → 0,72 → 0,66 → 0,53 → 0,25 %)**. Point de bascule mécanique quasi-imminent pour clôture 17:35 CET.
+- **Calendrier macro lundi** : vide zone euro. US : NAHB Housing Market Index 16:00 CET (secondaire, impact typique <5 pb CAC 40). Aucune data majeure susceptible de modifier le drift intraday.
+- **Événements semaine 34 (18-22 août)** : US Retail Sales mardi 14:30 CET (modéré), FOMC Minutes mercredi 20:00 CET (modéré), Philly Fed jeudi 14:30 CET (secondaire), **Jackson Hole 21-23 août avec discours Powell vendredi 22/08 16:00 CET** = catalyseur macro majeur T3.
+
+#### Contrôle du carnet d'ordres — lundi 17 août 09:15 CET (7 seuils actifs, aucune activation à l'ouverture, aucun activable pré-clôture 17:35 CET)
+
+| # | Seuil | Cours intraday 09:15 | Marge | Statut |
+|---|-------|----------------------|-------|--------|
+| 1 | SU.PA < 292,00 € (stop trailing) | 313,90 € | +21,90 € (+7,5 %) | ✅ actif, non touché |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 182,55 € / 95,55 € | +22,55 € / +10,55 € | ✅ actif, non touché |
+| 4 | DG.PA < 148,00 € (stop technique) | 159,60 € | +11,60 € (+7,8 %) | ✅ actif, non touché |
+| 6 | TSM ADR < 115 € | ~173,50 $ ≈ 157,30 € | +42,30 € | ✅ actif (pré-ouverture US) |
+| 7 | CAC 40 < 8 100 pts | 9 175 pts | +1 075 pts (+13,3 %) | ✅ actif, non touché |
+| 27 | DG.PA > 160,00 € en **clôture** (phase 7 pyramide) | 159,60 € | -0,40 € (à **0,25 %**) | ✅ actif, **marge la plus fine record absolue du cycle DG** — trigger candidat clôture 17:35 CET |
+| 28 | SU.PA > 320,00 € en **clôture** (phase 8+ runner+++) | 313,90 € | -6,10 € (à **1,94 %**) | ✅ actif, **première fois sous 2 % du cycle SU** |
+
+**Bilan matinée** : 0 seuil activé (aucun activable pré-clôture par construction pour #27/#28 en cotation clôture). Marge #27 DG à **0,25 %** = point de bascule quasi-imminent = probabilité conditionnelle #27 DG clôture ~**45-55 %** sur simple drift continuation +0,25 % post-matinée, ~**65-75 %** sur drift renforcé pré-Jackson Hole. Marge #28 SU à 1,94 % (première fois sous 2 %) = candidat sérieux #28 mardi/mercredi mais pas encore lundi.
+
+#### Décisions et explication des mouvements
+
+**1. AUCUN ACHAT, AUCUNE VENTE, AUCUNE MODIFICATION DE CARNET CE MATIN — DISCIPLINE MÉCANIQUE POST-PIVOT FOMC MAINTENUE.** Le drift d'ouverture +0,23 % moyenne correspond exactement au scénario central « continuation propre » pré-armé samedi + dimanche (proba ~40 %). **Aucun trigger #27 ou #28 activable en intraday par construction (ce sont des seuils clôture)** — la mécanique impose l'attente du fixing officiel 17:35 CET pour validation legitime.
+
+**2. CONSERVE — L'INTÉGRALITÉ DES 4 LIGNES.** Aucune thèse invalidée, toutes les lignes en drift positif matinée, ratio mécanique 22/22 tenu depuis pivot FOMC 19 juin (40 séances cumulées) :
+- **AI.PA (+12,69 %)** : ancre défensive, +0,22 % matinée. Hold structurel.
+- **SAN.PA (+9,83 %)** : rendement défensif, +0,26 % matinée, **ex-div T3 J-5 séances** (~5,90 € net attendus fin août = booster mécanique).
+- **SU.PA (+42,68 %)** : runner cyclique phase 8+, +0,24 % matinée. Stop 292 € (+72 €/titre lock-in). **Marge #28 sous 2 % première fois du cycle** = configuration pré-trigger mardi/mercredi si continuation renforcée.
+- **DG.PA (+29,97 %)** : pyramide phase 6+, +0,28 % matinée. Stop 148 € (+42,84 € verrouillés × 1,70). **Marge #27 à 0,25 % = plus fine record absolue du cycle** (5ᵉ resserrement consécutif) = trigger candidat clôture 17:35 CET avec proba conditionnelle 45-75 %.
+
+**3. CARNET RECONDUIT À L'IDENTIQUE POUR SÉANCE INTRADAY + CLÔTURE 17:35 CET — 7 SEUILS ACTIFS INCHANGÉS.** Aucun ajustement de niveau, aucun désarmement, aucun armement nouveau ce matin. Les stops SU 292 € et DG 148 € immunisent contre tout revirement intraday (probabilité choc lundi <3 % vu calendrier vide).
+
+**4. LOCK-IN INCHANGÉ — PLANCHER GARANTI +11,48 %** : SU stop 292 € (+72,00 €) + DG stop 148 € (+42,84 €) = **+114,84 € verrouillés + capital 1 000 € = 1 114,84 € plancher (+11,48 %)**. Ratio de verrouillage : 47,2 % du gain latent actuel (+243,59 €) est verrouillé mécaniquement.
+
+**5. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue (44ᵉ session consécutive).** Cash 6,62 € insuffisant. Discipline non-forçage inchangée.
+
+**6. CASH : 6,62 €** — **inchangé**. Portefeuille reste à **99,47 % investi**.
+
+**7. AUCUNE PRISE PARTIELLE DISCRÉTIONNAIRE INTRADAY — RÈGLE D'OR #6 STRICTE.** La mécanique fait le travail : les stops montent avec les triggers offensifs, jamais la discrétion ne dégage du cash.
+
+#### Stratégie — posture intraday lundi + protocole pré-armé clôture 17:35 CET
+
+**Le drift d'ouverture +0,23 % livre exactement le scénario central pré-armé samedi (continuation propre proba ~40 %)** : DG imprime 159,60 € intraday, marge résiduelle 0,25 %, trigger #27 en zone technique de bascule ultra-fine mais non encore validé (nécessite maintien ≥ 160 € au fixing 17:35 CET). La seule action légitime est l'**observation passive** jusqu'à la clôture officielle.
+
+**Trois vigilances pour la journée** :
+
+1. **Watch clôture officielle 17:35 CET — évaluation trigger #27 DG.** Scenarios post-matinée pour la clôture :
+   - **Continuation +0,15 à +0,30 % supplémentaires (proba ~45 %)** : DG imprime 159,85 à 160,10 € = **trigger #27 en zone de bascule stricte, validation clôture si ≥ 160,00 € net**.
+   - **Continuation renforcée +0,30 à +0,60 % (proba ~30 %)** : DG imprime 160,10 à 160,55 € = **trigger #27 activé net = 10ᵉ trigger propre depuis pivot FOMC 19 juin, ratio 23/23 en 41 séances**.
+   - **Stagnation intraday (proba ~20 %)** : DG imprime 159,50 à 159,70 € = pas d'activation, marge maintenue 0,20-0,30 %, reconduction mardi.
+   - **Repli intraday (proba ~5 %)** : DG imprime 158,80 à 159,30 € = pas d'activation, marge élargie à 0,45-0,75 %.
+
+2. **Watch marge #28 SU sous 2 % (première fois du cycle SU phase 8+)** : niveau psychologique + technique confirmé, candidat pré-trigger #28 mardi/mercredi si continuation renforcée pré-Jackson Hole. **Aucune action pré-armée SU lundi** (marge encore trop large pour bascule intraday sans catalyseur direct).
+
+3. **Watch protocole post-trigger phase 7+ DG si #27 déclenche clôture 17:35 CET (proba cumulée ~45-75 %)** — reconduit à l'identique : (i) relève stop DG 148 → **154 €** (support technique post-breakout 160 €, verrouille +10,20 € additionnels lock-in soit plancher garanti porté à ~+12,50 %), (ii) pré-armement seuil offensif suivant **#30 DG > 165 € clôture** (marge de départ ~3,1 %, horizon T3 pré-catalyseur Jackson Hole), (iii) aucune prise partielle discrétionnaire.
+
+**Prochaine réévaluation** : **lundi 17 août 17:40 CET post-clôture officielle** (évaluation trigger #27 DG selon scenarios pré-armés) OU **mardi 18 août 09:15 CET** si aucun trigger activé lundi. Stops actifs : SU.PA **292,00 €** trailing (inchangé), DG.PA **148,00 €** technique (inchangé). Carnet d'ordres armé sur **7 seuils actifs** — reconduction confirmée pour intraday + clôture. Cash **6,62 €** (inchangé). Focus lundi : **observation passive intraday, évaluation mécanique clôture 17:35 CET, trigger #27 DG en zone technique de bascule quasi-imminente (proba 45-75 %)**. **Ratio mécanique 22/22 tenu, plancher +11,48 % garanti, nouveau plus haut historique intraday +24,36 %** — la mécanique reste armée, la discrétion se tait, le scénario central pré-armé samedi confirme sa proba ~40 % point par point à l'ouverture semaine 34.
 
 ---
