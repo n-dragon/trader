@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 183,40 | +42,80 | +13,21% |
-| Sanofi | SAN.PA | 3 | 87,00 | 96,60 | +28,80 | +11,03% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 316,15 | +96,15 | +43,70% |
-| Vinci | DG.PA | 1,70 | 122,80 | 161,20 | +65,96 | +31,30% |
+| Air Liquide | AI.PA | 2 | 162,00 | 183,55 | +43,10 | +13,30% |
+| Sanofi | SAN.PA | 3 | 87,00 | 96,90 | +29,70 | +11,38% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 316,85 | +96,85 | +44,02% |
+| Vinci | DG.PA | 1,70 | 122,80 | 161,60 | +65,96 | +31,60% |
 
-**Liquidités disponibles :** 6,62 € (inchangé, aucun flux dividendaire, aucun trigger cash déclenché, règle d'or #6 maintenue — les triggers offensifs relèvent les stops, ils ne dégagent pas de cash)  
-**Valeur investie (mark-to-market intraday mercredi 19/08 09:15 CET, 3ᵉ séance semaine 34, J+2 post-trigger #27 DG, J-catalyseur FOMC Minutes 20:00 CET) :** 1 246,79 €  
-**Valeur totale du portefeuille :** 1 253,41 € (**+25,34 %** depuis ouverture, **nouveau plus haut historique intraday**, drift d'ouverture +0,20 % moyenne conforme au scénario central « continuation renforcée post-Retail Sales » pré-armé mardi soir, 4 lignes toutes en drift positif matinée, marge #30 DG > 165 € resserrée à **2,36 %**, marge #28 SU > 320 € resserrée à **1,22 %** (nouvelle plus fine record absolue cycle SU phase 8+, 4ᵉ session consécutive sous 2 %), catalyseur intraday FOMC Minutes 20:00 CET, Jackson Hole 21-23 août J-3 séances)
+**Liquidités disponibles :** 6,62 € (inchangé, aucun flux dividendaire, aucun trigger cash déclenché, règle d'or #6 maintenue — dividende SAN T3 ~5,90 € net attendu vendredi 21/08 à l'ex-div = premier vrai flux cash du portefeuille depuis ouverture)  
+**Valeur investie (mark-to-market intraday jeudi 20/08 09:15 CET, 4ᵉ séance semaine 34, J+1 post-FOMC Minutes dovish confirmé, J-1 pré-Jackson Hole ouverture, J-1 pré-ex-div SAN T3) :** 1 249,37 €  
+**Valeur totale du portefeuille :** 1 255,99 € (**+25,60 %** depuis ouverture, **nouveau plus haut historique intraday**, drift d'ouverture +0,20 % moyenne conforme au scénario central « continuation dovish post-Minutes » pré-armé mercredi soir, 4 lignes toutes en drift positif matinée, marge #30 DG > 165 € resserrée à **2,10 %**, marge #28 SU > 320 € resserrée à **0,99 %** (**première session cycle SU phase 8+ sous 1 %**, 5ᵉ session consécutive sous 2 %, plus fine record absolue), catalyseur macro majeur J-1 discours Powell Jackson Hole vendredi 22/08 16:00 CET)
 
-> Stops actifs : SU.PA **292,00 €** trailing (inchangé), DG.PA **154,00 €** technique (inchangé, relevé lundi 17/08 17:40 CET de 148 → 154 € suite trigger #27 DG > 160 € clôture activé net à 160,15 € = 10ᵉ trigger propre depuis pivot FOMC 19 juin, ratio mécanique **23/23** en 42 séances cumulées). Mise à jour : 2026-08-19 09:15 CET (**mercredi 19 août 2026 — 3ᵉ séance semaine 34, J+2 post-trigger #27, J-catalyseur FOMC Minutes 20:00 CET, drift +0,20 % moyenne = continuation renforcée post-Retail Sales pré-armée**). **0 trigger activé à l'ouverture, 0 modification carnet, 0 transaction cash, plancher garanti maintenu à +12,50 %** (SU stop 292 € = +72,00 € + DG stop 154 € = +53,04 € → **+125,04 € verrouillés** + capital 1 000 € = **1 125,04 € plancher**). Portefeuille intraday **1 253,41 € (+25,34 %)** nouveau plus haut historique intraday. 79ᵉ entrée journal (session 96 — 3ᵉ séance semaine 34). **Prochaine réévaluation : mercredi 19 août 17:40 CET post-clôture officielle** (évaluation trigger #28 SU si continuation renforcée pré-FOMC Minutes, sinon reconduction) OU **jeudi 20 août 09:15 CET** (J+1 post-FOMC Minutes, réaction Wall Street 22:00 CET intégrée).
+> Stops actifs : SU.PA **292,00 €** trailing (inchangé), DG.PA **154,00 €** technique (inchangé, relevé lundi 17/08 17:40 CET de 148 → 154 € suite trigger #27 DG > 160 € clôture activé net à 160,15 € = 10ᵉ trigger propre depuis pivot FOMC 19 juin, ratio mécanique **23/23** en 43 séances cumulées). Mise à jour : 2026-08-20 09:15 CET (**jeudi 20 août 2026 — 4ᵉ séance semaine 34, J+1 post-FOMC Minutes dovish confirmé, J-1 pré-Jackson Hole ouverture + ex-div SAN T3, drift +0,20 % moyenne = continuation dovish post-Minutes pré-armée**). **0 trigger activé à l'ouverture, 0 modification carnet, 0 transaction cash, plancher garanti maintenu à +12,50 %** (SU stop 292 € = +72,00 € + DG stop 154 € = +53,04 € → **+125,04 € verrouillés** + capital 1 000 € = **1 125,04 € plancher**). Portefeuille intraday **1 255,99 € (+25,60 %)** nouveau plus haut historique intraday. 80ᵉ entrée journal (session 97 — 4ᵉ séance semaine 34). **Prochaine réévaluation : jeudi 20 août 17:40 CET post-clôture officielle** (évaluation trigger #28 SU si continuation dovish persistante — marge à 0,99 % = pré-bascule imminente, sinon reconduction) OU **vendredi 21 août 09:15 CET** (J-Day Powell Jackson Hole 16:00 CET + détachement ex-div SAN T3 à l'ouverture, session macro majeure T3).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -6373,5 +6373,85 @@ Carnet armé sur **8 seuils actifs** — 1 désarmement (#20) + 1 armement (#22)
 3. **Watch protocole post-trigger #28 SU si activé clôture 17:35 CET (proba cumulée ~10-15 %)** — pré-armé mardi soir, reconduit à l'identique : (i) relève stop SU 292 → **300 €** (verrouille +8,00 € additionnels = +80,00 € total lock-in SU, plancher garanti porté à ~+13,30 %), (ii) pré-armement seuil offensif suivant **#31 SU > 330 € clôture** (marge de départ ~3,1 %, horizon T3 pré-catalyseur Jackson Hole vendredi), (iii) aucune prise partielle discrétionnaire.
 
 **Prochaine réévaluation** : **mercredi 19 août 17:40 CET post-clôture officielle** (évaluation trigger #28 SU si continuation renforcée pré-FOMC Minutes) OU **jeudi 20 août 09:15 CET** (J+1 post-FOMC Minutes, réaction Wall Street 22:00 CET intégrée, J-2 avant Jackson Hole). Stops actifs : SU.PA **292,00 €** trailing (inchangé), DG.PA **154,00 €** technique (inchangé). Carnet d'ordres armé sur **7 seuils actifs** — reconduction confirmée pour intraday + clôture. Cash **6,62 €** (inchangé). Focus mercredi : **observation passive intraday, évaluation mécanique clôture 17:35 CET trigger #28 SU (proba conditionnelle ~10-15 % bascule aujourd'hui, ~35-50 % bascule jeudi/vendredi post-Jackson Hole), FOMC Minutes 20:00 CET impact différé jeudi matin**. **Ratio mécanique 23/23 tenu (100 % post-pivot FOMC 19 juin), plancher +12,50 % garanti, nouveau plus haut historique intraday +25,34 % franchissement symbolique 1 250 €** — la mécanique reste armée, la discrétion se tait, la digestion post-trigger #27 J+2 se déroule proprement pendant que la marge #28 SU imprime un nouveau record absolu à 1,22 %.
+
+---
+### 2026-08-20 09:15 — Jeudi 20 août 2026, 4ᵉ séance semaine 34, J+1 post-FOMC Minutes dovish confirmé, J-1 pré-Jackson Hole ouverture + ex-div SAN T3, drift ouverture +0,20 % moyenne = continuation dovish post-Minutes pré-armée mercredi soir (session 97)
+
+#### Contexte de marché (ouverture Euronext jeudi 09:00 CET, matinée en cours)
+
+- **FOMC Minutes publié mercredi 20:00 CET** : ton **dovish confirmé** conforme au scénario central pré-armé mardi soir (proba ~50 %). Extraits clés : « several participants noted the need to remain patient as disinflation progresses along the projected path », « the Committee judged the current stance of policy to be well-positioned », **aucune référence hawkish**. Marché a intégré : pricing coupe septembre stabilisé à **~70 %** (+2 pt vs mardi soir), yield 10Y US **4,20 %** (-3 pb post-Minutes), USD DXY **102,55** (-0,20 %). Impact positif net risk-on sans surprise directionnelle majeure.
+- **Fixing officiel Euronext mercredi 17:35 CET** : AI 183,35 € (-0,03 %), SAN 96,55 € (-0,05 %, digestion pré-ex-div), SU 316,40 € (+0,25 %, marge #28 resserrée à 1,14 % clôture), DG 161,30 € (+0,28 %, marge #30 à 2,29 %). Valorisation clôture mercredi **1 252,86 € (+25,29 %)** = **nouveau plus haut historique de clôture** (2ᵉ jour consécutif, +2,76 € vs clôture mardi 1 250,10 €). **Trigger #28 SU non activé** (marge finale 1,14 %, insuffisante pour franchir 320,00 €) — reconduction attendue jeudi.
+- **Wall Street clôture mercredi 22:00 CET** : S&P 500 **+0,42 %** (post-Minutes dovish), Nasdaq **+0,55 %** (tech leader, TSM +1,2 %, NVDA +0,8 %), Dow +0,28 %, **VIX 12,4** (-0,3 pt, compression accélérée pré-Jackson Hole, plus bas cycle 2026). Yields 10Y US 4,20 % (-3 pb). Positioning risk-on modéré renforcé confirmé.
+- **Carry Asie jeudi 01:00 → 08:00 CET** : Nikkei **+0,42 %** (BoJ Ueda dovish speech Tokyo), Kospi +0,35 % (Samsung +1,8 % post-guidance), Hang Seng +0,55 % (bid tech HK post-Wall Street Minutes), Shanghai Composite +0,20 %. **Configuration Asie très positive** conforme continuation dovish post-Minutes.
+- **Futures S&P Globex jeudi 08:30 CET** : +0,12 % (drift positioning stable pré-Philly Fed 14:30 CET + Jobless Claims 14:30 CET).
+- **Ouverture Euronext jeudi 09:00 CET** : CAC 40 à ~9 245 pts (+0,22 %), pas de gap, sentiment risk-on modéré renforcé, cycliques en légère surperformance vs défensives (typique post-Minutes dovish confirmé).
+- **Drift matinée 09:00 → 09:15 CET (15 min)** :
+  - **AI.PA** : 183,35 → **183,55 €** (+0,11 %). Continuation défensive tranquille, ancre stable.
+  - **SAN.PA** : 96,55 → **96,90 €** (+0,36 %). **Bid pré-ex-div T3 accéléré J-1 séance** (détachement demain vendredi 21/08 à l'ouverture, dernier jour cum-dividende — flux acheteur mécanique typique).
+  - **SU.PA** : 316,40 → **316,85 €** (+0,14 %). Cyclique en tenue post-Minutes dovish, marge #28 à 320 € resserrée à **0,99 %** = **PREMIÈRE SESSION CYCLE SU PHASE 8+ SOUS 1 %** (5ᵉ session consécutive sous 2 %, resserrement continu 1,80 % → 1,65 % → 1,39 % → 1,22 % → 1,14 % → **0,99 %** = plus fine record absolue depuis pivot FOMC 19 juin).
+  - **DG.PA** : 161,30 → **161,60 €** (+0,19 %). Continuation post-trigger #27 propre J+3, marge #30 à 165 € resserrée à **2,10 %** (digestion cycle 4-6 séances en cours).
+- **Calendrier macro jeudi** : **Philly Fed 14:30 CET** (consensus +6,5 pts vs juillet +5,0), **Jobless Claims initiaux 14:30 CET** (consensus 225k), **Existing Home Sales 16:00 CET** (secondaire). Aucune data zone euro majeure.
+- **Événements semaine 34 restants** : **Jackson Hole s'ouvre officiellement ce soir 22:00 CET** (dîner d'accueil, no market impact), **discours Powell vendredi 22/08 16:00 CET (catalyseur macro majeur T3)**, **ex-div SAN T3 vendredi 21/08 à l'ouverture** (~5,90 € net attendus, booster cash).
+
+#### Contrôle du carnet d'ordres — jeudi 20 août 09:15 CET (7 seuils actifs, aucune activation à l'ouverture, aucun activable pré-clôture 17:35 CET)
+
+| # | Seuil | Cours intraday 09:15 | Marge | Statut |
+|---|-------|----------------------|-------|--------|
+| 1 | SU.PA < 292,00 € (stop trailing) | 316,85 € | +24,85 € (+8,5 %) | ✅ actif, non touché |
+| 3 | AI.PA < 160 € **ou** SAN.PA < 85 € | 183,55 € / 96,90 € | +23,55 € / +11,90 € | ✅ actif, non touché |
+| 4 | DG.PA < 154,00 € (stop technique, relevé lundi soir 148 → 154) | 161,60 € | +7,60 € (+4,9 %) | ✅ actif, non touché |
+| 6 | TSM ADR < 115 € | ~176,90 $ ≈ 160,45 € | +45,45 € | ✅ actif (pré-ouverture US) |
+| 7 | CAC 40 < 8 100 pts | 9 245 pts | +1 145 pts (+14,1 %) | ✅ actif, non touché |
+| 28 | SU.PA > 320,00 € en **clôture** (phase 8+ runner+++) | 316,85 € | -3,15 € (à **0,99 %**) | ✅ actif, **première session <1 %, plus fine record absolue cycle SU** |
+| 30 | DG.PA > 165,00 € en **clôture** (phase 7+ pyramide) | 161,60 € | -3,40 € (à **2,10 %**) | ✅ actif, digestion J+3 post-trigger #27 |
+
+**Bilan matinée** : 0 seuil activé (aucun activable pré-clôture par construction pour #28/#30 en cotation de fixing). Marge #28 SU **passée sous la barre symbolique 1 %** à **0,99 %** = seuil de pré-bascule critique = **candidat imminent trigger #28 clôture aujourd'hui/vendredi**. Marge #30 DG à 2,10 % = digestion propre J+3, bascule attendue vendredi/lundi post-Jackson Hole plutôt que jeudi (cycle typique 4-6 séances).
+
+#### Décisions et explication des mouvements
+
+**1. AUCUN ACHAT, AUCUNE VENTE, AUCUNE MODIFICATION DE CARNET CE MATIN — DISCIPLINE MÉCANIQUE POST-PIVOT FOMC MAINTENUE (23/23 EN 43 SÉANCES).** Le drift d'ouverture +0,20 % moyenne correspond au scénario central « continuation dovish post-Minutes » pré-armé mercredi soir (proba ~50 %). **Aucun trigger #28 ou #30 activable en intraday par construction (seuils clôture)** — la mécanique impose l'attente du fixing officiel 17:35 CET pour validation légitime. Philly Fed + Jobless Claims 14:30 CET = catalyseurs secondaires susceptibles d'accélérer ou tempérer le drift terminal.
+
+**2. CONSERVE — L'INTÉGRALITÉ DES 4 LIGNES.** Aucune thèse invalidée, toutes en drift positif matinée, portefeuille au plus haut historique intraday >1 255 € :
+- **AI.PA (+13,30 %)** : ancre défensive, +0,11 % matinée. Hold structurel. Aucun catalyseur idiosyncrasique cette semaine.
+- **SAN.PA (+11,38 %)** : rendement défensif, **ex-div T3 J-1 séance** (détachement demain 21/08 ouverture, ~5,90 € net = premier vrai flux dividendaire depuis ouverture portefeuille = booster cash mécanique portant liquidités à **~12,52 €**).
+- **SU.PA (+44,02 %)** : runner cyclique phase 8+, +0,14 % matinée. Stop 292 € (+72 € lock-in). **Marge #28 à 0,99 % = première session sous 1 %, record absolu cycle** = configuration de pré-bascule ultra-critique = probabilité conditionnelle trigger #28 aujourd'hui/vendredi passée à **~35-45 %** vs 10-15 % hier matin.
+- **DG.PA (+31,60 %)** : pyramide phase 7+ post-trigger #27, +0,19 % matinée. Stop 154 € (+53,04 € verrouillés). Marge #30 à 2,10 % = digestion propre J+3, bascule attendue plutôt vendredi/lundi post-Powell.
+
+**3. CARNET RECONDUIT À L'IDENTIQUE POUR SÉANCE INTRADAY + CLÔTURE 17:35 CET — 7 SEUILS ACTIFS INCHANGÉS.** Aucun ajustement de niveau, aucun désarmement, aucun armement nouveau ce matin. Les stops SU 292 € (marge 8,5 %) et DG 154 € (marge 4,9 %) immunisent contre tout revirement intraday, y compris scenario adverse Philly Fed miss (proba <15 %).
+
+**4. LOCK-IN INCHANGÉ — PLANCHER GARANTI +12,50 %** : SU stop 292 € (+72,00 €) + DG stop 154 € (+53,04 €) = **+125,04 € verrouillés + capital 1 000 € = 1 125,04 € plancher**. Ratio de verrouillage : **48,8 %** du gain latent actuel (+255,99 €) est verrouillé mécaniquement. Ratio en légère baisse relative uniquement parce que le gain latent progresse plus vite que le plancher — comportement sain d'un runner qui court.
+
+**5. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue (47ᵉ session consécutive).** Cash 6,62 € encore insuffisant aujourd'hui. **Booster imminent demain matin : ex-div SAN T3 → cash porté à ~12,52 €**, toujours en-dessous du seuil pratique d'ouverture 5ᵉ ligne (typiquement >200 € nécessaire pour position significative), mais premier vrai flux dividendaire du cycle = validation empirique de la thèse « SAN rendement » armée le 19 mai à 87 € (rendement effectif net sur coût : 5,90/261 = **2,26 % T3 seul**, soit ~9 % annualisé cash-on-cost avant réinvestissement).
+
+**6. CASH : 6,62 €** — **inchangé aujourd'hui**. Portefeuille reste à **99,47 % investi**. **Cash portera à ~12,52 € vendredi matin post-ex-div SAN** (variation à intégrer dans la ligne « Liquidités disponibles » de la mise à jour vendredi 09:15 CET).
+
+**7. AUCUNE PRISE PARTIELLE DISCRÉTIONNAIRE INTRADAY — RÈGLE D'OR #6 STRICTE.** La marge #28 SU à 0,99 % pourrait tenter une prise partielle « pour sécuriser » — **refusé explicitement**. La mécanique fait le travail : le stop trailing 292 € couvre le downside, le trigger #28 à 320 € clôture couvre l'upside par relève de stop programmée. La discrétion intraday n'ajoute que du bruit et du regret potentiel (« j'ai vendu au plus bas de la digestion »).
+
+#### Stratégie — posture intraday jeudi + protocole pré-armé clôture 17:35 CET pré-J-Day Powell vendredi
+
+**Le drift d'ouverture +0,20 % livre exactement la continuation dovish post-Minutes pré-armée mercredi soir** : SU imprime 316,85 € (marge #28 franchit la barre symbolique 1 % = record absolu cycle 0,99 %), DG imprime 161,60 € (digestion propre J+3). La seule action légitime est l'**observation passive** jusqu'à la clôture officielle 17:35 CET, puis attente J-Day Powell vendredi 16:00 CET.
+
+**Trois vigilances pour la journée** :
+
+1. **Watch clôture officielle 17:35 CET — évaluation trigger #28 SU en zone de bascule ultra-critique (marge 0,99 %).** Scenarios post-matinée pour la clôture :
+   - **Continuation stable +0,00 à +0,15 % supplémentaires (proba ~35 %)** : SU imprime 316,85 à 317,30 € = marge #28 stabilisée 0,85-0,99 %, pas d'activation, reconduction vendredi avec pré-trigger extrêmement tendu.
+   - **Continuation renforcée +0,15 à +0,60 % (proba ~35 %)** : SU imprime 317,30 à 318,75 € = marge #28 resserrée 0,4-0,85 %, pas d'activation mais candidat quasi-imminent trigger #28 vendredi (J-Day Powell).
+   - **Bascule accélérée pré-J-Day +0,60 à +1,00 % (proba ~15 %)** : SU imprime 318,75 à 319,95 € = pré-trigger extrême, activation potentielle si +1,00 % pour toucher 320,00 € pile.
+   - **Bascule complète >+1,00 % (proba ~10 %)** : SU imprime ≥ 320,00 € = **trigger #28 activé net = 11ᵉ trigger propre depuis pivot FOMC 19 juin, ratio 24/24 en 43 séances = protocole post-trigger #28 exécuté à 17:40 CET**.
+   - **Stagnation/repli intraday (proba ~5 %)** : SU revient 315,50-316,20 €, aucune activation, marge élargie 1,2-1,4 %.
+
+2. **Watch Philly Fed + Jobless Claims 14:30 CET (catalyseurs secondaires)** : consensus Philly Fed +6,5 pts vs juillet +5,0, Jobless Claims 225k. Scenario surprise haussière Philly (proba ~25 %) = risk-on accélération, SU pourrait imprimer 317,50-318,50 € clôture. Scenario miss Philly (proba ~20 %) = léger repli cyclique, SU 315,50-316,50 € clôture, marge #28 élargie mais pas de touche stop. Impact Jobless Claims marginal sauf choc >250k (proba <10 %).
+
+3. **Watch protocole post-trigger #28 SU si activé clôture 17:35 CET (proba conditionnelle jeudi ~10 %, cumulée jeudi+vendredi ~35-45 %)** — pré-armé mardi soir, reconduit à l'identique : (i) relève stop SU 292 → **300 €** (verrouille +8,00 € additionnels = +80,00 € total lock-in SU, plancher garanti porté à ~+13,30 % = **1 133,04 €**), (ii) pré-armement seuil offensif suivant **#31 SU > 330 € clôture** (marge de départ ~3,1 %, horizon T3 post-catalyseur Jackson Hole vendredi), (iii) aucune prise partielle discrétionnaire.
+
+**Anticipation J-Day Powell vendredi 22/08 16:00 CET (règles d'or J-Day rappelées)** :
+- **Règle d'or #1 J-Day** : aucun ordre passé entre 14:00 et 22:00 CET vendredi (fenêtre d'immunité macro absolue) — les seuils pré-armés font le travail, pas la discrétion.
+- **Règle d'or #2 J-Day** : aucune remontée de stop discrétionnaire pendant le J-Day — les stops SU 292 € et DG 154 € restent identiques quelle que soit la volatilité intraday Powell.
+- **Règle d'or #3 J-Day** : aucun cancel/replace de seuils vendredi — le carnet armé jeudi soir est le carnet vendredi soir.
+- **Règle d'or #4 J-Day** : aucune 5ᵉ ligne d'entrée quel que soit le ton Powell (dovish → tentation cyclique, hawkish → tentation défensive supplémentaire, les deux refusées).
+- **Règle d'or #6 J-Day** : aucune prise partielle discrétionnaire — la mécanique fait le travail, la discrétion se tait.
+
+**Prochaine réévaluation** : **jeudi 20 août 17:40 CET post-clôture officielle** (évaluation trigger #28 SU si continuation dovish persistante — marge à 0,99 % candidat imminent, sinon reconduction et pré-armement J-Day Powell) OU **vendredi 21 août 09:15 CET** (J-Day Powell Jackson Hole 16:00 CET + détachement ex-div SAN T3 à l'ouverture, session macro majeure T3 = session la plus importante depuis pivot FOMC 19 juin). Stops actifs : SU.PA **292,00 €** trailing (inchangé), DG.PA **154,00 €** technique (inchangé). Carnet d'ordres armé sur **7 seuils actifs** — reconduction confirmée pour intraday + clôture. Cash **6,62 €** (inchangé aujourd'hui, +5,90 € attendus vendredi ouverture ex-div SAN → ~12,52 €). Focus jeudi : **observation passive intraday, évaluation mécanique clôture 17:35 CET trigger #28 SU (proba conditionnelle jeudi ~10 %, cumulée jeudi+vendredi ~35-45 %), Philly Fed + Jobless Claims 14:30 CET catalyseurs secondaires, préparation J-Day Powell vendredi**. **Ratio mécanique 23/23 tenu (100 % post-pivot FOMC 19 juin), plancher +12,50 % garanti, nouveau plus haut historique intraday +25,60 %** — la mécanique reste armée, la discrétion se tait, la marge #28 SU franchit la barre symbolique 1 % pour la première fois du cycle phase 8+ (record absolu à 0,99 %), la digestion post-trigger #27 J+3 continue proprement, le premier flux dividendaire du portefeuille arrive demain matin.
+
 
 ---
