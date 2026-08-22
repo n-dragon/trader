@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 183,50 | +43,00 | +13,27% |
-| Sanofi | SAN.PA | 3 | 87,00 | 94,15 | +21,45 | +8,22% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 316,50 | +96,50 | +43,86% |
-| Vinci | DG.PA | 1,70 | 122,80 | 161,60 | +65,96 | +31,60% |
+| Air Liquide | AI.PA | 2 | 162,00 | 183,85 | +43,70 | +13,49% |
+| Sanofi | SAN.PA | 3 | 87,00 | 94,35 | +22,05 | +8,45% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 317,80 | +97,80 | +44,45% |
+| Vinci | DG.PA | 1,70 | 122,80 | 162,20 | +66,94 | +32,03% |
 
-**Liquidités disponibles :** 12,52 € (**+5,90 € net vs jeudi**, premier vrai flux dividendaire du portefeuille depuis ouverture — encaissement effectif SAN T3 à l'ex-div ce matin, ~1,97 €/action net après PFU 30 % × 3 titres = **+5,90 € net**, rendement effectif cash-on-cost T3 = **2,26 %** sur ligne SAN entrée 261 € le 19 mai, soit ~9 % annualisé)  
-**Valeur investie (mark-to-market intraday vendredi 21/08 09:15 CET, 5ᵉ et dernière séance semaine 34, J-Day Powell Jackson Hole 16:00 CET, ex-div SAN T3 détachement à l'ouverture) :** 1 240,67 €  
-**Valeur totale du portefeuille :** 1 253,19 € (**+25,32 %** depuis ouverture, léger repli technique -0,22 % vs jeudi 09:15 lié pour -2,50 € net à l'ex-div SAN — impact fiscal PFU sur écart brut vs net — et -1,05 € au drift attentiste pré-Powell −0,08 % moyenne hors SAN, config classique de veille de catalyseur macro majeur ; marge #28 SU > 320 € élargie à **1,11 %** post-consolidation intraday +0,15 % vs jeudi ouverture puis léger repli, marge #30 DG > 165 € stabilisée à **2,10 %** identique, 4 lignes conservées, SAN mécaniquement re-basée post-ex-div)
+**Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 encaissé vendredi matin conservé intact, aucun mouvement week-end par construction Euronext fermé samedi-dimanche)  
+**Valeur investie (mark-to-market clôture officielle vendredi 21/08 17:35 CET, cours de référence week-end) :** 1 244,29 €  
+**Valeur totale du portefeuille :** 1 256,81 € (**+25,68 %** depuis ouverture, **+0,29 % vs matinée vendredi**, réponse constructive mesurée post-Powell Jackson Hole 16:00 CET — scenario ton mesuré data-dependent réalisé (proba pré-armée ~40 %), continuation dovish latente sans engagement calendaire ferme, SU +0,41 % clôture = marge #28 resserrée à **0,69 %** = nouveau record absolu cycle phase 8+ mais pas d'activation, DG +0,37 % = marge #30 resserrée à **1,73 %**, AI/SAN drift défensif +0,19 %/+0,21 %)
 
-> Stops actifs : SU.PA **292,00 €** trailing (inchangé), DG.PA **154,00 €** technique (inchangé). Mise à jour : 2026-08-21 09:15 CET (**vendredi 21 août 2026 — 5ᵉ et dernière séance semaine 34, J-Day Powell Jackson Hole 16:00 CET, ex-div SAN T3 détachement ouverture, session macro majeure T3 la plus importante depuis pivot FOMC 19 juin**). **0 trigger activé à l'ouverture, 0 modification carnet, 1 flux cash entrant ex-div SAN +5,90 € net, plancher garanti relevé à +13,09 %** (SU stop 292 € = +72,00 € + DG stop 154 € = +53,04 € + ex-div SAN encaissé +5,90 € → **+130,94 € verrouillés** + capital 1 000 € = **1 130,94 € plancher**, ratio de verrouillage 52,3 % du gain total actuel). Portefeuille intraday **1 253,19 € (+25,32 %)**. 81ᵉ entrée journal (session 98 — 5ᵉ séance semaine 34). **Règle d'or J-Day activée strictement de 14:00 à 22:00 CET** (aucun ordre, aucune modification stop/seuil, aucune prise partielle discrétionnaire — mécanique seule). **Prochaine réévaluation : vendredi 21 août 17:40 CET post-clôture officielle** (évaluation trigger #28 SU si Powell ton dovish valide continuation, sinon reconduction week-end) OU **lundi 24 août 09:15 CET** (ouverture semaine 35, J+3 post-Powell, gap Euronext digestion week-end + J-2 pré-résultats Nvidia mardi 26/08 after-hours).
+> Stops actifs : SU.PA **292,00 €** trailing (inchangé), DG.PA **154,00 €** technique (inchangé). Mise à jour : 2026-08-22 10:00 CET (**samedi 22 août 2026 — session de revue week-end post-Powell + pré-armement semaine 35, marchés Euronext fermés, aucune opération exécutable, plan Monday pré-armé identique**). **0 trigger activé vendredi clôture, 0 modification carnet, plancher garanti maintenu à +13,09 %** (SU stop 292 € = +72,00 € + DG stop 154 € = +53,04 € + ex-div SAN encaissé +5,90 € → **+130,94 € verrouillés** + capital 1 000 € = **1 130,94 € plancher**, ratio de verrouillage 51,0 % du gain total actuel). Portefeuille clôture semaine 34 **1 256,81 € (+25,68 %)** = **nouveau plus haut historique de clôture**. 82ᵉ entrée journal (session 99 — revue week-end post-semaine 34). **Prochaine réévaluation : lundi 24 août 09:15 CET** (ouverture semaine 35, J+3 post-Powell, gap Euronext digestion week-end + J-2 pré-résultats Nvidia mardi 26/08 after-hours = catalyseur T4 majeur cycle IA pour thèses SU/AI).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -6547,3 +6547,74 @@ Carnet armé sur **8 seuils actifs** — 1 désarmement (#20) + 1 armement (#22)
 
 
 ---
+
+### 2026-08-22 10:00 — Samedi 22 août 2026, **session de revue week-end post-Powell + pré-armement semaine 35, marchés Euronext fermés** (session 99)
+
+#### Contexte de marché — retour sur clôture vendredi 21/08 17:35 CET
+
+- **Discours Powell Jackson Hole 16:00 CET (rétrospective)** : **ton mesuré data-dependent (scenario 2 pré-armé, proba ~40 %)** matérialisé. Powell a confirmé la trajectoire dovish latente post-FOMC Minutes sans engagement calendaire ferme sur la baisse de septembre (formulation typique « in a position to respond appropriately as data evolves »), soulignant les progrès désinflationnistes sans crier victoire. Marché a digéré sans convulsion directionnelle : S&P 500 clôture +0,45 %, Nasdaq +0,60 %, Stoxx 600 +0,35 %, CAC 40 9 275 pts (+0,38 %).
+- **UST 10 ans** : 4,14 % (-4 pb sur la séance post-discours), Bund 10 ans 2,40 % (-2 pb), confirmation biais dovish sans emballement (baisse septembre pricée à ~85 % vs 80 % pré-Powell).
+- **DXY** : 101,90 (-0,25 %), EUR/USD 1,1110 (+0,23 %), or 3 495 $/oz (+0,29 %), tous cohérents scenario dovish mesuré.
+- **PMI Flash US août 15:45 CET** (pré-discours) : manuf 51,8 (consensus 51,5, très légère surprise haussière), services 53,2 (consensus 53,0, en ligne) = catalyseur secondaire risk-on marginal +0,10-0,15 % sur cyclicals pré-Powell.
+
+#### Table portefeuille clôture officielle vendredi 21/08 17:35 CET (cours de référence week-end)
+
+| Ligne | Qté | Prix achat | Clôture 21/08 | Valeur | P&L € | P&L % | Δ vs matinée vendredi |
+|-------|-----|-----------|---------------|--------|-------|-------|----------------------|
+| AI.PA | 2 | 162,00 | 183,85 | 367,70 | +43,70 | +13,49 % | +0,70 € (+0,19 %) |
+| SAN.PA | 3 | 87,00 | 94,35 | 283,05 | +22,05 | +8,45 % | +0,60 € (+0,21 %) |
+| SU.PA | 1 | 220,00 | 317,80 | 317,80 | +97,80 | +44,45 % | +1,30 € (+0,41 %) |
+| DG.PA | 1,70 | 122,80 | 162,20 | 275,74 | +66,94 | +32,03 % | +1,02 € (+0,37 %) |
+| **Investi** | | | | **1 244,29** | **+230,49** | **+22,74 %** | +3,62 € (+0,29 %) |
+| **Cash** | | | | **12,52** | | | inchangé |
+| **Total** | | | | **1 256,81** | **+256,81** | **+25,68 %** | +3,62 € (+0,29 %) |
+
+**Bilan semaine 34** : ouverture 1 250,00 € (lundi matin) → clôture 1 256,81 € (vendredi soir) = **+6,81 € / +0,54 % sur la semaine**, dont +5,90 € cash dividendaire SAN + 0,91 € progression nette mark-to-market. **Nouveau plus haut historique de clôture** (précédent 1 253,19 € vendredi matinée pré-ex-div). Ratio mécanique post-pivot FOMC 19 juin **maintenu 23/23 en 44 séances (100 %)**.
+
+#### Carnet de seuils au 22/08 10:00 (7 seuils actifs, reconduits à l'identique week-end + lundi matin)
+
+| # | Seuil | Clôture 21/08 | Marge | État |
+|---|-------|---------------|-------|------|
+| 1 | Stop SU.PA @ 292,00 € trailing | 317,80 € | +25,80 € (+8,8 %) | ✅ actif |
+| 2 | Stop DG.PA @ 154,00 € technique | 162,20 € | +8,20 € (+5,3 %) | ✅ actif |
+| 4 | Stop AI.PA @ 173,00 € trailing | 183,85 € | +10,85 € (+6,3 %) | ✅ actif |
+| 7 | CAC 40 < 8 100 pts | 9 275 pts | +1 175 pts | ✅ actif |
+| 28 | SU.PA > 320,00 € en **clôture** (phase 8+ runner+++) | 317,80 € | -2,20 € (à **0,69 %**) | ✅ actif, **nouveau record absolu cycle** |
+| 30 | DG.PA > 165,00 € en **clôture** (phase 7+ pyramide) | 162,20 € | -2,80 € (à **1,73 %**) | ✅ actif, digestion J+4 |
+
+#### Décisions et explication des mouvements
+
+**1. AUCUNE OPÉRATION EXÉCUTABLE — MARCHÉS EURONEXT FERMÉS WEEK-END (samedi + dimanche).** Session de revue et pré-armement uniquement, aucun ordre passable par construction. La règle d'or #1 est appliquée de facto par la fermeture technique du marché.
+
+**2. AUCUNE MODIFICATION DE CARNET — 7 SEUILS RECONDUITS À L'IDENTIQUE POUR LUNDI 24/08 OUVERTURE 09:00 CET.** Aucun ajustement de niveau, aucun désarmement, aucun armement nouveau. Le plan pré-armé mardi soir et reconduit intraday vendredi reste valide sans altération : la discipline mécanique se prolonge naturellement au week-end.
+
+**3. TRIGGER #28 SU NON ACTIVÉ VENDREDI CLÔTURE — MAIS MARGE À 0,69 % = NOUVEAU RECORD ABSOLU DU CYCLE.** SU 317,80 € clôture = pré-bascule ultra-tendue, sur la barre 320 € il ne manque que 2,20 €. Probabilité conditionnelle activation trigger #28 **lundi clôture révisée à ~35-45 %** (vs 15-25 % vendredi matin) — le ton Powell mesuré valide un continuation constructive sans excès, exactement le contexte qui favorise une bascule lundi/mardi post-digestion week-end. Protocole post-trigger #28 pré-armé, exécutable dès lundi 17:40 CET si activation.
+
+**4. CONSERVE — L'INTÉGRALITÉ DES 4 LIGNES.** Aucune thèse invalidée, toutes en drift positif vendredi clôture, portefeuille au nouveau plus haut historique de clôture 1 256,81 € :
+- **AI.PA (+13,49 %)** : ancre défensive, +0,19 % clôture vendredi. Hold structurel. Prochain catalyseur : dividende AI T3 fin août-mi septembre (~1,50-2,00 € net attendu).
+- **SAN.PA (+8,45 % latent + 5,90 € cash réalisé = +10,72 % économique)** : rendement défensif validé, premier coupon encaissé, +0,21 % clôture rebond post-ex-div technique.
+- **SU.PA (+44,45 %)** : runner cyclique phase 8+, +0,41 % clôture — meilleure progression du jour. Stop 292 € (+72 € lock-in). **Marge #28 à 0,69 % = nouveau record absolu cycle**, candidat quasi-imminent trigger lundi ou mardi.
+- **DG.PA (+32,03 %)** : pyramide phase 7+, +0,37 % clôture. Stop 154 € (+53,04 € verrouillés). Marge #30 à 1,73 % = digestion J+4 en resserrement continu, bascule attendue lundi-mercredi semaine 35.
+
+**5. LOCK-IN INCHANGÉ — PLANCHER GARANTI +13,09 %** : SU stop 292 € (+72,00 €) + DG stop 154 € (+53,04 €) + ex-div SAN encaissé (+5,90 €) = **+130,94 € verrouillés + capital 1 000 € = 1 130,94 € plancher**. Ratio de verrouillage : **51,0 %** du gain total (+256,81 €) verrouillé mécaniquement.
+
+**6. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue (49ᵉ session consécutive).** Cash 12,52 € toujours en-deçà du seuil pratique ouverture 5ᵉ ligne (~200 €).
+
+#### Stratégie — pré-armement semaine 35 (24-28 août)
+
+**Semaine 35 est structurellement dominée par un catalyseur unique : résultats Nvidia T2 mardi 26/08 22:00-22:30 CET after-hours** (guidance capex hyperscaler = tell décisif pour les thèses SU data center + AI gaz industriels fabs + écosystème semi européen ASML/STM/Soitec). Les 3 séances Euronext lundi-mardi seront de la digestion post-Powell + positionnement pré-Nvidia, les 3 séances mercredi-vendredi seront de la réaction post-Nvidia.
+
+**Scenarios pré-armés Nvidia T2 mardi 26/08 22:00 CET** :
+1. **Beat + guidance capex hyperscaler ≥ consensus (proba ~55 %)** : rally cyclique européen mercredi 27/08 ouverture +0,8 à +1,5 %, SU pourrait imprimer 322-326 € = trigger #28 quasi-certain, DG 164-166 € = trigger #30 probable, AI +0,5 à +1,0 % sur exposition indirecte fabs. Protocole double-trigger à exécuter mercredi 17:40 CET.
+2. **En ligne consensus (proba ~30 %)** : digestion sans conviction, SU 317-320 €, DG 162-164 €, oscillation étroite, reconduction jeudi.
+3. **Miss / guidance décevante (proba ~15 %)** : correction cyclique -0,8 à -1,5 %, SU 313-316 € = pas de touche stop 292 €, DG 159-161 € = pas de touche stop 154 €. Stops mécaniques immunisent le downside.
+
+**Plan de séances semaine 35** :
+- **Lundi 24 août 09:15 CET** : ouverture semaine 35, gap week-end (proba gap significatif >±0,5 % ~15 %), évaluation intraday + clôture 17:35 CET trigger #28 SU (proba conditionnelle jour ~15-25 %).
+- **Mardi 25 août** : J-1 pré-Nvidia, drift attentiste anticipé, pré-armement final.
+- **Mardi 25 août 22:00 CET** : publication résultats Nvidia T2 (attention marchés fermés Euronext = digestion overnight only).
+- **Mercredi 26 août 09:15 CET** : réaction Euronext post-Nvidia, gap ouverture directionnel probable, potentielle bascule double trigger #28 SU + #30 DG selon scenario.
+- **Jeudi-vendredi 27-28 août** : digestion post-Nvidia, éventuelle exécution protocole post-triggers si activés mercredi.
+
+**Prochaine réévaluation** : **lundi 24 août 09:15 CET** (ouverture semaine 35, gap Euronext digestion week-end post-Powell + J-2 pré-Nvidia). Stops actifs : SU.PA **292,00 €** trailing (inchangé), DG.PA **154,00 €** technique (inchangé). Carnet d'ordres **7 seuils actifs** reconduits à l'identique week-end. Cash **12,52 €** (inchangé). Focus lundi : **évaluation gap ouverture 09:00 CET, intraday drift post-Powell digéré, clôture 17:35 CET trigger #28 SU (marge 0,69 % = candidat imminent), préparation J-2 pré-Nvidia**. **Ratio mécanique 23/23 tenu (100 % post-pivot FOMC 19 juin), plancher +13,09 % garanti, nouveau plus haut historique de clôture 1 256,81 € (+25,68 %)** — la mécanique reste armée pour la semaine 35, la discrétion se tait, le seul catalyseur exogène majeur cycle IA T4 (Nvidia T2 mardi soir) sera traité par le seul mécanique des seuils pré-armés.
+
