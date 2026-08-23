@@ -12,10 +12,10 @@
 | Vinci | DG.PA | 1,70 | 122,80 | 162,20 | +66,94 | +32,03% |
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 encaissé vendredi matin conservé intact, aucun mouvement week-end par construction Euronext fermé samedi-dimanche)  
-**Valeur investie (mark-to-market clôture officielle vendredi 21/08 17:35 CET, cours de référence week-end) :** 1 244,29 €  
-**Valeur totale du portefeuille :** 1 256,81 € (**+25,68 %** depuis ouverture, **+0,29 % vs matinée vendredi**, réponse constructive mesurée post-Powell Jackson Hole 16:00 CET — scenario ton mesuré data-dependent réalisé (proba pré-armée ~40 %), continuation dovish latente sans engagement calendaire ferme, SU +0,41 % clôture = marge #28 resserrée à **0,69 %** = nouveau record absolu cycle phase 8+ mais pas d'activation, DG +0,37 % = marge #30 resserrée à **1,73 %**, AI/SAN drift défensif +0,19 %/+0,21 %)
+**Valeur investie (mark-to-market clôture officielle vendredi 21/08 17:35 CET, cours de référence week-end J+2) :** 1 244,29 €  
+**Valeur totale du portefeuille :** 1 256,81 € (**+25,68 %** depuis ouverture, cours figés au fixing officiel Euronext vendredi 21/08 17:35 CET, cinquième et dernier jour de référence week-end)
 
-> Stops actifs : SU.PA **292,00 €** trailing (inchangé), DG.PA **154,00 €** technique (inchangé). Mise à jour : 2026-08-22 10:00 CET (**samedi 22 août 2026 — session de revue week-end post-Powell + pré-armement semaine 35, marchés Euronext fermés, aucune opération exécutable, plan Monday pré-armé identique**). **0 trigger activé vendredi clôture, 0 modification carnet, plancher garanti maintenu à +13,09 %** (SU stop 292 € = +72,00 € + DG stop 154 € = +53,04 € + ex-div SAN encaissé +5,90 € → **+130,94 € verrouillés** + capital 1 000 € = **1 130,94 € plancher**, ratio de verrouillage 51,0 % du gain total actuel). Portefeuille clôture semaine 34 **1 256,81 € (+25,68 %)** = **nouveau plus haut historique de clôture**. 82ᵉ entrée journal (session 99 — revue week-end post-semaine 34). **Prochaine réévaluation : lundi 24 août 09:15 CET** (ouverture semaine 35, J+3 post-Powell, gap Euronext digestion week-end + J-2 pré-résultats Nvidia mardi 26/08 after-hours = catalyseur T4 majeur cycle IA pour thèses SU/AI).
+> Stops actifs : SU.PA **292,00 €** trailing (inchangé), DG.PA **154,00 €** technique (inchangé). Mise à jour : 2026-08-23 10:00 CET (**dimanche 23 août 2026 — J-1 pré-ouverture semaine 35, marchés Euronext fermés, aucune opération exécutable, revalidation carnet + pré-armement final lundi**). **0 trigger activé, 0 modification carnet, plancher garanti maintenu à +13,09 %** (SU stop 292 € = +72,00 € + DG stop 154 € = +53,04 € + ex-div SAN encaissé +5,90 € → **+130,94 € verrouillés** + capital 1 000 € = **1 130,94 € plancher**, ratio de verrouillage 51,0 % du gain total actuel). Portefeuille au **nouveau plus haut historique de clôture 1 256,81 € (+25,68 %)**. 83ᵉ entrée journal (session 100 — revue dimanche J-1 pré-semaine 35). **Prochaine réévaluation : lundi 24 août 09:15 CET** (ouverture semaine 35, gap Euronext digestion week-end post-Powell + J-2 pré-résultats Nvidia mardi 26/08 after-hours = catalyseur T4 majeur cycle IA pour thèses SU/AI).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -6618,3 +6618,72 @@ Carnet armé sur **8 seuils actifs** — 1 désarmement (#20) + 1 armement (#22)
 
 **Prochaine réévaluation** : **lundi 24 août 09:15 CET** (ouverture semaine 35, gap Euronext digestion week-end post-Powell + J-2 pré-Nvidia). Stops actifs : SU.PA **292,00 €** trailing (inchangé), DG.PA **154,00 €** technique (inchangé). Carnet d'ordres **7 seuils actifs** reconduits à l'identique week-end. Cash **12,52 €** (inchangé). Focus lundi : **évaluation gap ouverture 09:00 CET, intraday drift post-Powell digéré, clôture 17:35 CET trigger #28 SU (marge 0,69 % = candidat imminent), préparation J-2 pré-Nvidia**. **Ratio mécanique 23/23 tenu (100 % post-pivot FOMC 19 juin), plancher +13,09 % garanti, nouveau plus haut historique de clôture 1 256,81 € (+25,68 %)** — la mécanique reste armée pour la semaine 35, la discrétion se tait, le seul catalyseur exogène majeur cycle IA T4 (Nvidia T2 mardi soir) sera traité par le seul mécanique des seuils pré-armés.
 
+
+---
+
+### 2026-08-23 10:00 — Dimanche 23 août 2026, **J-1 pré-ouverture semaine 35, marchés Euronext fermés** (session 100)
+
+#### Contexte de marché — dimanche J-1, information week-end
+
+- **Marchés cash fermés** samedi et dimanche par construction Euronext ; aucun fixing officiel entre vendredi 21/08 17:35 CET et lundi 24/08 09:00 CET. Cours de référence pour toute évaluation dominicale = fixing vendredi soir (déjà utilisé samedi, reconduits identiques dimanche).
+- **Futures US indicatifs** (Sunday evening open 23:00 CET / non actionnables pour Euronext) : à surveiller demain matin pour lecture gap probable — non intégré aujourd'hui car information incomplète et fondamentalement révisable avant l'ouverture Paris.
+- **Flux week-end post-Powell** : aucune nouvelle macro majeure entre samedi 10:00 CET (dernière session de revue) et dimanche 10:00 CET (session actuelle). Pas de speaker Fed, pas de publication de données, pas d'événement géopolitique significatif nécessitant révision du plan.
+- **Digestion médiatique Powell Jackson Hole** : les analyses week-end (WSJ, FT, Bloomberg dominicaux) convergent sur la lecture « ton mesuré data-dependent, cadence trajectoire dovish préservée sans précipitation » — exactement le scenario 2 pré-armé, aucune surprise interprétative.
+- **J-2 Nvidia T2** : consensus street inchangé (CA T2 attendu ~46 Md$, EPS ~1,04 $, guidance capex hyperscaler = tell décisif). Publication mardi 26/08 22:00-22:30 CET after-hours.
+
+#### Table portefeuille (cours figés vendredi 21/08 17:35 CET, reconduits dimanche identiques samedi)
+
+| Ligne | Qté | Prix achat | Clôture 21/08 | Valeur | P&L € | P&L % |
+|-------|-----|-----------|---------------|--------|-------|-------|
+| AI.PA | 2 | 162,00 | 183,85 | 367,70 | +43,70 | +13,49 % |
+| SAN.PA | 3 | 87,00 | 94,35 | 283,05 | +22,05 | +8,45 % |
+| SU.PA | 1 | 220,00 | 317,80 | 317,80 | +97,80 | +44,45 % |
+| DG.PA | 1,70 | 122,80 | 162,20 | 275,74 | +66,94 | +32,03 % |
+| **Investi** | | | | **1 244,29** | **+230,49** | **+22,74 %** |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 256,81** | **+256,81** | **+25,68 %** |
+
+#### Carnet de seuils au 23/08 10:00 (7 seuils actifs, reconduits identique lundi ouverture)
+
+| # | Seuil | Clôture 21/08 | Marge | État |
+|---|-------|---------------|-------|------|
+| 1 | Stop SU.PA @ 292,00 € trailing | 317,80 € | +25,80 € (+8,8 %) | ✅ actif |
+| 2 | Stop DG.PA @ 154,00 € technique | 162,20 € | +8,20 € (+5,3 %) | ✅ actif |
+| 4 | Stop AI.PA @ 173,00 € trailing | 183,85 € | +10,85 € (+6,3 %) | ✅ actif |
+| 7 | CAC 40 < 8 100 pts | 9 275 pts | +1 175 pts | ✅ actif |
+| 28 | SU.PA > 320,00 € en **clôture** (phase 8+ runner+++) | 317,80 € | -2,20 € (à **0,69 %**) | ✅ actif, record cycle |
+| 30 | DG.PA > 165,00 € en **clôture** (phase 7+ pyramide) | 162,20 € | -2,80 € (à **1,73 %**) | ✅ actif, digestion J+5 |
+
+#### Décisions et explication des mouvements
+
+**1. AUCUNE OPÉRATION EXÉCUTABLE — MARCHÉS EURONEXT FERMÉS DIMANCHE.** Par construction technique, aucun ordre passable, aucune modification de carnet possible côté broker. Session dominicale = revue de cohérence + validation finale du plan Monday.
+
+**2. CARNET RECONDUIT À L'IDENTIQUE — 7 SEUILS INCHANGÉS.** Aucun ajustement ni désarmement. Le plan pré-armé mardi soir, confirmé mercredi/jeudi/vendredi puis samedi reste valide dimanche : 5 séances de validation consécutive = discipline mécanique verrouillée. Aucun signal week-end n'invalide une quelconque thèse ou n'appelle une réévaluation de seuil.
+
+**3. CONSERVE — L'INTÉGRALITÉ DES 4 LIGNES.** Toutes en gain latent significatif, portefeuille au nouveau plus haut historique de clôture 1 256,81 €. Pas d'ombre de raison discrétionnaire de bouger avant l'ouverture lundi.
+
+**4. LOCK-IN INCHANGÉ — PLANCHER GARANTI 1 130,94 € (+13,09 %).** Le plancher couvre 51,0 % du gain total actuel via les stops mécaniques SU 292 € + DG 154 € et le cash SAN ex-div T3 déjà encaissé. Aucun mouvement discrétionnaire ne pourrait améliorer ce ratio ; seule la relève mécanique de stops (trigger #28 SU si activé lundi ou mardi) resserre le plancher plus haut.
+
+**5. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue (50ᵉ session consécutive, cap symbolique).** Cash 12,52 € toujours en-deçà du seuil pratique d'ouverture d'une 5ᵉ ligne (~200 €). Cadre discipline strict préservé.
+
+#### Stratégie — validation finale dimanche J-1 pré-lundi ouverture semaine 35
+
+**Pourquoi une session dimanche même sans opération possible ?** Trois raisons opérationnelles :
+1. **Validation de cohérence** entre le plan pré-armé samedi et l'information week-end incrémentale (nulle en l'occurrence) — confirme que le plan Monday reste exécutable tel quel.
+2. **Continuité du journal** : la mécanique du portefeuille tient à la régularité de la revue quotidienne, pas seulement aux séances de marché. Une revue dominicale = ancrage temporel qui prévient les biais d'ouverture lundi.
+3. **Pré-armement mental final** : la clarté du plan avant l'ouverture 09:00 CET est un actif — pas de brouillage entre samedi (revue post-clôture) et lundi (exécution).
+
+**Plan Monday inchangé** (validation identique samedi + dimanche) :
+- **09:00 CET** : ouverture Euronext, évaluation gap week-end (proba gap >±0,5 % ~15 %, gap directionnel constructif +0,3-0,7 % ~40 %, gap plat ~35 %, gap négatif -0,3-0,7 % ~10 %).
+- **09:15-17:30 CET** : intraday, observation passive, application stricte règle d'or #6 (aucune prise partielle discrétionnaire).
+- **17:35 CET** : fixing officiel clôture, évaluation mécanique trigger #28 SU (marge 0,69 %, proba conditionnelle jour ~15-25 %). Si activé → protocole post-trigger exécutable 17:40 CET (relève stop SU trailing à 300 €, +8 € plancher supplémentaire).
+- **22:00 CET** : bilan lundi + pré-armement mardi J-1 Nvidia.
+
+**Semaine 35 catalyseurs pré-cartographiés** :
+- Lundi 24/08 : gap Euronext post-Powell, potentiel trigger #28 SU clôture.
+- Mardi 25/08 : J-1 Nvidia, drift attentiste, pré-armement mercredi.
+- Mardi 25/08 22:00 CET : publication Nvidia T2 (marchés Euronext fermés = digestion overnight).
+- Mercredi 26/08 09:15 CET : réaction Euronext post-Nvidia, gap directionnel probable, potentielle bascule double trigger #28 SU + #30 DG.
+- Jeudi-vendredi 27-28/08 : digestion, éventuelle exécution protocoles post-triggers.
+
+**Prochaine réévaluation** : **lundi 24 août 09:15 CET** (ouverture semaine 35). Stops actifs : SU.PA **292,00 €** trailing, DG.PA **154,00 €** technique. Carnet **7 seuils actifs** reconduits. Cash **12,52 €**. Focus lundi : gap ouverture 09:00 CET, drift intraday post-Powell digéré, clôture 17:35 CET trigger #28 SU (marge 0,69 % = candidat imminent), préparation J-2 pré-Nvidia. **Ratio mécanique 23/23 (100 % post-pivot FOMC 19 juin), plancher +13,09 % garanti, nouveau plus haut historique de clôture 1 256,81 € (+25,68 %)** — la mécanique reste armée, la discrétion se tait, la session dominicale confirme sans altérer.
