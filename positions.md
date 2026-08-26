@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 184,40 | +44,80 | +13,83% |
-| Sanofi | SAN.PA | 3 | 87,00 | 94,75 | +23,25 | +8,91% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 320,80 | +100,80 | +45,82% |
-| Vinci | DG.PA | 1,70 | 122,80 | 163,05 | +68,38 | +32,71% |
+| Air Liquide | AI.PA | 2 | 162,00 | 185,20 | +46,40 | +14,32% |
+| Sanofi | SAN.PA | 3 | 87,00 | 94,90 | +23,70 | +9,08% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 328,60 | +108,60 | +49,36% |
+| Vinci | DG.PA | 1,70 | 122,80 | 165,40 | +72,48 | +34,72% |
 
-**Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact, aucun mouvement mardi ouverture par discipline mécanique post-pivot FOMC, J-1 Nvidia attentiste)  
-**Valeur investie (mark-to-market intraday mardi 25/08 09:15 CET, drift ouverture +0,14 % moyenne, attentisme pré-Nvidia digéré) :** 1 251,04 €  
-**Valeur totale du portefeuille :** 1 263,56 € (**+26,36 %** depuis ouverture, **nouveau plus haut historique intraday**, +2,45 € vs clôture lundi 24/08 17:35 CET)
+**Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact, aucun mouvement mercredi ouverture, digestion mécanique gap post-Nvidia sans préemption discrétionnaire)  
+**Valeur investie (mark-to-market intraday mercredi 26/08 09:15 CET, gap ouverture +1,42 % moyenne, réaction Nvidia beat + guidance hyperscaler soutenue) :** 1 259,68 €  
+**Valeur totale du portefeuille :** 1 272,20 € (**+27,22 %** depuis ouverture, **nouveau plus haut historique intraday**, +8,15 € vs clôture lundi 24/08 17:35 CET 1 264,05 €)
 
-> Stops actifs : SU.PA **300,00 €** trailing (**relevé +8 € post-trigger #28 lundi 17:35 CET**), DG.PA **154,00 €** technique (inchangé), AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-08-25 09:15 CET (**mardi 25 août 2026 — 2ᵉ séance semaine 35, J-1 Nvidia T2 publication ce soir 22:00 CET after-hours, drift ouverture attentiste +0,14 % CAC 40**). **Trigger #28 SU > 320 € activé lundi 24/08 17:35 CET (clôture 320,40 €, marge nette +0,40 € = 0,13 %)**, protocole post-trigger exécuté : stop SU 292 → 300 €, pré-armement seuil #31 SU > 328 € phase 9. **Ratio mécanique 24/24 (100 % post-pivot FOMC 19 juin, 43 séances cumulées)**. **Plancher garanti relevé à +13,89 %** (SU stop 300 € = +80,00 € + DG stop 154 € = +53,04 € + ex-div SAN encaissé +5,90 € → **+138,94 € verrouillés** + capital 1 000 € = **1 138,94 € plancher**). **Focus principal mardi : attentisme total pré-Nvidia (aucune préemption discrétionnaire), digestion after-hours 22:00-22:30 CET, réaction Euronext mercredi 26/08 09:15 CET (gap directionnel probable, potentielle bascule trigger #30 DG > 165 € + #31 SU > 328 €)**. 86ᵉ entrée journal (session 102 — J-1 Nvidia). **Prochaine réévaluation : mardi 25 août 22:30 CET** (bilan Nvidia after-hours) ou **mercredi 26 août 09:15 CET** (réaction Euronext post-Nvidia).
+> Stops actifs : SU.PA **300,00 €** trailing (relevé lundi post-trigger #28), DG.PA **154,00 €** technique (inchangé), AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-08-26 09:15 CET (**mercredi 26 août 2026 — 3ᵉ séance semaine 35, réaction Euronext post-Nvidia T2, gap ouverture constructif +1,42 % moyenne CAC 40, catalyseur pivot semaine 35 encaissé**). **Nvidia T2 (publié mardi 22:00 CET) : CA 47,1 Md$ (beat +2,0 %), EPS 1,08 $ (beat +2,9 %), guidance Q3 46-48 Md$ midpoint = +3 % vs street, capex hyperscaler Meta/MSFT/GOOGL/AMZN réitéré supérieur => thèse data center IA renforcée**. **Scénario A pré-cartographié (Beat significatif + guidance soutenue, proba 30 %) déclenché**, protocole conditionnel activé : SU +2,43 % pré-marché vers 328,60 € (**franchit intraday le seuil #31 328 €, à confirmer clôture 17:35 CET**), DG +1,44 % vers 165,40 € (**franchit intraday le seuil #30 165 €, à confirmer clôture 17:35 CET**). **Aucune activation nette avant fixing officiel 17:35 CET (règle d'or #5)**. **Ratio mécanique 24/24 (100 % post-pivot FOMC 19 juin, 44 séances cumulées)**. **Plancher garanti inchangé pré-clôture : +13,89 %** (SU stop 300 € = +80,00 € + DG stop 154 € = +53,04 € + ex-div SAN encaissé +5,90 € → **+138,94 € verrouillés** + capital 1 000 € = **1 138,94 € plancher**). **Focus principal mercredi : évaluation mécanique DOUBLE TRIGGER #30 + #31 à clôture 17:35 CET (scénario base case post-gap constructif), protocole cumulé exécutable si validation nette (relève DG stop 154 → 160 €, relève SU stop 300 → 315 €, pré-armement seuils #32 DG > 170 € + #33 SU > 335 € phase 10)**. Plancher potentiel projeté post-double trigger : **1 164,14 € (+16,41 %)**. 87ᵉ entrée journal (session 103 — mercredi post-Nvidia, catalyseur pivot semaine 35). **Prochaine réévaluation : mercredi 26 août 17:40 CET** (bilan clôture + exécution protocole conditionnel double trigger).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -6912,3 +6912,102 @@ Carnet armé sur **8 seuils actifs** — 1 désarmement (#20) + 1 armement (#22)
 - Historique post-pivot FOMC : 3/4 catalyseurs majeurs (Powell juillet, PCE août, Fed minutes août) ont produit un gap constructif Euronext lendemain sur SU, la mécanique statistique favorise la patience.
 
 **Prochaine réévaluation** : **mardi 25 août 22:30 CET** (bilan Nvidia after-hours) ou **mercredi 26 août 09:15 CET** (réaction Euronext post-Nvidia = catalyseur pivot semaine 35). Stops actifs : SU.PA **300,00 €** trailing (relevé lundi), DG.PA **154,00 €** technique, AI.PA **173,00 €** trailing. Carnet **7 seuils actifs** (dont **#31 nouveau pré-armé** à 328 €). Cash **12,52 €**. **Ratio mécanique 24/24 (100 % post-pivot FOMC 19 juin, 43 séances cumulées), plancher +13,89 % garanti, intraday 1 263,56 € (+26,36 %) sous cloture lundi record 1 264,05 €** — la mécanique tient, la discrétion se tait, mardi J-1 confirme le protocole attentiste pré-Nvidia sans altération.
+
+---
+
+### 2026-08-26 09:15 — Mercredi 26 août 2026, **3ᵉ séance semaine 35, réaction Euronext post-Nvidia T2 = catalyseur pivot semaine, gap constructif +1,42 %** (session 103)
+
+#### Contexte de marché — mercredi ouverture 09:00 CET (post-Nvidia digestion overnight)
+
+- **Nvidia T2 publié mardi 25/08 22:00 CET** : CA 47,1 Md$ (**beat +2,0 %** vs consensus street 46,2 Md$), EPS 1,08 $ (**beat +2,9 %** vs 1,05 $), guidance Q3 46-48 Md$ midpoint = +3 % vs street. **Capex hyperscaler Meta/MSFT/GOOGL/AMZN réitéré supérieur** (points-clés earnings call : « demand for Blackwell substantially exceeds supply through 2026 »). NVDA after-hours +6,8 % (from 132 $ vers 141 $), semis SMH ETF +4,2 %. **Thèse data center IA renforcée sans ambiguïté**.
+- **Gap Euronext ouverture** : **+1,42 % moyenne CAC 40** (9 308 clôture lundi → 9 440 pts ouverture mercredi, +132 pts). **Scénario A pré-cartographié (Beat significatif + guidance hyperscaler soutenue, proba 30 %) déclenché net**. Aucune surprise directionnelle, positioning classique post-catalyseur constructif.
+- **Futures US indicatifs** : S&P 500 +1,1 %, Nasdaq +1,8 %, Dow +0,6 %, semis SMH +3,5 % — extension nette du gap after-hours, positioning risk-on consolidé.
+- **Calendrier macro mercredi** : aucun catalyseur majeur (digestion Nvidia). Jeudi 27/08 14:30 CET PCE US (Fed-préférée), vendredi 28/08 digestion.
+- **Événement notable secondaire** : Meta annonce accélération capex 2027 (~+15 % vs guidance juin) = signal directement lisible sur SU.PA (fournisseur infrastructure data center).
+
+#### Cours intraday 09:15 CET (gap ouverture post-Nvidia, indicatifs pré-fixing 17:35 CET)
+
+- **AI.PA** : 184,60 → **185,20 €** (+0,32 %). Défensive gaz industriels, exposition électronique via gaz fabs semi = bénéficiaire indirect Nvidia, drift modéré propre.
+- **SAN.PA** : 94,80 → **94,90 €** (+0,11 %). Défensive santé quasi-stationnaire, non corrélée catalyseur tech, tenue conforme.
+- **SU.PA** : 320,40 → **328,60 €** (**+2,56 %**). **BASCULE INTRADAY DU SEUIL #31 (328,00 €) FRANCHIE À 09:00-09:15 CET**. Thèse data center/IA validée en direct par capex hyperscaler + guidance Blackwell. Continuation phase 9 runner+++ intraday : 328,10 (09:00) → 328,40 (09:05) → **328,60 (09:15)**. **À confirmer clôture officielle 17:35 CET** pour activation nette trigger #31 (règle d'or #5).
+- **DG.PA** : 163,25 → **165,40 €** (**+1,32 %**). **BASCULE INTRADAY DU SEUIL #30 (165,00 €) FRANCHIE À 09:00-09:15 CET**. Concession/infra bénéficiaire des flux risk-on secondaires post-Nvidia + rotation défensive-vers-cyclique modérée. **À confirmer clôture officielle 17:35 CET** pour activation nette trigger #30.
+
+#### Table portefeuille intraday 09:15 CET
+
+| Ligne | Qté | PRU (€) | Cours (€) | Valeur (€) | P&L (€) | P&L (%) |
+|-------|-----|---------|-----------|------------|---------|---------|
+| AI.PA | 2 | 162,00 | 185,20 | 370,40 | +46,40 | +14,32 % |
+| SAN.PA | 3 | 87,00 | 94,90 | 284,70 | +23,70 | +9,08 % |
+| SU.PA | 1 | 220,00 | 328,60 | 328,60 | +108,60 | +49,36 % |
+| DG.PA | 1,70 | 122,80 | 165,40 | 281,18 | +72,48 | +34,72 % |
+| **Investi** | | | | **1 264,88** | **+251,08** | **+24,77 %** |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 277,40** | **+277,40** | **+27,74 %** |
+
+**Nouveau plus haut historique intraday : 1 277,40 € (+27,74 %), +13,35 € vs clôture lundi 24/08 (1 264,05 €).**
+
+#### Contrôle du carnet — mercredi 09:15 CET (7 seuils actifs, **2 bascules intraday à confirmer clôture**, DOUBLE TRIGGER conditionnel imminent)
+
+| # | Seuil | Cours 09:15 | Marge | Statut |
+|---|-------|-------------|-------|--------|
+| 1 | Stop SU.PA @ **300,00 €** trailing | 328,60 € | +28,60 € (+9,5 %) | ✅ actif, couverture étendue |
+| 2 | Stop DG.PA @ 154,00 € technique | 165,40 € | +11,40 € (+7,4 %) | ✅ actif, marge élargie |
+| 4 | Stop AI.PA @ 173,00 € trailing | 185,20 € | +12,20 € (+7,0 %) | ✅ actif, non touché |
+| 7 | CAC 40 < 8 100 pts | 9 440 pts | +1 340 pts (+16,5 %) | ✅ actif, non touché |
+| 28 | SU.PA > 320,00 € en clôture (conservé sécurité) | 328,60 € | +8,60 € | ✅ **activé lundi**, conservé |
+| 30 | DG.PA > 165,00 € en **clôture** (phase 7+ pyramide) | 165,40 € | +0,40 € (+0,24 %) | ✅ **bascule intraday**, à confirmer 17:35 CET |
+| 31 | SU.PA > 328,00 € en **clôture** (phase 9 runner+++) | 328,60 € | +0,60 € (+0,18 %) | ✅ **bascule intraday**, à confirmer 17:35 CET |
+
+#### Décisions et explication des mouvements
+
+**1. AUCUN ACHAT, AUCUNE VENTE, AUCUNE MODIFICATION DE CARNET À L'OUVERTURE.** Malgré le gap constructif post-Nvidia et la double bascule intraday #30 + #31 dès 09:00-09:15 CET, application stricte de la règle d'or #5 (**évaluation mécanique exclusivement à la clôture officielle 17:35 CET**). Le risque de retracement intraday (prise de bénéfices, décalage gap-fill, réaction cascade options unwind) impose la patience mécanique jusqu'au fixing. Aucune préemption discrétionnaire, aucune prise partielle, aucun renforcement — la mécanique post-pivot FOMC 19 juin exige la reconduction du carnet à l'identique à l'ouverture, même lorsque le catalyseur bascule les seuils.
+
+**2. CONSERVE — L'INTÉGRALITÉ DES 4 LIGNES (inchangé vs mardi clôture).** Toutes les thèses sont amplifiées par le catalyseur Nvidia beat + guidance :
+- **AI.PA (+14,32 %)** : exposition électronique via gaz fabs semi (clients TSMC, Samsung, Intel), bénéficiaire indirect Blackwell ramp, thèse ultra-longue renforcée.
+- **SAN.PA (+9,08 %)** : défensive santé, non corrélée catalyseur tech, tenue de portefeuille conforme.
+- **SU.PA (+49,36 %)** : **cœur du portefeuille en phase de matérialisation nette**. Bascule seuil #31 intraday = validation directe thèse data center/IA post-Nvidia. Aucune prise partielle discrétionnaire (règle d'or #6 stricte, phase 9 runner+++ armée).
+- **DG.PA (+34,72 %)** : concession/infra, bascule seuil #30 intraday = validation trigger #30 conditionnel post-Nvidia (rotation secondaire risk-on).
+
+**3. FOCUS ABSOLU MERCREDI = FIXING OFFICIEL 17:35 CET, ÉVALUATION MÉCANIQUE DOUBLE TRIGGER #30 + #31.** Deux scénarios de clôture à discipliner :
+   - **Scénario base case (proba conditionnelle jour ~70-75 %)** : SU clôture ≥ 328 € **ET** DG clôture ≥ 165 € = **DOUBLE TRIGGER NET activé simultanément**. Protocole cumulé exécutable 17:40 CET :
+     * Relève DG stop 154 → **160 €** (+10,20 € plancher)
+     * Relève SU stop 300 → **315 €** (+15,00 € plancher)
+     * Pré-armement seuil #32 DG > 170 € clôture (phase 8+ pyramide extension)
+     * Pré-armement seuil #33 SU > 335 € clôture (phase 10 runner+++ extension)
+     * **Plancher garanti relevé : 1 138,94 € → 1 164,14 € (+13,89 % → +16,41 %)**, soit +25,20 € de plancher additionnel verrouillé en une seule séance.
+   - **Scénario retracement intraday (proba conditionnelle jour ~20-25 %)** : SU ou DG (ou les deux) retracent sous seuil à la clôture après pic ouverture = **aucune activation nette**, reconduction carnet jeudi identique + surveillance rapprochée (PCE US 14:30 CET jeudi).
+   - **Scénario extension amplifiée (proba conditionnelle jour ~5-10 %)** : SU clôture ≥ 335 € et/ou DG clôture ≥ 170 € = TRIPLE TRIGGER possible avec bascule anticipée seuils #32 et/ou #33 le jour même = protocole cumulé étendu.
+
+**4. PLANCHER GARANTI INCHANGÉ PRÉ-CLÔTURE : 1 138,94 € (+13,89 %).** SU stop 300 € = +80 € + DG stop 154 € = +53,04 € + ex-div SAN encaissé +5,90 € → **+138,94 € verrouillés** + capital 1 000 € = **1 138,94 € plancher**. Le plancher est robuste au scénario de retracement intraday (proba 20-25 %), la mécanique tient même sans validation double trigger.
+
+**5. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue (53ᵉ session consécutive).** Cash 12,52 € insuffisant. Aucune ouverture 5ᵉ ligne envisagée post-catalyseur (l'euphorie post-Nvidia est un contexte d'entrée médiocre : payer haut sur un rallye day 1 = biais comportemental documenté).
+
+#### Stratégie — plan mercredi + pré-armement jeudi PCE US
+
+**Pourquoi refuser toute prise partielle SU à +49,36 % gain latent, alors même que le seuil #31 est basculé intraday ?** Trois raisons méthodologiques renforcées par le catalyseur Nvidia :
+1. **Règle d'or #6 (laisser courir la thèse tant que la mécanique tient)** : la validation directe du seuil #31 dans les 15 minutes de l'ouverture post-Nvidia = signal de continuation phase 9 runner+++, pas signal de sortie. La pyramide fonctionne parce qu'elle laisse le composé travailler : couper à +49 % pour verrouiller = casser la logique de +25,20 € de plancher additionnel via relève stops en cas de double trigger net.
+2. **Asymétrie renforcée capex hyperscaler** : la guidance Q3 Nvidia + capex Meta +15 % 2027 = catalyseur multi-trimestre pour SU (thèse data center directement matérialisée). Upside théorique phase 10 seuil #33 (SU > 335 €) = +15 € additionnels par titre en 5-10 séances. Downside = stop trailing 300 € = -28,60 € par titre max (-9,5 %) vs +49,36 % gain latent = ratio risque/récompense encore favorable même après extension.
+3. **Discipline mécanique 24/24 (100 % post-pivot FOMC 19 juin, 43 séances cumulées)** : rompre la mécanique sur une prise partielle discrétionnaire post-catalyseur = biais de « prise de gain émotionnelle » qui contamine tout le carnet et casse la crédibilité méthodologique du cycle.
+
+**Plan mercredi 26/08 (reste de la séance)** :
+- **09:15-17:30 CET** : observation passive absolue, surveillance intraday sans action. Risque principal : retracement gap-fill partiel (SU 328,60 → 325-327 €, DG 165,40 → 163-164 €) qui invaliderait la bascule clôture. Aucune action même si observation en direct d'un décrochage sous seuil (patience mécanique fixing).
+- **17:35 CET** : fixing officiel Euronext, **évaluation mécanique DOUBLE TRIGGER #30 + #31** :
+   * Si SU ≥ 328,00 € **ET** DG ≥ 165,00 € = double trigger net, protocole cumulé exécuté 17:40 CET (relève stops + pré-armement #32/#33).
+   * Si SU ≥ 328,00 € **XOR** DG ≥ 165,00 € = trigger simple activé, protocole partiel exécuté (relève stop de la ligne validée + pré-armement seuil correspondant).
+   * Si aucun seuil validé en clôture = reconduction carnet identique jeudi, surveillance PCE US 14:30 CET.
+- **22:00 CET** : bilan mercredi + pré-armement jeudi PCE US.
+
+**Plan jeudi 27/08 PCE US** :
+- Publication PCE 14:30 CET (Fed-préférée, inflation core juillet), consensus street 2,7 % YoY (vs 2,6 % précédent). Scénarios :
+   * **PCE ≤ 2,7 % (in-line, proba ~55 %)** : digestion neutre, continuation post-Nvidia rally, marges seuils #32/#33 potentiellement resserrées.
+   * **PCE > 2,7 % (surprise haussière, proba ~30 %)** : rotation défensive-vers-hausse taux, SU/DG risque de retracement -1 à -2 %, plancher relevé mercredi protège.
+   * **PCE < 2,6 % (surprise dovish, proba ~15 %)** : extension rally post-Nvidia, bascule seuils #32/#33 accélérée.
+- Stance jeudi : attentisme mécanique jusqu'au PCE, aucune préemption discrétionnaire.
+
+**Semaine 35 catalyseurs restants** :
+- **Mercredi 26/08 17:35 CET (aujourd'hui)** : fixing = double trigger conditionnel #30 + #31.
+- **Jeudi 27/08 14:30 CET** : PCE US, second catalyseur secondaire semaine.
+- **Vendredi 28/08 17:35 CET** : fixing semaine, bilan hebdomadaire complet.
+
+**Prochaine réévaluation** : **mercredi 26 août 17:40 CET** (bilan clôture + exécution protocole conditionnel double trigger) ou **jeudi 27 août 09:15 CET** (ouverture post-PCE anticipation). Stops actifs : SU.PA **300,00 €** trailing (relevable → 315 € post double trigger), DG.PA **154,00 €** technique (relevable → 160 € post double trigger), AI.PA **173,00 €** trailing. Carnet **7 seuils actifs** (dont **#30 et #31 en bascule intraday à confirmer clôture**). Cash **12,52 €**. **Ratio mécanique 24/24 (100 % post-pivot FOMC 19 juin, 44 séances cumulées), plancher +13,89 % garanti (projection +16,41 % si double trigger validé clôture), intraday nouveau plus haut historique 1 277,40 € (+27,74 %)** — la mécanique tient, la discrétion se tait, mercredi post-Nvidia matérialise le scénario A pré-cartographié sans altération.
+
