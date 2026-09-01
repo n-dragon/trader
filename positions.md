@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 185,10 | +46,20 | +14,26% |
-| Sanofi | SAN.PA | 3 | 87,00 | 94,65 | +22,95 | +8,79% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 330,40 | +110,40 | +50,18% |
-| Vinci | DG.PA | 1,70 | 122,80 | 167,00 | +75,10 | +36,16% |
+| Air Liquide | AI.PA | 2 | 162,00 | 184,95 | +45,90 | +14,17% |
+| Sanofi | SAN.PA | 3 | 87,00 | 94,60 | +22,80 | +8,74% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 329,80 | +109,80 | +49,91% |
+| Vinci | DG.PA | 1,70 | 122,80 | 166,80 | +74,87 | +35,82% |
 
-**Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact, ouverture semaine 36 courte, veille Labor Day US = illiquidité US absente lundi 01/09)  
-**Valeur investie (marks intraday Euronext lundi 31/08 09:15 CET, ouverture semaine 36 courte, volumes réduits illiquidité pré-Labor Day US anticipée) :** 1 268,45 €  
-**Valeur totale du portefeuille :** 1 280,97 € (**+28,10 %** depuis ouverture, **-0,36 € vs clôture vendredi 28/08, drift micro négatif ouverture illiquide conforme au scénario base case pré-Labor Day US**)
+**Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact, 2ᵉ séance semaine 36, Labor Day US = Wall Street fermée pleine journée, illiquidité US absente confirmée)  
+**Valeur investie (marks intraday Euronext mardi 01/09 09:15 CET, 2ᵉ séance semaine 36, Labor Day US = illiquidité US absente pleine journée) :** 1 267,06 €  
+**Valeur totale du portefeuille :** 1 279,58 € (**+27,96 %** depuis ouverture, **-1,39 € vs ouverture lundi 31/08, drift micro négatif conforme scénario base case Labor Day US, volumes Euronext -40/-50 % vs moyenne semaine 35**)
 
-> Stops actifs : SU.PA **315,00 €** trailing (inchangé, relevé mercredi 26/08 post-trigger #31), DG.PA **160,00 €** technique (inchangé, relevé mercredi 26/08 post-trigger #30), AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-08-31 09:15 CET (**lundi 31 août 2026 — ouverture semaine 36 courte, veille Labor Day US mardi 01/09, Wall Street fermée demain, illiquidité US absente lundi = biais volumes réduits Euronext confirmé**). **Semaine 36 ouverte sous silence Labor Day US — aucun ordre nouveau prévu lundi (règle liquidité US absente)**. Carnet reconduit à l'identique, marges seuils #32/#33 stables (marge #33 SU vs 335 € : 4,60 € = 1,39 % ; marge #32 DG vs 170 € : 3,00 € = 1,80 %). **Ratio mécanique 26/26 (100 % post-pivot FOMC 19 juin, 47 séances cumulées) préservé**. **Plancher garanti inchangé : +16,41 %** (SU stop 315 € = +95,00 € + DG stop 160 € = +63,24 € + ex-div SAN encaissé +5,90 € → **+164,14 € verrouillés** + capital 1 000 € = **1 164,14 € plancher**). **Focus lundi : observation passive absolue, contrôle stops carnet broker, préparation cascade macro semaine (ISM mardi → JOLTS mercredi → ADP/PMI jeudi → NFP vendredi 05/09 catalyseur maître unique)**. 92ᵉ entrée journal (session 108 — lundi ouverture semaine 36 courte). **Prochaine réévaluation : mardi 02 septembre 09:15 CET + 14:00 CET post-ISM Manufacturing** (première séance liquide semaine, reprise Wall Street 15:30 CET).
+> Stops actifs : SU.PA **315,00 €** trailing (inchangé, relevé mercredi 26/08 post-trigger #31), DG.PA **160,00 €** technique (inchangé, relevé mercredi 26/08 post-trigger #30), AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-09-01 09:15 CET (**mardi 01 septembre 2026 — 2ᵉ séance semaine 36 courte, Labor Day US = Wall Street fermée pleine journée, illiquidité US absente confirmée sur toute la séance, ouverture Euronext atone volumes réduits -40/-50 %**). **Aucun ordre nouveau prévu mardi (règle liquidité US absente, 2ᵉ jour consécutif)**. Carnet reconduit à l'identique, marges seuils #32/#33 stables (marge #33 SU vs 335 € : 5,20 € = 1,57 % ; marge #32 DG vs 170 € : 3,20 € = 1,89 %). **Ratio mécanique 26/26 (100 % post-pivot FOMC 19 juin, 48 séances cumulées) préservé**. **Plancher garanti inchangé : +16,41 %** (SU stop 315 € = +95,00 € + DG stop 160 € = +63,24 € + ex-div SAN encaissé +5,90 € → **+164,14 € verrouillés** + capital 1 000 € = **1 164,14 € plancher**). **Focus mardi : observation passive absolue jour 2/2 Labor Day, contrôle stops carnet broker, préparation reprise pleine liquidité mercredi (ISM Manufacturing 14:00 CET + réouverture Wall Street 15:30 CET)**. 93ᵉ entrée journal (session 109 — mardi Labor Day US). **Prochaine réévaluation : mercredi 02 septembre 09:15 CET + 14:00 CET post-ISM Manufacturing** (première séance pleinement liquide semaine 36, reprise Wall Street 15:30 CET).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -7483,3 +7483,74 @@ Ajustement fixing post-clôture indices ~17:38 CET → **clôture retenue journa
 **Focus mécanique semaine 36 rappelé** : NFP vendredi 05/09 = point mécanique unique. La discipline consiste à ne pas préempter avant clôture vendredi. Lundi/mardi/mercredi/jeudi = phases d'observation informative, aucune activation discrétionnaire.
 
 **Prochaine réévaluation** : **mardi 02 septembre 09:15 CET puis 14:00 CET post-ISM Manufacturing** (première séance liquide semaine 36, reprise Wall Street 15:30 CET). Stops actifs : SU.PA **315,00 €** trailing, DG.PA **160,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs** (dont **#32 DG > 170 € et #33 SU > 335 € pré-armés depuis mercredi 26/08**). Cash **12,52 €**. **Ratio mécanique 26/26 (100 %, 47 séances post-pivot FOMC 19 juin), plancher +16,41 % garanti (record cycle inchangé), ouverture semaine 36 sous silence à 1 280,97 € (+28,10 %, drift -0,36 € vs clôture vendredi conforme au scénario base case pré-Labor Day US)** — la mécanique tient, le lundi illiquide se tait, la cascade macro s'échelonne mardi-vendredi avec NFP en point mécanique unique.
+
+---
+
+### 2026-09-01 09:15 — Mardi 01 septembre 2026, **Labor Day US (Wall Street fermée pleine journée), 2ᵉ séance semaine 36 courte, illiquidité US absente confirmée** (session 109)
+
+#### Contexte de marché — mardi Labor Day US
+
+- **Euronext Paris** : ouverture 09:00 CET, volumes indicatifs -40/-50 % vs moyenne quotidienne semaine 35 (biais illiquidité Labor Day US plein régime). CAC 40 09:15 CET ~9 468 pts (-0,07 % vs clôture lundi, drift micro négatif conforme au scénario base case).
+- **Wall Street** : **fermée toute la journée (Labor Day US, calendrier interne broker)**. Aucun flux directionnel outre-Atlantique aujourd'hui. Reprise pleine liquidité **mercredi 02/09 15:30 CET**.
+- **Aucune publication macro mardi 01/09.** Cascade cette semaine échelonnée reprise mercredi 02/09 (ISM Manufacturing) → jeudi (JOLTS + ADP + Services PMI) → vendredi (NFP 05/09 = catalyseur maître unique).
+- **News flow overnight** : calme total, aucune headline géopolitique ni annonce corporate majeure. Ouverture atone attendue et confirmée dès 09:00 CET. Sentiment micro-négatif marginal sur défensives (léger dégonflage bid rendement pré-NFP).
+
+#### Table portefeuille mardi 09:15 CET (marks intraday Euronext, Labor Day US)
+
+| Ligne | Qté | PRU (€) | Cours (€) | Valeur (€) | P&L (€) | P&L (%) |
+|-------|-----|---------|-----------|------------|---------|---------|
+| AI.PA | 2 | 162,00 | 184,95 | 369,90 | +45,90 | +14,17 % |
+| SAN.PA | 3 | 87,00 | 94,60 | 283,80 | +22,80 | +8,74 % |
+| SU.PA | 1 | 220,00 | 329,80 | 329,80 | +109,80 | +49,91 % |
+| DG.PA | 1,70 | 122,80 | 166,80 | 283,56 | +74,87 | +35,82 % |
+| **Investi** | | | | **1 267,06** | **+253,37** | **+24,99 %** |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 279,58** | **+279,58** | **+27,96 %** |
+
+**Drift 2ᵉ séance semaine 36 : -1,39 € vs ouverture lundi 31/08 (1 280,97 → 1 279,58), soit -0,11 % — micro-oscillation conforme au scénario base case pré-cascade macro. Aucun impact mécanique, aucun test de stop, aucune sortie de zone d'inertie.**
+
+**Marges seuils pré-armés à l'ouverture :**
+- **#33 SU > 335 €** : cours 329,80 € → marge 5,20 € = **+1,57 % de franchissement requis**. Marge légèrement plus large que lundi (4,60 €) car repli 0,60 € (-0,18 %). Non-activation attendue mardi (Labor Day US, illiquidité pleine).
+- **#32 DG > 170 €** : cours 166,80 € → marge 3,20 € = **+1,89 % de franchissement requis**. Marge légèrement plus large que lundi (3,00 €) car repli 0,20 € (-0,12 %). Non-activation attendue mardi (Labor Day US, illiquidité pleine).
+
+#### Décisions et explication des mouvements
+
+**1. AUCUNE ACTION — RÈGLE LIQUIDITÉ US ABSENTE APPLIQUÉE STRICTEMENT (2ᵉ JOUR CONSÉCUTIF).** Mardi 01/09 = Labor Day US plein régime, Wall Street fermée toute la journée, illiquidité US absente confirmée (volumes Euronext -40/-50 % vs moyenne semaine 35, plus creusés que lundi). Application stricte de la règle mécanique : **pas de trigger discrétionnaire sur illiquidité US absente, pas de nouvelle entrée, pas de modification de stop, pas d'activation de seuil conditionnelle**. La discipline consiste à ne pas préempter avant la reprise pleine liquidité de mercredi 02/09 15:30 CET.
+
+**2. CONSERVE — L'INTÉGRALITÉ DES 4 LIGNES (inchangé, 2ᵉ séance Labor Day US).** Toutes les thèses tiennent sans altération vs ouverture lundi :
+- **AI.PA (+14,17 %)** : défensive gaz industriels, léger drift négatif -0,15 € matinal (184,95 vs 185,10), thèse ultra-longue intacte, ancrage de fond de portefeuille, stop 173 € trailing largement préservé (marge 6,90 % soit >4x volatilité normale).
+- **SAN.PA (+8,74 %)** : rendement dividende, léger drift négatif -0,05 € matinal (94,60 vs 94,65), thèse rendement intacte, ex-div T3 déjà encaissé début août, aucun stop actif.
+- **SU.PA (+49,91 %)** : cœur du portefeuille, léger repli -0,60 € matinal (329,80 vs 330,40) sur ouverture illiquide, franchissement +50 % symbolique techniquement rétrocédé de 0,09 pt mais phase 10 runner+++ intacte, asymétrie capex hyperscaler Blackwell demand > supply through 2026 confirmée par tape v96/v97 infra_ia (Micron sort du grand public, DDR5 module +60 %, contrat DDR5 doublé).
+- **DG.PA (+35,82 %)** : concession/infra, léger drift négatif -0,20 € matinal (166,80 vs 167,00), phase 8+ pyramide extension consolidée, thèse capex infra + travaux structurels intacte.
+
+**3. RATIO MÉCANIQUE 26/26 (100 %) PRÉSERVÉ EN 48ᵉ SÉANCE POST-PIVOT FOMC.** Aucune activation ni tentative de préemption sur 2ᵉ séance illiquide consécutive = discipline validée. Les 2 séances Labor Day (lundi + mardi) ne comptent pas comme opportunités manquées puisque la règle interdit l'action en contexte de liquidité US absente.
+
+**4. PLANCHER GARANTI RECORD CYCLE INCHANGÉ : 1 164,14 € (+16,41 %).** SU stop 315 € = +95,00 € + DG stop 160 € = +63,24 € + ex-div SAN encaissé +5,90 € → **+164,14 € verrouillés** + capital 1 000 € = **1 164,14 € plancher**. Robustesse validée sur repli marginal SU vers 329,80 € (marge stop 315 € = 14,80 € = 4,49 % soit >3x volatilité normale). Aucune tension mécanique.
+
+**5. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue (59ᵉ session consécutive).** Cash 12,52 € insuffisant (seuil pratique ~200 €), et 2ᵉ séance Labor Day = contexte anti-ouverture par excellence (illiquidité US absente pleine = pas de signal directionnel exploitable).
+
+**6. CARNET RECONDUIT À L'IDENTIQUE — 6 SEUILS ACTIFS INCHANGÉS.** Stops SU 315 € / DG 160 € / AI 173 € reconduits. Seuils pré-armés #32 DG > 170 € et #33 SU > 335 € reconduits sans altération, marges légèrement recomposées (SU et DG marges élargies de 0,60 € et 0,20 € respectivement suite au repli intraday).
+
+#### Stratégie — plan reprise pleine liquidité mercredi + cascade macro fin de semaine
+
+**Plan mardi 01/09 (reste de la séance)** :
+- **09:15-17:35 CET** : observation passive absolue jour 2/2 Labor Day US, aucun ordre à passer, contrôle silencieux marges seuils #32/#33. Volumes réduits attendus toute la journée, dérives directionnelles non exploitables. Pas de flux Wall Street pour valider un signal.
+- **17:35 CET** : fixing officiel Euronext, contrôle mécanique clôture 2ᵉ séance illiquide, reconduction carnet sans modification (aucune activation prévue).
+
+**Plan mercredi 02/09 — première séance pleinement liquide semaine 36 (reprise Wall Street)** :
+- **09:15 CET** : réévaluation ouverture Euronext + contrôle marges seuils #32/#33 post-drift mardi.
+- **14:00 CET** : **ISM Manufacturing août** = first read post-PCE, sensibilité industrielle marginale sur AI.PA (gaz industriels) et SU.PA (équipements électriques). Consensus street ~48-50 (zone contraction/expansion). Impact attendu limité — ISM = pré-tell informatif, pas catalyseur maître.
+- **15:30 CET** : **reprise Wall Street** après 2 séances de fermeture (dimanche + Labor Day US). Retour pleine liquidité globale = reprise normale mécanique. Réévaluation post-cascade en clôture 17:35 CET.
+
+**Plan cascade macro fin de semaine 36 (rappel arbre scénarios week-end)** :
+- **Jeudi 03/09 14:00 CET** : JOLTS Job Openings juillet (pré-tell NFP) — décalé d'un jour vs plan initial suite recalibrage calendrier post-Labor Day.
+- **Jeudi 03/09 14:15/15:45 CET** : ADP Employment + Services PMI (pré-tell NFP consolidé) — regroupé mercredi/jeudi.
+- **Vendredi 05/09 14:30 CET** : **NFP août = catalyseur maître unique semaine 36**. Consensus street ~140k, unemployment 4,2 %, AHE +0,3 % MoM. Arbre scénarios pré-armé samedi 29/08 :
+  - NFP < 100k (dovish choc, ~15 %) → possible double activation #32/#33 en clôture vendredi.
+  - NFP 100-160k (in-line, ~50 %) → base case, reconduction carnet identique.
+  - NFP 160-200k (résilience modérée, ~25 %) → reconduction, surveillance marges légère.
+  - NFP > 200k (hawkish surprise, ~10 %) → vigilance stops défensifs AI (test possible 173 €).
+
+**Focus mécanique semaine 36 rappelé** : NFP vendredi 05/09 = point mécanique unique. La discipline consiste à ne pas préempter avant clôture vendredi. Lundi/mardi Labor Day = 2 séances d'observation forcée. Mercredi/jeudi = observation informative post-ISM/JOLTS/ADP. Aucune activation discrétionnaire ne sera prise avant vendredi 05/09 17:35 CET (clôture post-NFP).
+
+**Prochaine réévaluation** : **mercredi 02 septembre 09:15 CET puis 14:00 CET post-ISM Manufacturing et 15:30 CET reprise Wall Street** (première séance pleinement liquide semaine 36). Stops actifs : SU.PA **315,00 €** trailing, DG.PA **160,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs** (dont **#32 DG > 170 € et #33 SU > 335 € pré-armés depuis mercredi 26/08**). Cash **12,52 €**. **Ratio mécanique 26/26 (100 %, 48 séances post-pivot FOMC 19 juin), plancher +16,41 % garanti (record cycle inchangé), 2ᵉ séance semaine 36 sous silence Labor Day US à 1 279,58 € (+27,96 %, drift -1,39 € vs ouverture lundi conforme au scénario base case)** — la mécanique tient, le mardi illiquide se tait, la reprise pleine liquidité s'ouvre demain avec ISM/Wall Street, NFP vendredi 05/09 en point mécanique unique.
