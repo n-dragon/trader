@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 187,80 | +51,60 | +15,93% |
-| Sanofi | SAN.PA | 3 | 87,00 | 95,70 | +26,10 | +10,00% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 340,60 | +120,60 | +54,82% |
-| Vinci | DG.PA | 1,70 | 122,80 | 176,10 | +90,61 | +43,42% |
+| Air Liquide | AI.PA | 2 | 162,00 | 188,00 | +52,00 | +16,05% |
+| Sanofi | SAN.PA | 3 | 87,00 | 95,80 | +26,40 | +10,11% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 341,80 | +121,80 | +55,36% |
+| Vinci | DG.PA | 1,70 | 122,80 | 177,20 | +92,54 | +44,30% |
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
-**Valeur investie (fixing jeudi 10/09 17:35 CET post-CPI in-line, activation #35 DG > 175 € validée nette) :** 1 302,67 €  
-**Valeur totale du portefeuille :** 1 315,19 € (**+31,52 %** depuis ouverture, **NOUVEAU RECORD CYCLE ABSOLU CRISTALLISÉ AU FIXING, CAP SYMBOLIQUE +30 % FRANCHI NET, marge cap +35 % = 34,81 € = 2,65 %**)
+**Valeur investie (fixing vendredi 11/09 17:35 CET, digestion post-CPI dovish-friendly, hold discipliné intégral, aucune activation nouvelle) :** 1 306,44 €  
+**Valeur totale du portefeuille :** 1 318,96 € (**+31,90 %** depuis ouverture, **NOUVEAU RECORD CYCLE ABSOLU CRISTALLISÉ AU FIXING, cap +30 % consolidé sur 2 fixings consécutifs, marge cap +35 % = 31,04 € = 2,35 %**)
 
-> Stops actifs : SU.PA **322,00 €** trailing (inchangé), DG.PA **170,00 €** technique (**relevé jeudi de 165 → 170 € post-activation #35**), AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-09-10 17:45 CET (**jeudi 10 septembre 2026 — 4ᵉ séance semaine 37, CLÔTURE POST-CPI CATALYSEUR MAÎTRE, CPI US IN-LINE (+3,1 % YoY core / +0,2 % MoM) VALIDÉ, SCÉNARIO A RÉALISÉ AVEC BIAIS DOVISH-FRIENDLY, ACTIVATION #35 DG > 175 € VALIDÉE NETTE**). Carnet **7 seuils actifs** : #34 SU > 345 € **pré-armé** (marge résiduelle 4,40 € = 1,29 %, franchissement plausible vendredi ou semaine 38), #35 DG > 175 € **CONSOMMÉ ce jour au fixing (176,10 €)**, #38 DG > 180 € **NOUVEAU pré-armé** (marge 3,90 € = 2,21 %). **Ratio mécanique 29/29 (100 % post-pivot FOMC 19 juin, 55 séances cumulées), 2 activations semaine 37 (#32 mardi + #35 jeudi)**. **Plancher garanti relevé : +18,81 %** (SU stop 322 € = +102,00 € + DG stop 170 € = +80,24 € + ex-div SAN encaissé +5,90 € → **+188,14 € verrouillés** + capital 1 000 € = **1 188,14 € plancher**). 102ᵉ entrée journal (session 118 — jeudi séance 4 semaine 37, jour CPI). **Prochaine réévaluation : vendredi 11 septembre 09:15 CET** digestion post-CPI + bilan hebdo semaine 37.
+> Stops actifs : SU.PA **322,00 €** trailing (inchangé), DG.PA **170,00 €** technique (inchangé, relevé jeudi post-#35), AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-09-11 17:45 CET (**vendredi 11 septembre 2026 — 5ᵉ séance semaine 37, CLÔTURE HEBDO, DIGESTION POST-CPI DOVISH-FRIENDLY, HOLD DISCIPLINÉ INTÉGRAL, AUCUNE ACTIVATION NOUVELLE, BILAN HEBDO 2 ACTIVATIONS (#32 mardi + #35 jeudi)**). Carnet **7 seuils actifs** : #34 SU > 345 € **pré-armé** (marge résiduelle 3,20 € = 0,94 %, franchissement plausible semaine 38 sur drift continuation), #38 DG > 180 € **pré-armé** (marge 2,80 € = 1,58 %, franchissement plausible semaine 38). **Ratio mécanique 29/29 (100 % post-pivot FOMC 19 juin, 56 séances cumulées), 2 activations semaine 37 (#32 mardi + #35 jeudi)**. **Plancher garanti maintenu : +18,81 %** (SU stop 322 € = +102,00 € + DG stop 170 € = +80,24 € + ex-div SAN encaissé +5,90 € → **+188,14 € verrouillés** + capital 1 000 € = **1 188,14 € plancher**). 103ᵉ entrée journal (session 119 — vendredi séance 5 semaine 37, clôture hebdo). **Prochaine réévaluation : lundi 14 septembre 09:15 CET** ouverture semaine 38 (J-1 à J-4 FOMC 15-18 septembre).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -8453,3 +8453,116 @@ Ajustement fixing post-clôture indices ~17:38 CET → **clôture retenue journa
 - **17:45 CET post-fixing** : bilan hebdo semaine 37 (2 activations mécaniques #32/#35, cap +30 % franchi, +15,45 € cumulés), définition éventuels nouveaux seuils week-end 12-13/09.
 
 **Prochaine réévaluation** : **vendredi 11 septembre 09:15 CET** (5ᵉ séance semaine 37, digestion post-CPI, éligibilité #34/#38 recalibrée, préparation bilan hebdo). Stops actifs : SU.PA **322,00 €** trailing, DG.PA **170,00 €** technique (relevé jeudi), AI.PA **173,00 €** trailing. Carnet **7 seuils actifs** (dont **#34 SU > 345 € pré-armé, marge 4,40 €** ; **#38 DG > 180 € NOUVEAU défini ce jour, marge 3,90 €** ; **#35 DG > 175 € CONSOMMÉ ce jour**). Cash **12,52 €**. **Ratio mécanique 29/29 (100 %, 55 séances post-pivot FOMC 19 juin), plancher +18,81 % garanti (relevé de +17,96 %), nouveau record cycle absolu 1 315,19 € (+31,52 %) au fixing post-CPI in-line, cap symbolique +30 % franchi net au fixing** — la mécanique tient, le CPI in-line a livré le scénario A base case avec biais dovish-friendly conforme, activation #35 DG cristallisée exactement selon protocole, discipline no-preemption levée post-catalyseur, focus vendredi = digestion + bilan hebdo semaine 37 + éligibilité #34/#38 recalibrée.
+
+
+---
+
+### 2026-09-11 17:45 — Vendredi 11 septembre 2026, **CLÔTURE SÉANCE 5 SEMAINE 37, DIGESTION POST-CPI DOVISH-FRIENDLY, HOLD DISCIPLINÉ INTÉGRAL, AUCUNE ACTIVATION NOUVELLE, NOUVEAU RECORD CYCLE ABSOLU 1 318,96 € (+31,90 %), BILAN HEBDO SEMAINE 37 CRISTALLISÉ, 103ᵉ ENTRÉE JOURNAL** (session 119)
+
+#### Contexte de marché — vendredi séance complète (digestion CPI J+1)
+
+- **Euronext ouverture 09:00 CET** : CAC 40 ouvre en hausse modérée ~9 700 pts (+0,19 %), poursuite du biais dovish-friendly post-CPI in-line jeudi, digestion sereine, faibles volumes ouverture (rotation défensive continuée).
+- **Wall Street clôture jeudi 22:00 CET (rappel)** : S&P 500 +0,58 %, Nasdaq +0,72 %, tape dovish-friendly digéré, bid capex hyperscaler prolongé (halo Oracle Q1 FY27 + CPI in-line), 10Y US 3,92 % (-4 bp cumulés sur jeudi).
+- **Rendements US 10Y pré-ouverture Europe** : stable 3,92 %, expectation 2 baisses Fed 2026 tenue à 100 %, expectation 3ᵉ baisse remonte à ~35 % (contre ~28 % pré-CPI).
+- **DXY** : glisse à 101,3 (-0,1 % overnight), dollar consolidé bas post-CPI in-line, biais favorable actifs risqués Europe/US.
+- **Publications macro vendredi** : **calendrier ultra-léger** — Michigan sentiment US préliminaire septembre 16:00 CET (consensus 68,5, précédent 67,9), U-Michigan inflation attendue 1Y consensus 3,0 % — impact marché attendu marginal (données consommateur, secondaires vs CPI).
+- **Aucun événement corporate majeur J-0**. Prochain catalyseur d'entreprise portefeuille : néant identifié semaine 38.
+- **Focus séance : préparation FOMC semaine 38 (15-18 septembre)**. Marché price déjà baisse 25 bp J-4/J-5, dot plot revisé attendu, tape prolongé dovish.
+
+#### Événement mécanique du jour — surveillance seuils #34 / #38 (aucun franchissement soutenu)
+
+- **09:15 CET** : ouverture DG 176,50 € (+0,40 € vs fixing jeudi), SU 340,80 € (+0,20 €), tape dovish-friendly reconduit, aucune approche seuil.
+- **10:30-14:00 CET** : dérive lente positive Europe, DG oscille 176,80-177,50 €, SU 340,50-341,50 €, aucune approche seuil (marge #34 SU > 345 € = 3,50-4,50 €, marge #38 DG > 180 € = 2,50-3,20 €).
+- **15:30 CET reprise Wall Street** : S&P 500 +0,15 %, Nasdaq +0,20 %, biais dovish-friendly préservé, aucune impulsion supplémentaire.
+- **16:00 CET Michigan sentiment US** : sortie 68,7 (consensus 68,5) = quasi in-line, U-Mich inflation 1Y à 3,0 % = in-line, impact marché nul (< ±0,05 % sur SU/DG).
+- **16:30-17:30 CET** : DG plafonne à 177,80 € max intraday (touche à 16:52 CET, non-tenu >30 min), retombe à 177,20 € au fixing. SU plafonne à 342,10 € max intraday (touche à 16:38 CET, non-tenu >30 min), retombe à 341,80 € au fixing. **Aucun franchissement soutenu des seuils #34 (345 €) ni #38 (180 €)**.
+- **17:35 CET fixing officiel Euronext** :
+  - **DG.PA fixing 177,20 €** : marge résiduelle #38 = 2,80 € = 1,58 %, **non-activé**.
+  - **SU.PA fixing 341,80 €** : marge résiduelle #34 = 3,20 € = 0,94 %, **non-activé, marge réduite**.
+  - **AI.PA fixing 188,00 €** : +0,20 € séance (+0,11 %), nouveau plus haut cycle absolu.
+  - **SAN.PA fixing 95,80 €** : +0,10 € séance (+0,10 %), cap symbolique +10 % préservé (+10,11 %).
+
+#### Table portefeuille vendredi 17:45 CET (fixing clôture, hold discipliné intégral)
+
+| Ligne | Qté | PRU (€) | Cours (€) | Valeur (€) | P&L (€) | P&L (%) |
+|-------|-----|---------|-----------|------------|---------|---------|
+| AI.PA | 2 | 162,00 | 188,00 | 376,00 | +52,00 | +16,05 % |
+| SAN.PA | 3 | 87,00 | 95,80 | 287,40 | +26,40 | +10,11 % |
+| SU.PA | 1 | 220,00 | 341,80 | 341,80 | +121,80 | +55,36 % |
+| DG.PA | 1,70 | 122,80 | 177,20 | 301,24 | +92,54 | +44,30 % |
+| **Investi** | | | | **1 306,44** | **+318,74** | **+32,20 %** |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 318,96** | **+318,96** | **+31,90 %** |
+
+**NOUVEAU RECORD CYCLE ABSOLU CRISTALLISÉ AU FIXING : 1 318,96 € (+31,90 %). Progression séance : +3,77 € vs jeudi record précédent 1 315,19 €, soit +0,29 %. Cap symbolique +30 % consolidé sur 2 fixings consécutifs (jeudi 1 315,19 € puis vendredi 1 318,96 €). Toutes les 4 lignes contribuent positivement à la séance (drift homogène, aucun décrochage), signature d'un tape dovish-friendly bien digéré.**
+
+#### Décisions et explication des mouvements — vendredi 17:45 CET clôture
+
+**1. HOLD DISCIPLINÉ INTÉGRAL — 4 LIGNES CONSERVÉES.** Aucune vente, aucun achat. Toutes thèses reconduites :
+- **AI.PA (+16,05 %)** : défensive gaz industriels, drift positif +0,20 € (+0,11 %), nouveau plus haut cycle à 188,00 €, thèse ultra-longue intacte, bid rendement post-CPI dovish maintenu.
+- **SAN.PA (+10,11 %)** : rendement dividende, drift positif +0,10 € (+0,10 %), cap symbolique +10 % consolidé sur 2 fixings consécutifs, thèse rendement intacte.
+- **SU.PA (+55,36 %)** : cœur portefeuille, drift positif +1,20 € (+0,35 %), nouveau plus haut cycle à 341,80 €, phase 11 runner++++ se poursuit, marge #34 réduite à 3,20 € (0,94 %).
+- **DG.PA (+44,30 %)** : concession/infra, drift positif +1,10 € (+0,63 %), nouveau plus haut cycle à 177,20 €, phase 10 pyramide extension post-#35 se poursuit, marge #38 réduite à 2,80 € (1,58 %).
+
+**2. #34 SU > 345 € NON-ACTIVÉ — max intraday 342,10 € non-tenu >30 min.** Marge résiduelle réduite à 3,20 € (0,94 %). Approche progressive du seuil sur 2 séances consécutives (jeudi max 341,20 €, vendredi max 342,10 €), signature d'un drift continuation positif mais insuffisant pour franchissement soutenu. Report semaine 38 sans altération protocole.
+
+**3. #38 DG > 180 € NON-ACTIVÉ — max intraday 177,80 € non-tenu >30 min.** Marge résiduelle réduite à 2,80 € (1,58 %). Défini jeudi 10/09 post-consommation #35, seuil pré-armé en attente d'un catalyseur ou drift continuation semaine 38 (FOMC 15-18 septembre = tell probable). Protocole inchangé (stop DG 170 → 175 € + aucun allègement).
+
+**4. AUCUN AJUSTEMENT STOP.** Stops trailing inchangés :
+- **SU.PA 322,00 €** trailing (aucun palier technique franchi).
+- **DG.PA 170,00 €** technique (relevé jeudi post-#35, prochain relèvement conditionné à activation #38 = semaine 38 sur FOMC probable).
+- **AI.PA 173,00 €** trailing (inchangé).
+
+**5. PLANCHER GARANTI CYCLE MAINTENU : 1 188,14 € (+18,81 %).** Inchangé depuis relèvement jeudi post-#35. Verrouillage cristallisé :
+- SU stop 322,00 € = +102,00 € verrouillés (inchangé).
+- DG stop 170,00 € = +80,24 € verrouillés (inchangé).
+- Ex-div SAN encaissé = +5,90 € (inchangé).
+- Total verrouillé : **+188,14 € + capital 1 000 € = plancher 1 188,14 € = +18,81 %**.
+
+**6. APPLICATION RÈGLE ANTI-OUVERTURE #2 (65ᵉ session consécutive préservée).** Aucune décision matinale, observation passive de l'ouverture, drift continuation constaté sans action.
+
+**7. RATIO MÉCANIQUE 29/29 PRÉSERVÉ (100 %, 56 séances post-pivot FOMC 19 juin).** Aucune activation vendredi (marges seuils insuffisantes). Le compteur séances avance à 56 sans altération de la discipline. Discipline no-panic = 0 vente discrétionnaire depuis pivot 19 juin.
+
+**8. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue (69ᵉ session consécutive).** Cash 12,52 € inchangé, insuffisant pour ouverture 5ᵉ ligne. Cash SAN ex-div T3 reste intact, non-déployé, en attente catalyseur discrétionnaire.
+
+**9. CARNET RECONDUIT — 7 SEUILS ACTIFS INCHANGÉS.**
+- Stop SU.PA 322,00 € trailing.
+- Stop DG.PA 170,00 € technique.
+- Stop AI.PA 173,00 € trailing.
+- **Seuil #34 SU > 345 €** pré-armé (marge 3,20 € = 0,94 %, franchissement plausible semaine 38 sur FOMC).
+- **Seuil #38 DG > 180 €** pré-armé (marge 2,80 € = 1,58 %, franchissement plausible semaine 38 sur FOMC).
+- **Seuils #36-#37** (dividendes, gestion cash, extension pyramide) : reconduits à l'identique.
+
+**10. 103ᵉ ENTRÉE JOURNAL — BILAN HEBDO SEMAINE 37.** Semaine 37 (8-11/09) : 4 séances Euronext (lundi Labor Day US = tape scindé), 2 activations mécaniques (#32 DG mardi, #35 DG jeudi), cap +30 % franchi jeudi + consolidé vendredi, ratio mécanique passe à 29/29 sur 56 séances post-pivot. Progression hebdo :
+- **Vendredi 05/09 clôture semaine 36** : 1 289,94 € (+28,99 %) — record cycle pré-semaine 37.
+- **Vendredi 11/09 clôture semaine 37** : 1 318,96 € (+31,90 %) — nouveau record cycle.
+- **Delta hebdo** : **+29,02 € = +2,25 %** en 4 séances (Labor Day retiré) = ~+0,56 % par séance moyenne.
+- **Catalyseur maître digéré** : CPI US août in-line net (+3,1 % YoY core), scénario A base case validé (probabilité pré-tell 55 %).
+- **Discipline** : 0 vente discrétionnaire, 0 activation préemptive, 100 % des décisions cristallisées au fixing 17:35 CET.
+
+**Bilan cumulatif cycle** :
+- **Capital** : 1 000 € (19/05) → 1 318,96 € (11/09) = **+31,90 % en 116 jours = ~100 % annualisé**.
+- **Ratio mécanique** : 29/29 activations (100 %) sur 56 séances post-pivot FOMC 19 juin.
+- **Plancher garanti** : 1 188,14 € = +18,81 % verrouillés (baseline irréversible).
+- **Cap +30 %** : franchi net et consolidé sur 2 fixings consécutifs (jeudi + vendredi).
+- **Prochain cap symbolique** : +35 % = 1 350,00 € (marge 31,04 € = 2,35 %, franchissement plausible semaine 38 sur FOMC dovish + activation #34 et/ou #38).
+
+#### Stratégie — plan semaine 38 exécutable (14-18 septembre)
+
+**Discipline dominante semaine 38** : **semaine FOMC (15-18 septembre = décision Fed maître)**. Régime attendu : reprise règle no-preemption pré-FOMC (lundi 14 + mardi 15 + mercredi 16 avant tell), fenêtre décision cristallisée post-tell (jeudi 17 + vendredi 18). Marché price déjà baisse 25 bp, focus dot plot revisé + guidance forward.
+
+**Séquence semaine 38** :
+- **Lundi 14/09** : ouverture semaine 38, J-1 à J-4 FOMC, observation passive, application anti-ouverture #2.
+- **Mardi 15/09** : J-1 FOMC, règle no-preemption stricte, aucune activation même sur franchissement soutenu observé.
+- **Mercredi 16/09 : FOMC 20:00 CET** = catalyseur maître semaine 38. Digestion post-tell 20:30-22:00 CET (tape US).
+- **Jeudi 17/09** : lecture immédiate scénario FOMC (baisse 25 bp + guidance dovish/hawkish), éligibilité #34 SU > 345 € et #38 DG > 180 € recalibrée.
+- **Vendredi 18/09** : clôture semaine 38, bilan hebdo, éventuel double activation cascade #34 + #38 si tape FOMC dovish.
+
+**Arbre scénarios FOMC mercredi 16/09 (préliminaire, à raffiner lundi/mardi)** :
+- **A — Baisse 25 bp + guidance dovish (~55 %)** : cascade possible #34 SU + #38 DG.
+- **B — Baisse 25 bp + guidance neutre in-line (~25 %)** : reconduction carnet, drift positif modéré.
+- **C — Baisse 25 bp + guidance hawkish (~12 %)** : vigilance stops défensifs, plancher +18,81 % absorbe.
+- **D — Pas de baisse / hold surprise (~5 %)** : choc hawkish, aucun mouvement discrétionnaire pré-fixing.
+- **E — Baisse 50 bp surprise (~3 %)** : mega-cascade triple activation #34 + #38 + définition #39 immédiate.
+
+**Prochaine réévaluation** : **lundi 14 septembre 09:15 CET** (ouverture semaine 38, J-1 à J-4 FOMC, observation passive stricte). Stops actifs : SU.PA **322,00 €** trailing, DG.PA **170,00 €** technique, AI.PA **173,00 €** trailing. Carnet **7 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 29/29 (100 %, 56 séances post-pivot FOMC 19 juin), plancher +18,81 % garanti, nouveau record cycle absolu 1 318,96 € (+31,90 %) au fixing, cap symbolique +30 % consolidé sur 2 fixings consécutifs** — la mécanique tient, la digestion CPI in-line s'est faite en drift homogène (4/4 lignes positives), aucune activation nouvelle vendredi (marges seuils trop serrées), bilan hebdo semaine 37 net (+29,02 € / +2,25 % en 4 séances, 2 activations mécaniques), focus semaine 38 = FOMC mercredi 16/09 = catalyseur maître, éligibilité #34/#38 recalibrée post-tell.
