@@ -15,7 +15,7 @@
 **Valeur investie (fixing vendredi 11/09 17:35 CET, digestion post-CPI dovish-friendly, hold discipliné intégral, aucune activation nouvelle) :** 1 306,44 €  
 **Valeur totale du portefeuille :** 1 318,96 € (**+31,90 %** depuis ouverture, **NOUVEAU RECORD CYCLE ABSOLU CRISTALLISÉ AU FIXING, cap +30 % consolidé sur 2 fixings consécutifs, marge cap +35 % = 31,04 € = 2,35 %**)
 
-> Stops actifs : SU.PA **322,00 €** trailing (inchangé), DG.PA **170,00 €** technique (inchangé, relevé jeudi post-#35), AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-09-12 10:00 CET (**samedi 12 septembre 2026 — WEEK-END, MARCHÉS FERMÉS, RÉÉVALUATION HORS-SÉANCE, HOLD MÉCANIQUE PAR CONSTRUCTION, PRÉPARATION SEMAINE 38 FOMC 16/09**). Carnet **7 seuils actifs reconduits à l'identique** : #34 SU > 345 € **pré-armé** (marge résiduelle 3,20 € = 0,94 %, franchissement plausible semaine 38 sur drift continuation ou tell FOMC dovish), #38 DG > 180 € **pré-armé** (marge 2,80 € = 1,58 %, franchissement plausible semaine 38 sur tell FOMC dovish). **Ratio mécanique 29/29 (100 % post-pivot FOMC 19 juin, 56 séances cumulées), 2 activations semaine 37 (#32 mardi + #35 jeudi)**. **Plancher garanti maintenu : +18,81 %** (SU stop 322 € = +102,00 € + DG stop 170 € = +80,24 € + ex-div SAN encaissé +5,90 € → **+188,14 € verrouillés** + capital 1 000 € = **1 188,14 € plancher**). 104ᵉ entrée journal (session 120 — samedi hors-séance, revue week-end J+1 clôture hebdo semaine 37, J-4 FOMC). **Prochaine réévaluation : lundi 14 septembre 09:15 CET** ouverture semaine 38 (J-2 FOMC 16 septembre, dot plot revisé attendu).
+> Stops actifs : SU.PA **322,00 €** trailing (inchangé), DG.PA **170,00 €** technique (inchangé, relevé jeudi post-#35), AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-09-13 10:00 CET (**dimanche 13 septembre 2026 — WEEK-END J+2, MARCHÉS FERMÉS, RÉÉVALUATION HORS-SÉANCE J-1 OUVERTURE LUNDI, HOLD MÉCANIQUE PAR CONSTRUCTION, PRÉPARATION FINE SEMAINE 38 FOMC 16/09**). Carnet **7 seuils actifs reconduits à l'identique** : #34 SU > 345 € **pré-armé** (marge résiduelle 3,20 € = 0,94 %, franchissement plausible semaine 38 sur drift continuation ou tell FOMC dovish), #38 DG > 180 € **pré-armé** (marge 2,80 € = 1,58 %, franchissement plausible semaine 38 sur tell FOMC dovish). **Ratio mécanique 29/29 (100 % post-pivot FOMC 19 juin, 56 séances cumulées), 2 activations semaine 37 (#32 mardi + #35 jeudi)**. **Plancher garanti maintenu : +18,81 %** (SU stop 322 € = +102,00 € + DG stop 170 € = +80,24 € + ex-div SAN encaissé +5,90 € → **+188,14 € verrouillés** + capital 1 000 € = **1 188,14 € plancher**). 105ᵉ entrée journal (session 121 — dimanche hors-séance, revue week-end J+2 / veille ouverture semaine 38, J-3 FOMC). **Prochaine réévaluation : lundi 14 septembre 09:15 CET** ouverture semaine 38 (J-2 FOMC 16 septembre, dot plot revisé attendu).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -8655,3 +8655,82 @@ Ajustement fixing post-clôture indices ~17:38 CET → **clôture retenue journa
 - **Vendredi 18/09 17:35 CET** : clôture semaine 38, bilan hebdo, éventuel double activation cascade #34 + #38 si tape FOMC dovish (scénario A ~60 %).
 
 **Prochaine réévaluation** : **lundi 14 septembre 09:15 CET** (ouverture semaine 38, J-2 FOMC, observation passive stricte, règle no-preemption). Stops actifs : SU.PA **322,00 €** trailing, DG.PA **170,00 €** technique, AI.PA **173,00 €** trailing. Carnet **7 seuils actifs reconduits à l'identique**. Cash **12,52 €**. **Ratio mécanique 29/29 (100 %, 56 séances post-pivot FOMC 19 juin), plancher +18,81 % garanti, record cycle absolu 1 318,96 € (+31,90 %) préservé mécaniquement le week-end, cap symbolique +30 % consolidé sur 2 fixings consécutifs, marge cap +35 % = 31,04 € = 2,35 %** — la revue hors-séance confirme la reconduction disciplinée intégrale, aucun ajustement de protocole, focus semaine 38 = FOMC mercredi 16/09 = catalyseur maître, éligibilité #34/#38 recalibrée post-tell jeudi 17/09.
+
+---
+
+### 2026-09-13 10:00 — Revue week-end J+2, veille ouverture semaine 38, J-3 FOMC (session 121, dimanche hors-séance)
+
+#### Contexte de marché — dimanche 13/09, marchés fermés
+
+- **Euronext, Wall Street, Xetra, Tokyo, KOSPI : FERMÉS** (dimanche). Aucune cotation possible sur les 4 lignes portefeuille. Toute décision de trading reste mécaniquement inopérante jusqu'à lundi 14/09 09:00 CET (ouverture Euronext, dans ~23 h).
+- **Préparation fine J-1 ouverture semaine 38** : le cadre analytique du samedi 12/09 (session 120) est reconduit à l'identique — arbre scénarios FOMC (60 % A dovish / 22 % B neutre / 10 % C hawkish / 5 % D hold surprise / 3 % E 50 bp surprise) inchangé, aucun élément nouveau publié entre samedi et dimanche pour justifier un raffinement de probabilités.
+- **Actualités week-end (samedi 12/09 après-midi + dimanche 13/09 matin)** : lecture rapide de la presse financière — pas de flash Fed inattendu, pas d'intervention Powell hors-fenêtre (période de silence pré-FOMC en vigueur depuis samedi 06/09), pas de choc géopolitique majeur, pas de résultat entreprise portefeuille prévu la semaine à venir. Fenêtre calme classique de mi-septembre pré-FOMC. Le tape asiatique de dimanche soir (ouverture Tokyo lundi 01:00 CET, KOSPI 01:00 CET) sera le premier signal directionnel possible, mais **règle d'or #7** : aucun ajustement stop hors-séance Euronext.
+- **Positions portefeuille figées jusqu'à lundi 09:00 CET** : AI.PA 188,00 € (fixing vendredi), SAN.PA 95,80 €, SU.PA 341,80 €, DG.PA 177,20 €. Marges seuils inchangées (#34 SU > 345 € : 3,20 € / 0,94 %, #38 DG > 180 € : 2,80 € / 1,58 %). Cash 12,52 € inchangé.
+- **CME FedWatch update dimanche soir attendu** (première actualisation post-week-end lundi 00:00 CET) : consensus 92 % baisse 25 bp / 5 % baisse 50 bp / 3 % hold à surveiller lundi matin — toute dérive significative (>3 pts) serait un tell hors-consensus à intégrer immédiatement dans l'arbre scénarios lundi 09:15 CET.
+
+#### Table portefeuille dimanche 10:00 CET (état gelé au fixing vendredi 11/09 17:35 CET, inchangé depuis samedi, aucun mouvement possible)
+
+| Ligne | Qté | PRU (€) | Cours (€) | Valeur (€) | P&L (€) | P&L (%) |
+|-------|-----|---------|-----------|------------|---------|---------|
+| AI.PA | 2 | 162,00 | 188,00 | 376,00 | +52,00 | +16,05 % |
+| SAN.PA | 3 | 87,00 | 95,80 | 287,40 | +26,40 | +10,11 % |
+| SU.PA | 1 | 220,00 | 341,80 | 341,80 | +121,80 | +55,36 % |
+| DG.PA | 1,70 | 122,80 | 177,20 | 301,24 | +92,54 | +44,30 % |
+| **Investi** | | | | **1 306,44** | **+318,74** | **+32,20 %** |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 318,96** | **+318,96** | **+31,90 %** |
+
+**Record cycle absolu 1 318,96 € (+31,90 %) préservé mécaniquement le week-end (J+2). Aucun mouvement possible jusqu'à ouverture Euronext lundi 14/09 09:00 CET (dans ~23 h).**
+
+#### Décisions et explication des mouvements — dimanche 10:00 CET (revue hors-séance J-1 ouverture)
+
+**1. HOLD MÉCANIQUE PAR CONSTRUCTION — aucune vente, aucun achat possible (dimanche, marchés fermés).** Comme samedi, le hold n'est pas discrétionnaire mais structurel : les marchés cash Euronext restent fermés du vendredi 17:35 CET au lundi 09:00 CET. Le portefeuille est figé à sa valeur de clôture hebdo, aucune transaction possible sur AI.PA, SAN.PA, SU.PA, DG.PA.
+
+**2. RECONDUCTION INTÉGRALE DES 4 THÈSES POUR LUNDI 09:15 CET.** Les thèses évaluées samedi 12/09 sont reconduites sans ajustement — aucun élément nouveau observé dimanche ne justifie une révision :
+- **AI.PA (+16,05 %, cours 188,00 €)** : défensive gaz industriels, plus haut cycle cristallisé vendredi. Reconduction thèse, stop trailing 173,00 € inchangé.
+- **SAN.PA (+10,11 %, cours 95,80 €)** : rendement dividende, cap +10 % consolidé sur 2 fixings consécutifs. Reconduction thèse, aucun stop actif (défensive rendement).
+- **SU.PA (+55,36 %, cours 341,80 €)** : cœur portefeuille, phase 11 runner++++ post-#33. Marge #34 SU > 345 € = 3,20 € (0,94 %). Reconduction thèse, stop trailing 322,00 € inchangé, seuil #34 pré-armé actif.
+- **DG.PA (+44,30 %, cours 177,20 €)** : concession/infra, phase 10 pyramide extension post-#35. Marge #38 DG > 180 € = 2,80 € (1,58 %). Reconduction thèse, stop technique 170,00 € inchangé, seuil #38 pré-armé actif.
+
+**3. AUCUN AJUSTEMENT STOP — règle d'or #7 stricte (aucun ajustement stop hors-séance).** Les 3 stops actifs (SU 322 €, DG 170 €, AI 173 €) reconduits à l'identique. Prochaine fenêtre de réévaluation stop : lundi 14/09 09:15 CET, ou jeudi 17/09 post-FOMC si activation #34/#38.
+
+**4. PLANCHER GARANTI CYCLE PRÉSERVÉ : 1 188,14 € (+18,81 %).** Inchangé mécaniquement le week-end (stops actifs préservés, cash SAN ex-div T3 conservé intact).
+
+**5. ARBRE SCÉNARIOS FOMC MERCREDI 16/09 — RECONDUCTION SANS RAFFINEMENT (aucun élément nouveau dimanche).** Probabilités inchangées vs samedi : A 60 % / B 22 % / C 10 % / D 5 % / E 3 %. **Point de vigilance lundi matin** : première actualisation CME FedWatch post-week-end à surveiller à l'ouverture (toute dérive >3 pts sur la répartition 25/50/hold serait un tell hors-consensus à intégrer immédiatement).
+
+**6. RÈGLE NO-PREEMPTION PRÉ-FOMC CONFIRMÉE POUR LUNDI-MARDI-MERCREDI.** Aucune activation même sur franchissement soutenu observé du lundi 14/09 09:00 CET au mercredi 16/09 20:00 CET (fenêtre pré-tell FOMC). Fenêtre de décision cristallisée post-tell = jeudi 17/09 09:15 CET.
+
+**7. APPLICATION RÈGLE ANTI-OUVERTURE #2 MAINTENUE (66ᵉ session consécutive future).** Lundi 14/09 09:15 CET : observation passive de l'ouverture, aucune décision matinale, cristallisation au fixing 17:35 CET uniquement.
+
+**8. RATIO MÉCANIQUE 29/29 PRÉSERVÉ (100 %, 56 séances post-pivot FOMC 19 juin).** Aucune activation possible dimanche. Compteur séances inchangé (dimanche = 0 séance). Discipline no-panic = 0 vente discrétionnaire depuis pivot 19 juin.
+
+**9. PAS DE 5ᵉ LIGNE — règle d'or #4 maintenue (70ᵉ session consécutive future).** Cash 12,52 € insuffisant, non-déployé.
+
+**10. CARNET RECONDUIT — 7 SEUILS ACTIFS INCHANGÉS.**
+- Stop SU.PA 322,00 € trailing, DG.PA 170,00 € technique, AI.PA 173,00 € trailing.
+- **Seuil #34 SU > 345 €** pré-armé (marge 3,20 € = 0,94 %).
+- **Seuil #38 DG > 180 €** pré-armé (marge 2,80 € = 1,58 %).
+- Seuils #36-#37 reconduits à l'identique.
+
+**11. 105ᵉ ENTRÉE JOURNAL — REVUE WEEK-END J+2 / VEILLE OUVERTURE.** Session 121, dimanche J+2 clôture hebdo semaine 37, J-3 FOMC 16/09. Aucune action tradable. La séquence dimanche est réservée à la validation finale du cadre analytique samedi + la lecture rapide de la presse week-end pour détecter un éventuel élément nouveau (aucun identifié) + la préparation opérationnelle de l'ouverture lundi 09:15 CET (checklist runbook : vérification carnet seuils, stops actifs, marges franchissement, arbre scénarios FOMC, point CME FedWatch).
+
+#### Stratégie — checklist runbook exécutable lundi 14/09 09:15 CET
+
+**Discipline dominante lundi 14/09** : **règle anti-ouverture #2 stricte + règle no-preemption pré-FOMC stricte**. Observation passive ouverture Euronext, aucune décision matinale même sur franchissement soutenu observé, cristallisation au fixing 17:35 CET uniquement.
+
+**Checklist runbook ouverture lundi (à exécuter séquentiellement 09:15-09:30 CET)** :
+1. **Vérification CME FedWatch (05:00 CET, avant ouverture)** : dérive répartition 25/50/hold vs consensus samedi (92/5/3) ? Si dérive >3 pts, raffiner arbre scénarios.
+2. **Ouverture 09:00 CET** : première cotation AI.PA, SAN.PA, SU.PA, DG.PA. Observation passive, aucune saisie ordre.
+3. **09:15 CET** : validation stops actifs (SU 322, DG 170, AI 173) opérationnels chez le broker.
+4. **09:30 CET** : lecture marges franchissement #34 (SU vs 345) et #38 (DG vs 180) — pas d'activation même sur franchissement (règle no-preemption).
+5. **12:00 CET** : mid-séance check tape unifié CAC 40, aucune action.
+6. **17:35 CET fixing** : cristallisation valeur portefeuille + rédaction entrée journal 106ᵉ.
+
+**Séquence semaine 38 confirmée** :
+- **Lundi 14/09 09:15 CET** : ouverture semaine 38, J-2 FOMC, observation passive, no-preemption.
+- **Mardi 15/09** : J-1 FOMC, no-preemption stricte.
+- **Mercredi 16/09 20:00 CET** : FOMC = catalyseur maître.
+- **Jeudi 17/09 09:15 CET** : lecture immédiate scénario FOMC, éligibilité #34/#38 recalibrée, fenêtre de décision cristallisée au fixing 17:35 CET.
+- **Vendredi 18/09 17:35 CET** : clôture semaine 38, bilan hebdo.
+
+**Prochaine réévaluation** : **lundi 14 septembre 09:15 CET** (ouverture semaine 38, J-2 FOMC, observation passive stricte, no-preemption). Stops actifs : SU.PA **322,00 €** trailing, DG.PA **170,00 €** technique, AI.PA **173,00 €** trailing. Carnet **7 seuils actifs reconduits à l'identique**. Cash **12,52 €**. **Ratio mécanique 29/29 (100 %, 56 séances post-pivot FOMC 19 juin), plancher +18,81 % garanti, record cycle absolu 1 318,96 € (+31,90 %) préservé mécaniquement à J+2 du fixing hebdo, cap symbolique +30 % consolidé sur 2 fixings consécutifs, marge cap +35 % = 31,04 € = 2,35 %** — la revue dimanche J+2 confirme la reconduction disciplinée intégrale sans raffinement (aucun élément nouveau week-end), checklist runbook opérationnelle prête pour l'ouverture lundi, focus semaine 38 = FOMC mercredi 16/09 = catalyseur maître, éligibilité #34/#38 recalibrée post-tell jeudi 17/09.
