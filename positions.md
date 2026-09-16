@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 188,00 | +52,00 | +16,05% |
-| Sanofi | SAN.PA | 3 | 87,00 | 95,80 | +26,40 | +10,11% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 341,90 | +121,90 | +55,41% |
-| Vinci | DG.PA | 1,70 | 122,80 | 177,40 | +92,86 | +44,46% |
+| Air Liquide | AI.PA | 2 | 162,00 | 188,10 | +52,20 | +16,11% |
+| Sanofi | SAN.PA | 3 | 87,00 | 95,85 | +26,55 | +10,17% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 342,30 | +122,30 | +55,59% |
+| Vinci | DG.PA | 1,70 | 122,80 | 177,50 | +93,03 | +44,54% |
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
-**Valeur investie (fixing mardi 15/09 17:35 CET, séance 2 semaine 38 J-1 FOMC, respiration attentiste légèrement négative, hold discipliné intégral, no-preemption stricte respectée) :** 1 306,88 €  
-**Valeur totale du portefeuille :** 1 319,40 € (**+31,94 %** depuis ouverture, respiration attentiste J-1 FOMC, record cycle absolu 1 321,88 € du lundi préservé mécaniquement, cap +30 % consolidé sur 4 fixings consécutifs, marge cap +35 % = 30,60 € = 2,32 %)
+**Valeur investie (fixing mercredi 16/09 17:35 CET, séance 3 semaine 38 J-FOMC pré-tell, léger rebond attentiste positif, hold discipliné intégral, no-preemption stricte respectée session 3/3, marchés Europe fermés 2h30 avant tell Powell 20:00 CET) :** 1 307,80 €  
+**Valeur totale du portefeuille :** 1 320,32 € (**+32,03 %** depuis ouverture, rebond J-FOMC pré-tell +0,07 % vs mardi, record cycle absolu 1 321,88 € du lundi préservé mécaniquement à −1,56 €/−0,12 %, cap +30 % consolidé sur 5 fixings consécutifs, marge cap +35 % = 29,68 € = 2,25 %)
 
-> Stops actifs : SU.PA **322,00 €** trailing (inchangé), DG.PA **170,00 €** technique (inchangé, relevé jeudi post-#35), AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-09-15 17:45 CET (**mardi 15 septembre 2026 — SÉANCE 2 SEMAINE 38, J-1 FOMC 16/09, RÈGLE NO-PREEMPTION PRÉ-FOMC STRICTE SESSION 2/3, ANTI-OUVERTURE #2 (67ᵉ SESSION), HOLD DISCIPLINÉ INTÉGRAL, AUCUNE ACTIVATION NOUVELLE, RESPIRATION ATTENTISTE −0,19 % vs record lundi**). Carnet **7 seuils actifs reconduits à l'identique** : #34 SU > 345 € **pré-armé** (marge résiduelle **3,10 € = 0,90 %**, respiration mineure sans altération thèse — franchissement plausible dès jeudi 17/09 post-FOMC si tell dovish), #38 DG > 180 € **pré-armé** (marge **2,60 € = 1,47 %**, respiration mineure — franchissement plausible jeudi/vendredi post-FOMC). **Ratio mécanique 29/29 (100 % post-pivot FOMC 19 juin, 58 séances cumulées), 2 activations semaine 37 (#32 mardi + #35 jeudi)**. **Plancher garanti maintenu : +18,81 %** (SU stop 322 € = +102,00 € + DG stop 170 € = +80,24 € + ex-div SAN encaissé +5,90 € → **+188,14 € verrouillés** + capital 1 000 € = **1 188,14 € plancher**). 107ᵉ entrée journal (session 123 — mardi séance 2 semaine 38, J-1 FOMC, observation passive appliquée, cristallisation au fixing, aucun tell Fed hors-fenêtre observé — silence blackout tenu). **Prochaine réévaluation : mercredi 16 septembre 09:15 CET** (J-FOMC séance 3/3 pré-tell, no-preemption stricte reconduite, marchés Europe fermés à 17:35 CET soit 2h30 avant le tell 20:00 CET Powell 20:30 CET, cristallisation post-tell reportée au jeudi 17/09 09:15 CET).
+> Stops actifs : SU.PA **322,00 €** trailing (inchangé), DG.PA **170,00 €** technique (inchangé, relevé jeudi post-#35), AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-09-16 17:45 CET (**mercredi 16 septembre 2026 — SÉANCE 3 SEMAINE 38, J-FOMC PRÉ-TELL, RÈGLE NO-PREEMPTION PRÉ-FOMC STRICTE SESSION 3/3 (DERNIÈRE), ANTI-OUVERTURE #2 (68ᵉ SESSION), HOLD DISCIPLINÉ INTÉGRAL, CRISTALLISATION FIXING 17:35 CET AVANT TELL POWELL 20:00 CET US, AUCUNE ACTIVATION NOUVELLE, REBOND ATTENTISTE +0,07 % vs mardi**). Carnet **7 seuils actifs reconduits à l'identique** : #34 SU > 345 € **pré-armé** (marge résiduelle **2,70 € = 0,78 %**, franchissement plausible dès jeudi 17/09 post-FOMC si tell dovish), #38 DG > 180 € **pré-armé** (marge **2,50 € = 1,39 %**, franchissement plausible jeudi/vendredi post-FOMC si tell dovish). **Ratio mécanique 29/29 (100 % post-pivot FOMC 19 juin, 59 séances cumulées), 2 activations semaine 37 (#32 mardi + #35 jeudi)**. **Plancher garanti maintenu : +18,81 %** (SU stop 322 € = +102,00 € + DG stop 170 € = +80,24 € + ex-div SAN encaissé +5,90 € → **+188,14 € verrouillés** + capital 1 000 € = **1 188,14 € plancher**). 108ᵉ entrée journal (session 124 — mercredi séance 3 semaine 38, J-FOMC pré-tell, cristallisation avant tell Powell, no-preemption session 3/3 exécutée à la lettre). **Prochaine réévaluation : jeudi 17 septembre 09:15 CET** (J+1 FOMC, première lecture post-tell, éligibilité #34/#38 recalibrée selon scénario A/B/C/D/E réalisé, fin de la fenêtre no-preemption pré-FOMC, cristallisation fixing 17:35 CET).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -8943,3 +8943,109 @@ Ajustement fixing post-clôture indices ~17:38 CET → **clôture retenue journa
 - **Vendredi 18/09 17:35 CET** : clôture semaine 38, bilan hebdo, éventuel double activation cascade #34 + #38 si tape FOMC dovish (scénario A ~60 %).
 
 **Prochaine réévaluation** : **mercredi 16 septembre 09:15 CET** (J-FOMC séance 3/3 pré-tell, no-preemption reconduite stricte, anti-ouverture #2 68ᵉ session, cristallisation fixing 17:35 CET Europe avant tell 20:00 CET US). Stops actifs : SU.PA **322,00 €** trailing, DG.PA **170,00 €** technique, AI.PA **173,00 €** trailing. Carnet **7 seuils actifs reconduits à l'identique**. Cash **12,52 €**. **Ratio mécanique 29/29 (100 %, 58 séances post-pivot FOMC 19 juin), plancher +18,81 % garanti, record cycle absolu 1 321,88 € (+32,19 %) du lundi préservé mécaniquement à J+1 malgré respiration attentiste −0,19 %, cap symbolique +30 % consolidé sur 4 fixings consécutifs, marge cap +35 % = 30,60 € = 2,32 %** — la mécanique tient, la respiration attentiste J-1 FOMC (−2,48 € / −0,19 %) est absorbée sans réaction, aucune activation possible (no-preemption pré-FOMC session 2/3), marges seuils #34/#38 desserrées mineures (0,90 % et 1,47 %), focus mercredi 16/09 20:00 CET = FOMC = catalyseur maître, éligibilité #34/#38 recalibrée post-tell jeudi 17/09.
+
+---
+
+### 2026-09-16 17:45 — Mercredi 16 septembre 2026, **SÉANCE 3 SEMAINE 38, J-FOMC PRÉ-TELL (SESSION 3/3 NO-PREEMPTION DERNIÈRE), ANTI-OUVERTURE #2 (68ᵉ SESSION CONSÉCUTIVE), HOLD DISCIPLINÉ INTÉGRAL, CRISTALLISATION FIXING 17:35 CET AVANT TELL POWELL 20:00 CET, AUCUNE ACTIVATION NOUVELLE, LÉGER REBOND ATTENTISTE +0,07 % vs MARDI (1 320,32 € vs 1 319,40 €), 108ᵉ ENTRÉE JOURNAL** (session 124)
+
+#### Contexte de marché — mercredi séance complète (J-FOMC, séance 3 semaine 38, cristallisation pré-tell)
+
+- **CME FedWatch actualisation mercredi 05:00 CET (dernière lecture pré-tell)** : répartition **89 % baisse 25 bp / 8 % baisse 50 bp / 3 % hold**, dérive additionnelle vs mardi (90/7/3) = **+1 pt en faveur du 50 bp**, cumul depuis samedi = **+3 pts** (92/5/3 → 89/8/3), biais dovish raffiné qui **atteint tout juste le seuil de vigilance de 3 pts cumulés** défini dimanche → **note de vigilance mais aucun raffinement d'arbre scénarios FOMC opérationnel côté Europe** (marchés fermés à 17:35 CET soit 2h30 avant le tell, aucune capacité d'action). L'arbre reste maintenu (A 60 % / B 22 % / C 10 % / D 5 % / E 3 %) pour la lecture jeudi matin, avec note **« vigilance dérive +3 pts »** attachée pour recalibrage post-tell.
+- **Euronext ouverture 09:00 CET** : CAC 40 ouvre en très léger rebond à ~9 715 pts (+0,10 %), correction de la respiration attentiste mardi, volumes toujours faibles (attentisme classique dernière session pré-tell), rotation cyclique-défensive équilibrée sans dominante.
+- **Wall Street pré-ouverture (14:00 CET futures)** : S&P 500 futures +0,12 %, Nasdaq futures +0,18 %, 10Y US 3,90 % (−2 bp vs mardi), dollar index 101,20 (−0,15), or spot 2 668 $ (+0,3 %) — configuration **mid-attentiste avec léger biais dovish préservé**, positionnement long-modéré pré-tell, sans catalyseur macro majeur.
+- **Publications macro mercredi** : mises en chantier US août **1,42 M** (consensus 1,40 M, légèrement soft-positif), permis de construire **1,45 M** (consensus 1,44 M, en ligne), stocks pétroliers hebdo à 16:30 CET post-fixing Europe (non-actionnable côté portefeuille). Trio housing modéré-dovish-friendly, sans surprise.
+- **Aucun événement corporate portefeuille**. Prochain catalyseur immédiat : FOMC ce soir 20:00 CET (marchés Europe fermés depuis 17:35 CET).
+- **Silence Fed en vigueur depuis samedi 06/09** : tenu jusqu'à 20:00 CET ce soir (11 jours de blackout intégral). Powell, Waller, Cook, Bowman, Jefferson, Kugler, Barr, tous muets. Fin de la fenêtre pré-tell dans ~2h30 après cristallisation Euronext.
+
+#### Événement mécanique du jour — surveillance seuils #34 / #38 (aucune activation, no-preemption stricte session 3/3, cristallisation pré-tell)
+
+- **09:15 CET application anti-ouverture #2** : première cotation observée, aucune saisie d'ordre. AI 188,05 € (+0,03 %), SAN 95,85 € (+0,05 %), SU 342,10 € (+0,06 %), DG 177,50 € (+0,06 %) — drift ouverture légèrement positif homogène, correction technique de la respiration mardi.
+- **10:00-12:00 CET** : drift progressif attentiste positif, DG oscille 177,40-177,70 €, SU 342,00-342,50 €, aucune approche seuil (max SU 342,60 € à 11:12 CET non-tenu, max DG 177,80 € à 11:38 CET non-tenu). Volumes très modérés (fenêtre J-FOMC hedging final).
+- **14:00 CET** : futures US légèrement positifs post-données housing en-ligne, léger renforcement du rebond Europe.
+- **15:30 CET reprise Wall Street** : S&P 500 +0,15 %, Nasdaq +0,20 %, biais dovish préservé pré-tell, aucune impulsion majeure.
+- **16:30-17:30 CET** : DG plafonne à 177,80 € max intraday (touche à 15:52 CET, non-tenu >30 min), retombe à 177,50 € au fixing. SU plafonne à 342,80 € max intraday (touche à 16:15 CET, non-tenu >30 min), retombe à 342,30 € au fixing. **Aucun franchissement même approché des seuils #34 (345 €) ni #38 (180 €)** — **NON PERTINENT** : la règle no-preemption pré-FOMC s'applique en tout état de cause (session 3/3 dernière), aucune activation possible avant jeudi 17/09 09:15 CET.
+- **17:35 CET fixing officiel Euronext (cristallisation pré-tell 2h30 avant Powell)** :
+  - **AI.PA fixing 188,10 €** : +0,10 € séance (+0,05 %), léger rebond attentiste, +0,10 € vs mardi.
+  - **SAN.PA fixing 95,85 €** : +0,05 € séance (+0,05 %), cap +10 % préservé sur 5 fixings consécutifs.
+  - **SU.PA fixing 342,30 €** : +0,40 € séance (+0,12 %), rebond mineur vs mardi 341,90 €, marge #34 résiduelle resserrée à 2,70 € (0,78 %).
+  - **DG.PA fixing 177,50 €** : +0,10 € séance (+0,06 %), rebond mineur vs mardi 177,40 €, marge #38 résiduelle resserrée à 2,50 € (1,39 %).
+
+#### Table portefeuille mercredi 17:45 CET (fixing clôture pré-tell FOMC, hold discipliné intégral, no-preemption stricte session 3/3 respectée, cristallisation 2h30 avant Powell)
+
+| Ligne | Qté | PRU (€) | Cours (€) | Valeur (€) | P&L (€) | P&L (%) |
+|-------|-----|---------|-----------|------------|---------|---------|
+| AI.PA | 2 | 162,00 | 188,10 | 376,20 | +52,20 | +16,11 % |
+| SAN.PA | 3 | 87,00 | 95,85 | 287,55 | +26,55 | +10,17 % |
+| SU.PA | 1 | 220,00 | 342,30 | 342,30 | +122,30 | +55,59 % |
+| DG.PA | 1,70 | 122,80 | 177,50 | 301,75 | +93,03 | +44,54 % |
+| **Investi** | | | | **1 307,80** | **+320,08** | **+32,40 %** |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 320,32** | **+320,32** | **+32,03 %** |
+
+**REBOND ATTENTISTE PRÉ-TELL : +0,92 € vs mardi 1 319,40 € (soit +0,07 %). Record cycle absolu lundi 1 321,88 € reste préservé à −1,56 € (−0,12 %), non-battu mais non-menacé. Cap symbolique +30 % consolidé sur 5 fixings consécutifs (jeudi 1 315,19 → vendredi 1 318,96 → lundi 1 321,88 → mardi 1 319,40 → mercredi 1 320,32). Les 4 lignes rebondissent homogènement (correction technique de la respiration mardi), aucune ligne ne signe de rupture, aucune approche des seuils #34/#38 (max intraday SU 342,80 / DG 177,80 tous deux à >2 € de leur seuil respectif).**
+
+#### Décisions et explication des mouvements — mercredi 17:45 CET clôture pré-tell FOMC
+
+**1. HOLD DISCIPLINÉ INTÉGRAL — 4 LIGNES CONSERVÉES.** Aucune vente, aucun achat. Toutes thèses reconduites intactes pour affronter le tell FOMC de ce soir :
+- **AI.PA (+16,11 %)** : défensive gaz industriels, drift léger positif +0,10 € (+0,05 %), correction technique attentiste. Thèse ultra-longue intacte, bid rendement pré-tell soutenu.
+- **SAN.PA (+10,17 %)** : rendement dividende, drift positif marginal +0,05 € (+0,05 %), cap +10 % consolidé sur 5 fixings consécutifs préservé. Thèse rendement intacte.
+- **SU.PA (+55,59 %)** : cœur portefeuille, drift positif mineur +0,40 € (+0,12 %), rebond vs mardi 341,90 € = correction technique. Phase 11 runner++++ préservée, marge #34 resserrée à 2,70 € (0,78 %) — sous la barre symbolique du 1 % pour la deuxième fois cycle (précédent lundi 0,70 %).
+- **DG.PA (+44,54 %)** : concession/infra, drift positif mineur +0,10 € (+0,06 %), rebond vs mardi 177,40 €. Phase 10 pyramide extension post-#35 préservée, marge #38 resserrée à 2,50 € (1,39 %).
+
+**2. #34 SU > 345 € NON-ACTIVÉ — max intraday 342,80 € éloigné + règle no-preemption pré-FOMC stricte SESSION 3/3 (dernière).** Marge résiduelle resserrée à 2,70 € (0,78 %). **NON PERTINENT** : même en cas de franchissement soutenu, aucune activation possible jusqu'à jeudi 17/09 09:15 CET (fin de la fenêtre no-preemption pré-tell FOMC). Report post-FOMC sans altération de protocole. La proximité du seuil (<1 %) confirme l'éligibilité fonctionnelle immédiate post-tell dovish.
+
+**3. #38 DG > 180 € NON-ACTIVÉ — max intraday 177,80 € éloigné + règle no-preemption pré-FOMC stricte SESSION 3/3 (dernière).** Marge résiduelle resserrée à 2,50 € (1,39 %). **NON PERTINENT** identique #34. Seuil pré-armé maintenu, activation conditionnée à jeudi 17/09 post-tell FOMC.
+
+**4. AUCUN AJUSTEMENT STOP.** Stops trailing inchangés — protocole règle d'or #7 (aucun ajustement à J-0 catalyseur maître) :
+- **SU.PA 322,00 €** trailing (aucun palier technique franchi ; prochain palier candidat = 328 € si SU cristallise franchissement 345 € post-FOMC).
+- **DG.PA 170,00 €** technique (relevé jeudi 10/09 post-#35 ; prochain relèvement conditionné à activation #38 = post-FOMC probable).
+- **AI.PA 173,00 €** trailing (inchangé, palier technique éloigné).
+
+**5. PLANCHER GARANTI CYCLE MAINTENU : 1 188,14 € (+18,81 %).** Inchangé depuis relèvement jeudi 10/09 post-#35. Verrouillage cristallisé préservé mécaniquement à J-FOMC :
+- SU stop 322,00 € = +102,00 € verrouillés (inchangé, marge stop = 20,30 € = 5,93 % — inaltérée par la volatilité intraday pré-tell).
+- DG stop 170,00 € = +80,24 € verrouillés (inchangé, marge stop = 7,50 € = 4,23 %).
+- Ex-div SAN encaissé = +5,90 € (inchangé).
+- Total verrouillé : **+188,14 € + capital 1 000 € = plancher 1 188,14 € = +18,81 %**.
+
+**6. APPLICATION RÈGLE ANTI-OUVERTURE #2 (68ᵉ SESSION CONSÉCUTIVE PRÉSERVÉE).** Aucune décision matinale, observation passive intégrale de l'ouverture, drift rebond léger positif constaté sans action. Cristallisation au fixing 17:35 CET uniquement — protocole exécuté à la lettre.
+
+**7. RÈGLE NO-PREEMPTION PRÉ-FOMC STRICTE APPLIQUÉE (SESSION 3/3 DERNIÈRE : LUNDI FAIT + MARDI FAIT + MERCREDI FAIT).** Aucune activation même sur franchissement soutenu hypothétique observé. Rationale : la variance intraday intrinsèque des seuils #34/#38 pré-tell est asymétrique et fondamentalement non-informative (pas de conviction directionnelle avérée avant Powell 20:30 CET ce soir). Fenêtre de décision cristallisée post-tell = jeudi 17/09 09:15 CET. **La règle no-preemption complète son cycle de 3 sessions consécutives sans exception — protocole exécuté à 100 %.**
+
+**8. RATIO MÉCANIQUE 29/29 PRÉSERVÉ (100 %, 59 SÉANCES POST-PIVOT FOMC 19 JUIN).** Aucune activation mercredi (règle no-preemption). Le compteur séances avance à 59 sans altération de la discipline. Discipline no-panic = 0 vente discrétionnaire depuis pivot 19 juin.
+
+**9. PAS DE 5ᵉ LIGNE — RÈGLE D'OR #4 MAINTENUE (73ᵉ SESSION CONSÉCUTIVE).** Cash 12,52 € inchangé, insuffisant pour ouverture 5ᵉ ligne. Cash SAN ex-div T3 reste intact, non-déployé, en attente catalyseur post-FOMC (analyse jeudi 17/09).
+
+**10. CARNET RECONDUIT — 7 SEUILS ACTIFS INCHANGÉS.**
+- Stop SU.PA 322,00 € trailing.
+- Stop DG.PA 170,00 € technique.
+- Stop AI.PA 173,00 € trailing.
+- **Seuil #34 SU > 345 €** pré-armé (marge 2,70 € = 0,78 %, franchissement plausible jeudi 17/09 post-FOMC si tell dovish scénario A ou E).
+- **Seuil #38 DG > 180 €** pré-armé (marge 2,50 € = 1,39 %, franchissement plausible jeudi/vendredi post-FOMC si tell dovish scénario A ou E).
+- **Seuils #36-#37** (dividendes, gestion cash, extension pyramide) : reconduits à l'identique.
+
+**11. CME FEDWATCH MERCREDI 05:00 CET — DÉRIVE CUMULÉE +3 pts ATTEINT LE SEUIL DE VIGILANCE.** Dérive répartition 89/8/3 vs mardi 90/7/3 = +1 pt vers 50 bp, cumul samedi→mercredi = **+3 pts atteint tout juste** (92/5/3 → 89/8/3), au seuil de vigilance mais **sans franchissement significatif au-delà** (marge de sécurité épuisée). L'arbre reste maintenu à titre de référence de base (A 60 % / B 22 % / C 10 % / D 5 % / E 3 %) avec **note de vigilance : probabilité E possiblement raffinée à 4-5 % post-tell si dérive additionnelle observée intraday US pré-20:00 CET**. Aucune capacité d'action côté Europe (marchés fermés depuis 17:35 CET).
+
+**12. DONNÉES MACRO MERCREDI CONFIRMENT NARRATIF DOVISH SOFT — HOUSING EN-LIGNE MODÉRÉ.** Mises en chantier +1,4 % vs consensus, permis en-ligne, trio housing modéré-dovish-friendly. Sans surprise majeure. La Fed dispose d'un contexte macro complet et cohérent avec la baisse 25 bp anticipée. Le suspense porte sur la guidance forward (dot plot 2026-27, discours Powell).
+
+**13. FENÊTRE DÉCISIONNELLE EU FERMÉE 2H30 AVANT LE TELL — REPORT MÉCANIQUE JEUDI.** Fixing Euronext 17:35 CET = cristallisation valeur portefeuille avant le tell. Tell Powell 20:00 CET (statement) + 20:30 CET (conférence presse) observés côté US uniquement (S&P 500, Nasdaq, marché obligataire, dollar). Prise de note du tell durant la soirée pour préparation lecture jeudi 09:15 CET (dérivation scénario A/B/C/D/E réalisé + probabilité activation #34/#38).
+
+**14. 108ᵉ ENTRÉE JOURNAL — SESSION 3 SEMAINE 38 CLÔTURÉE PRÉ-TELL.** Session 124, mercredi 16/09 séance 3 semaine 38, J-FOMC pré-tell. Séance mécaniquement inopérante par construction (no-preemption pré-FOMC session 3/3 dernière, cristallisation 2h30 avant tell), exécution disciplinée intégrale, rebond attentiste homogène absorbé par les 4 lignes (drift positif +0,07 % sans forcer aucune activation, sans altération plancher garanti, sans altération stops actifs). **La séance parachève le cycle no-preemption 3/3 à 100 % : lundi drift positif absorbé sans activation, mardi respiration négative absorbée sans réaction, mercredi rebond attentiste absorbé sans anticipation.** Le portefeuille arrive au tell FOMC en configuration technique optimale : 2 seuils pré-armés à <1,5 % de leur trigger, 4 lignes toutes positives à double chiffre pour 3 d'entre elles, plancher +18,81 % blindé, cap +30 % consolidé sur 5 fixings, record cycle 1 321,88 € à portée immédiate.
+
+#### Stratégie — plan jeudi 17/09 exécutable (J+1 FOMC, première lecture post-tell, FIN de la fenêtre no-preemption)
+
+**Discipline dominante jeudi 17/09** : **FIN de la règle no-preemption pré-FOMC** (fenêtre expirée à 20:00 CET mercredi soir avec le tell) + **anti-ouverture #2 stricte** (69ᵉ session future). Reprise du régime décisionnel classique : cristallisation possible au fixing 17:35 CET jeudi, activation #34 SU > 345 € et #38 DG > 180 € éligibles selon scénario FOMC réalisé.
+
+**Checklist runbook jeudi 17/09 (à exécuter séquentiellement 07:00-17:35 CET)** :
+1. **07:00 CET** : lecture consolidée du tell FOMC de la veille : (i) décision 25 bp / 50 bp / hold, (ii) dot plot 2026-27 (médianes), (iii) statement (occurrences « restrictive », « front-loaded », « data-dependent »), (iv) conférence Powell (guidance forward, questions journalistes). Dérivation scénario A/B/C/D/E réalisé.
+2. **07:30 CET** : lecture réaction Wall Street soirée post-tell (S&P 500, Nasdaq, 10Y US, dollar index, or spot) — validation ou invalidation du scénario premier.
+3. **08:00 CET** : recalibrage éligibilité #34 SU > 345 € et #38 DG > 180 € : scénario A/E → probabilité activation haute (drift Europe ouverture positif attendu), scénario B → activation plausible sur drift continuation, scénario C/D → seuils reportés semaine 39.
+4. **09:00-09:15 CET** : observation passive ouverture Euronext (application anti-ouverture #2 69ᵉ session), aucune saisie ordre matinale, drift constaté sans action.
+5. **09:30 CET** : lecture marges franchissement #34 et #38 sur cotations d'ouverture — première évaluation de la magnitude de la réaction Europe.
+6. **12:00 CET** : mid-séance check, éventuel franchissement soutenu (>30 min) d'un seuil = éligibilité fonctionnelle validée, à cristalliser au fixing.
+7. **17:35 CET fixing** : cristallisation valeur portefeuille + éventuelle activation #34 et/ou #38 selon franchissement soutenu observé + rédaction 109ᵉ entrée journal (session 125).
+
+**Séquence semaine 38 finale** :
+- **Jeudi 17/09 09:15 CET** : J+1 FOMC, première lecture post-tell, fin no-preemption, éligibilité #34/#38 recalibrée, fenêtre de décision cristallisée au fixing 17:35 CET.
+- **Vendredi 18/09 17:35 CET** : clôture semaine 38, bilan hebdo, éventuel double activation cascade #34 + #38 si tape FOMC dovish consolidé sur 2 séances (scénario A ~60 %).
+
+**Prochaine réévaluation** : **jeudi 17 septembre 09:15 CET** (J+1 FOMC, première lecture post-tell, FIN règle no-preemption pré-FOMC, anti-ouverture #2 69ᵉ session, éligibilité #34/#38 recalibrée selon scénario réalisé). Stops actifs : SU.PA **322,00 €** trailing, DG.PA **170,00 €** technique, AI.PA **173,00 €** trailing. Carnet **7 seuils actifs reconduits à l'identique**. Cash **12,52 €**. **Ratio mécanique 29/29 (100 %, 59 séances post-pivot FOMC 19 juin), plancher +18,81 % garanti, record cycle absolu 1 321,88 € (+32,19 %) du lundi préservé mécaniquement à J+2 malgré cycle attentiste complet (+0,22 % lundi / −0,19 % mardi / +0,07 % mercredi = solde −0,12 %), cap symbolique +30 % consolidé sur 5 fixings consécutifs, marge cap +35 % = 29,68 € = 2,25 %** — la mécanique boucle le cycle no-preemption pré-FOMC 3/3 à 100 % sans exception, portefeuille arrivé au tell FOMC en configuration optimale (2 seuils pré-armés <1,5 %, 4 lignes positives dont 3 à double chiffre, plancher +18,81 % blindé), focus jeudi 17/09 09:15 CET = première lecture post-tell = ouverture fenêtre décisionnelle cascade #34/#38.
