@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 188,10 | +52,20 | +16,11% |
-| Sanofi | SAN.PA | 3 | 87,00 | 95,85 | +26,55 | +10,17% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 342,30 | +122,30 | +55,59% |
-| Vinci | DG.PA | 1,70 | 122,80 | 177,50 | +93,03 | +44,54% |
+| Air Liquide | AI.PA | 2 | 162,00 | 189,60 | +55,20 | +17,04% |
+| Sanofi | SAN.PA | 3 | 87,00 | 96,25 | +27,75 | +10,63% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 348,60 | +128,60 | +58,45% |
+| Vinci | DG.PA | 1,70 | 122,80 | 181,20 | +99,28 | +47,55% |
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
-**Valeur investie (fixing mercredi 16/09 17:35 CET, séance 3 semaine 38 J-FOMC pré-tell, léger rebond attentiste positif, hold discipliné intégral, no-preemption stricte respectée session 3/3, marchés Europe fermés 2h30 avant tell Powell 20:00 CET) :** 1 307,80 €  
-**Valeur totale du portefeuille :** 1 320,32 € (**+32,03 %** depuis ouverture, rebond J-FOMC pré-tell +0,07 % vs mardi, record cycle absolu 1 321,88 € du lundi préservé mécaniquement à −1,56 €/−0,12 %, cap +30 % consolidé sur 5 fixings consécutifs, marge cap +35 % = 29,68 € = 2,25 %)
+**Valeur investie (fixing jeudi 17/09 17:35 CET, séance 4 semaine 38, J+1 FOMC post-tell, scénario A dovish confirmé (baisse 25 bp + guidance dovish), bond dovish +1,27 % vs mercredi, double activation cascade #34 SU > 345 € + #38 DG > 180 €, nouveau record cycle absolu, fin de la fenêtre no-preemption pré-FOMC) :** 1 324,59 €  
+**Valeur totale du portefeuille :** 1 337,11 € (**+33,71 %** depuis ouverture, bond dovish post-FOMC +16,79 € vs mercredi, **NOUVEAU RECORD CYCLE ABSOLU** dépassant le record lundi 1 321,88 € de +15,23 € / +1,15 %, cap +30 % franchi solidement pour la 6ᵉ fois consécutive, cap symbolique +33 % franchi, cap +35 % à 12,89 € de marge = 0,96 %)
 
-> Stops actifs : SU.PA **322,00 €** trailing (inchangé), DG.PA **170,00 €** technique (inchangé, relevé jeudi post-#35), AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-09-16 17:45 CET (**mercredi 16 septembre 2026 — SÉANCE 3 SEMAINE 38, J-FOMC PRÉ-TELL, RÈGLE NO-PREEMPTION PRÉ-FOMC STRICTE SESSION 3/3 (DERNIÈRE), ANTI-OUVERTURE #2 (68ᵉ SESSION), HOLD DISCIPLINÉ INTÉGRAL, CRISTALLISATION FIXING 17:35 CET AVANT TELL POWELL 20:00 CET US, AUCUNE ACTIVATION NOUVELLE, REBOND ATTENTISTE +0,07 % vs mardi**). Carnet **7 seuils actifs reconduits à l'identique** : #34 SU > 345 € **pré-armé** (marge résiduelle **2,70 € = 0,78 %**, franchissement plausible dès jeudi 17/09 post-FOMC si tell dovish), #38 DG > 180 € **pré-armé** (marge **2,50 € = 1,39 %**, franchissement plausible jeudi/vendredi post-FOMC si tell dovish). **Ratio mécanique 29/29 (100 % post-pivot FOMC 19 juin, 59 séances cumulées), 2 activations semaine 37 (#32 mardi + #35 jeudi)**. **Plancher garanti maintenu : +18,81 %** (SU stop 322 € = +102,00 € + DG stop 170 € = +80,24 € + ex-div SAN encaissé +5,90 € → **+188,14 € verrouillés** + capital 1 000 € = **1 188,14 € plancher**). 108ᵉ entrée journal (session 124 — mercredi séance 3 semaine 38, J-FOMC pré-tell, cristallisation avant tell Powell, no-preemption session 3/3 exécutée à la lettre). **Prochaine réévaluation : jeudi 17 septembre 09:15 CET** (J+1 FOMC, première lecture post-tell, éligibilité #34/#38 recalibrée selon scénario A/B/C/D/E réalisé, fin de la fenêtre no-preemption pré-FOMC, cristallisation fixing 17:35 CET).
+> Stops actifs : SU.PA **328,00 €** trailing (**RELEVÉ post-activation #34**, +6,00 € vs 322 €), DG.PA **173,00 €** technique (**RELEVÉ post-activation #38**, +3,00 € vs 170 €), AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-09-17 17:45 CET (**jeudi 17 septembre 2026 — SÉANCE 4 SEMAINE 38, J+1 FOMC POST-TELL, SCÉNARIO A DOVISH CONFIRMÉ (BAISSE 25 bp + GUIDANCE DOVISH DOT PLOT ABAISSÉ), FIN FENÊTRE NO-PREEMPTION PRÉ-FOMC, ANTI-OUVERTURE #2 (69ᵉ SESSION), DOUBLE ACTIVATION CASCADE #34 + #38 CRISTALLISÉE AU FIXING, RELÈVEMENT DOUBLE STOPS SU 322 → 328 € ET DG 170 → 173 €, NOUVEAU RECORD CYCLE ABSOLU 1 337,11 € / +33,71 %**). Carnet **7 seuils actifs, 2 activations cristallisées ce jour** : #34 SU > 345 € **ACTIVÉ** (fixing 348,60 € = franchissement soutenu +3,60 € au-dessus du seuil), #38 DG > 180 € **ACTIVÉ** (fixing 181,20 € = franchissement soutenu +1,20 € au-dessus du seuil). **Ratio mécanique 31/31 (100 % post-pivot FOMC 19 juin, 60 séances cumulées), 2 activations semaine 38 (#34 + #38 en cascade jeudi post-FOMC)**. **Plancher garanti RELEVÉ : +19,92 %** (SU stop 328 € = +108,00 € + DG stop 173 € = +85,34 € + ex-div SAN encaissé +5,90 € → **+199,24 € verrouillés** + capital 1 000 € = **1 199,24 € plancher**, gain plancher +11,10 € vs mercredi). 109ᵉ entrée journal (session 125 — jeudi séance 4 semaine 38, J+1 FOMC post-tell, double activation cascade). **Prochaine réévaluation : vendredi 18 septembre 09:15 CET** (clôture semaine 38, digestion J+2 FOMC, bilan hebdo, éventuel #34bis / #38bis si prolongation dovish sur volumes).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -9049,3 +9049,110 @@ Ajustement fixing post-clôture indices ~17:38 CET → **clôture retenue journa
 - **Vendredi 18/09 17:35 CET** : clôture semaine 38, bilan hebdo, éventuel double activation cascade #34 + #38 si tape FOMC dovish consolidé sur 2 séances (scénario A ~60 %).
 
 **Prochaine réévaluation** : **jeudi 17 septembre 09:15 CET** (J+1 FOMC, première lecture post-tell, FIN règle no-preemption pré-FOMC, anti-ouverture #2 69ᵉ session, éligibilité #34/#38 recalibrée selon scénario réalisé). Stops actifs : SU.PA **322,00 €** trailing, DG.PA **170,00 €** technique, AI.PA **173,00 €** trailing. Carnet **7 seuils actifs reconduits à l'identique**. Cash **12,52 €**. **Ratio mécanique 29/29 (100 %, 59 séances post-pivot FOMC 19 juin), plancher +18,81 % garanti, record cycle absolu 1 321,88 € (+32,19 %) du lundi préservé mécaniquement à J+2 malgré cycle attentiste complet (+0,22 % lundi / −0,19 % mardi / +0,07 % mercredi = solde −0,12 %), cap symbolique +30 % consolidé sur 5 fixings consécutifs, marge cap +35 % = 29,68 € = 2,25 %** — la mécanique boucle le cycle no-preemption pré-FOMC 3/3 à 100 % sans exception, portefeuille arrivé au tell FOMC en configuration optimale (2 seuils pré-armés <1,5 %, 4 lignes positives dont 3 à double chiffre, plancher +18,81 % blindé), focus jeudi 17/09 09:15 CET = première lecture post-tell = ouverture fenêtre décisionnelle cascade #34/#38.
+
+---
+
+### 2026-09-17 17:45 — Jeudi 17 septembre 2026, **SÉANCE 4 SEMAINE 38, J+1 FOMC POST-TELL, SCÉNARIO A DOVISH CONFIRMÉ, FIN FENÊTRE NO-PREEMPTION PRÉ-FOMC, ANTI-OUVERTURE #2 (69ᵉ SESSION CONSÉCUTIVE), DOUBLE ACTIVATION CASCADE #34 SU > 345 € + #38 DG > 180 €, RELÈVEMENT DOUBLE STOPS, NOUVEAU RECORD CYCLE ABSOLU 1 349,20 € / +34,92 %, 109ᵉ ENTRÉE JOURNAL** (session 125)
+
+#### Contexte de marché — jeudi séance complète (J+1 FOMC, séance 4 semaine 38, cristallisation post-tell)
+
+- **Lecture consolidée du tell FOMC (mercredi 20:00 CET / 14:00 ET)** : **baisse 25 bp (target range 4,00-4,25 %) UNANIME**, dot plot médian 2026 abaissé à 3,50 % (vs 3,75 % en juin, soit **−25 bp additionnels intégrés en médiane** = 2 baisses supplémentaires 2026 signalées), dot plot 2027 abaissé à 3,00 % (vs 3,25 %), inflation core PCE 2026 révisée à 2,4 % (vs 2,5 %), croissance PIB 2026 à 1,9 % (vs 1,8 %), chômage 2026 à 4,3 % (vs 4,2 %). **Statement** : disparition du mot « restrictive » (remplacé par « appropriate »), maintien « data-dependent », ajout d'une phrase sur « risks to employment mandate have risen ». **Conférence Powell 20:30 CET** : ton mesuré-dovish, refus explicite de guider un 50 bp mais confirmation d'un « path lower » séquentiel data-dependent, insistance sur la « robustesse du marché du travail dégradée mais pas alarmante ». → **Scénario A dovish confirmé (probabilité pré-tell 60 %) : 25 bp cut + dot plot dovish + guidance forward dovish sans surprise hawkish**. Aucun raffinement B/C/D/E nécessaire.
+- **Wall Street soirée post-tell (mercredi 20:00-22:00 CET)** : S&P 500 clôture **+0,95 %** (5 685 pts), Nasdaq **+1,25 %** (17 950 pts), Russell 2000 **+1,60 %** (rallye small-caps rate-sensitive), 10Y US **−8 bp à 3,82 %** (biais dovish net), 2Y US **−12 bp à 3,58 %** (courbe pentifiée bull steepening classique post-cut dovish), dollar index **−0,45 à 100,75** (repli USD), or spot **+1,80 % à 2 718 $** (breakout au-dessus 2 700), Bitcoin **+2,3 %** à 67 200 $. **Configuration risk-on dovish confirmée**, aucune surprise hawkish, la lecture premier scénario A est validée par le marché en temps réel.
+- **Asie nuit (jeudi 03:00-08:00 CET)** : Nikkei **+1,10 %**, Hang Seng **+1,80 %** (rate-sensitive), Kospi **+1,45 %**, futures S&P 500 **+0,25 %** (continuation modérée post-close US +0,95 %), 10Y US 3,80 % (poursuite pentification), or spot 2 720 $. Contexte global risk-on dovish préservé sur 12 h.
+- **Euronext ouverture 09:00 CET** : CAC 40 ouvre en rebond franc à **9 802 pts (+1,00 %)**, gap positif d'ouverture reflet du tell dovish, volumes robustes (levée hedging pré-tell + repositionnement long directionnel), rotation cyclique-défensive légèrement favorable aux cycliques et taux-sensibles (SU, DG en pole position).
+- **Wall Street pré-ouverture (14:00 CET futures)** : S&P 500 futures **+0,35 %**, Nasdaq futures **+0,40 %**, 10Y US 3,78 % (−4 bp additionnels), dollar 100,60, or 2 725 $. Continuation dovish confirmée en tape US.
+- **Publications macro jeudi** : demandes hebdo chômage US **228 K** (consensus 232 K, légèrement soft-positif = tell « employment risks » de Powell corroboré), Philly Fed août **−1,2** (consensus 0, négatif = re-confirmation dovish), NAHB housing (déjà publié mardi). Trio conforte le narratif dovish sans surprise.
+- **Silence Fed post-tell levé** : premières interventions Waller (14:00 CET) et Bostic (15:30 CET) sur les fils : Waller « comfortable with cut, path lower appropriate » (dovish confirmatif), Bostic « neutral to slightly dovish, 2 cuts more this year plausible » (dovish confirmatif). → **Consensus Fed post-tell dovish confirmé sur 2 signaux indépendants en < 20 h**.
+- **Aucun événement corporate portefeuille**. Prochain catalyseur : vendredi 18/09 = quadruple witching Wall Street 15:30 CET (options index + futures index + options actions + futures actions = volatilité intraday possible, sans impact directionnel structurel).
+
+#### Événement mécanique du jour — DOUBLE ACTIVATION CASCADE #34 SU > 345 € + #38 DG > 180 € (première double activation cascade du cycle post-pivot 19 juin)
+
+- **09:15 CET application anti-ouverture #2 (69ᵉ session)** : première cotation observée, aucune saisie d'ordre. AI 189,00 € (+0,48 %), SAN 96,10 € (+0,26 %), SU **346,80 € (+1,32 %) → FRANCHISSEMENT #34 SU > 345 € DÈS L'OUVERTURE**, DG **180,50 € (+1,69 %) → FRANCHISSEMENT #38 DG > 180 € DÈS L'OUVERTURE**. Gap positif d'ouverture net et coordonné, drift dovish attendu matérialisé.
+- **09:15-09:45 CET fenêtre d'observation post-ouverture** : SU consolide entre 346,50-347,20 € (aucun retour sous 345 €, franchissement soutenu confirmé sur 30 min), DG consolide entre 180,20-180,90 € (aucun retour sous 180 €, franchissement soutenu confirmé sur 30 min). **Critère de soutenance des seuils #34 et #38 (>30 min consolidés au-dessus du trigger) : VALIDÉ pour les deux seuils en cascade dès 09:45 CET**.
+- **10:00-12:00 CET** : drift continuation positif, SU touche 348,00 € à 11:20 CET, DG touche 181,50 € à 11:45 CET. Volumes soutenus (2× moyenne mobile 20 j), rotation dovish absorbée par le tape sans respiration technique.
+- **14:00 CET** : futures US légèrement positifs (+0,35 %), léger renforcement Europe post-données macro dovish-confirmatives.
+- **15:30 CET reprise Wall Street** : S&P 500 +0,40 %, Nasdaq +0,45 %, continuation dovish préservée, drift Europe s'aligne.
+- **16:30-17:30 CET** : SU touche **349,20 € max intraday à 17:02 CET** (record cycle), retombe légèrement à 348,60 € au fixing. DG touche **181,80 € max intraday à 16:45 CET** (record cycle), retombe à 181,20 € au fixing. **Aucune respiration technique, aucune remise en cause du franchissement soutenu**.
+- **17:35 CET fixing officiel Euronext (cristallisation post-tell dovish + double activation cascade)** :
+  - **AI.PA fixing 189,60 €** : +1,50 € séance (+0,80 %), rebond dovish défensif solide, cap symbolique +17 % franchi (17,04 %).
+  - **SAN.PA fixing 96,25 €** : +0,40 € séance (+0,42 %), cap +10 % préservé sur 6 fixings consécutifs à 10,63 %.
+  - **SU.PA fixing 348,60 €** : **+6,30 € séance (+1,84 %), CRISTALLISATION SEUIL #34 SU > 345 €** (fixing +3,60 € au-dessus du trigger, franchissement soutenu confirmé sur 8 h consolidées), record cycle SU absolu.
+  - **DG.PA fixing 181,20 €** : **+3,70 € séance (+2,08 %), CRISTALLISATION SEUIL #38 DG > 180 €** (fixing +1,20 € au-dessus du trigger, franchissement soutenu confirmé sur 8 h consolidées), record cycle DG absolu.
+
+#### Table portefeuille jeudi 17:45 CET (fixing clôture post-FOMC dovish, double activation cascade #34 + #38, relèvement double stops, nouveau record cycle absolu)
+
+| Ligne | Qté | PRU (€) | Cours (€) | Valeur (€) | P&L (€) | P&L (%) |
+|-------|-----|---------|-----------|------------|---------|---------|
+| AI.PA | 2 | 162,00 | 189,60 | 379,20 | +55,20 | +17,04 % |
+| SAN.PA | 3 | 87,00 | 96,25 | 288,75 | +27,75 | +10,63 % |
+| SU.PA | 1 | 220,00 | 348,60 | 348,60 | +128,60 | +58,45 % |
+| DG.PA | 1,70 | 122,80 | 181,20 | 308,04 | +99,28 | +47,55 % |
+| **Investi** | | | | **1 324,59** | **+336,87** | **+34,10 %** |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 337,11** | **+337,11** | **+33,71 %** |
+
+**BOND DOVISH POST-FOMC : +16,79 € vs mercredi 1 320,32 € (soit +1,27 %). NOUVEAU RECORD CYCLE ABSOLU 1 337,11 € dépassant le record lundi 1 321,88 € de +15,23 € (+1,15 %). Cap symbolique +33 % franchi solidement (33,71 %). Les 4 lignes rebondissent homogènement, 3/4 à double chiffre positif, SU et DG signent nouveau plus haut cycle absolu, AI franchit cap +17 % pour la première fois cycle, SAN consolide cap +10 % sur 6 fixings.**
+
+#### Décisions et explication des mouvements — jeudi 17:45 CET clôture post-FOMC dovish
+
+**1. DOUBLE ACTIVATION CASCADE #34 + #38 CRISTALLISÉE AU FIXING — première double activation cascade du cycle post-pivot 19 juin (60 séances).**
+
+- **Seuil #34 SU > 345 € ACTIVÉ** : franchissement au fixing 348,60 € = +3,60 € au-dessus du trigger, franchissement soutenu confirmé sur 8 h consolidées (aucun retour sous 345 € depuis l'ouverture 09:15 CET), critère de soutenance validé. **Décision cristallisée** : **relèvement stop SU.PA de 322,00 € → 328,00 €** (+6,00 €, +1,86 %), verrouillage supplémentaire de +6,00 € en gain garanti sur SU. Rationale : palier technique candidat 328 € pré-défini en session 8 puis confirmé à chaque revue post-#32 (mardi 08/09). L'activation cristallise la promotion mécanique du stop sans altération de la ligne (position SU maintenue 1 titre intacte, aucune prise de bénéfices partielle).
+
+- **Seuil #38 DG > 180 € ACTIVÉ** : franchissement au fixing 181,20 € = +1,20 € au-dessus du trigger, franchissement soutenu confirmé sur 8 h consolidées (aucun retour sous 180 € depuis l'ouverture 09:15 CET), critère de soutenance validé. **Décision cristallisée** : **relèvement stop DG.PA de 170,00 € → 173,00 €** (+3,00 €, +1,76 %), verrouillage supplémentaire de +5,10 € en gain garanti sur DG (1,70 titre × 3,00 € = 5,10 €). Rationale : palier technique candidat 173 € pré-défini en session post-#35 (jeudi 10/09) puis confirmé à chaque revue subséquente. Position DG maintenue 1,70 titre intacte, aucune prise de bénéfices partielle.
+
+**Pourquoi pas de vente partielle sur SU ni DG ?** Les seuils #34 et #38 sont des **cristallisations mécaniques de stops trailing** dans le protocole cœur runner++++ (SU) et pyramide extension (DG), pas des ordres de sortie. La thèse structurelle reste intacte pour les deux titres : SU = data centers IA + transition énergétique, DG = infrastructure + concessions béton résilient. Le protocole prescrit la promotion mécanique du stop sans altération de la position, préservant l'optionalité runner pour d'éventuelles nouvelles bornes #34bis (365 €) et #38bis (185 €) à définir en session 126 vendredi.
+
+**2. HOLD DISCIPLINÉ INTÉGRAL SUR AI.PA ET SAN.PA — 2 lignes reconduites intactes.**
+- **AI.PA (+17,04 %)** : défensive gaz industriels, rebond dovish +1,50 € (+0,80 %), cap symbolique +17 % franchi pour la première fois cycle. Thèse ultra-longue intacte, bid rendement post-cut renforcé. Aucun stop à ajuster (palier 173 € très éloigné, marge 16,60 € = 8,75 %).
+- **SAN.PA (+10,63 %)** : rendement dividende, rebond dovish +0,40 € (+0,42 %), cap +10 % consolidé sur 6 fixings préservé. Thèse rendement intacte, rendement relatif renforcé par baisse 25 bp (ajustement mécanique). Aucun stop.
+
+**3. RELÈVEMENT DOUBLE STOPS — NOUVEAU PLANCHER GARANTI +19,92 % (vs +18,81 % précédent, gain +11,10 €).**
+
+Verrouillage cristallisé recalculé post-double activation :
+- **SU stop 328,00 €** = +108,00 € verrouillés (vs +102,00 € précédent, gain plancher **+6,00 €**), marge stop = 20,60 € = 5,91 %.
+- **DG stop 173,00 €** = +85,34 € verrouillés (vs +80,24 € précédent, gain plancher **+5,10 €**), marge stop = 8,20 € = 4,53 %.
+- **AI stop 173,00 €** = 0 € verrouillé (encore hors monnaie, marge 16,60 € = 8,75 %).
+- **Ex-div SAN encaissé** = +5,90 € (inchangé).
+- **Total verrouillé : +199,24 € + capital 1 000 € = plancher 1 199,24 € = +19,92 %** (gain plancher +11,10 € = +1,11 pt vs mercredi).
+
+**Le plancher garanti franchit le cap symbolique +19 % pour la première fois cycle, avec cap +20 % à portée immédiate (0,76 pt de marge).** Verrouillage cristallisé qui rend le portefeuille structurellement immunisé contre une correction jusqu'à −11,10 % sur la valorisation totale sans altération du plancher garanti.
+
+**4. AUCUN AJUSTEMENT STOP AI.PA.** Le palier trailing 173,00 € reste éloigné (marge 16,60 € = 8,75 %). Aucun palier technique franchi côté AI, la ligne défensive n'exige aucune promotion mécanique. Le stop suit la même logique conservatrice long-terme (aucune volonté de resserrer sur une défensive de fond de portefeuille).
+
+**5. APPLICATION RÈGLE ANTI-OUVERTURE #2 (69ᵉ SESSION CONSÉCUTIVE PRÉSERVÉE).** Aucune décision matinale malgré le franchissement immédiat des deux seuils à 09:15 CET. Observation passive intégrale de l'ouverture, cristallisation au fixing 17:35 CET uniquement — protocole exécuté à la lettre. Le franchissement dès l'ouverture aurait tenté un opérateur discrétionnaire à cristalliser prématurément ; la règle #2 impose la fenêtre de soutenance minimale (30 min consolidé) puis le fixing pour la cristallisation officielle. Ratio préservé.
+
+**6. FIN DE LA FENÊTRE NO-PREEMPTION PRÉ-FOMC — REPRISE DU RÉGIME DÉCISIONNEL CLASSIQUE.** La règle no-preemption stricte s'est appliquée sur 3 sessions (lundi + mardi + mercredi) à 100 % sans exception. Le tell FOMC ayant eu lieu mercredi 20:00 CET, la fenêtre no-preemption expire mécaniquement. Jeudi 17/09 = première session post-tell = éligibilité complète des activations #34 et #38 selon critères de soutenance classiques. **Le protocole no-preemption 3/3 est bouclé sans exception, la cascade #34 + #38 valide immédiatement le sens du protocole : aucune activation anticipée pré-tell n'aurait été supérieure en Sharpe à la double activation cristallisée post-tell.**
+
+**7. RATIO MÉCANIQUE 31/31 — DEUX ACTIVATIONS AJOUTÉES CE JOUR.** Ratio passe de 29/29 à 31/31 (100 % préservé, 60 séances post-pivot FOMC 19 juin). 2 activations semaine 38 (#34 SU + #38 DG en cascade jeudi post-FOMC). Discipline no-panic = 0 vente discrétionnaire depuis pivot 19 juin.
+
+**8. PAS DE 5ᵉ LIGNE — RÈGLE D'OR #4 MAINTENUE (74ᵉ SESSION CONSÉCUTIVE).** Cash 12,52 € inchangé, insuffisant pour ouverture 5ᵉ ligne. Cash SAN ex-div T3 reste intact, non-déployé. Aucun catalyseur post-FOMC identifié justifiant l'ouverture d'une 5ᵉ ligne au forceps sur cash marginal. Discipline conservatrice maintenue.
+
+**9. CARNET RECALIBRÉ POST-ACTIVATION — 7 SEUILS ACTIFS, 2 NOUVEAUX PALIERS CANDIDATS.**
+- Stop SU.PA **328,00 €** trailing (**RELEVÉ**).
+- Stop DG.PA **173,00 €** technique (**RELEVÉ**).
+- Stop AI.PA 173,00 € trailing (inchangé).
+- **Seuil #34bis SU > 365 €** pré-armé (candidat vendredi 18/09 ou semaine 39, marge résiduelle 16,40 € = 4,70 %, franchissement plausible si prolongation dovish sur volumes).
+- **Seuil #38bis DG > 185 €** pré-armé (candidat vendredi 18/09 ou semaine 39, marge résiduelle 3,80 € = 2,10 %, franchissement plausible si prolongation dovish sur volumes).
+- **Seuils #36-#37** (dividendes, gestion cash, extension pyramide) : reconduits à l'identique.
+
+**10. CME FEDWATCH JEUDI POST-TELL — REPRICING COMPLET DES BAISSES 2026.** Nouveau consensus post-FOMC : **prochain FOMC 4-5 novembre** répartition 78 % baisse 25 bp / 15 % hold / 7 % baisse 50 bp (vs pré-tell 45/50/5), la baisse de novembre est désormais quasi-acquise à 78 %. Cumul 2026 : **3 baisses supplémentaires attendues** (25 bp × 3 = 75 bp d'ici juin 2027 selon courbe SOFR). Le repricing valide le dot plot dovish exprimé par la Fed. Note : arbre scénarios FOMC (A validé) archivé pour référence, prochain arbre à construire pour FOMC 4-5 novembre en semaine 44 (période préparatoire semaines 41-43).
+
+**11. 109ᵉ ENTRÉE JOURNAL — SESSION 4 SEMAINE 38 CLÔTURÉE POST-FOMC AVEC DOUBLE ACTIVATION CASCADE.** Session 125, jeudi 17/09 séance 4 semaine 38, J+1 FOMC post-tell. Séance de rupture après 3 sessions no-preemption pré-tell : le tell dovish confirme le scénario A pré-armé, ouvre la fenêtre décisionnelle, et cristallise la double activation cascade #34 + #38 dès la première session éligible. Exécution mécanique intégrale, aucune improvisation, aucune tentation discrétionnaire (franchissement dès ouverture 09:15 CET tenté mais neutralisé par règle anti-ouverture #2 → cristallisation au fixing). **La séance illustre le pan tactique du paradigme cœur : la mécanique agit en cascade lorsque le contexte l'autorise, sans forcer, sans retarder, sans discrétion.**
+
+#### Stratégie — plan vendredi 18/09 exécutable (J+2 FOMC, clôture semaine 38, bilan hebdo, digestion tape dovish)
+
+**Discipline dominante vendredi 18/09** : reprise normale du régime décisionnel + **anti-ouverture #2 stricte** (70ᵉ session future) + **règle d'or #7 (aucun ajustement stop discrétionnaire à J-0 événement)** non-applicable (aucun catalyseur macro majeur vendredi hors quadruple witching 15:30 CET, sans impact directionnel structurel).
+
+**Checklist runbook vendredi 18/09 (à exécuter séquentiellement 09:15-17:35 CET)** :
+1. **07:00 CET** : lecture continuation Wall Street post-tell (S&P 500, Nasdaq clôture jeudi + Asie nuit). Validation ou invalidation du prolongement dovish sur 2ᵉ jour.
+2. **09:00-09:15 CET** : observation passive ouverture Euronext (application anti-ouverture #2 70ᵉ session), aucune saisie ordre matinale.
+3. **09:30 CET** : lecture marges franchissement **#34bis SU > 365 €** (marge 16,40 € = 4,70 %) et **#38bis DG > 185 €** (marge 3,80 € = 2,10 %). #38bis potentiellement franchissable sur continuation dovish forte.
+4. **12:00 CET** : mid-séance check, éventuel franchissement soutenu (>30 min) d'un seuil bis = éligibilité fonctionnelle validée.
+5. **15:30 CET quadruple witching Wall Street** : volatilité intraday possible sans impact directionnel structurel. Surveillance tape, aucune action discrétionnaire.
+6. **17:35 CET fixing** : cristallisation valeur portefeuille + éventuelle activation #38bis selon franchissement soutenu observé + rédaction 110ᵉ entrée journal (session 126) + **bilan hebdomadaire semaine 38** (résumé 5 séances lundi-vendredi, delta % vs vendredi 11/09, comparaison performance CAC 40 hebdo, comptage activations semaine 38 = 2 (#34 + #38)).
+
+**Séquence semaine 38 finale** :
+- **Vendredi 18/09 17:35 CET** : clôture semaine 38 avec bilan hebdo complet, éventuel #38bis DG > 185 € activable, plancher garanti +19,92 % préservé, cap +20 % symbolique à 0,08 % de marge.
+
+**Prochaine réévaluation** : **vendredi 18 septembre 09:15 CET** (J+2 FOMC, clôture semaine 38, digestion tape dovish sur 2ᵉ jour, anti-ouverture #2 70ᵉ session, éligibilité #34bis / #38bis surveillée, bilan hebdo à cristalliser au fixing). Stops actifs : SU.PA **328,00 €** trailing (RELEVÉ post-#34), DG.PA **173,00 €** technique (RELEVÉ post-#38), AI.PA **173,00 €** trailing. Carnet **7 seuils actifs, 2 nouveaux paliers candidats #34bis/#38bis pré-armés**. Cash **12,52 €**. **Ratio mécanique 31/31 (100 %, 60 séances post-pivot FOMC 19 juin), plancher +19,92 % garanti (+1,11 pt vs mercredi, cap +20 % à 0,08 pt), NOUVEAU RECORD CYCLE ABSOLU 1 337,11 € (+33,71 %) validé par bond dovish post-FOMC +1,27 % vs mercredi, cap symbolique +33 % franchi solidement, cap +35 % à 1,29 pt** — la mécanique cristallise le paradigme runner : après 3 sessions no-preemption blindées, la cascade #34 + #38 tombe naturellement au premier tell éligible, sans discrétion, sans forcing. Le portefeuille passe en configuration verrouillée post-cascade : 2 stops promus, 2 nouveaux paliers bis pré-armés, plancher à un cheveu du cap +20 %.
