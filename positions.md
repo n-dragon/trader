@@ -9156,3 +9156,96 @@ Verrouillage cristallisé recalculé post-double activation :
 - **Vendredi 18/09 17:35 CET** : clôture semaine 38 avec bilan hebdo complet, éventuel #38bis DG > 185 € activable, plancher garanti +19,92 % préservé, cap +20 % symbolique à 0,08 % de marge.
 
 **Prochaine réévaluation** : **vendredi 18 septembre 09:15 CET** (J+2 FOMC, clôture semaine 38, digestion tape dovish sur 2ᵉ jour, anti-ouverture #2 70ᵉ session, éligibilité #34bis / #38bis surveillée, bilan hebdo à cristalliser au fixing). Stops actifs : SU.PA **328,00 €** trailing (RELEVÉ post-#34), DG.PA **173,00 €** technique (RELEVÉ post-#38), AI.PA **173,00 €** trailing. Carnet **7 seuils actifs, 2 nouveaux paliers candidats #34bis/#38bis pré-armés**. Cash **12,52 €**. **Ratio mécanique 31/31 (100 %, 60 séances post-pivot FOMC 19 juin), plancher +19,92 % garanti (+1,11 pt vs mercredi, cap +20 % à 0,08 pt), NOUVEAU RECORD CYCLE ABSOLU 1 337,11 € (+33,71 %) validé par bond dovish post-FOMC +1,27 % vs mercredi, cap symbolique +33 % franchi solidement, cap +35 % à 1,29 pt** — la mécanique cristallise le paradigme runner : après 3 sessions no-preemption blindées, la cascade #34 + #38 tombe naturellement au premier tell éligible, sans discrétion, sans forcing. Le portefeuille passe en configuration verrouillée post-cascade : 2 stops promus, 2 nouveaux paliers bis pré-armés, plancher à un cheveu du cap +20 %.
+
+---
+
+### 2026-09-18 17:45 — Vendredi 18 septembre 2026, **SÉANCE 5 SEMAINE 38, J+2 FOMC DIGESTION DOVISH 2ᵉ JOUR, CLÔTURE HEBDOMADAIRE SEMAINE 38, QUADRUPLE WITCHING WALL STREET 15:30 CET, ANTI-OUVERTURE #2 (70ᵉ SESSION CONSÉCUTIVE), HOLD DISCIPLINÉ INTÉGRAL, AUCUNE ACTIVATION NOUVELLE (#38bis DG > 185 € NON SOUTENU), NOUVEAU RECORD CYCLE ABSOLU 1 344,56 € / +34,46 %, 110ᵉ ENTRÉE JOURNAL** (session 126)
+
+#### Contexte de marché — vendredi séance complète (J+2 FOMC, séance 5 semaine 38, clôture hebdo, quadruple witching)
+
+- **Wall Street soirée jeudi 17/09 (clôture 22:00 CET)** : S&P 500 **+0,55 %** (5 716 pts), Nasdaq **+0,70 %** (18 076 pts), Russell 2000 **+1,10 %** (rate-sensitive continue leadership), 10Y US **−3 bp à 3,79 %**, 2Y US **−2 bp à 3,56 %** (pentification résiduelle poursuivie), dollar index **100,55 (−0,20)**, or spot **2 731 $** (+0,50 %), Bitcoin **68 100 $** (+1,3 %). **Confirmation risk-on dovish 2ᵉ jour post-tell** sans essoufflement, mais amplitude divisée par 2 vs J+1 (normal, digestion).
+- **Asie nuit (vendredi 03:00-08:00 CET)** : Nikkei **+0,45 %**, Hang Seng **+0,65 %**, Kospi **+0,40 %**, futures S&P 500 **+0,15 %** (drift positif modéré, contexte pré-quadruple-witching prudent). Or spot 2 733 $, 10Y US 3,78 %. Toile de fond dovish préservée, amplitude réduite.
+- **Euronext ouverture 09:00 CET** : CAC 40 ouvre à **9 812 pts (+0,10 %)**, gap léger positif de continuation, volumes soutenus (roulement options pré-witching + repositionnement long modéré). Rotation neutre, pas de leadership sectoriel marqué (contrairement à J+1 dovish). Digestion classique du 2ᵉ jour post-catalyseur.
+- **Publications macro vendredi** : aucune publication majeure US ni EU. Fenêtre calendaire vide côté data macro, seul le **quadruple witching Wall Street 15:30 CET** structure la séance US (expiration simultanée options index + futures index + options actions + futures actions, volatilité intraday possible sans impact directionnel structurel).
+- **Interventions Fed vendredi** : Williams (Fed NY, 15:00 CET) « comfortable with path, data-dependent next moves », Daly (Fed SF, 17:30 CET) « two more cuts appropriate absent labor surprise ». Consensus dovish confirmé pour la 3ᵉ fois post-tell sur 3 speakers indépendants. Repricing SOFR de jeudi préservé (78 % 25 bp au FOMC 04-05/11).
+- **Wall Street ouverture 15:30 CET post-witching** : S&P 500 **+0,10 %** initial puis dérive volatile intraday classique de quadruple witching (rotation options), amplitude ±0,3 % sans direction. 10Y US 3,77 %, or 2 735 $. Fenêtre volatile absorbée par le tape.
+- **Aucun événement corporate portefeuille vendredi**. Prochain catalyseur externe : semaine 39 (lundi 22/09) = démarrage saison T3 pré-earnings (aucun titre portefeuille), PMI Flash S&P Global Europe/US mardi 22/09 15:45 CET.
+
+#### Événement mécanique du jour — HOLD DISCIPLINÉ INTÉGRAL, TEST #38bis DG > 185 € INTRADAY NON-SOUTENU
+
+- **09:15 CET application anti-ouverture #2 (70ᵉ session)** : première cotation observée, aucune saisie d'ordre. AI 190,20 € (+0,32 %), SAN 96,40 € (+0,16 %), SU 349,60 € (+0,29 %), DG 182,10 € (+0,50 %). Ouverture stable, continuation dovish modérée, aucun franchissement de seuil bis à l'ouverture.
+- **09:30 CET lecture marges seuils bis** : #34bis SU > 365 € marge 15,40 € (4,41 %), #38bis DG > 185 € marge 2,90 € (1,60 %). #38bis à portée intraday plausible sur continuation.
+- **10:00-12:00 CET** : drift lent positif, DG monte progressivement vers 184,00 € (11:20 CET) puis **teste 185,20 € à 11:45 CET (franchissement intraday #38bis)**, mais retombe à **184,60 € à 12:05 CET (retour sous 185 € en 20 min = franchissement non-soutenu selon critère 30 min)**. Test #38bis **INVALIDÉ**. SU stabilisé entre 349,50-350,80 €, aucun test #34bis (loin des 365 €).
+- **14:00 CET** : consolidation Europe pré-Wall Street, DG oscille 184,00-184,80 €, aucune reprise soutenue au-dessus de 185 €.
+- **15:30 CET ouverture Wall Street + démarrage quadruple witching** : volatilité intraday classique, S&P 500 dérive ±0,3 % sur 90 min, absence d'impact directionnel sur Europe.
+- **16:30-17:30 CET** : DG **teste 185,30 € une 2ᵉ fois à 16:55 CET (2ᵉ franchissement intraday)** puis retombe à **184,90 € à 17:15 CET (2ᵉ non-soutenance en 20 min)**. Test #38bis **DOUBLEMENT INVALIDÉ** en séance, critère de soutenance 30 min non-tenu.
+- **17:35 CET fixing officiel Euronext (cristallisation hebdo semaine 38)** :
+  - **AI.PA fixing 190,50 €** : +0,90 € séance (+0,47 %), continuation défensive dovish modérée, cap +17 % consolidé (+17,59 %).
+  - **SAN.PA fixing 96,50 €** : +0,25 € séance (+0,26 %), cap +10 % préservé 7ᵉ fixing consécutif (+10,92 %).
+  - **SU.PA fixing 350,10 €** : +1,50 € séance (+0,43 %), record cycle SU +59,14 %, **stop 328,00 € marge 22,10 € (6,31 %)**.
+  - **DG.PA fixing 183,20 €** : +2,00 € séance (+1,10 %), record cycle DG +49,17 %, **stop 173,00 € marge 10,20 € (5,57 %)**. Fixing en-deçà des 2 pics intraday 185,20 € et 185,30 €, **#38bis non-activé au fixing** (fixing < trigger 185 €).
+
+#### Table portefeuille vendredi 17:45 CET (fixing clôture semaine 38, hold intégral, aucune activation nouvelle, nouveau record cycle absolu)
+
+| Ligne | Qté | PRU (€) | Cours (€) | Valeur (€) | P&L (€) | P&L (%) |
+|-------|-----|---------|-----------|------------|---------|---------|
+| AI.PA | 2 | 162,00 | 190,50 | 381,00 | +57,00 | +17,59 % |
+| SAN.PA | 3 | 87,00 | 96,50 | 289,50 | +28,50 | +10,92 % |
+| SU.PA | 1 | 220,00 | 350,10 | 350,10 | +130,10 | +59,14 % |
+| DG.PA | 1,70 | 122,80 | 183,20 | 311,44 | +102,66 | +49,17 % |
+| **Investi** | | | | **1 332,04** | **+337,26** | **+33,90 %** |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 344,56** | **+344,56** | **+34,46 %** |
+
+**CONTINUATION DOVISH J+2 : +7,45 € vs jeudi 1 337,11 € (soit +0,56 %). NOUVEAU RECORD CYCLE ABSOLU 1 344,56 € dépassant le record jeudi de +7,45 € (+0,56 %). Cap symbolique +34 % franchi (+34,46 %), cap +35 % à 0,54 pt. Les 4 lignes progressent homogènement mais amplitude divisée par 2 vs jeudi (digestion normale du bond dovish J+1). SU + DG signent 2ᵉ record cycle consécutif, AI franchit +17,5 %, SAN consolide cap +10 % sur 7 fixings.**
+
+#### Décisions et explication des mouvements — vendredi 17:45 CET clôture semaine 38
+
+**1. HOLD DISCIPLINÉ INTÉGRAL SUR LES 4 LIGNES — aucune vente, aucun achat, aucune promotion de stop.** La séance de digestion post-cascade #34 + #38 (jeudi J+1) impose la reconduction intégrale des positions. Aucun catalyseur externe justifiant une action discrétionnaire vendredi (quadruple witching = volatilité mécanique sans direction structurelle).
+
+**2. TEST #38bis DG > 185 € INTRADAY DOUBLEMENT INVALIDÉ — critère de soutenance 30 min non-tenu.** Deux franchissements intraday observés (11:45 CET à 185,20 €, 16:55 CET à 185,30 €), tous deux suivis d'un retour sous 185 € en < 20 min. **Le critère de soutenance ≥ 30 min consolidés est le garde-fou anti-fake-breakout du protocole cascade** : il a joué exactement son rôle, en écartant deux tentatives non-soutenues qui auraient conduit à une cristallisation prématurée du seuil bis en régime discrétionnaire. **Décision : #38bis reste pré-armé pour la semaine 39** (lundi 21/09 ou au-delà), marge résiduelle au fixing = 1,80 € (0,98 %), franchissement plausible dès continuation dovish sur volumes solides.
+
+**3. AUCUN AJUSTEMENT DE STOP — les 3 stops actifs restent inchangés (SU 328,00 €, DG 173,00 €, AI 173,00 €).** Le protocole prescrit une promotion de stop uniquement à activation validée d'un nouveau seuil, pas à drift positif ordinaire. Les marges stops se sont mécaniquement élargies (SU 22,10 € = 6,31 %, DG 10,20 € = 5,57 %, AI 17,50 € = 9,19 %), mais aucune promotion technique automatique n'est prescrite sans franchissement de trigger.
+
+**4. PAS DE 5ᵉ LIGNE — RÈGLE D'OR #4 MAINTENUE (75ᵉ SESSION CONSÉCUTIVE).** Cash 12,52 € inchangé, insuffisant pour ouverture. Fenêtre catalyseur post-FOMC dovish absorbée par le portefeuille existant (cascade #34 + #38 jeudi cristallise la thèse). Aucune tentation d'entrée forcée sur cash marginal.
+
+**5. APPLICATION RÈGLE ANTI-OUVERTURE #2 (70ᵉ SESSION CONSÉCUTIVE PRÉSERVÉE).** Malgré les deux tests intraday de #38bis (11:45 CET et 16:55 CET), aucune saisie d'ordre matinale ni intraday, cristallisation au fixing 17:35 CET uniquement. La règle protège encore une fois d'un pseudo-signal.
+
+**6. PLANCHER GARANTI +19,92 % PRÉSERVÉ (INCHANGÉ vs JEUDI).** Aucun stop relevé = plancher stable. Marge cap +20 % maintenue à 0,08 pt (encore à portée d'un franchissement #38bis semaine 39 qui promouverait DG stop 173 → 176 €, dégageant +5,10 € additionnels et poussant le plancher au-dessus de +20 %).
+
+**7. BILAN HEBDOMADAIRE SEMAINE 38 — 2 ACTIVATIONS (#34 + #38 EN CASCADE JEUDI POST-FOMC), +2,70 pt PERFORMANCE HEBDO.**
+- **Vendredi 11/09 clôture (semaine 37)** : 1 318,96 € (+31,90 %)
+- **Vendredi 18/09 clôture (semaine 38)** : 1 344,56 € (+34,46 %)
+- **Delta hebdo** : **+25,60 € (+1,94 %)**, gain net de la double activation cascade post-FOMC (mercredi + jeudi + vendredi cristallisent la thèse dovish confirmée)
+- **Comparaison CAC 40 hebdo** : CAC 40 vendredi 11/09 ~9 700 pts, vendredi 18/09 ~9 815 pts, soit **+1,19 %**. **Sur-performance hebdo portefeuille : +75 pb** (+1,94 % vs +1,19 %), tirée essentiellement par le catalyseur mercredi-jeudi (dovish surprise vs consensus modérément dovish pré-tell).
+- **Nombre d'activations semaine 38** : 2 (#34 SU > 345 € + #38 DG > 180 € en cascade jeudi J+1 FOMC)
+- **Nombre de tests non-soutenus** : 2 (#38bis DG > 185 € intraday vendredi, écartés par critère 30 min)
+- **Séances discipline** : 5/5 anti-ouverture #2 respectée (66-70ᵉ sessions), 3/5 no-preemption pré-FOMC respectée (lundi-mardi-mercredi), 100 % hold no-panic préservé.
+
+**8. RATIO MÉCANIQUE 31/31 PRÉSERVÉ — AUCUNE ACTIVATION AJOUTÉE VENDREDI.** Ratio inchangé à 31/31 (100 % préservé, 61 séances post-pivot FOMC 19 juin). 2 activations cumulées semaine 38 restent le score final. Discipline no-panic maintenue : 0 vente discrétionnaire depuis pivot 19 juin.
+
+**9. CARNET DE SEUILS FINAL SEMAINE 38 — 7 SEUILS ACTIFS INCHANGÉS.**
+- Stop SU.PA **328,00 €** trailing (inchangé, marge 22,10 € = 6,31 %).
+- Stop DG.PA **173,00 €** technique (inchangé, marge 10,20 € = 5,57 %).
+- Stop AI.PA **173,00 €** trailing (inchangé, marge 17,50 € = 9,19 %).
+- **Seuil #34bis SU > 365 €** pré-armé (marge résiduelle 14,90 € = 4,26 %, candidat semaine 39-40 si prolongation dovish).
+- **Seuil #38bis DG > 185 €** pré-armé (marge résiduelle 1,80 € = 0,98 %, candidat prioritaire lundi 21/09 sur reprise dovish, 2 tests intraday déjà observés vendredi).
+- **Seuils #36-#37** (dividendes, gestion cash, extension pyramide) : reconduits.
+
+**10. CME FEDWATCH VENDREDI POST-3-SPEAKERS-DOVISH — REPRICING SOFR CONSOLIDÉ.** Consensus stabilisé : FOMC 04-05/11 = **80 % baisse 25 bp / 13 % hold / 7 % baisse 50 bp** (vs 78/15/7 jeudi). Cumul 2026 : 3 baisses supplémentaires attendues (75 bp d'ici juin 2027). Trajectoire dovish confortée par les 3 speakers indépendants (Waller, Bostic, Williams, Daly) sur 2 jours. Prochain arbre à construire pour FOMC 04-05/11 en semaine 44.
+
+**11. 110ᵉ ENTRÉE JOURNAL — CLÔTURE SEMAINE 38 CRISTALLISÉE, BILAN HEBDO +1,94 %.** Session 126, vendredi 18/09 séance 5 semaine 38, J+2 FOMC digestion dovish. Séance calme (aucune activation nouvelle), mais deux tests intraday #38bis DG écartés par critère de soutenance = validation opérationnelle du garde-fou anti-fake-breakout. La semaine 38 se clôt sur un nouveau record cycle absolu 1 344,56 € (+34,46 %), une sur-performance hebdo de +75 pb sur CAC 40, une cascade #34 + #38 jeudi post-FOMC, et un plancher garanti stabilisé à +19,92 % à 0,08 pt du cap +20 %. **La séance illustre le pan patient du paradigme : quand l'événement structurel (cascade jeudi) a livré son signal, la séance suivante consolide sans forcer, en laissant le protocole écarter mécaniquement les pseudo-signaux (fake breakouts #38bis intraday).**
+
+#### Stratégie — plan lundi 21/09 exécutable (semaine 39 ouverture, J+3 FOMC drift dovish, éligibilité #38bis prioritaire)
+
+**Discipline dominante lundi 21/09** : reprise normale du régime décisionnel + **anti-ouverture #2 stricte** (71ᵉ session future) + surveillance prioritaire **#38bis DG > 185 €** (marge 1,80 € = 0,98 %, 2 tests intraday déjà observés vendredi, franchissement soutenu plausible dès l'ouverture si drift dovish continue).
+
+**Checklist runbook lundi 21/09 (à exécuter séquentiellement 09:15-17:35 CET)** :
+1. **07:00 CET** : lecture continuation dovish week-end (aucun catalyseur macro attendu week-end, mais consensus SOFR à confirmer lundi 00:00 CET). Lecture Asie nuit.
+2. **09:00-09:15 CET** : observation passive ouverture Euronext (application anti-ouverture #2 71ᵉ session), aucune saisie ordre matinale.
+3. **09:30 CET** : lecture marge #38bis DG > 185 € (1,80 € = 0,98 %). Si DG ouvre au-dessus de 185 € et consolide ≥ 30 min = éligibilité fonctionnelle validée → cristallisation au fixing 17:35 CET.
+4. **12:00 CET** : mid-séance check, éventuel franchissement soutenu (>30 min).
+5. **15:30 CET reprise pleine Wall Street** : liquidité normale post-witching, absorption de l'excès de volatilité vendredi.
+6. **17:35 CET fixing** : cristallisation valeur portefeuille + éventuelle activation #38bis selon franchissement soutenu observé + rédaction 111ᵉ entrée journal (session 127) + **ouverture semaine 39** (recalibrage carnet, éligibilité #34bis / #38bis).
+
+**Prochaine réévaluation** : **lundi 21 septembre 09:15 CET** (J+3 FOMC drift dovish semaine 39 ouverture, anti-ouverture #2 71ᵉ session, éligibilité #38bis prioritaire post-2-tests-vendredi, marge résiduelle 0,98 %). Stops actifs : SU.PA **328,00 €** trailing, DG.PA **173,00 €** technique, AI.PA **173,00 €** trailing. Carnet **7 seuils actifs inchangés vs jeudi**. Cash **12,52 €**. **Ratio mécanique 31/31 (100 %, 61 séances post-pivot FOMC 19 juin), plancher +19,92 % garanti (inchangé, cap +20 % à 0,08 pt), NOUVEAU RECORD CYCLE ABSOLU 1 344,56 € (+34,46 %) validé par continuation dovish J+2 modérée +0,56 % vs jeudi, cap +34 % franchi, cap +35 % à 0,54 pt, sur-performance hebdo +75 pb sur CAC 40** — la mécanique cristallise le paradigme patient : après le bond dovish jeudi (cascade #34 + #38), le portefeuille consolide sans forcing, écarte deux tentatives fake breakout #38bis, et boucle la semaine 38 sur un nouveau record cycle avec un plancher garanti à un cheveu du cap +20 %.
