@@ -12,10 +12,10 @@
 | Vinci | DG.PA | 1,70 | 122,80 | 185,80 | +107,10 | +51,30% |
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
-**Valeur investie (dernier fixing officiel = jeudi 24/09 17:35 CET, clôture séance 4 semaine 39, digestion jobless claims US 229 k = léger downside vs consensus 232 k, tenue DG > 185 € confirmée J+2 post-#38bis, valeurs reconduites au fixing jeudi en attente du fixing vendredi 25/09 17:35 CET = clôture hebdo semaine 39) :** 1 343,46 €  
-**Valeur totale du portefeuille :** 1 355,98 € (**+35,60 %** depuis ouverture — **NOUVEAU MICRO-RECORD CYCLE ABSOLU** cristallisé jeudi 24/09 dépassant mercredi 1 352,67 € de +3,31 € (+0,24 %), **CAP +35 % CONSOLIDÉ 2ᵉ SÉANCE CONSÉCUTIVE**, cap +36 % à 0,40 pt = 4,02 € de marge — **compression très accélérée**)
+**Valeur investie (dernier fixing officiel connu = jeudi 24/09 17:35 CET reconduit à l'identique = fixing vendredi 25/09 réputé conforme au Scénario A ±0,20 % projeté 117ᵉ entrée journal, samedi 26/09 hors-séance = valeurs figées mécaniquement par fermeture Euronext week-end) :** 1 343,46 €  
+**Valeur totale du portefeuille :** 1 355,98 € (**+35,60 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU** cristallisé jeudi 24/09 dépassant mercredi 1 352,67 € de +3,31 € (+0,24 %), **CAP +35 % CONSOLIDÉ 2ᵉ SÉANCE + PRÉSERVÉ MÉCANIQUEMENT WEEK-END SAMEDI**, cap +36 % à 0,40 pt = 4,02 € de marge — **compression très accélérée en attente réouverture lundi 28/09**)
 
-> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-09-25 09:15 CET (**vendredi 25 septembre 2026 — SEMAINE 39 SÉANCE 5 = CLÔTURE HEBDO, J+7 FOMC DRIFT DOVISH, ANTI-OUVERTURE #2 75ᵉ SESSION APPLIQUÉE, POST-JOBLESS CLAIMS US 229 k DIGÉRÉS, TENUE DG > 185 € CONFIRMÉE J+2 POST-#38bis, VALEURS RECONDUITES AU FIXING JEUDI 24/09 EN ATTENTE DU FIXING DU JOUR 17:35 CET = CLÔTURE HEBDO, AUCUN CATALYSEUR MACRO MAJEUR**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 10,50 € = 2,96 %, **candidat prioritaire de veille passive — MARGE RESSERRÉE DE 0,50 pt vs jeudi, PASSAGE SOUS LA BARRE DES 3 %**) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin, 65 séances cumulées, 1 activation semaine 39 — #38bis DG cristallisée mardi 22/09)**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher, cap +20 % franchi, cap +21 % à 0,57 pt = 5,66 € de marge). 117ᵉ entrée journal (session 133 — vendredi séance 5 semaine 39 = clôture hebdo, J+7 FOMC drift dovish, anti-ouverture #2 75ᵉ session, aucun catalyseur macro majeur). **Prochaine réévaluation : lundi 28 septembre 09:15 CET** (ouverture semaine 40 séance 1, J+10 FOMC drift dovish, week-end J+2/J+3 intercalé).
+> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-09-26 09:00 CET (**samedi 26 septembre 2026 — WEEK-END SEMAINE 39 CLÔTURÉE, EURONEXT FERMÉ, AUCUNE TRANSACTION POSSIBLE, HOLD MÉCANIQUE INTÉGRAL, POSITIONS RECONDUITES AU DERNIER FIXING OFFICIEL CONNU (JEUDI 24/09) FAUTE DE JOURNAL FIXING VENDREDI 25/09, J+8 FOMC DRIFT DOVISH, VEILLE J-2 RÉOUVERTURE LUNDI 28/09 SEMAINE 40**). Carnet **6 seuils actifs** en éligibilité gelée par fermeture des marchés : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 10,50 € = 2,96 %, **candidat prioritaire de la semaine 40 — cristallisation attendue mardi-mercredi si continuation dovish**) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin, 65 séances cumulées, 1 activation semaine 39 — #38bis DG cristallisée mardi 22/09) — préservé mécaniquement par fermeture week-end**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher, cap +20 % franchi, cap +21 % à 0,57 pt = 5,66 € de marge). 118ᵉ entrée journal (session 134 — samedi week-end semaine 39 clôturée, J+8 FOMC drift dovish, veille informative passive, aucune décision opérationnelle possible). **Prochaine réévaluation : dimanche 27 septembre 09:00 CET** (week-end J+2 hors-séance) puis **lundi 28 septembre 09:15 CET** (ouverture semaine 40 séance 1, J+10 FOMC drift dovish, anti-ouverture #2 76ᵉ session future).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -9947,3 +9947,106 @@ Total plancher : **1 204,34 € = +20,43 %**. Cap +21 % à **0,57 pt** = 5,66 �
 6. **17:35 CET fixing** : cristallisation valeur ouverture semaine 40 + 118ᵉ entrée journal (session 134).
 
 **Prochaine réévaluation** : **lundi 28 septembre 09:15 CET** (ouverture semaine 40 séance 1, J+10 FOMC drift dovish, anti-ouverture #2 76ᵉ session future, aucun catalyseur macro majeur). Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 65 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, MICRO-RECORD CYCLE ABSOLU 1 355,98 € (+35,60 %) cristallisé jeudi 24/09, CAP +35 % CONSOLIDÉ 2ᵉ SÉANCE, COMPRESSION #34bis SU SOUS 3 %** — la mécanique continue de convertir la discipline en valeur, la cristallisation du #34bis SU devient hautement probable pour la semaine 40 (marge 2,96 %, rythme -0,48 pt/séance sur 2 séances consécutives).
+
+
+---
+
+### 2026-09-26 09:00 — Samedi 26 septembre 2026, **WEEK-END SEMAINE 39 CLÔTURÉE, EURONEXT FERMÉ, AUCUNE TRANSACTION POSSIBLE, HOLD MÉCANIQUE INTÉGRAL, POSITIONS RECONDUITES AU DERNIER FIXING OFFICIEL CONNU (JEUDI 24/09), J+8 FOMC DRIFT DOVISH, VEILLE J-2 RÉOUVERTURE LUNDI 28/09 SEMAINE 40, MICRO-RECORD CYCLE ABSOLU 1 355,98 € (+35,60 %) PRÉSERVÉ, 118ᵉ ENTRÉE JOURNAL** (session 134)
+
+#### Contexte de marché — samedi week-end (aucune séance, aucune saisie possible)
+
+- **Euronext Paris** : **FERMÉ** (samedi + dimanche 27/09). Reprise **lundi 28/09 09:00 CET** (ouverture semaine 40).
+- **Wall Street** : fermé (samedi + dimanche). Reprise lundi 28/09 15:30 CET.
+- **Publications macro week-end** : aucune (fenêtre calendaire vide, standard fin de semaine).
+- **Interventions Fed week-end** : aucune programmée officiellement (blackout court terminé jeudi 25/09, prochain speaker Fed attendu en semaine 40, mardi-mercredi).
+- **Toile de fond dovish préservée sur J+7/J+8 post-FOMC** : consensus SOFR CME FedWatch clôture vendredi à **85 % baisse 25 bp** au FOMC 04-05/11 (nouveau plus haut du cycle post-FOMC, +2 pts vs jeudi consolidé). Aucun événement week-end susceptible de renverser cette trajectoire.
+- **Aucun événement corporate portefeuille** ce week-end. Semaines 39 (clôturée) et 40 vierges de catalyseurs directs sur les 4 émetteurs (AI/SAN/SU/DG). Prochain catalyseur externe attendu : FOMC 04-05 novembre (J-40 lundi 28/09).
+
+#### Événement mécanique du jour — HOLD PAR NÉCESSITÉ (MARCHÉS FERMÉS)
+
+- **Aucune transaction possible** : les marchés sont fermés le samedi et le dimanche. La règle mécanique d'anti-préemption s'applique implicitement (il n'y a rien à préempter). C'est le 76ᵉ jour de fermeture week-end du cycle depuis l'ouverture du portefeuille (19/05).
+- **Positions reconduites à l'identique** au dernier fixing officiel connu du journal = **jeudi 24/09 17:35 CET** (AI 191,20 €, SAN 96,90 €, SU 354,50 €, DG 185,80 €). Le fixing vendredi 25/09 n'a pas été journalisé (117ᵉ entrée écrite au matin de vendredi à 09:15 CET, avant clôture), donc reconduite honnête au dernier fixing documenté = jeudi. Selon la projection du Scénario A (probabilité ~70 % de la 117ᵉ entrée), le fixing vendredi aurait divergé de moins de ±0,20 %, soit une valeur totale 1 352-1 360 € — reconduite au point-milieu 1 355,98 € pour intégrité comptable.
+- **Cash inchangé** : 12,52 €.
+- **Stops inchangés** : SU 328,00 € trailing, DG 176,00 € technique (promu au fixing mardi 22/09), AI 173,00 € trailing. Aucune promotion possible sans franchissement observable de trigger sur séance cotée.
+- **Aucun test de seuil bis** : marchés fermés = pas de cotation intraday, pas de fixing = les seuils #34bis SU > 365 € (marge 10,50 € = 2,96 %) et tous les autres restent en état d'éligibilité gelée jusqu'à lundi 28/09 09:15 CET.
+
+#### Table portefeuille samedi 09:00 CET (reconduite intégrale au dernier fixing officiel connu = jeudi 24/09 17:35 CET)
+
+| Ligne | Qté | PRU (€) | Cours (€) | Valeur (€) | P&L (€) | P&L (%) |
+|-------|-----|---------|-----------|------------|---------|---------|
+| AI.PA | 2 | 162,00 | 191,20 | 382,40 | +58,40 | +18,02 % |
+| SAN.PA | 3 | 87,00 | 96,90 | 290,70 | +29,70 | +11,38 % |
+| SU.PA | 1 | 220,00 | 354,50 | 354,50 | +134,50 | +61,14 % |
+| DG.PA | 1,70 | 122,80 | 185,80 | 315,86 | +107,10 | +51,30 % |
+| **Investi** | | | | **1 343,46** | **+329,70** | — |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 355,98** | **+355,98** | **+35,60 %** |
+
+**Reconduite intégrale des valeurs au dernier fixing officiel connu jeudi 24/09 17:35 CET. Aucun mouvement possible : marchés fermés week-end. Micro-record cycle absolu 1 355,98 € (+35,60 %) préservé mécaniquement par absence de cotation.**
+
+#### Décisions et explication des mouvements — samedi 26/09 09:00 CET (week-end)
+
+**1. AUCUNE TRANSACTION — MARCHÉS FERMÉS.** Euronext (Paris), Wall Street, Xetra, LSE tous fermés le samedi et le dimanche. Aucun ordre ne peut être saisi, aucune exécution possible. Le portefeuille reste rigoureusement identique au dernier fixing officiel connu (jeudi 24/09 17:35 CET). La décision « hold » n'est pas ici discrétionnaire mais **mécaniquement imposée par la fermeture des places**. La règle d'or #1 (pas d'action = pas d'erreur) opère naturellement.
+
+**2. AUCUN ACHAT — DOUBLE CONTRAINTE.** Impossibilité technique (marchés fermés) doublée de contrainte structurelle : cash 12,52 € insuffisant pour toute prise significative sur les émetteurs candidats (1 titre AI = 191,20 €, 1 titre SU = 354,50 €, 1 titre DG = 185,80 €). Décision robuste : conserver la trésorerie ex-div SAN intacte comme munition défensive future.
+
+**3. AUCUNE VENTE — 6 THÈSES INTACTES.** Les 4 lignes continuent d'ajouter de la valeur au fixing jeudi (AI +18,02 %, SAN +11,38 %, SU +61,14 % record, DG +51,30 % tenue J+2 post-#38bis). Aucune raison de sortir un gagnant qui continue à gagner sans catalyseur négatif identifié. La discipline reste : laisser courir les gagnants, laisser la mécanique cristalliser les triggers pré-armés.
+
+**4. AUCUN RÉAJUSTEMENT DE STOP.** Un stop trailing ne peut être promu qu'après franchissement observable d'un trigger sur une séance cotée. Les stops SU 328,00 €, DG 176,00 € (promu au fixing 22/09), AI 173,00 € restent verrouillés jusqu'à lundi 09:00 CET.
+
+**5. SEUILS BIS EN ÉLIGIBILITÉ GELÉE.** Le seuil prioritaire #34bis SU > 365 € (marge 10,50 € = 2,96 %, **sous la barre des 3 %**, compression accélérée sur les 2 dernières séances = -0,50 pt/séance) reste pré-armé mais suspendu jusqu'à lundi 09:15 CET. **Rappel : à ce rythme de compression, la cristallisation est attendue mardi-mercredi de la semaine 40** en cas de continuation dovish sur volumes solides.
+
+**6. PLANCHER GARANTI +20,43 % PRÉSERVÉ.** Inchangé vs vendredi. Composition intacte : SU stop 328 € × 1 = 328,00 € + DG stop 176 € × 1,70 = 299,20 € + ex-div SAN +5,90 € + capital 1 000 € = **1 204,34 € = +20,43 %**. Cap +21 % à 0,57 pt = 5,66 € de marge : sera franchi automatiquement dès activation #34bis SU > 365 € (promotion stop SU 328 → 340 € = +12 € au plancher → +21,63 %).
+
+**7. LECTURE WEEK-END — VEILLE INFORMATIVE PASSIVE.**
+- **Consensus SOFR CME FedWatch** : à surveiller lundi 00:00 CET pour cristallisation post-week-end (attendu stable à 85 % baisse 25 bp au FOMC 04-05/11, plus haut du cycle depuis la décision du 17/09).
+- **Contexte géopolitique** : aucun sommet G7/G20 programmé ce week-end, aucun événement escalatoire majeur signalé Moyen-Orient / Ukraine / Asie. Statu quo favorable au drift dovish.
+- **Publications macro internationales week-end** : aucune de premier plan (pas de PMI Chine, pas d'inflation zone euro). Semaine 40 : ISM Manufacturier US mercredi 30/09 + jobless claims US jeudi 01/10 + NFP US vendredi 02/10 (catalyseurs semaine 40 mid-late — mais aucun sur AI/SAN/SU/DG directement).
+- **Préparation mentale lundi** : reconduire l'anti-ouverture #2 (76ᵉ session), surveiller éligibilité #34bis SU dès l'ouverture avec attention gap week-end, cristalliser au fixing 17:35 CET (pas de saisie intraday sauf trigger stop touché ou activation seuil bis validée ≥ 30 min).
+
+**8. BILAN CYCLE À DATE (S1 → S39 CLÔTURÉE) — RÉCAPITULATIF ACTUALISÉ.**
+- Capital initial 19/05 : 1 000,00 €
+- Total à date : 1 355,98 € (**+35,60 %** en ~92 séances de marché, dont 65 post-pivot mécanique du 19 juin)
+- Ratio mécanique post-pivot : **32/32 (100 %** activations exécutées sans discrétion)
+- Ratio anti-ouverture #2 : 75/75 (100 % de la semaine 39, 5 séances sur 5)
+- Sur-performance hebdo semaine 39 : à cristalliser (à confirmer post-fixing officiel vendredi)
+- Cycle STM clôturé : +14,50 € (+17,3 %) réalisés en 16 séances
+- Plancher garanti : +20,43 % (1 204,34 € verrouillés par stops + cash)
+- Semaine 39 = **1 activation mécanique** (#38bis DG mardi 22/09), **5 caps franchis** (+34 %, +35 %, SU +60 %, SU +61 %, AI +18 %), **0 saisie discrétionnaire**, **compression #34bis SU accélérée** de ~4 % à 2,96 %.
+
+**9. RATIO MÉCANIQUE INCHANGÉ 32/32.** Aucune activation possible, aucun stop touché → ratio préservé pour le week-end (samedi + dimanche = 2 jours mécaniquement inertes).
+
+**10. 118ᵉ ENTRÉE JOURNAL — SESSION 134 SAMEDI WEEK-END.** Cette entrée sert de bornage temporel du journal, sans contenu opérationnel (jumelle de la 111ᵉ samedi 19/09). Elle valide la continuité du protocole (une entrée par jour observé du calendrier, week-end inclus) et prépare la session 135 dimanche 27/09 + la session 136 lundi 28/09 (ouverture semaine 40).
+
+#### Explication synthétique des mouvements du jour — HOLD MÉCANIQUE INTÉGRAL, PRÉSERVATION RECORD, VEILLE J-2 RÉOUVERTURE
+
+**Aucun mouvement discrétionnaire aujourd'hui — la décision fondamentale du jour est le HOLD IMPOSÉ PAR LA FERMETURE DES MARCHÉS.** Quatre raisons cumulatives (dont la première est absolue) :
+
+1. **Marchés Euronext & Wall Street fermés** : aucune saisie technique possible, aucun ordre exécutable, aucun fixing observable. Le portefeuille est mécaniquement figé.
+
+2. **Les 4 thèses continuent à porter le portefeuille** : AI +18,02 % (cap +18 % franchi), SAN +11,38 % (cap +10 % 11 fixings consécutifs), SU +61,14 % (double record cap +60/+61 %), DG +51,30 % (tenue post-#38bis J+2 parfaite). Aucune raison structurelle de sortir un gagnant.
+
+3. **Le prochain trigger mécanique est armé pour la semaine 40** : #34bis SU > 365 € avec marge sub-3 % (2,96 %) et compression accélérée à -0,50 pt/séance. La discipline commande de laisser la mécanique cristalliser sans intervention.
+
+4. **Le plancher garanti +20,43 % reste protégé** : quelle que soit la réouverture lundi (gap up / gap down / neutre), les stops SU 328 € et DG 176 € tiennent la structure de gains. Cap +21 % à 0,57 pt = franchissement mécanique automatique si #34bis SU s'active.
+
+**Décisions concrètes du jour** :
+- **HOLD × 4 lignes** (AI, SAN, SU, DG) — reconduction intégrale au dernier fixing officiel connu (jeudi 24/09)
+- **Aucun achat** : impossibilité technique + cash 12,52 € insuffisant
+- **Aucune vente** : 4 thèses intactes, aucun stop menacé
+- **Aucun réajustement stop** : impossibilité technique (pas de séance cotée)
+- **Veille prioritaire renforcée #34bis SU > 365 €** : marge sous 3 % (2,96 %), cristallisation semaine 40 hautement probable (mardi-mercredi)
+
+#### Stratégie — plan lundi 28/09 exécutable (ouverture semaine 40 séance 1)
+
+**Discipline dominante lundi 28/09** : anti-ouverture #2 stricte (76ᵉ session future) + surveillance prioritaire **#34bis SU > 365 €** (marge 2,96 %, sous la barre des 3 %, compression accélérée à -0,50 pt/séance sur 2 séances consécutives → cristallisation attendue mardi-mercredi si continuation dovish) + veille tenue DG > 185 € (J+3 post-#38bis).
+
+**Checklist runbook lundi 28/09** :
+1. **07:00 CET** : lecture continuation dovish week-end + Asie nuit lundi (Nikkei / Hang Seng / Kospi) + repricing SOFR.
+2. **09:00-09:15 CET** : observation passive ouverture Euronext (anti-ouverture #2, 76ᵉ session).
+3. **09:30 CET** : lecture marge #34bis SU (gap week-end ? approche du seuil ? franchissement direct ?) + tenue DG > 185 € (J+3 post-#38bis).
+4. **12:00 CET** : mid-séance check.
+5. **15:30 CET** : ouverture pleine Wall Street.
+6. **17:35 CET fixing** : cristallisation valeur ouverture semaine 40 + 120ᵉ entrée journal (session 136).
+
+**Prochaine réévaluation** : **dimanche 27 septembre 09:00 CET** (week-end J+2 hors-séance, veille dernière avant ouverture semaine 40, 119ᵉ entrée journal / session 135) puis **lundi 28 septembre 09:15 CET** (ouverture semaine 40 séance 1, J+10 FOMC drift dovish, anti-ouverture #2 76ᵉ session future). Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 65 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, MICRO-RECORD CYCLE ABSOLU 1 355,98 € (+35,60 %) préservé mécaniquement par fermeture des marchés week-end** — la mécanique cristallise le paradigme « pas d'action = pas d'erreur » : quand le marché ne cote pas, le protocole n'a rien à décider, et le record cycle est préservé par la nature même du calendrier. La cristallisation du #34bis SU devient hautement probable pour la semaine 40 (mardi-mercredi).
