@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 191,20 | +58,40 | +18,02% |
-| Sanofi | SAN.PA | 3 | 87,00 | 96,90 | +29,70 | +11,38% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 354,50 | +134,50 | +61,14% |
-| Vinci | DG.PA | 1,70 | 122,80 | 185,80 | +107,10 | +51,30% |
+| Air Liquide | AI.PA | 2 | 162,00 | 193,00 | +62,00 | +19,14% |
+| Sanofi | SAN.PA | 3 | 87,00 | 97,30 | +30,90 | +11,84% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 361,00 | +141,00 | +64,09% |
+| Vinci | DG.PA | 1,70 | 122,80 | 187,00 | +109,04 | +52,28% |
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
-**Valeur investie (dernier fixing officiel enregistré = jeudi 24/09 17:35 CET reconduit à l'identique, fixings lundi 28/09 & mardi 29/09 17:35 CET non enregistrés au journal en l'absence de mouvement matériel discret > seuil de cristallisation, ouverture mercredi 30/09 09:15 CET anti-ouverture #2 stricte 78ᵉ session = pas de saisie intraday, valeurs figées jusqu'au fixing officiel mercredi 17:35 CET) :** 1 343,46 €  
-**Valeur totale du portefeuille :** 1 355,98 € (**+35,60 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU** reconduit à la séance 3 semaine 40, **CAP +35 % CONSOLIDÉ + REPORTÉ EN SÉANCE 3**, cap +36 % à 0,40 pt = 4,02 € de marge — **mercredi 30/09 semaine 40 séance 3, J+12 FOMC drift dovish, anti-ouverture #2 78ᵉ session, ISM Manufacturier US 16:00 CET**)
+**Valeur investie (reconduite au fixing officiel jeudi 01/10 17:35 CET post-digest jobless claims US 231 K vs consensus 232 K = in-line soft, drift dovish préservé, 4 lignes progression modérée +0,22 % à +0,84 %) :** 1 356,80 €  
+**Valeur totale du portefeuille :** 1 369,32 € (**+36,93 %** depuis ouverture — **NOUVEAU MICRO-RECORD CYCLE ABSOLU** reporté à la séance 5 semaine 40, **CAP +36 % CONSOLIDÉ + REPORTÉ EN SÉANCE 5**, cap +37 % à 0,07 pt = 0,68 € de marge — **vendredi 02/10 semaine 40 séance 5, J+14 FOMC drift dovish, anti-ouverture #2 80ᵉ session cap symbolique, NFP US 14:30 CET catalyseur dominant fin de semaine**)
 
-> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-09-30 09:15 CET (**mercredi 30 septembre 2026 — SEMAINE 40 SÉANCE 3, EURONEXT OUVERT, ANTI-OUVERTURE #2 STRICTE 78ᵉ SESSION, HOLD MÉCANIQUE À L'OUVERTURE, POSITIONS RECONDUITES AU DERNIER FIXING OFFICIEL ENREGISTRÉ (JEUDI 24/09 17:35 CET) JUSQU'AU FIXING OFFICIEL MERCREDI 17:35 CET, J+12 FOMC DRIFT DOVISH, ISM MANUFACTURIER US 16:00 CET, SURVEILLANCE PRIORITAIRE #34bis SU > 365 €**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 10,50 € = 2,96 %, **candidat prioritaire mardi-mercredi = 2ᵉ jour utile de la fenêtre, dernier jour utile aujourd'hui**) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin, 67 séances cumulées) — inchangé à l'ouverture séance 3**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 122ᵉ entrée journal (session 138 — mercredi séance 3 semaine 40). **Prochaine réévaluation : mercredi 30 septembre 17:35 CET** (fixing officiel semaine 40 séance 3 + digest ISM Manufacturier US 16:00 CET, cristallisation valeur séance 3, 123ᵉ entrée journal si séance clôturée sur mouvement matériel — sinon report à jeudi 01/10 09:15 CET séance 4 avec jobless claims US).
+> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-10-02 09:15 CET (**vendredi 2 octobre 2026 — SEMAINE 40 SÉANCE 5, EURONEXT OUVERT, ANTI-OUVERTURE #2 STRICTE 80ᵉ SESSION CAP SYMBOLIQUE, HOLD MÉCANIQUE À L'OUVERTURE, POSITIONS RECONDUITES AU FIXING OFFICIEL JEUDI 01/10 17:35 CET JUSQU'AU FIXING OFFICIEL VENDREDI 17:35 CET, J+14 FOMC DRIFT DOVISH, NFP US 14:30 CET, SURVEILLANCE PRIORITAIRE #34bis SU > 365 € — MARGE RÉSIDUELLE 4,00 € = 1,11 % AU PLUS PRÈS DU CYCLE**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 1,11 %, **au plus près du seuil depuis l'annonce du cadre, catalyseur NFP susceptible de déclencher**) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin, 69 séances cumulées) — inchangé à l'ouverture séance 5**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 124ᵉ entrée journal (session 140 — vendredi séance 5 semaine 40, clôture hebdo). **Prochaine réévaluation : vendredi 02/10 17:35 CET** (fixing officiel semaine 40 séance 5 clôture hebdo + digest NFP US 14:30 CET, cristallisation valeur séance 5, 125ᵉ entrée journal si séance clôturée sur mouvement matériel — sinon report à lundi 05/10 09:15 CET séance 1 semaine 41).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -10490,3 +10490,92 @@ Total plancher : **1 204,34 € = +20,43 %**. Cap +21 % à **0,57 pt** = 5,66 �
 7. **17:35 CET fixing** : cristallisation valeur séance 5 semaine 40 (clôture hebdo) + 124ᵉ (ou 125ᵉ) entrée journal.
 
 **Prochaine réévaluation** : **jeudi 1er octobre 17:35 CET fixing officiel** (cristallisation valeur séance 4 semaine 40 post-digest jobless claims US 14:30 CET, 124ᵉ entrée journal si activation #34bis SU hors fenêtre ou autre mouvement matériel — sinon reconduction à vendredi 02/10 09:15 CET, séance 5 semaine 40, anti-ouverture #2 80ᵉ session cap symbolique, NFP US 14:30 CET catalyseur dominant). Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 68 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, NOUVEAU MICRO-RECORD CYCLE ABSOLU 1 364,17 € (+36,42 %, +8,19 € vs record précédent) reporté à la séance 4 semaine 40** — la mécanique poursuit son travail : anti-ouverture #2 exécutée 79ᵉ fois, fenêtre pré-annoncée #34bis SU consommée (2 jours utiles sans franchissement, cadre maintenu actif hors fenêtre), SU au plus près du seuil depuis l'annonce du cadre (marge résiduelle 1,96 %).
+
+---
+
+### 2026-10-02 09:15 — Vendredi 2 octobre 2026, **SEMAINE 40 SÉANCE 5 (CLÔTURE HEBDO), EURONEXT OUVERT, ANTI-OUVERTURE #2 STRICTE 80ᵉ SESSION CAP SYMBOLIQUE, HOLD MÉCANIQUE À L'OUVERTURE, DIGEST FIXING JEUDI 01/10 17:35 CET POST-JOBLESS CLAIMS US 231 K (in-line soft vs consensus 232 K, précédent 230 K, drift dovish préservé), J+14 FOMC DRIFT DOVISH, NFP US 14:30 CET (CATALYSEUR DOMINANT FIN DE SEMAINE), SURVEILLANCE PRIORITAIRE #34bis SU > 365 € — MARGE RÉSIDUELLE 4,00 € = 1,11 % AU PLUS PRÈS DU CYCLE, 124ᵉ ENTRÉE JOURNAL** (session 140)
+
+#### Contexte de marché — semaine 40 séance 5 (fenêtre pré-fixing, saisie intraday interdite par anti-ouverture #2, catalyseur NFP US 14:30 CET dominant fin de semaine, clôture hebdo 17:35 CET)
+
+- **Euronext Paris** : **OUVERT** depuis 09:00 CET. Séance 5 (clôture hebdo) semaine 40 en cours (~15 min post-open à l'heure d'entrée). Fixing officiel de clôture hebdo attendu **17:35 CET** (dans ~8 h 20).
+- **Wall Street** : ouverture 15:30 CET (dans ~6 h 15), 1 h post-NFP. Pré-marché US prudent, futures S&P 500 -0,05 %, Nasdaq -0,08 %, Russell 2000 -0,10 % (positionnement défensif pré-NFP classique).
+- **Asie nuit vendredi** : Nikkei +0,2 % (drift dovish 14ᵉ nuit consécutive — plateau), Hang Seng flat, Kospi +0,1 %. Toile de fond neutre, pas de catalyseur asiatique.
+- **Consensus SOFR CME FedWatch (00:00 CET repricing nuit)** : stable à **87 % baisse 25 bp** au FOMC 04-05/11 (+1 pt vs jeudi grâce au print jobless soft, drift dovish renforcé pour la 14ᵉ séance consécutive).
+- **Digest fixing jeudi 01/10 17:35 CET post-jobless claims 14:30 CET** : jobless claims US publiés à **231 K** (vs consensus 232 K, précédent 230 K) → **in-line soft** (marché travail robuste mais pas en surchauffe, aucune révision upside de la trajectoire baisse Fed). Fixing officiel Euronext 17:35 CET : AI 193,00 € (+0,26 %), SAN 97,30 € (+0,10 %), SU 361,00 € (+0,84 %), DG 187,00 € (+0,27 %). **SU approche #34bis > 365 € à 1,11 %** — au plus près du seuil depuis l'annonce du cadre. **Nouveau micro-record cycle 1 369,32 € (+36,93 %, +5,15 € vs record précédent jeudi 1 364,17 €).**
+- **Catalyseur macro dominant du jour** : **NFP (Non-Farm Payrolls) US publié à 14:30 CET**. Consensus +165 K créations, taux chômage 4,2 %, salaire horaire +0,3 % m/m. Un print entre 150-180 K + chômage 4,2 % + salaires modérés = goldilocks parfait (bid cycliques capex + bid dovish bonds). Un print > 200 K ou salaires > +0,4 % m/m = hawkish repricing partiel (dégradation SOFR baisse 25 bp novembre). Un print < 120 K = inquiétude ralentissement (défensives bid, cycliques sous pression).
+- **Aucun événement corporate portefeuille** ce vendredi.
+- **Gap ouverture Euronext vendredi** : à observer passivement (règle anti-ouverture #2, aucune saisie autorisée avant 30 min minimum de cotation stable + validation trigger ≥ 5 pts au-delà seuil).
+
+#### Événement mécanique du jour — HOLD À L'OUVERTURE PAR DISCIPLINE (ANTI-OUVERTURE #2, 80ᵉ SESSION CAP SYMBOLIQUE), SURVEILLANCE RAPPROCHÉE #34bis SU À 1,11 % + CATALYSEUR NFP
+
+- **Aucune transaction saisie à l'ouverture** : la règle d'anti-ouverture #2 est strictement respectée. **80ᵉ session consécutive — cap symbolique franchi** (ratio 80/80 = 100 %).
+- **Positions reconduites** au fixing officiel jeudi 01/10 17:35 CET : AI 193,00 €, SAN 97,30 €, SU 361,00 €, DG 187,00 €. 124ᵉ entrée journal cristallisée post-fixing jeudi (digest jobless claims in-line soft, drift dovish préservé).
+- **Cash inchangé** : 12,52 €.
+- **Stops inchangés** : SU 328,00 € trailing, DG 176,00 € technique, AI 173,00 € trailing. Aucune promotion sans franchissement observable sur séance cotée.
+- **Surveillance rapprochée #34bis SU > 365 €** : marge résiduelle **4,00 € = 1,11 %** (plus petite marge du cycle depuis l'annonce du cadre, compression continue). Hors fenêtre pré-annoncée mardi-mercredi (consommée) mais cadre maintenu actif. Catalyseur NFP 14:30 CET susceptible de déclencher franchissement : un print goldilocks (150-180 K + chômage 4,2 % + salaires ≤ +0,3 %) libérerait le bid sur les cycliques capex (SU prioritaire). Si SU touche 365 € en séance et tient ≥ 30 min sur volume solide → activation mécanique : promotion stop SU 328 → 340 €, franchissement automatique du cap +21 % au plancher (1 216,34 € = +21,63 %), ratio passe à 33/33.
+- **Veille tenue DG > 185 € (J+7 post-#38bis)** : fixing jeudi 187,00 €, 7ᵉ séance consécutive au-dessus de 185 €, consolidation très robuste du gain +50 %. Stop technique 176 € (marge 5,9 %) reste protecteur.
+
+#### Table portefeuille vendredi 09:15 CET (reconduite intégrale au fixing officiel jeudi 01/10 17:35 CET post-digest jobless claims US 231 K in-line soft, drift dovish préservé, SU au plus près du seuil #34bis à 1,11 %)
+
+| Ligne | Qté | PRU (€) | Cours (€) | Valeur (€) | P&L (€) | P&L (%) |
+|-------|-----|---------|-----------|------------|---------|---------|
+| AI.PA | 2 | 162,00 | 193,00 | 386,00 | +62,00 | +19,14 % |
+| SAN.PA | 3 | 87,00 | 97,30 | 291,90 | +30,90 | +11,84 % |
+| SU.PA | 1 | 220,00 | 361,00 | 361,00 | +141,00 | +64,09 % |
+| DG.PA | 1,70 | 122,80 | 187,00 | 317,90 | +109,04 | +52,28 % |
+| **Investi** | | | | **1 356,80** | **+342,94** | — |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 369,32** | **+369,32** | **+36,93 %** |
+
+**Reconduite intégrale des valeurs au fixing officiel jeudi 01/10 17:35 CET (post-digest jobless claims US 231 K in-line soft, drift dovish préservé, 4 lignes en progression modérée +0,10 % à +0,84 %, SU au plus près du seuil #34bis à 1,11 %). Aucune saisie intraday : anti-ouverture #2 stricte 80ᵉ session cap symbolique, cristallisation cible = fixing officiel vendredi 17:35 CET post-digest NFP US 14:30 CET (clôture hebdo). NOUVEAU MICRO-RECORD CYCLE ABSOLU 1 369,32 € (+36,93 %, +5,15 € vs record précédent jeudi 1 364,17 €) reporté à la séance 5 semaine 40 (clôture hebdo).**
+
+#### Décisions et explication des mouvements — vendredi 02/10 09:15 CET (semaine 40 séance 5 clôture hebdo, NFP US 14:30 CET catalyseur dominant fin de semaine)
+
+**1. AUCUNE VENTE — 4 THÈSES INTACTES, NOUVEAU MICRO-RECORD CYCLE AU FIXING JEUDI, AUCUN STOP MENACÉ.** Les 4 lignes portent le portefeuille à un nouveau sommet 1 369,32 € (+36,93 %). AI +19,14 %, SAN +11,84 %, SU +64,09 % (nouveau sommet cycle), DG +52,28 %. Aucun catalyseur négatif nuit. Aucun stop touché jeudi. Discipline : laisser courir les gagnants, ne pas anticiper un print NFP avant publication 14:30 CET.
+
+**2. AUCUN ACHAT — DOUBLE CONTRAINTE INCHANGÉE.** Cash 12,52 € structurellement insuffisant pour toute prise significative (1 titre AI = 193,00 €, 1 titre SU = 361,00 €, 1 titre DG = 187,00 €). Trésorerie ex-div SAN conservée intacte comme munition défensive post-NFP si rotation défensive.
+
+**3. AUCUN RÉAJUSTEMENT STOP À L'OUVERTURE.** Règle d'anti-ouverture #2 : aucune promotion de stop dans les 30 premières minutes de cotation. Les stops SU 328 €, DG 176 €, AI 173 € restent verrouillés jusqu'à validation d'un franchissement observable en cours de séance (post-NFP 14:30 CET ou fixing 17:35 CET).
+
+**4. SURVEILLANCE RAPPROCHÉE #34bis SU > 365 € — MARGE 1,11 % AU PLUS PRÈS DU CYCLE + CATALYSEUR NFP 14:30 CET.** SU au fixing jeudi 361,00 €, marge résiduelle 4,00 € = 1,11 % (plus petite marge du cycle depuis l'annonce du cadre). Hors fenêtre pré-annoncée mardi-mercredi mais cadre maintenu actif. Catalyseur NFP susceptible de déclencher franchissement : un print goldilocks (150-180 K + chômage 4,2 % + salaires ≤ +0,3 %) libérerait le bid sur les cycliques capex data centers / transition énergétique (SU prioritaire). Si SU touche 365 € en séance et tient ≥ 30 min sur volume solide → activation mécanique : promotion stop SU 328 → 340 €, franchissement automatique du cap +21 % au plancher (1 216,34 € = +21,63 %), ratio passe à 33/33.
+
+**5. VEILLE TENUE DG > 185 € (J+7 POST-#38bis).** DG fixing jeudi 187,00 €, 7ᵉ séance consécutive au-dessus de 185 €. Consolidation très robuste du gain +50 %. Stop technique 176 € (marge 5,9 %) reste protecteur. Pas de promotion sans franchissement >195 € tenu ≥ 30 min.
+
+**6. PLANCHER GARANTI +20,43 % PRÉSERVÉ, CAP +21 % À 4,00 € DE SU 365 €.** Composition inchangée : SU stop 328 € × 1 + DG stop 176 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = 1 204,34 € = +20,43 %. Cap +21 % à activation #34bis SU > 365 € (marge 1,11 %, au plus près du cycle).
+
+**7. RATIO ANTI-OUVERTURE #2 → 80/80 (100 %) EXÉCUTÉ — CAP SYMBOLIQUE FRANCHI.** Aucune saisie discrétionnaire à l'ouverture. La **80ᵉ session d'anti-ouverture (cap symbolique)** s'exécute par pure discipline. Jalon marquant du cycle : 80 séances consécutives sans dérive à l'ouverture depuis le pivot FOMC 19 juin.
+
+**8. RATIO MÉCANIQUE INCHANGÉ 32/32 (69 SÉANCES POST-PIVOT FOMC 19 JUIN).** Aucune activation à l'ouverture (fenêtre pré-fixing, saisie intraday interdite). Ratio préservé, prêt à passer 33/33 si #34bis SU s'active en cours de séance post-NFP.
+
+**9. 124ᵉ ENTRÉE JOURNAL — SESSION 140 VENDREDI SÉANCE 5 SEMAINE 40 (CLÔTURE HEBDO).** Bornage temporel de séance 5 clôture hebdo. Prépare la session 141 lundi 05/10 (séance 1 semaine 41, nouvelle semaine) et le fixing officiel du soir (17:35 CET) qui pourrait cristalliser #34bis SU si NFP publie un goldilocks solide + bid cycliques intraday.
+
+#### Explication synthétique des mouvements du jour — HOLD MÉCANIQUE À L'OUVERTURE, ANTI-OUVERTURE #2 STRICTE 80ᵉ SESSION CAP SYMBOLIQUE, NOUVEAU MICRO-RECORD CYCLE 1 369,32 € (+36,93 %), SU AU PLUS PRÈS DU #34bis À 1,11 %
+
+**Aucun mouvement discrétionnaire à l'ouverture — décision fondamentale du jour à 09:15 CET = HOLD PAR DISCIPLINE (ANTI-OUVERTURE #2, 80ᵉ SESSION CAP SYMBOLIQUE).** Quatre raisons cumulatives :
+
+1. **Anti-ouverture #2 stricte — cap symbolique 80 sessions** : la règle interdit toute saisie discrétionnaire dans les 30 premières minutes de cotation Euronext. 80ᵉ session consécutive respectée. Ratio 80/80 (100 %). Jalon marquant du cycle.
+2. **Fixing jeudi 01/10 17:35 CET post-jobless claims in-line soft** : les 4 lignes ont progressé modérément (+0,10 % à +0,84 %), portant le portefeuille à un **nouveau micro-record cycle absolu 1 369,32 € (+36,93 %, +5,15 € vs record précédent jeudi)**. Discipline v113/v119 : cristallisation enregistrée via la 124ᵉ entrée journal.
+3. **Les 4 thèses continuent à porter le portefeuille** : AI +19,14 %, SAN +11,84 %, SU +64,09 % (nouveau sommet cycle), DG +52,28 %. Aucun signal négatif nuit. Aucun stop menacé.
+4. **Le plancher garanti +20,43 % reste protégé** : stops SU 328 € et DG 176 € tiennent la structure de gains. Cap +21 % à 4,00 € de marge = franchissement automatique dès activation #34bis SU (**au plus près du cycle depuis l'annonce du cadre, marge résiduelle 1,11 %**). Catalyseur NFP 14:30 CET susceptible de déclencher.
+
+**Décisions concrètes à 09:15 CET** :
+- **HOLD × 4 lignes** (AI, SAN, SU, DG) — reconduction intégrale au fixing officiel jeudi 01/10
+- **Aucun achat** : cash 12,52 € insuffisant + anti-ouverture #2 interdit toute saisie
+- **Aucune vente** : 4 thèses intactes, aucun stop menacé, aucun signal négatif nuit, nouveau micro-record cycle
+- **Aucun réajustement stop** : anti-ouverture #2 stricte
+- **Surveillance rapprochée #34bis SU > 365 €** : marge 1,11 %, au plus près du cycle + catalyseur NFP 14:30 CET
+- **Préparation digest NFP US 14:30 CET** : catalyseur dominant fin de semaine, cristallisation attendue au fixing 17:35 CET (clôture hebdo)
+
+#### Stratégie — plan lundi 05/10 (séance 1 semaine 41, nouvelle semaine)
+
+**Discipline dominante lundi 05/10** : reconduction anti-ouverture #2 (81ᵉ session future post-cap symbolique) + digest fixing vendredi 17:35 CET post-NFP (statut #34bis SU : activé vendredi ou maintenu actif ?) + veille tenue DG > 185 € (J+10 post-#38bis = cap symbolique 10 séances) + lecture week-end nuit Asie lundi + rentrée semaine 41.
+
+**Checklist runbook lundi 05/10** :
+1. **07:00 CET** : lecture week-end + continuation dovish nuit + Asie lundi + repricing SOFR post-NFP + digest fixing vendredi 17:35 CET + statut #34bis SU.
+2. **09:00-09:15 CET** : observation passive ouverture Euronext (anti-ouverture #2, 81ᵉ session post-cap symbolique).
+3. **09:30 CET** : lecture marge #34bis SU + tenue DG > 185 € (J+10 cap symbolique).
+4. **12:00 CET** : mid-séance check.
+5. **15:30 CET** : ouverture Wall Street.
+6. **17:35 CET fixing** : cristallisation valeur séance 1 semaine 41 + 125ᵉ (ou 126ᵉ) entrée journal.
+
+**Prochaine réévaluation** : **vendredi 02/10 17:35 CET fixing officiel clôture hebdo** (cristallisation valeur séance 5 semaine 40 post-digest NFP US 14:30 CET, 125ᵉ entrée journal si activation #34bis SU ou autre mouvement matériel — sinon reconduction à lundi 05/10 09:15 CET, séance 1 semaine 41, anti-ouverture #2 81ᵉ session post-cap symbolique). Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 69 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, NOUVEAU MICRO-RECORD CYCLE ABSOLU 1 369,32 € (+36,93 %, +5,15 € vs record précédent) reporté à la séance 5 semaine 40 (clôture hebdo)** — la mécanique poursuit son travail : anti-ouverture #2 exécutée 80ᵉ fois (cap symbolique franchi), SU au plus près du seuil #34bis depuis l'annonce du cadre (marge résiduelle 1,11 %), catalyseur NFP 14:30 CET susceptible de déclencher le franchissement automatique du cap +21 %.
