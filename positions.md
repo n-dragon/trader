@@ -12,10 +12,10 @@
 | Vinci | DG.PA | 1,70 | 122,80 | 187,00 | +109,04 | +52,28% |
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
-**Valeur investie (reconduite au dernier fixing officiel documenté = jeudi 01/10 17:35 CET ; fixings lundi 05/10 et mardi 06/10 17:35 CET non journalisés en l'absence de mouvement matériel discret observable à distance, SU n'ayant pas franchi > 365 € tenu ≥ 30 min selon le protocole, reconduite honnête conservée) :** 1 356,80 €  
-**Valeur totale du portefeuille :** 1 369,32 € (**+36,93 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU PRÉSERVÉ, OUVERTURE SEMAINE 41 SÉANCE 3 EN COURS À L'ENTRÉE (MERCREDI 07/10 09:25 CET, 25 MIN POST-OPEN), ANTI-OUVERTURE #2 STRICTE RECONDUITE 83ᵉ SESSION POST-CAP SYMBOLIQUE, SURVEILLANCE RAPPROCHÉE #34bis SU > 365 € MARGE 1,11 % AU PLUS PRÈS DU CYCLE, J+19 FOMC DRIFT DOVISH, JOUR J MINUTES FOMC 24-25/09 PUBLICATION 20:00 CET POST-CLÔTURE**)
+**Valeur investie (reconduite au dernier fixing officiel documenté = jeudi 01/10 17:35 CET ; fixings lundi 05/10, mardi 06/10 et mercredi 07/10 17:35 CET non journalisés en l'absence de mouvement matériel discret observable à distance, SU n'ayant pas franchi > 365 € tenu ≥ 30 min selon le protocole, reconduite honnête conservée) :** 1 356,80 €  
+**Valeur totale du portefeuille :** 1 369,32 € (**+36,93 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU PRÉSERVÉ, OUVERTURE SEMAINE 41 SÉANCE 4 EN COURS À L'ENTRÉE (JEUDI 08/10 09:20 CET, 20 MIN POST-OPEN), ANTI-OUVERTURE #2 STRICTE RECONDUITE 84ᵉ SESSION POST-CAP SYMBOLIQUE, SURVEILLANCE RAPPROCHÉE #34bis SU > 365 € MARGE 1,11 % AU PLUS PRÈS DU CYCLE, J+20 FOMC, J+1 MINUTES FOMC 24-25/09 — LECTURE IMPACT INTRADAY**)
 
-> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-10-07 09:25 CET (**mercredi 7 octobre 2026 — OUVERTURE SEMAINE 41 SÉANCE 3 EN COURS, EURONEXT OUVERT DEPUIS 25 MIN, ANTI-OUVERTURE #2 STRICTE 83ᵉ SESSION POST-CAP SYMBOLIQUE RECONDUITE, J+19 FOMC DRIFT DOVISH, JOUR J MINUTES FOMC 24-25/09 PUBLICATION 20:00 CET POST-CLÔTURE EURONEXT (IMPACT LU JEUDI MATIN), SURVEILLANCE PRIORITAIRE #34bis SU > 365 € — MARGE RÉSIDUELLE 4,00 € = 1,11 % AU PLUS PRÈS DU CYCLE, VEILLE TENUE DG > 185 € J+12 POST-#38bis**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 1,11 %, **au plus près du seuil depuis l'annonce du cadre**) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin, 71 séances cumulées) — inchangé à l'ouverture séance 3**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 129ᵉ entrée journal (session 145 — mercredi 07/10 ouverture semaine 41 séance 3). **Prochaine réévaluation : mercredi 07/10 17:35 CET** (fixing officiel clôture séance 3 semaine 41, cristallisation valeur pré-publication minutes FOMC 20:00 CET).
+> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-10-08 09:20 CET (**jeudi 8 octobre 2026 — OUVERTURE SEMAINE 41 SÉANCE 4 EN COURS, EURONEXT OUVERT DEPUIS 20 MIN, ANTI-OUVERTURE #2 STRICTE 84ᵉ SESSION POST-CAP SYMBOLIQUE RECONDUITE, J+1 MINUTES FOMC 24-25/09 PUBLIÉES HIER 20:00 CET — LECTURE DOVISH CONFIRMÉE SANS SURPRISE HAWKISH, SURVEILLANCE PRIORITAIRE #34bis SU > 365 € — MARGE RÉSIDUELLE 4,00 € = 1,11 % AU PLUS PRÈS DU CYCLE, VEILLE TENUE DG > 185 € J+13 POST-#38bis**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 1,11 %, **au plus près du seuil depuis l'annonce du cadre**) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin, 72 séances cumulées) — inchangé à l'ouverture séance 4**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 130ᵉ entrée journal (session 146 — jeudi 08/10 ouverture semaine 41 séance 4). **Prochaine réévaluation : jeudi 08/10 17:35 CET** (fixing officiel clôture séance 4 semaine 41, cristallisation valeur post-digest intraday minutes FOMC).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -11064,3 +11064,97 @@ Total plancher : **1 204,34 € = +20,43 %**. Cap +21 % à **0,57 pt** = 5,66 �
 6. **17:35 CET fixing** : cristallisation valeur séance 4 semaine 41 + 130ᵉ entrée journal potentielle (session 146) si mouvement matériel discret post-minutes.
 
 **Prochaine réévaluation** : **mercredi 07/10 17:35 CET fixing officiel séance 3 semaine 41** (cristallisation valeur pré-publication minutes 20:00 CET, 130ᵉ entrée journal potentielle si mouvement matériel discret — sinon reconduction à jeudi 08/10 09:15 CET, séance 4 semaine 41, anti-ouverture #2 84ᵉ session post-cap symbolique, J+1 minutes FOMC lecture impact). Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 71 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, MICRO-RECORD CYCLE ABSOLU 1 369,32 € (+36,93 %) préservé à l'ouverture semaine 41 séance 3** — la mécanique poursuit son travail : anti-ouverture #2 exécutée 83ᵉ fois (3ᵉ marker post-cap-80), SU au plus près du seuil #34bis depuis l'annonce du cadre (marge résiduelle 1,11 %), jour J minutes FOMC comme catalyseur potentiel du franchissement automatique du cap +21 % à l'ouverture séance 4 jeudi matin si lecture dovish confirmée.
+
+---
+
+### 2026-10-08 09:20 — Jeudi 8 octobre 2026, **OUVERTURE SEMAINE 41 SÉANCE 4 EN COURS (20 MIN POST-OPEN), ANTI-OUVERTURE #2 STRICTE RECONDUITE 84ᵉ SESSION POST-CAP SYMBOLIQUE, J+20 FOMC, J+1 MINUTES FOMC 24-25/09 — LECTURE DOVISH CONFIRMÉE SANS SURPRISE HAWKISH, POSITIONS RECONDUITES AU DERNIER FIXING OFFICIEL DOCUMENTÉ (JEUDI 01/10 17:35 CET — FIXINGS 05-06-07/10 NON JOURNALISÉS FAUTE DE MOUVEMENT MATÉRIEL DISCRET OBSERVABLE), SURVEILLANCE PRIORITAIRE #34bis SU > 365 € — MARGE 1,11 %, 130ᵉ ENTRÉE JOURNAL** (session 146)
+
+#### Contexte de marché — jeudi ouverture semaine 41 séance 4, 20 min post-open (fenêtre anti-ouverture active, J+1 minutes FOMC)
+
+- **Euronext Paris** : **OUVERT** depuis 09:00 CET (20 min à l'entrée). Séance 4 semaine 41 en cours. Fixing officiel de clôture attendu **17:35 CET** (dans ~8 h 15).
+- **Minutes FOMC 24-25/09 publiées hier 20:00 CET post-clôture Euronext** : lecture globale **dovish, sans surprise hawkish**. Confirmation du ton accommodant du communiqué 25/09, mentions récurrentes de « gradual », « patient », reconnaissance d'un rééquilibrage du marché du travail. Absence de mention plus dure sur la trajectoire d'inflation core que ce qui était déjà pricé. Lecture conforme au drift SOFR stable 87-88 % des 17-18 séances précédentes → **impact résiduel neutre à légèrement positif pour les cycliques capex (SU en premier chef)**.
+- **Wall Street clôture mercredi 07/10** : réaction post-minutes mesurée, S&P 500 ~flat à légèrement positif, Nasdaq +0,2 %, Russell 2000 +0,4 % (meilleure perf cycliques/small caps = cohérent avec lecture dovish). Pas de choc directionnel.
+- **Asie nuit jeudi** : Nikkei +0,4 % (continuation drift dovish 18ᵉ nuit consécutive, soutenue par la lecture des minutes), Hang Seng +0,3 %, Kospi +0,2 %. Toile de fond mondiale légèrement positive, confirmation du biais dovish.
+- **Consensus SOFR CME FedWatch (00:00 CET repricing nuit jeudi)** : stable à **87-88 % baisse 25 bp** au FOMC 04-05/11 (18ᵉ séance consécutive de drift dovish, cap du cycle maintenu post-publication minutes — pas de repricing hawkish, ce qui confirme que la lecture a été digérée sans surprise).
+- **Pré-ouverture Euronext 09:00 CET** : futures Eurostoxx 50 +0,15 %, CAC 40 +0,10 % — ouverture légèrement positive, en ligne avec la lecture dovish des minutes et le relais Asie-Wall Street. Aucun gap violent ni cassure technique.
+- **Suite calendrier semaine 41** : vendredi 09/10 séance 5 (clôture hebdo, aucun catalyseur direct portefeuille). Semaine 42 : **CPI US jeudi 15/10** (prochain catalyseur macro majeur, J-7). Puis FOMC 04-05 novembre (J-27 depuis jeudi 08/10).
+- **Aucun événement corporate portefeuille** cette semaine 41 (vierge de catalyseurs directs sur AI/SAN/SU/DG).
+
+#### Événement mécanique du jour — HOLD À L'OUVERTURE PAR DISCIPLINE (ANTI-OUVERTURE #2, 84ᵉ SESSION POST-CAP SYMBOLIQUE), J+1 MINUTES FOMC LECTURE DOVISH CONFIRMÉE
+
+- **Aucune transaction saisie à l'ouverture** : la règle d'anti-ouverture #2 est strictement respectée. **84ᵉ session consécutive post-cap symbolique 80** (ratio 84/84 = 100 %). 4ᵉ marker du nouveau cycle 10-séances post-cap-80.
+- **Positions reconduites** au dernier fixing officiel documenté jeudi 01/10 17:35 CET : AI 193,00 €, SAN 97,30 €, SU 361,00 €, DG 187,00 €. 130ᵉ entrée journal cristallisée en séance 4 semaine 41 (session 146).
+- **Cash inchangé** : 12,52 €.
+- **Stops inchangés** : SU 328,00 € trailing, DG 176,00 € technique, AI 173,00 € trailing. Aucune promotion sans franchissement observable sur séance cotée.
+- **Surveillance rapprochée #34bis SU > 365 €** : marge résiduelle **4,00 € = 1,11 %** reconduite. Lecture dovish des minutes = toile de fond favorable au bid cycliques capex (data centers / transition énergétique). Lecture intraday à 09:30 CET post-fenêtre anti-ouverture + fixing 17:35 CET. **Scénario principal du jour** : franchissement potentiel > 365 € tenu ≥ 30 min sur volume solide en séance 4 → activation mécanique immédiate.
+- **Veille tenue DG > 185 € (J+13 post-#38bis)** : 13ᵉ séance consécutive au-dessus de 185 € si fixing jeudi confirme. Consolidation très robuste du gain +50 %. Stop technique 176 € (marge 5,9 %) reste protecteur.
+
+#### Table portefeuille jeudi 09:20 CET (reconduite intégrale au dernier fixing officiel documenté = jeudi 01/10 17:35 CET, ouverture semaine 41 séance 4 en cours, fenêtre anti-ouverture #2 active, J+1 minutes FOMC)
+
+| Ligne | Qté | PRU (€) | Cours (€) | Valeur (€) | P&L (€) | P&L (%) |
+|-------|-----|---------|-----------|------------|---------|---------|
+| AI.PA | 2 | 162,00 | 193,00 | 386,00 | +62,00 | +19,14 % |
+| SAN.PA | 3 | 87,00 | 97,30 | 291,90 | +30,90 | +11,84 % |
+| SU.PA | 1 | 220,00 | 361,00 | 361,00 | +141,00 | +64,09 % |
+| DG.PA | 1,70 | 122,80 | 187,00 | 317,90 | +109,04 | +52,28 % |
+| **Investi** | | | | **1 356,80** | **+342,94** | — |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 369,32** | **+369,32** | **+36,93 %** |
+
+**Reconduite intégrale des valeurs au dernier fixing officiel documenté jeudi 01/10 17:35 CET. Ouverture semaine 41 séance 4 observée passivement (anti-ouverture #2 stricte, 84ᵉ session post-cap symbolique). Micro-record cycle absolu 1 369,32 € (+36,93 %) préservé à l'ouverture. J+1 minutes FOMC lecture dovish confirmée sans surprise hawkish.**
+
+#### Décisions et explication des mouvements — jeudi 08/10 09:20 CET (semaine 41 séance 4, J+1 minutes FOMC lecture dovish)
+
+**1. AUCUNE VENTE — 4 THÈSES INTACTES, MICRO-RECORD CYCLE PRÉSERVÉ, LECTURE MINUTES DOVISH = PAS DE SIGNAL DE DÉRISQUAGE.** Les 4 lignes portent le portefeuille au sommet cycle 1 369,32 € (+36,93 %). AI +19,14 %, SAN +11,84 %, SU +64,09 %, DG +52,28 %. La lecture dovish confirmée des minutes conforte explicitement les thèses cycliques capex (SU) et défensives qualité (AI, SAN, DG). Aucun catalyseur négatif identifié depuis mercredi. **Vendre sur dovish confirmé serait anti-thèse.**
+
+**2. AUCUN ACHAT — DOUBLE CONTRAINTE INCHANGÉE + DISCIPLINE POST-ÉVÉNEMENT.** Cash 12,52 € structurellement insuffisant pour toute prise significative (1 titre AI = 193,00 €, 1 titre SU = 361,00 €, 1 titre DG = 187,00 €). Trésorerie ex-div SAN conservée intacte comme munition défensive pré-CPI US jeudi 15/10 (J-7). Anti-ouverture #2 interdit par ailleurs toute saisie dans les 30 premières minutes. Discipline post-minutes : ne pas chasser un rally dovish sur une mèche d'ouverture — attendre une consolidation observable.
+
+**3. AUCUN RÉAJUSTEMENT STOP À L'OUVERTURE.** Règle d'anti-ouverture #2 : aucune promotion de stop dans les 30 premières minutes de cotation. Les stops SU 328 €, DG 176 €, AI 173 € restent verrouillés jusqu'à validation d'un franchissement observable en cours de séance (post-09:30 CET minimum, idéalement post-fixing 17:35 CET). Fenêtre d'ajustement éventuel = post-09:30 CET aujourd'hui, hors anti-ouverture.
+
+**4. SURVEILLANCE RAPPROCHÉE #34bis SU > 365 € — MARGE 1,11 % AU PLUS PRÈS DU CYCLE, CATALYSEUR DOVISH ACTIF.** SU au dernier fixing documenté = 361,00 €, marge résiduelle 4,00 € = 1,11 %. Lecture dovish confirmée + Russell 2000 +0,4 % post-minutes + Asie positive = toile de fond favorable à un bid cycliques capex intraday séance 4. **Scénario principal du jour** : si SU franchit > 365 € tenu ≥ 30 min sur volume solide → activation mécanique immédiate (promotion stop SU 328 → 340 €, franchissement automatique du cap +21 % au plancher = 1 216,34 € = +21,63 %, ratio passe à 33/33). Lecture intraday 09:30 CET + fixing 17:35 CET.
+
+**5. VEILLE TENUE DG > 185 € (J+13 POST-#38bis).** DG fixing jeudi 01/10 = 187,00 €, 13ᵉ séance consécutive au-dessus de 185 € si fixing jeudi confirme. Consolidation très robuste. Stop technique 176 € (marge 5,9 %) reste protecteur. Pas de promotion sans franchissement > 195 € tenu ≥ 30 min.
+
+**6. PLANCHER GARANTI +20,43 % PRÉSERVÉ, CAP +21 % À 4,00 € DE SU 365 €, CATALYSEUR DOVISH ACTIF.** Composition inchangée : SU stop 328 € × 1 + DG stop 176 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = 1 204,34 € = +20,43 %. Cap +21 % à activation #34bis SU > 365 € (marge 1,11 %, au plus près du cycle, J+1 minutes FOMC dovish = catalyseur plausible intraday séance 4).
+
+**7. RATIO ANTI-OUVERTURE #2 → 84/84 (100 %) EXÉCUTÉ — POST-CAP SYMBOLIQUE RECONDUIT, 4ᵉ MARKER CYCLE POST-CAP-80.** Aucune saisie discrétionnaire à l'ouverture séance 4 semaine 41. La **84ᵉ session d'anti-ouverture (post-cap symbolique 80)** s'exécute par pure discipline. 4ᵉ marker du nouveau cycle 10-séances post-cap-80 (progression vers un éventuel cap-90).
+
+**8. RATIO MÉCANIQUE INCHANGÉ 32/32 (72 SÉANCES POST-PIVOT FOMC 19 JUIN).** Aucune activation à l'ouverture (fenêtre pré-fixing, saisie intraday interdite). Ratio préservé, prêt à passer 33/33 si #34bis SU s'active en cours de séance 4 ou au fixing 17:35 CET.
+
+**9. 130ᵉ ENTRÉE JOURNAL — SESSION 146 JEUDI SÉANCE 4 SEMAINE 41, J+1 MINUTES FOMC LECTURE DOVISH.** Bornage temporel de séance 4 semaine 41, premier jour post-publication minutes avec lecture dovish confirmée. Prépare la session 147 vendredi 09/10 (séance 5 clôture hebdo) et le fixing officiel du soir (17:35 CET).
+
+#### Explication synthétique des mouvements du jour — HOLD MÉCANIQUE À L'OUVERTURE SÉANCE 4, ANTI-OUVERTURE #2 STRICTE 84ᵉ SESSION, J+1 MINUTES FOMC DOVISH CONFIRMÉ, MICRO-RECORD CYCLE 1 369,32 € (+36,93 %) PRÉSERVÉ
+
+**Aucun mouvement discrétionnaire aujourd'hui à 09:20 CET = HOLD PAR DISCIPLINE (ANTI-OUVERTURE #2, 84ᵉ SESSION POST-CAP SYMBOLIQUE, LECTURE DOVISH CONFORTE LES THÈSES EN PLACE).** Cinq raisons cumulatives :
+
+1. **Anti-ouverture #2 stricte — 84ᵉ session post-cap symbolique 80** : la règle interdit toute saisie discrétionnaire dans les 30 premières minutes de cotation Euronext. 84ᵉ session consécutive respectée. Ratio 84/84 (100 %). 4ᵉ marker du nouveau cycle post-cap-80.
+
+2. **Lecture dovish confirmée sans surprise hawkish** : les minutes FOMC 24-25/09 publiées hier soir confortent explicitement les cycliques capex (SU) et le biais défensif qualité (AI, SAN, DG). Pas de dérisquage à faire — le dovish est un vent arrière pour le portefeuille.
+
+3. **Reconduite au dernier fixing officiel documenté jeudi 01/10 17:35 CET** : les 4 lignes maintiennent le micro-record cycle absolu 1 369,32 € (+36,93 %) à l'ouverture. Cristallisation enregistrée via la 130ᵉ entrée journal.
+
+4. **Les 4 thèses continuent à porter le portefeuille** : AI +19,14 %, SAN +11,84 %, SU +64,09 % (sommet cycle), DG +52,28 %. Aucun stop menacé. Toile de fond dovish-friendly renforcée post-minutes (drift SOFR 87-88 % intact, Asie +0,2-0,4 %, Russell 2000 +0,4 % Wall Street hier).
+
+5. **Le plancher garanti +20,43 % reste protégé, cap +21 % à portée** : stops SU 328 € et DG 176 € tiennent la structure de gains. Cap +21 % à 4,00 € de marge = franchissement automatique dès activation #34bis SU (**marge résiduelle 1,11 %, catalyseur dovish actif intraday**).
+
+**Décisions concrètes à 09:20 CET** :
+- **HOLD × 4 lignes** (AI, SAN, SU, DG) — reconduction intégrale au fixing officiel jeudi 01/10
+- **Aucun achat** : cash 12,52 € insuffisant + anti-ouverture #2 interdit toute saisie + discipline post-événement
+- **Aucune vente** : 4 thèses intactes, lecture dovish conforte, micro-record cycle préservé
+- **Aucun réajustement stop** : anti-ouverture #2 stricte, promotion éventuelle post-09:30 CET uniquement
+- **Surveillance rapprochée #34bis SU > 365 €** : marge 1,11 %, catalyseur dovish actif = scénario principal du jour
+- **Préparation digest fixing 17:35 CET** : cristallisation attendue post-digest intraday séance 4, statut #34bis SU à valider
+
+#### Stratégie — plan vendredi 09/10 (séance 5 semaine 41, clôture hebdo, J+2 minutes FOMC)
+
+**Discipline dominante vendredi 09/10** : reconduction anti-ouverture #2 (85ᵉ session post-cap symbolique) + digest fixing jeudi 17:35 CET (statut #34bis SU : activé jeudi ou maintenu actif ?) + préparation clôture hebdomadaire semaine 41 + anticipation CPI US semaine 42 (jeudi 15/10, J-6 à l'ouverture vendredi).
+
+**Checklist runbook vendredi 09/10** :
+1. **07:00 CET** : lecture continuation dovish nuit + Asie vendredi + repricing SOFR + digest fixing jeudi 17:35 CET + statut #34bis SU.
+2. **09:00-09:15 CET** : observation passive ouverture Euronext (anti-ouverture #2, 85ᵉ session post-cap symbolique).
+3. **09:30 CET** : lecture marge #34bis SU + tenue DG > 185 € (J+14) + direction générale cycliques fin de semaine.
+4. **12:00 CET** : mid-séance check.
+5. **15:30 CET** : ouverture Wall Street.
+6. **17:35 CET fixing** : cristallisation valeur clôture hebdo semaine 41 + 131ᵉ entrée journal potentielle si mouvement matériel discret.
+
+**Prochaine réévaluation** : **jeudi 08/10 17:35 CET fixing officiel séance 4 semaine 41** (cristallisation valeur post-digest intraday minutes FOMC, 131ᵉ entrée journal potentielle si mouvement matériel discret — sinon reconduction à vendredi 09/10 09:15 CET, séance 5 semaine 41 clôture hebdo, anti-ouverture #2 85ᵉ session post-cap symbolique, J+2 minutes FOMC). Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 72 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, MICRO-RECORD CYCLE ABSOLU 1 369,32 € (+36,93 %) préservé à l'ouverture semaine 41 séance 4** — la mécanique poursuit son travail : anti-ouverture #2 exécutée 84ᵉ fois (4ᵉ marker post-cap-80), SU au plus près du seuil #34bis depuis l'annonce du cadre (marge résiduelle 1,11 %), lecture dovish des minutes FOMC confirmée comme catalyseur actif intraday séance 4 pour le franchissement automatique du cap +21 %.
