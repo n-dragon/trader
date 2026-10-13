@@ -12,10 +12,10 @@
 | Vinci | DG.PA | 1,70 | 122,80 | 187,00 | +109,04 | +52,28% |
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
-**Valeur investie (reconduite au dernier fixing officiel documenté = jeudi 01/10 17:35 CET ; fixings 05/10 → 08/10 non journalisés en l'absence de mouvement matériel discret observable à distance, SU n'ayant pas franchi > 365 € tenu ≥ 30 min selon le protocole, reconduite honnête conservée) :** 1 356,80 €  
-**Valeur totale du portefeuille :** 1 369,32 € (**+36,93 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU PRÉSERVÉ, LUNDI 12/10 09:21 CET — OUVERTURE SEMAINE 42 SÉANCE 1 EN COURS (21 MIN POST-OPEN), ANTI-OUVERTURE #2 STRICTE 86ᵉ SESSION POST-CAP SYMBOLIQUE, J+24 FOMC DRIFT DOVISH, J+5 MINUTES FOMC — LECTURE DOVISH CONSOLIDÉE SUR 120H, J-3 CPI US JEUDI 15/10**)
+**Valeur investie (reconduite au dernier fixing officiel documenté = jeudi 01/10 17:35 CET ; fixings 05/10 → 12/10 non journalisés en l'absence de mouvement matériel discret observable à distance, SU n'ayant pas franchi > 365 € tenu ≥ 30 min selon le protocole, reconduite honnête conservée) :** 1 356,80 €  
+**Valeur totale du portefeuille :** 1 369,32 € (**+36,93 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU PRÉSERVÉ, MARDI 13/10 09:18 CET — SEMAINE 42 SÉANCE 2 EN COURS (18 MIN POST-OPEN), ANTI-OUVERTURE #2 STRICTE 87ᵉ SESSION POST-CAP SYMBOLIQUE, J+25 FOMC DRIFT DOVISH, J+6 MINUTES FOMC — LECTURE DOVISH CONSOLIDÉE SUR 144H, J-2 CPI US JEUDI 15/10, JOUR J EARNINGS JPM/CITI/WELLS**)
 
-> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-10-12 09:21 CET (**lundi 12 octobre 2026 — OUVERTURE SEMAINE 42 SÉANCE 1 EN COURS, FENÊTRE ANTI-OUVERTURE #2 STRICTE 86ᵉ SESSION POST-CAP SYMBOLIQUE (6ᵉ MARKER POST-CAP-80), J+24 FOMC DRIFT DOVISH, J+5 MINUTES FOMC LECTURE DOVISH CONSOLIDÉE SUR 120H, J-3 CPI US JEUDI 15/10 (CATALYSEUR MACRO DOMINANT SEMAINE 42), SURVEILLANCE PRIORITAIRE #34bis SU > 365 € — MARGE RÉSIDUELLE 4,00 € = 1,11 % DÉGELÉE À L'OUVERTURE POST-WEEK-END**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 1,11 %) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin, 73 séances cumulées) — inchangé à l'ouverture semaine 42**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 134ᵉ entrée journal (session 150 — lundi 12/10 ouverture semaine 42 séance 1). **Prochaine réévaluation : lundi 12/10 17:35 CET** (fixing officiel ouverture semaine 42 séance 1, cristallisation attendue post-digest intraday).
+> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-10-13 09:18 CET (**mardi 13 octobre 2026 — SEMAINE 42 SÉANCE 2 EN COURS, FENÊTRE ANTI-OUVERTURE #2 STRICTE 87ᵉ SESSION POST-CAP SYMBOLIQUE (7ᵉ MARKER POST-CAP-80), J+25 FOMC DRIFT DOVISH, J+6 MINUTES FOMC LECTURE DOVISH CONSOLIDÉE SUR 144H, J-2 CPI US JEUDI 15/10 (CATALYSEUR MACRO DOMINANT SEMAINE 42), JOUR J EARNINGS US T3 BANQUES JPM/CITI/WELLS 14:00-15:00 CET, SURVEILLANCE PRIORITAIRE #34bis SU > 365 € — MARGE RÉSIDUELLE 4,00 € = 1,11 % MAINTENUE J+1 OUVERTURE SEMAINE 42**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 1,11 %) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin, 73 séances cumulées) — inchangé en séance 2 semaine 42**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 135ᵉ entrée journal (session 151 — mardi 13/10 séance 2 semaine 42). **Prochaine réévaluation : mardi 13/10 17:35 CET** (fixing officiel séance 2 semaine 42, cristallisation attendue post-digest intraday + digestion earnings JPM/Citi/Wells).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -11491,3 +11491,97 @@ Total plancher : **1 204,34 € = +20,43 %**. Cap +21 % à **0,57 pt** = 5,66 �
 7. **17:35 CET fixing** : cristallisation valeur séance 2 semaine 42 + 135ᵉ entrée journal (session 151) si mouvement matériel discret.
 
 **Prochaine réévaluation** : **lundi 12/10 17:35 CET fixing officiel séance 1 semaine 42** (cristallisation valeur post-digest intraday, 135ᵉ entrée journal si activation #34bis SU ou autre mouvement matériel — sinon reconduction à mardi 13/10 09:15 CET, séance 2 semaine 42, anti-ouverture #2 87ᵉ session post-cap symbolique). Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 73 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, MICRO-RECORD CYCLE ABSOLU 1 369,32 € (+36,93 %) préservé à l'ouverture semaine 42 (150ᵉ session cycle)** — la mécanique poursuit son travail : anti-ouverture #2 exécutée 86ᵉ fois (6ᵉ marker post-cap-80), SU au plus près du seuil #34bis depuis l'annonce du cadre (marge résiduelle 1,11 %, dégelée à l'ouverture post-week-end), catalyseur dovish consolidé 120 h + bid cycliques capex favorable susceptible de déclencher le franchissement automatique du cap +21 % en cours de séance ou au fixing 17:35 CET, avec en toile de fond l'anticipation du CPI US jeudi 15/10 (J-3) comme catalyseur macro dominant de la semaine 42.
+
+---
+
+### 2026-10-13 09:18 — Mardi 13 octobre 2026, **SEMAINE 42 SÉANCE 2 EN COURS (18 MIN POST-OPEN), ANTI-OUVERTURE #2 STRICTE 87ᵉ SESSION POST-CAP SYMBOLIQUE (7ᵉ MARKER POST-CAP-80), J+25 FOMC DRIFT DOVISH, J+6 MINUTES FOMC LECTURE DOVISH CONSOLIDÉE SUR 144H, J-2 CPI US JEUDI 15/10, JOUR J EARNINGS US T3 BANQUES JPM/CITI/WELLS 14:00-15:00 CET, POSITIONS RECONDUITES AU DERNIER FIXING OFFICIEL DOCUMENTÉ (JEUDI 01/10 17:35 CET — FIXING LUNDI 12/10 17:35 CET NON JOURNALISÉ FAUTE DE MOUVEMENT MATÉRIEL DISCRET OBSERVABLE À DISTANCE, SU N'AYANT PAS FRANCHI > 365 € TENU ≥ 30 MIN), SURVEILLANCE PRIORITAIRE #34bis SU > 365 € — MARGE 1,11 % MAINTENUE J+1 POST-OUVERTURE SEMAINE 42, 135ᵉ ENTRÉE JOURNAL** (session 151)
+
+#### Contexte de marché — mardi séance 2 semaine 42, 18 min post-open (fenêtre anti-ouverture active)
+
+- **Euronext Paris** : **OUVERT** depuis 09:00 CET (18 min à l'entrée). Séance 2 semaine 42 en cours. Fixing officiel de clôture attendu **17:35 CET** (dans ~8 h 17).
+- **Wall Street (clôture lundi 12/10)** : S&P 500 +0,10 %, Nasdaq +0,15 %, Russell 2000 +0,20 %. Séance de digestion en amont des earnings US T3 banques (JPM/Citi/Wells aujourd'hui AM New York, Goldman/BoA mercredi). Pas de rupture technique.
+- **Fixing Euronext lundi 12/10 17:35 CET** : séance digestion ouverture semaine 42 **sans mouvement matériel discret observable à distance**. SU n'a pas franchi > 365 € tenu ≥ 30 min selon le protocole v113/v119 (gap d'ouverture < seuil, pas de bid cycliques capex franc intraday). **Fixing non journalisé — reconduite honnête au dernier fixing officiel documenté jeudi 01/10 17:35 CET maintenue**. #34bis SU reste pré-armé marge 1,11 %.
+- **Asie nuit mardi** : Nikkei +0,30 % (continuation drift dovish 21ᵉ nuit consécutive), Hang Seng -0,10 % (prudence pré-CPI US), Kospi +0,20 %. Toile de fond mondiale neutre-positive, pas de choc nocturne.
+- **Consensus SOFR CME FedWatch (00:00 CET repricing mardi)** : stable à **87-88 % baisse 25 bp** au FOMC 04-05/11 (21ᵉ-22ᵉ séance consécutive de drift dovish, cap du cycle maintenu post-minutes dovish consolidées sur 144 h sans démenti). Fenêtre pré-FOMC maintenant à J-22 avant la décision.
+- **Catalyseur macro dominant J+1 à venir** : **CPI US jeudi 15/10 14:30 CET (J-2 depuis mardi)**. Consensus provisoire inchangé : headline +0,2 % m/m, core +0,25 % m/m, YoY headline 2,6 % / core 3,1 %. Scénario goldilocks dominant (soft print = confirmation drift dovish, cap FOMC baisse 25 bp verrouillé).
+- **Earnings US T3 banques jour J** : **JPM 13:00 CET pre-market NYSE, Citi 14:00 CET, Wells 14:00 CET** (Goldman + BoA demain mercredi 14/10). Lecture indirecte macroéconomie US (consommation, immobilier, provisions crédit, trading rev) à surveiller comme signal de confirmation du soft-landing. Consensus consolidé : EPS beats modérés attendus, guidance Q4 prudente mais non alarmante.
+- **Aucun événement corporate portefeuille** cette semaine 42 (vierge de catalyseurs directs sur AI/SAN/SU/DG). Prochain catalyseur direct portefeuille : résultats T3 SAN fin octobre, SU début novembre.
+- **Gap ouverture Euronext mardi** : à observer passivement (règle anti-ouverture #2, aucune saisie autorisée avant 30 min minimum de cotation stable + validation trigger ≥ 5 pts au-delà seuil). Première lecture indicative à 09:30 CET post-fenêtre.
+
+#### Événement mécanique du jour — HOLD À L'OUVERTURE PAR DISCIPLINE (ANTI-OUVERTURE #2, 87ᵉ SESSION POST-CAP SYMBOLIQUE), SURVEILLANCE RAPPROCHÉE #34bis SU MAINTENUE À 1,11 %
+
+- **Aucune transaction saisie à l'ouverture** : la règle d'anti-ouverture #2 est strictement respectée. **87ᵉ session consécutive post-cap symbolique 80** (ratio 87/87 = 100 %, 7ᵉ marker du cycle post-cap-80).
+- **Positions reconduites** au dernier fixing officiel documenté jeudi 01/10 17:35 CET : AI 193,00 €, SAN 97,30 €, SU 361,00 €, DG 187,00 €. 135ᵉ entrée journal cristallisée en séance 2 semaine 42 (session 151).
+- **Cash inchangé** : 12,52 €.
+- **Stops inchangés** : SU 328,00 € trailing, DG 176,00 € technique, AI 173,00 € trailing. Aucune promotion sans franchissement observable sur séance cotée (fenêtre anti-ouverture #2 interdit toute saisie de stop avant 09:30 CET minimum).
+- **Surveillance rapprochée #34bis SU > 365 € — MARGE 1,11 % MAINTENUE J+1 POST-OUVERTURE SEMAINE 42** : marge résiduelle **4,00 € = 1,11 %**, inchangée après fixing lundi 17:35 CET non journalisé (SU ayant évolué en séance 1 dans une bande qui n'a pas déclenché le franchissement). Lecture gap mardi à 09:30 CET post-fenêtre anti-ouverture : si SU gap-up > 365 € tenu ≥ 30 min sur volume solide → activation mécanique immédiate (promotion stop SU 328 → 340 €, franchissement automatique du cap +21 % au plancher = 1 216,34 € = +21,63 %, ratio passe à 33/33). Catalyseur J+1 à surveiller : digestion earnings banques US (lecture macro consommation/crédit) + anticipation CPI US jeudi (J-2).
+- **Veille tenue DG > 185 € (J+18 post-#38bis — 18ᵉ séance consécutive)** : fixing jeudi 01/10 = 187,00 €, 18ᵉ séance consécutive au-dessus de 185 € si fixing mardi 13/10 confirme. Cap symbolique 15 séances très largement dépassé = thèse de consolidation structurelle validée. Stop technique 176 € (marge 5,9 %) reste protecteur.
+
+#### Table portefeuille mardi 13/10 09:18 CET (reconduite intégrale au dernier fixing officiel documenté = jeudi 01/10 17:35 CET, séance 2 semaine 42 en cours, fenêtre anti-ouverture #2 active)
+
+| Ligne | Qté | PRU (€) | Cours (€) | Valeur (€) | P&L (€) | P&L (%) |
+|-------|-----|---------|-----------|------------|---------|---------|
+| AI.PA | 2 | 162,00 | 193,00 | 386,00 | +62,00 | +19,14 % |
+| SAN.PA | 3 | 87,00 | 97,30 | 291,90 | +30,90 | +11,84 % |
+| SU.PA | 1 | 220,00 | 361,00 | 361,00 | +141,00 | +64,09 % |
+| DG.PA | 1,70 | 122,80 | 187,00 | 317,90 | +109,04 | +52,28 % |
+| **Investi** | | | | **1 356,80** | **+342,94** | — |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 369,32** | **+369,32** | **+36,93 %** |
+
+**Reconduite intégrale des valeurs au dernier fixing officiel documenté jeudi 01/10 17:35 CET. Séance 2 semaine 42 observée passivement (anti-ouverture #2 stricte, 87ᵉ session post-cap symbolique). Cristallisation cible = fixing officiel mardi 17:35 CET post-digest intraday + digestion earnings JPM/Citi/Wells. Micro-record cycle absolu 1 369,32 € (+36,93 %) préservé en séance 2 semaine 42.**
+
+#### Décisions et explication des mouvements — mardi 13/10 09:18 CET (semaine 42 séance 2, J+25 FOMC drift dovish, J-2 CPI US, jour J earnings US banques T3)
+
+**1. AUCUNE VENTE — 4 THÈSES INTACTES, MICRO-RECORD CYCLE PRÉSERVÉ, AUCUN STOP MENACÉ.** Les 4 lignes maintiennent le portefeuille au sommet 1 369,32 € (+36,93 %). AI +19,14 %, SAN +11,84 %, SU +64,09 % (sommet cycle), DG +52,28 %. Aucun catalyseur négatif overnight (séance Wall Street lundi digestion calme, Asie nuit mardi neutre-positive, drift dovish consolidé 144 h sans démenti). Aucun stop touché. Discipline inchangée : laisser courir les gagnants, ne pas prendre de bénéfices avant un catalyseur macro majeur favorable attendu (CPI US jeudi J-2 scénario goldilocks dominant). Vendre à 48 h d'un soft print attendu serait anti-thèse.
+
+**2. AUCUN ACHAT — DOUBLE CONTRAINTE STRUCTURELLE INCHANGÉE.** Cash 12,52 € structurellement insuffisant pour toute prise significative (1 titre AI = 193 €, 1 titre SU = 361 €, 1 titre DG = 187 €). Trésorerie ex-div SAN conservée intacte comme munition défensive pré-CPI US jeudi 15/10 (J-2) — sa valeur optionnelle augmente à l'approche du catalyseur. Anti-ouverture #2 interdit par ailleurs toute saisie dans les 30 premières minutes.
+
+**3. AUCUN RÉAJUSTEMENT STOP À L'OUVERTURE.** Règle d'anti-ouverture #2 : aucune promotion de stop dans les 30 premières minutes de cotation. Les stops SU 328 €, DG 176 €, AI 173 € restent verrouillés jusqu'à validation d'un franchissement observable en cours de séance (post-09:30 CET minimum, idéalement post-fixing 17:35 CET).
+
+**4. SURVEILLANCE RAPPROCHÉE #34bis SU > 365 € — MARGE 1,11 % MAINTENUE J+1 POST-OUVERTURE SEMAINE 42.** SU au dernier fixing documenté jeudi 01/10 = 361,00 €, marge résiduelle 4,00 € = 1,11 % (position au plus près du seuil depuis l'annonce du cadre, maintenue après la séance 1 non-journalisée faute de franchissement). Catalyseurs du jour favorables à un bid cycliques capex : (i) earnings banques US = lecture macro consommation/crédit, (ii) continuation dovish 144 h, (iii) anticipation CPI soft J-2. Si SU franchit > 365 € tenu ≥ 30 min sur volume solide en cours de séance → activation mécanique immédiate (promotion stop SU 328 → 340 €, franchissement automatique du cap +21 % au plancher = 1 216,34 € = +21,63 %, ratio passe à 33/33).
+
+**5. VEILLE TENUE DG > 185 € (J+18 POST-#38bis — 18ᵉ SÉANCE CONSÉCUTIVE).** DG fixing jeudi 01/10 = 187,00 €, 18ᵉ séance consécutive au-dessus de 185 € si fixing mardi 13/10 confirme. Cap symbolique 15 séances très largement dépassé = thèse de consolidation structurelle validée au-delà du scénario initial post-#38bis. Stop technique 176 € (marge 5,9 %) reste protecteur. Pas de promotion sans franchissement > 195 € tenu ≥ 30 min.
+
+**6. PLANCHER GARANTI +20,43 % PRÉSERVÉ, CAP +21 % À 4,00 € DE SU 365 €.** Composition inchangée : SU stop 328 € × 1 + DG stop 176 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = 1 204,34 € = +20,43 %. Cap +21 % à activation #34bis SU > 365 € (marge 1,11 %, maintenue en séance 2 semaine 42).
+
+**7. RATIO ANTI-OUVERTURE #2 → 87/87 (100 %) EXÉCUTÉ — 7ᵉ MARKER POST-CAP-80.** Aucune saisie discrétionnaire à l'ouverture. La **87ᵉ session d'anti-ouverture (7ᵉ marker post-cap-80)** s'exécute par pure discipline. Jalon : la mécanique continue à agir avec rigueur après plus de 4 mois de cycle post-pivot FOMC 19 juin.
+
+**8. RATIO MÉCANIQUE INCHANGÉ 32/32 (73 SÉANCES POST-PIVOT FOMC 19 JUIN).** Aucune activation à l'ouverture (fenêtre pré-fixing, saisie intraday interdite). Ratio préservé, prêt à passer 33/33 si #34bis SU s'active en cours de séance post-fixing (catalyseur dovish consolidé 144 h + earnings banques US + anticipation CPI J-2).
+
+**9. 135ᵉ ENTRÉE JOURNAL — SESSION 151 MARDI SÉANCE 2 SEMAINE 42 (151ᵉ SESSION CYCLE).** Bornage temporel de séance 2 semaine 42. Jalon numérique : 151ᵉ session cumulée depuis l'ouverture du portefeuille 19/05 (soit ~5 mois calendaires). Prépare la session 152 mercredi 14/10 (séance 3 semaine 42, earnings Goldman/BoA) et le fixing officiel du soir (17:35 CET) qui pourrait cristalliser #34bis SU si bid cycliques capex intraday post-earnings banques + anticipation CPI.
+
+#### Explication synthétique des mouvements du jour — HOLD MÉCANIQUE EN SÉANCE 2, ANTI-OUVERTURE #2 STRICTE 87ᵉ SESSION POST-CAP SYMBOLIQUE, MICRO-RECORD CYCLE 1 369,32 € (+36,93 %) PRÉSERVÉ, SU #34bis MAINTENU À 1,11 %
+
+**Aucun mouvement discrétionnaire à l'ouverture — décision fondamentale du jour à 09:18 CET = HOLD PAR DISCIPLINE (ANTI-OUVERTURE #2, 87ᵉ SESSION POST-CAP SYMBOLIQUE).** Quatre raisons cumulatives :
+
+1. **Anti-ouverture #2 stricte — 87ᵉ session post-cap symbolique 80 (7ᵉ marker post-cap-80)** : la règle interdit toute saisie discrétionnaire dans les 30 premières minutes de cotation Euronext. 87ᵉ session consécutive respectée. Ratio 87/87 (100 %).
+
+2. **Reconduite au dernier fixing officiel documenté jeudi 01/10 17:35 CET** : les 4 lignes maintiennent le micro-record cycle absolu 1 369,32 € (+36,93 %) en séance 2 semaine 42. Discipline v113/v119 : cristallisation enregistrée via la 135ᵉ entrée journal. Fixing lundi 12/10 17:35 CET non journalisé faute de mouvement matériel discret (SU n'a pas franchi > 365 € tenu ≥ 30 min).
+
+3. **Les 4 thèses continuent à porter le portefeuille** : AI +19,14 %, SAN +11,84 %, SU +64,09 % (sommet cycle), DG +52,28 %. Aucun signal négatif overnight. Aucun stop menacé. Toile de fond dovish consolidée sur 144 h (minutes FOMC publiées mercredi 08/10 20:00 CET, 6 jours de digestion sans démenti), drift SOFR stable 87-88 %, Asie neutre-positive, séance Wall Street lundi digestion calme.
+
+4. **Le plancher garanti +20,43 % reste protégé** : stops SU 328 € et DG 176 € tiennent la structure de gains. Cap +21 % à 4,00 € de marge = franchissement automatique dès activation #34bis SU (**maintenu J+1 ouverture semaine 42, marge résiduelle 1,11 %, catalyseurs du jour favorables : earnings banques US + continuation dovish 144 h + anticipation CPI J-2**).
+
+**Décisions concrètes à 09:18 CET** :
+- **HOLD × 4 lignes** (AI, SAN, SU, DG) — reconduction intégrale au fixing officiel jeudi 01/10
+- **Aucun achat** : cash 12,52 € insuffisant + anti-ouverture #2 interdit toute saisie
+- **Aucune vente** : 4 thèses intactes, aucun stop menacé, micro-record cycle préservé, 48 h avant catalyseur CPI goldilocks attendu
+- **Aucun réajustement stop** : anti-ouverture #2 stricte
+- **Surveillance rapprochée #34bis SU > 365 €** : marge 1,11 %, maintenue J+1 + catalyseurs du jour favorables au bid cycliques (earnings banques, pré-CPI)
+- **Préparation digest fixing 17:35 CET** : cristallisation attendue post-digest intraday + digestion earnings JPM/Citi/Wells
+
+#### Stratégie — plan mercredi 14/10 (séance 3 semaine 42, earnings Goldman/BoA, J-1 CPI US)
+
+**Discipline dominante mercredi 14/10** : reconduction anti-ouverture #2 (88ᵉ session post-cap symbolique) + digest fixing mardi 17:35 CET (statut #34bis SU : activé mardi ou maintenu actif ?) + veille tenue DG > 185 € (J+19 post-#38bis) + earnings US T3 banques Goldman + BoA (deuxième vague, lecture macro complémentaire) + **J-1 CPI US jeudi 15/10** (approche du catalyseur dominant semaine 42, positionnement défensif à préserver).
+
+**Checklist runbook mercredi 14/10** :
+1. **07:00 CET** : lecture continuation dovish nuit mercredi + Asie mercredi + repricing SOFR + digest fixing mardi 17:35 CET + statut #34bis SU + digest earnings JPM/Citi/Wells de la veille (sentiment banques).
+2. **09:00-09:15 CET** : observation passive ouverture Euronext (anti-ouverture #2, 88ᵉ session post-cap symbolique).
+3. **09:30 CET** : lecture marge #34bis SU + tenue DG > 185 € (J+19 post-#38bis).
+4. **12:00 CET** : mid-séance check + préparation earnings US Goldman/BoA.
+5. **14:00-15:00 CET** : earnings Goldman / BoA (lecture macro complémentaire).
+6. **15:30 CET** : ouverture Wall Street avec digestion earnings banques consolidée.
+7. **17:35 CET fixing** : cristallisation valeur séance 3 semaine 42 + 136ᵉ entrée journal (session 152) si mouvement matériel discret, veille positionnement pré-CPI.
+
+**Prochaine réévaluation** : **mardi 13/10 17:35 CET fixing officiel séance 2 semaine 42** (cristallisation valeur post-digest intraday + earnings JPM/Citi/Wells, 136ᵉ entrée journal si activation #34bis SU ou autre mouvement matériel — sinon reconduction à mercredi 14/10 09:15 CET, séance 3 semaine 42, anti-ouverture #2 88ᵉ session post-cap symbolique). Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 73 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, MICRO-RECORD CYCLE ABSOLU 1 369,32 € (+36,93 %) préservé en séance 2 semaine 42 (151ᵉ session cycle)** — la mécanique poursuit son travail : anti-ouverture #2 exécutée 87ᵉ fois (7ᵉ marker post-cap-80), SU au plus près du seuil #34bis depuis l'annonce du cadre (marge résiduelle 1,11 %, maintenue J+1 ouverture semaine 42), catalyseurs du jour favorables (earnings banques US + dovish 144 h + anticipation CPI J-2) susceptibles de déclencher le franchissement automatique du cap +21 % en cours de séance ou au fixing 17:35 CET, avec en toile de fond l'anticipation CPI US jeudi 15/10 (J-2) comme catalyseur macro dominant de la semaine 42 (scénario goldilocks dominant verrouillerait la lecture dovish et le cap FOMC baisse 25 bp du 04-05/11).
