@@ -12,10 +12,10 @@
 | Vinci | DG.PA | 1,70 | 122,80 | 187,00 | +109,04 | +52,28% |
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
-**Valeur investie (reconduite au dernier fixing officiel documenté = jeudi 01/10 17:35 CET ; fixings 05/10 → 15/10 non journalisés en l'absence de mouvement matériel discret observable à distance, SU n'ayant pas franchi > 365 € tenu ≥ 30 min selon le protocole, reconduite honnête conservée) :** 1 356,80 €  
-**Valeur totale du portefeuille :** 1 369,32 € (**+36,93 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU PRÉSERVÉ, VENDREDI 16/10 09:17 CET — SEMAINE 42 SÉANCE 5 EN COURS (17 MIN POST-OPEN), CLÔTURE HEBDOMADAIRE, ANTI-OUVERTURE #2 STRICTE 90ᵉ SESSION POST-CAP SYMBOLIQUE (10ᵉ MARKER POST-CAP-80) — JALON DÉCENNAL, J+28 FOMC DRIFT DOVISH, J+9 MINUTES FOMC — LECTURE DOVISH CONSOLIDÉE SUR 216H, J+1 DIGEST CPI US CONSOLIDÉ**)
+**Valeur investie (reconduite au dernier fixing officiel documenté = jeudi 01/10 17:35 CET) :** 1 356,80 €  
+**Valeur totale du portefeuille :** 1 369,32 € (**+36,93 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU PRÉSERVÉ, SAMEDI 17/10 07:14 UTC — WEEK-END, EURONEXT FERMÉ, AUCUNE TRANSACTION POSSIBLE, OBSERVATION PASSIVE EN ATTENTE DE L'OUVERTURE LUNDI 19/10 09:00 CET**)
 
-> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-10-16 09:17 CET (**vendredi 16 octobre 2026 — SEMAINE 42 SÉANCE 5 EN COURS, CLÔTURE HEBDOMADAIRE, FENÊTRE ANTI-OUVERTURE #2 STRICTE 90ᵉ SESSION POST-CAP SYMBOLIQUE (10ᵉ MARKER POST-CAP-80) — JALON DÉCENNAL, J+28 FOMC DRIFT DOVISH, J+9 MINUTES FOMC LECTURE DOVISH CONSOLIDÉE SUR 216H, J+1 DIGEST CPI US CONSOLIDÉ, SURVEILLANCE PRIORITAIRE #34bis SU > 365 € — MARGE RÉSIDUELLE 4,00 € = 1,11 % MAINTENUE J+4 EN L'ABSENCE DE MOUVEMENT MATÉRIEL DISCRET AU FIXING JEUDI 15/10 17:35 CET NON JOURNALISÉ**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 1,11 %) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin, 76 séances cumulées) — inchangé en séance 5 semaine 42**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 138ᵉ entrée journal (session 154 — vendredi 16/10 séance 5 semaine 42, clôture hebdomadaire). **Prochaine réévaluation : lundi 19/10 09:15 CET** (séance 1 semaine 43 — ouverture hebdomadaire, anti-ouverture #2 91ᵉ session post-cap symbolique, 11ᵉ marker post-cap-80).
+> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-10-17 07:14 UTC (**samedi 17 octobre 2026 — WEEK-END, EURONEXT FERMÉ**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 1,11 %) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 139ᵉ entrée journal (session 155 — samedi 17/10, entrée week-end HOLD mécanique). **Prochaine réévaluation : lundi 19/10 09:15 CET** (séance 1 semaine 43 — ouverture hebdomadaire).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -11884,3 +11884,58 @@ Total plancher : **1 204,34 € = +20,43 %**. Cap +21 % à **0,57 pt** = 5,66 �
 6. **17:35 CET fixing** : cristallisation valeur séance 1 semaine 43 + 139ᵉ entrée journal (session 155) si mouvement matériel discret.
 
 **Prochaine réévaluation** : **lundi 19/10 09:15 CET séance 1 semaine 43 (ouverture hebdomadaire), anti-ouverture #2 91ᵉ session post-cap symbolique (11ᵉ marker post-cap-80)**. Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 76 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, MICRO-RECORD CYCLE ABSOLU 1 369,32 € (+36,93 %) préservé en séance 5 semaine 42 (154ᵉ session cycle)** — la mécanique poursuit son travail : anti-ouverture #2 exécutée 90ᵉ fois (10ᵉ marker post-cap-80 = JALON DÉCENNAL atteint), SU au plus près du seuil #34bis depuis l'annonce du cadre (marge résiduelle 1,11 %, maintenue J+4 post-CPI), CPI jeudi digéré en lecture goldilocks dominant conservatrice, cap FOMC baisse 25 bp du 04-05/11 reconduit.
+
+---
+
+### 2026-10-17 07:14 UTC — Samedi 17/10 — ENTRÉE WEEK-END — EURONEXT FERMÉ (session 155)
+
+#### Contexte de marché
+
+- **Date / heure** : samedi 17 octobre 2026, 07:14 UTC (09:14 CET).
+- **Euronext fermé** : marché actions parisien non ouvert le samedi. Aucune cotation, aucun volume, aucune transaction possible.
+- **J+2 digest CPI US consolidé** : lecture goldilocks dominant conservatrice maintenue depuis jeudi 15/10, pas de démenti observé.
+- **J+29 FOMC drift dovish** (depuis pivot FOMC 24-25/09), **J+10 minutes FOMC** : lecture dovish consolidée sur 240 h sans démenti.
+- **Événements week-end** : aucune publication macro de premier plan prévue samedi/dimanche. Lecture conservatrice = neutre.
+- **FOMC 04-05/11** : J-19/J-18. Fed blackout démarre lundi 20/10 à J-15.
+
+#### État du portefeuille (reconduite intégrale au dernier fixing officiel documenté = jeudi 01/10 17:35 CET)
+
+| Ligne | Qté | PRU (€) | Cours (€) | Valeur (€) | P&L (€) | P&L (%) |
+|-------|-----|---------|-----------|------------|---------|---------|
+| AI.PA | 2 | 162,00 | 193,00 | 386,00 | +62,00 | +19,14 % |
+| SAN.PA | 3 | 87,00 | 97,30 | 291,90 | +30,90 | +11,84 % |
+| SU.PA | 1 | 220,00 | 361,00 | 361,00 | +141,00 | +64,09 % |
+| DG.PA | 1,70 | 122,80 | 187,00 | 317,90 | +109,04 | +52,28 % |
+| **Investi** | | | | **1 356,80** | **+342,94** | — |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 369,32** | **+369,32** | **+36,93 %** |
+
+#### Décisions et explication des mouvements — samedi 17/10 07:14 UTC
+
+**1. AUCUNE VENTE — IMPOSSIBLE PAR CONSTRUCTION.** Euronext fermé le samedi. Aucun carnet d'ordres, aucun fixing, aucune transaction réalisable. Les 4 lignes sont reconduites mécaniquement au dernier fixing officiel documenté.
+
+**2. AUCUN ACHAT — IMPOSSIBLE PAR CONSTRUCTION.** Même raison : marché fermé. Par ailleurs cash 12,52 € structurellement insuffisant pour entrer sur une ligne (plus petit titre AI = 193 €).
+
+**3. AUCUN RÉAJUSTEMENT STOP.** Les stops sont des ordres GTC placés en amont, ils tiennent sans intervention. Pas de modification en veille de 48 h de fermeture — aucun catalyseur ne peut déclencher un ajustement.
+
+**4. SURVEILLANCE #34bis SU > 365 € — EN SOMMEIL.** Marge résiduelle 4,00 € (1,11 %) maintenue. Le seuil pré-armé reste actif pour la séance 1 semaine 43 (lundi 19/10) et au-delà.
+
+**5. PLANCHER GARANTI +20,43 % PRÉSERVÉ.** Stops SU 328 € × 1 + DG 176 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = 1 204,34 € plancher inchangé.
+
+#### Explication synthétique — HOLD STRUCTUREL WEEK-END (OBSERVATION PASSIVE)
+
+**Aucun mouvement — par nature.** Le samedi n'est pas une séance de marché. L'entrée journal du jour est purement administrative, destinée à matérialiser que le portefeuille a été inspecté et qu'aucune action n'est requise ni possible.
+
+Les 4 thèses continuent à porter le portefeuille au micro-record cycle absolu 1 369,32 € (+36,93 %) :
+- **AI** (+19,14 %) — leader gaz industriels, défensif + exposition IA via gaz pour fabs semi.
+- **SAN** (+11,84 %) — défensif santé, dividende solide.
+- **SU** (+64,09 %) — sommet cycle, thèse data centers / IA validée en continu.
+- **DG** (+52,28 %) — 21ᵉ séance au-dessus de 185 €, thèse concessions + construction infra.
+
+**Prochaine réévaluation** : **lundi 19/10 09:15 CET séance 1 semaine 43**. Checklist runbook identique au plan prévu vendredi. Rien à faire d'ici là en l'absence totale de catalyseur week-end et de la fermeture Euronext.
+
+**Décisions concrètes à 07:14 UTC** :
+- **HOLD × 4 lignes** (AI, SAN, SU, DG) — reconduction intégrale au dernier fixing documenté
+- **Aucun achat ni vente** — marché fermé, cash insuffisant de toute façon
+- **Aucun réajustement stop** — ordres GTC tenus en amont
+- **Observation passive** — attente ouverture Euronext lundi 19/10 09:00 CET
