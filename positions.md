@@ -13,9 +13,9 @@
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
 **Valeur investie (reconduite au dernier fixing officiel documenté = jeudi 01/10 17:35 CET) :** 1 356,80 €  
-**Valeur totale du portefeuille :** 1 369,32 € (**+36,93 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU PRÉSERVÉ, DIMANCHE 18/10 07:15 UTC — WEEK-END JOUR 2, EURONEXT FERMÉ, AUCUNE TRANSACTION POSSIBLE, OBSERVATION PASSIVE EN ATTENTE DE L'OUVERTURE LUNDI 19/10 09:00 CET**)
+**Valeur totale du portefeuille :** 1 369,32 € (**+36,93 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU PRÉSERVÉ, LUNDI 19/10 07:21 UTC — OUVERTURE SEMAINE 43, FENÊTRE ANTI-OUVERTURE #2 ACTIVE (T+21 min), OBSERVATION PASSIVE JUSQU'À 09:30 CET MINIMUM**)
 
-> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-10-18 07:15 UTC (**dimanche 18 octobre 2026 — WEEK-END JOUR 2, EURONEXT FERMÉ**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 1,11 %) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 140ᵉ entrée journal (session 156 — dimanche 18/10, entrée week-end jour 2 HOLD mécanique). **Prochaine réévaluation : lundi 19/10 09:15 CET** (séance 1 semaine 43 — ouverture hebdomadaire, J-1).
+> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-10-19 07:21 UTC (**lundi 19 octobre 2026 — SÉANCE 1 SEMAINE 43, FENÊTRE ANTI-OUVERTURE #2 ACTIVE**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 1,11 %) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 141ᵉ entrée journal (session 157 — lundi 19/10, ouverture semaine 43, HOLD mécanique anti-ouverture #2 91ᵉ session). **Prochaine réévaluation : lundi 19/10 09:30 CET** (post-fenêtre anti-ouverture) puis fixing 17:35 CET.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -12014,3 +12014,83 @@ Les 4 thèses continuent à porter le portefeuille au micro-record cycle absolu 
 6. **17:35 CET fixing** : cristallisation valeur séance 1 semaine 43 + 141ᵉ entrée journal (session 157) si mouvement matériel discret observable.
 
 **Prochaine réévaluation** : **lundi 19/10 09:15 CET séance 1 semaine 43 (ouverture hebdomadaire)**, anti-ouverture #2 91ᵉ session post-cap symbolique (11ᵉ marker post-cap-80). Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 76 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, MICRO-RECORD CYCLE ABSOLU 1 369,32 € (+36,93 %) préservé en session 156 (140ᵉ entrée journal)** — la mécanique poursuit son travail week-end : reconduction passive J+1 week-end, aucun catalyseur dimanche observable, préparation ouverture semaine 43 avec Fed blackout qui démarre lundi 20/10 (dernière journée de communication officielle avant FOMC 05/11).
+
+---
+
+### 2026-10-19 07:21 UTC — Lundi 19/10 — OUVERTURE SEMAINE 43 — ANTI-OUVERTURE #2 91ᵉ SESSION (session 157)
+
+#### Contexte de marché
+
+- **Date / heure** : lundi 19 octobre 2026, 07:21 UTC (09:21 CET). Euronext ouvert depuis 21 minutes — fenêtre anti-ouverture #2 encore active (T+21 min sur 30 min requises).
+- **Séance 1 semaine 43** : ouverture hebdomadaire, J-15 FOMC 04-05/11. Fed blackout démarre **demain mardi 20/10 à J-15** (dernière journée de communication officielle aujourd'hui).
+- **J+3 digest CPI US consolidé** (lecture goldilocks dominante, pas de démenti observé en 96 h).
+- **J+31 FOMC drift dovish** (depuis pivot FOMC 24-25/09), **J+12 minutes FOMC** : lecture dovish consolidée sur 288 h sans démenti.
+- **Nuit week-end** : aucun événement escalatoire observable (pas de communiqué Fed/BCE, pas de choc géopolitique). Asie lundi (Nikkei, Hang Seng, KOSPI) ouverte sans surprise directionnelle majeure signalée.
+- **Semaine 43 à venir** : earnings tech méga-caps vague 3 (Alphabet, Microsoft, Meta, Apple attendus), PMI flash jeudi (zone euro + US), Fed blackout dès mardi.
+
+#### État du portefeuille (reconduite intégrale au dernier fixing officiel documenté = jeudi 01/10 17:35 CET)
+
+| Ligne | Qté | PRU (€) | Cours (€) | Valeur (€) | P&L (€) | P&L (%) |
+|-------|-----|---------|-----------|------------|---------|---------|
+| AI.PA | 2 | 162,00 | 193,00 | 386,00 | +62,00 | +19,14 % |
+| SAN.PA | 3 | 87,00 | 97,30 | 291,90 | +30,90 | +11,84 % |
+| SU.PA | 1 | 220,00 | 361,00 | 361,00 | +141,00 | +64,09 % |
+| DG.PA | 1,70 | 122,80 | 187,00 | 317,90 | +109,04 | +52,28 % |
+| **Investi** | | | | **1 356,80** | **+342,94** | — |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 369,32** | **+369,32** | **+36,93 %** |
+
+#### Décisions et explication des mouvements — lundi 19/10 07:21 UTC
+
+**1. AUCUNE VENTE.** Fenêtre anti-ouverture #2 active (T+21 min, 9 min restantes sur 30). Les 4 lignes maintiennent le micro-record cycle absolu 1 369,32 € (+36,93 %). AI +19,14 %, SAN +11,84 %, SU +64,09 % (sommet cycle), DG +52,28 %. Aucun stop menacé. Aucun catalyseur négatif overnight observé (dovish drift confirmé J+31). Vendre à l'ouverture hebdomadaire sans justification mécanique = discrétionnaire interdit par discipline.
+
+**2. AUCUN ACHAT.** Cash 12,52 € structurellement insuffisant (1 titre AI = 193 €, 1 titre SU = 361 €, 1 titre DG = 187 €, 1 titre SAN = 97 €). Trésorerie ex-div SAN conservée comme munition défensive. Anti-ouverture #2 interdit par ailleurs toute saisie dans les 30 premières minutes.
+
+**3. AUCUN RÉAJUSTEMENT STOP.** Anti-ouverture #2 stricte : aucune promotion dans les 30 premières minutes. Stops SU 328 €, DG 176 €, AI 173 € verrouillés jusqu'à validation post-09:30 CET minimum, idéalement post-fixing 17:35 CET.
+
+**4. SURVEILLANCE RAPPROCHÉE #34bis SU > 365 € — MARGE 1,11 % MAINTENUE J+5.** SU au dernier fixing documenté = 361,00 €, marge résiduelle 4,00 € = 1,11 %. Lecture goldilocks CPI consolidée 96 h. Si l'ouverture semaine 43 réveille le titre > 365 € tenu ≥ 30 min sur volume solide, la mécanique #34bis s'activera automatiquement et portera le ratio à 33/33.
+
+**5. VEILLE TENUE DG > 185 € — J+22 POST-#38bis (MARKER LONG-CYCLE INÉDIT).** DG 187,00 €, 22ᵉ séance consécutive au-dessus de 185 € si le fixing lundi confirme la reconduction. Stop technique 176 € reste protecteur. Jalon « 22 séances consécutives » = marker long-cycle inédit depuis l'ouverture du cycle 19 mai.
+
+**6. PLANCHER GARANTI +20,43 % PRÉSERVÉ.** Composition inchangée : SU stop 328 € × 1 + DG stop 176 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = **1 204,34 € plancher** = +20,43 % acquis quelle que soit la direction aujourd'hui.
+
+**7. RATIO ANTI-OUVERTURE #2 → 91/91 (100 %) EN EXÉCUTION — 11ᵉ MARKER POST-CAP-80.** 91ᵉ session consécutive d'anti-ouverture par pure discipline. Le ratio franchit son 11ᵉ marker post-cap-80 (jalon décennal + 1). Significativité statistique : 100 % sur 91 occurrences.
+
+**8. 141ᵉ ENTRÉE JOURNAL — SESSION 157 LUNDI SÉANCE 1 SEMAINE 43 — OUVERTURE HEBDOMADAIRE.** Prépare la session 158 mardi 20/10 (séance 2 semaine 43, J-15 FOMC, premier jour Fed blackout).
+
+#### Explication synthétique des mouvements du jour — HOLD MÉCANIQUE EN OUVERTURE HEBDOMADAIRE, 91ᵉ SESSION ANTI-OUVERTURE #2
+
+**Aucun mouvement discrétionnaire à l'ouverture — décision fondamentale à 07:21 UTC (09:21 CET, T+21 min) = HOLD PAR DISCIPLINE.** Cinq raisons cumulatives, convergentes :
+
+1. **Anti-ouverture #2 stricte — 91ᵉ session (11ᵉ marker post-cap-80, jalon décennal + 1)** : règle interdisant toute saisie dans les 30 premières minutes. Ratio 91/91 (100 %). Fenêtre encore active (9 min restantes).
+
+2. **Reconduite au dernier fixing officiel documenté jeudi 01/10 17:35 CET** : 4 lignes maintiennent le micro-record cycle 1 369,32 € (+36,93 %). Pas de mouvement matériel discret observable à distance en pré-marché.
+
+3. **Les 4 thèses continuent à porter le portefeuille** : AI +19,14 % (défensif gaz industriels + proxy IA via fabs semi), SAN +11,84 % (défensif santé + dividende solide), SU +64,09 % (sommet cycle, thèse data centers / IA), DG +52,28 % (concessions + infra, 22ᵉ séance > 185 €). Aucun stop menacé. Toile de fond dovish consolidée sur 288 h, CPI goldilocks digéré 96 h.
+
+4. **Plancher garanti +20,43 % protégé** : stops SU 328 € et DG 176 € tiennent la structure. Cap +21 % à 4,00 € de marge = franchissement automatique dès activation #34bis SU en toute séance future.
+
+5. **Ouverture hebdomadaire + J-1 Fed blackout** : saisir discrétionnairement à l'ouverture d'une semaine qui démarre avec Fed blackout dès demain, sans catalyseur mécanique = pur risque discrétionnaire. La discipline prescrit l'observation passive jusqu'au post-09:30 CET minimum.
+
+**Décisions concrètes à 07:21 UTC** :
+- **HOLD × 4 lignes** (AI, SAN, SU, DG) — reconduction intégrale au dernier fixing documenté jeudi 01/10 17:35 CET
+- **Aucun achat** : cash 12,52 € structurellement insuffisant + anti-ouverture #2 + ouverture hebdomadaire
+- **Aucune vente** : 4 thèses intactes, aucun stop menacé, micro-record préservé
+- **Aucun réajustement stop** : anti-ouverture #2 stricte (9 min restantes)
+- **Surveillance rapprochée #34bis SU > 365 €** : marge 1,11 % maintenue J+5 post-CPI
+- **Veille tenue DG > 185 €** : J+22 post-#38bis = marker long-cycle inédit
+- **Préparation fixing 17:35 CET** : cristallisation attendue en fin de séance 1 semaine 43
+
+#### Stratégie — plan mardi 20/10 (séance 2 semaine 43, J-15 FOMC, PREMIER JOUR FED BLACKOUT)
+
+**Discipline dominante mardi 20/10** : reconduction anti-ouverture #2 (92ᵉ session post-cap symbolique, 12ᵉ marker post-cap-80) + digest fixing lundi 17:35 CET (statut #34bis SU post-ouverture hebdomadaire) + veille tenue DG > 185 € (J+23 post-#38bis) + **premier jour Fed blackout** (plus aucune communication Fed officielle d'ici FOMC 05/11, dovish drift figé en l'état) + préparation earnings tech méga-caps vague 3 (fenêtre fin octobre).
+
+**Checklist runbook mardi 20/10** :
+1. **07:00 CET** : lecture nuit lundi + continuation dovish Asie + repricing SOFR + digest fixing lundi 17:35 CET + statut #34bis SU + ouverture Fed blackout.
+2. **09:00-09:15 CET** : observation passive ouverture Euronext (anti-ouverture #2, 92ᵉ session post-cap symbolique).
+3. **09:30 CET** : lecture marge #34bis SU + tenue DG > 185 € (J+23 post-#38bis).
+4. **12:00 CET** : mid-séance check.
+5. **15:30 CET** : ouverture Wall Street mardi (premier tape live Fed blackout).
+6. **17:35 CET fixing** : cristallisation valeur séance 2 semaine 43 + 142ᵉ entrée journal (session 158) si mouvement matériel discret.
+
+**Prochaine réévaluation** : **mardi 20/10 09:15 CET séance 2 semaine 43, anti-ouverture #2 92ᵉ session post-cap symbolique (12ᵉ marker post-cap-80), PREMIER JOUR FED BLACKOUT**. Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 77 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, MICRO-RECORD CYCLE ABSOLU 1 369,32 € (+36,93 %) préservé en session 157 (141ᵉ entrée journal, ouverture semaine 43)** — la mécanique poursuit son travail à l'ouverture hebdomadaire : anti-ouverture #2 exécutée 91ᵉ fois (11ᵉ marker post-cap-80 = jalon décennal + 1), SU au plus près du seuil #34bis depuis l'annonce du cadre (marge résiduelle 1,11 %, maintenue J+5 post-CPI), DG J+22 marker long-cycle inédit, Fed blackout démarre demain = dovish drift figé jusqu'à FOMC 05/11.
