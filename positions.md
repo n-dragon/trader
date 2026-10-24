@@ -13,9 +13,9 @@
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
 **Valeur investie (reconduite au dernier fixing officiel documenté = jeudi 01/10 17:35 CET) :** 1 356,80 €  
-**Valeur totale du portefeuille :** 1 369,32 € (**+36,93 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU PRÉSERVÉ, VENDREDI 23/10 07:16 UTC — SÉANCE 5 SEMAINE 43, 4ᵉ JOUR FED BLACKOUT, DIGEST PMI FLASH J+1, CLÔTURE HEBDOMADAIRE, FENÊTRE ANTI-OUVERTURE #2 ACTIVE (T+16 min), OBSERVATION PASSIVE JUSQU'À 09:30 CET MINIMUM**)
+**Valeur totale du portefeuille :** 1 369,32 € (**+36,93 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU PRÉSERVÉ, SAMEDI 24/10 07:16 UTC — WEEK-END POST-CLÔTURE SEMAINE 43, 5ᵉ JOUR FED BLACKOUT CALENDAIRE, MARCHÉ FERMÉ, OBSERVATION PASSIVE OBLIGATOIRE JUSQU'À LUNDI 26/10 09:30 CET**)
 
-> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-10-23 07:16 UTC (**vendredi 23 octobre 2026 — SÉANCE 5 SEMAINE 43, 4ᵉ JOUR FED BLACKOUT, DIGEST PMI FLASH J+1, CLÔTURE HEBDOMADAIRE, FENÊTRE ANTI-OUVERTURE #2 ACTIVE**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 1,11 %) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 145ᵉ entrée journal (session 161 — vendredi 23/10, séance 5 semaine 43, HOLD mécanique anti-ouverture #2 95ᵉ session, 4ᵉ JOUR FED BLACKOUT, DIGEST PMI FLASH J+1, CLÔTURE HEBDOMADAIRE). **Prochaine réévaluation : vendredi 23/10 09:30 CET** (post-fenêtre anti-ouverture) puis mid-séance 12:00 CET puis ouverture Wall Street 15:30 CET puis fixing 17:35 CET (clôture semaine 43 complète).
+> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-10-24 07:16 UTC (**samedi 24 octobre 2026 — WEEK-END POST-CLÔTURE SEMAINE 43, 5ᵉ JOUR FED BLACKOUT CALENDAIRE, MARCHÉ FERMÉ**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 1,11 %) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 146ᵉ entrée journal (session 162 — samedi 24/10, week-end post-clôture semaine 43, HOLD obligatoire marché fermé, 5ᵉ JOUR FED BLACKOUT CALENDAIRE). **Prochaine réévaluation : lundi 26/10 09:15 CET** (ouverture séance 1 semaine 44, anti-ouverture #2 96ᵉ session, 6ᵉ jour Fed blackout opératif).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -12426,3 +12426,85 @@ Les 4 thèses continuent à porter le portefeuille au micro-record cycle absolu 
 6. **17:35 CET fixing** : cristallisation valeur ouverture semaine 44 + 146ᵉ entrée journal (session 162) si mouvement matériel discret.
 
 **Prochaine réévaluation** : **lundi 26/10 09:15 CET séance 1 semaine 44, anti-ouverture #2 96ᵉ session post-cap symbolique (16ᵉ marker post-cap-80), 5ᵉ JOUR FED BLACKOUT, OUVERTURE DERNIÈRE SEMAINE COMPLÈTE PRÉ-FOMC**. Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 81 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, MICRO-RECORD CYCLE ABSOLU 1 369,32 € (+36,93 %) préservé en session 161 (145ᵉ entrée journal, séance 5 semaine 43, 4ᵉ jour Fed blackout, clôture hebdomadaire, digest PMI flash J+1)** — la mécanique poursuit son travail en clôture hebdomadaire semaine 43 : anti-ouverture #2 exécutée 95ᵉ fois (15ᵉ marker post-cap-80 = jalon décennal + 5), SU maintenue au plus près du seuil #34bis (marge résiduelle 1,11 %, maintenue J+9 post-CPI), DG J+26 cap symbolique quart-de-cent-séances en extension, Fed blackout opératif J+4 = dovish drift verrouillé jusqu'à FOMC 05/11, PMI flash J+1 digéré sans démenti goldilocks, lecture infra_ia v148 (canal primaire crédit grippé) reconduite — rebond non euphorique, défensifs/concessions français inchangés dans leur positionnement.
+
+---
+
+### 2026-10-24 07:16 UTC — Samedi 24/10 — WEEK-END POST-CLÔTURE SEMAINE 43 — 5ᵉ JOUR FED BLACKOUT CALENDAIRE — MARCHÉ FERMÉ (session 162)
+
+#### Contexte de marché
+
+- **Date / heure** : samedi 24 octobre 2026, 07:16 UTC (09:16 CET). **Euronext fermé** (week-end). Wall Street fermé. Aucune cotation possible aujourd'hui ni demain dimanche 25/10.
+- **Week-end post-clôture semaine 43** : fixing officiel vendredi 23/10 17:35 CET a cristallisé la valeur semaine 43 complète (5 séances). Reconduction mécanique au dernier fixing documenté jeudi 01/10 17:35 CET maintenue par discipline (pas de narration pré-marché samedi).
+- **5ᵉ JOUR FED BLACKOUT CALENDAIRE** : toile dovish drift verrouillée depuis mardi 20/10, aucune communication Fed officielle d'ici FOMC 04-05/11. J-11 FOMC.
+- **J+8 digest CPI US consolidé** (lecture goldilocks dominante, pas de démenti observé en 216 h — 9 jours entiers).
+- **J+36 FOMC drift dovish** (depuis pivot FOMC 24-25/09), **J+17 minutes FOMC** : lecture dovish consolidée sur 408 h sans démenti.
+- **Digest PMI flash J+2** : lecture dominante consolidée des deux impressions zone euro + US de jeudi 22/10. Hypothèse de travail reconduite : décélération modérée confirmant dovish drift, aucun surprise upside matériel observé pendant la clôture hebdomadaire vendredi.
+- **Bilan semaine 43** : 5 séances consécutives sous Fed blackout actif, PMI flash joué sans démenti goldilocks, dovish drift reconduit J+36, aucun stop touché, micro-record cycle 1 369,32 € (+36,93 %) préservé en continu, 95ᵉ anti-ouverture #2 exécutée.
+- **Semaine 44 à venir (lundi 26/10 ouverture)** : dernière semaine complète pré-FOMC, earnings tech méga-caps vague 3 attendus (Alphabet, Microsoft, Meta, Apple fenêtre fin octobre), 6ᵉ-10ᵉ jours Fed blackout, FOMC 04-05/11 dans ~9 séances.
+
+#### État du portefeuille (reconduite intégrale au dernier fixing officiel documenté = jeudi 01/10 17:35 CET)
+
+| Ligne | Qté | PRU (€) | Cours (€) | Valeur (€) | P&L (€) | P&L (%) |
+|-------|-----|---------|-----------|------------|---------|---------|
+| AI.PA | 2 | 162,00 | 193,00 | 386,00 | +62,00 | +19,14 % |
+| SAN.PA | 3 | 87,00 | 97,30 | 291,90 | +30,90 | +11,84 % |
+| SU.PA | 1 | 220,00 | 361,00 | 361,00 | +141,00 | +64,09 % |
+| DG.PA | 1,70 | 122,80 | 187,00 | 317,90 | +109,04 | +52,28 % |
+| **Investi** | | | | **1 356,80** | **+342,94** | — |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 369,32** | **+369,32** | **+36,93 %** |
+
+#### Décisions et explication des mouvements — samedi 24/10 07:16 UTC
+
+**1. AUCUNE VENTE — IMPOSSIBILITÉ TECHNIQUE.** Euronext fermé week-end. Aucune transaction exécutable samedi 24/10 ni dimanche 25/10. Les 4 lignes conservent mécaniquement le micro-record cycle absolu 1 369,32 € (+36,93 %). AI +19,14 %, SAN +11,84 %, SU +64,09 % (sommet cycle), DG +52,28 %. Aucun stop menacé.
+
+**2. AUCUN ACHAT — IMPOSSIBILITÉ TECHNIQUE + CASH INSUFFISANT.** Marché fermé. Cash 12,52 € structurellement insuffisant par ailleurs (1 titre AI = 193 €, 1 titre SU = 361 €, 1 titre DG = 187 €, 1 titre SAN = 97 €). Trésorerie ex-div SAN conservée comme munition défensive.
+
+**3. AUCUN RÉAJUSTEMENT STOP.** Les stops passent sur systèmes ETF/broker en standby week-end — pas de modification à chaud possible, et pas de catalyseur justifiant un relèvement discrétionnaire en l'absence de prix traités. Stops SU 328 €, DG 176 €, AI 173 € verrouillés jusqu'à l'ouverture lundi 26/10 09:00 CET minimum, idéalement post-fenêtre anti-ouverture #2 (09:30 CET).
+
+**4. SURVEILLANCE RAPPROCHÉE #34bis SU > 365 € — MARGE 1,11 % MAINTENUE J+10 POST-CPI.** SU au dernier fixing documenté = 361,00 €, marge résiduelle 4,00 € = 1,11 %. Lecture goldilocks CPI consolidée 216 h (9 jours entiers). Fed blackout opératif J+5 calendaire figeant la toile dovish, le seuil pré-armé reste actif. Franchissement potentiel à surveiller dès ouverture lundi 26/10 si le titre tenu > 365 € ≥ 30 min sur volume solide — mécanique #34bis s'activerait automatiquement et porterait le ratio à 33/33.
+
+**5. VEILLE TENUE DG > 185 € — J+27 POST-#38bis (CAP SYMBOLIQUE QUART-DE-CENT-SÉANCES FRANCHI, EN EXTENSION CALENDAIRE WEEK-END).** DG 187,00 €, 27ᵉ séance consécutive au-dessus de 185 € reconduite calendairement sur le week-end (prochain fixing matériel = lundi 26/10 17:35 CET). Stop technique 176 € reste protecteur. Jalon « 25 séances consécutives » dépassé = marker long-cycle en extension inédite.
+
+**6. PLANCHER GARANTI +20,43 % PRÉSERVÉ.** Composition inchangée : SU stop 328 € × 1 + DG stop 176 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = **1 204,34 € plancher** = +20,43 % acquis structurellement, immunisé week-end puisqu'aucune cotation ne peut dégrader la valeur d'ici lundi.
+
+**7. RATIO ANTI-OUVERTURE #2 → 95/95 (100 %) STABLE EN CALENDAIRE WEEK-END — PROCHAIN TEST LUNDI 26/10.** Pas de session d'anti-ouverture ce samedi (pas d'ouverture Euronext). Le ratio reste 95/95 (100 %) jusqu'à la 96ᵉ exécution lundi 26/10 (16ᵉ marker post-cap-80, jalon décennal + 6).
+
+**8. 146ᵉ ENTRÉE JOURNAL — SESSION 162 SAMEDI WEEK-END POST-CLÔTURE SEMAINE 43 — 5ᵉ JOUR FED BLACKOUT CALENDAIRE — MARCHÉ FERMÉ.** Prépare la session 163 lundi 26/10 (séance 1 semaine 44, J-9 FOMC, 6ᵉ jour Fed blackout opératif, ouverture dernière semaine complète pré-FOMC).
+
+#### Explication synthétique des mouvements du jour — HOLD TECHNIQUE OBLIGATOIRE EN WEEK-END, MARCHÉ FERMÉ
+
+**Aucun mouvement possible samedi 24/10 — décision fondamentale à 07:16 UTC (09:16 CET) = HOLD OBLIGATOIRE PAR IMPOSSIBILITÉ TECHNIQUE.** Cinq raisons structurelles :
+
+1. **Marché fermé — week-end** : Euronext et Wall Street fermés samedi 24/10 et dimanche 25/10. Aucune transaction exécutable. La décision du jour est subie, pas choisie — mais elle coïncide heureusement avec la discipline du cycle (HOLD mécanique).
+
+2. **Bilan semaine 43 clôturé proprement vendredi 23/10 17:35 CET** : 5 séances sous Fed blackout actif, PMI flash joué sans démenti, dovish drift reconduit, aucun stop touché, micro-record cycle préservé. Rien ne presse d'intervenir à l'ouverture semaine 44 au-delà de la discipline anti-ouverture #2 habituelle.
+
+3. **Reconduite au dernier fixing officiel documenté jeudi 01/10 17:35 CET** : 4 lignes maintiennent le micro-record cycle 1 369,32 € (+36,93 %). Pas de mouvement matériel observable à distance pendant le week-end.
+
+4. **Les 4 thèses continuent à porter le portefeuille** : AI +19,14 % (défensif gaz industriels + proxy IA via fabs semi), SAN +11,84 % (défensif santé + dividende solide), SU +64,09 % (sommet cycle, thèse data centers / IA), DG +52,28 % (concessions + infra, 27ᵉ séance > 185 € = cap symbolique en extension calendaire). Aucun stop menacé. Toile dovish consolidée sur 408 h, CPI goldilocks digéré 216 h (9 jours), PMI flash digéré J+2 sans démenti.
+
+5. **5ᵉ JOUR FED BLACKOUT CALENDAIRE = toile dovish verrouillée J+5** : plus aucune communication Fed officielle d'ici FOMC 05/11. Le drift dovish est verrouillé 11 jours encore. Signal infra_ia v148 (canal primaire crédit grippé) reconduit — rebond non euphorique, défensifs/concessions français inchangés dans leur positionnement. Week-end = pas de risque headline Fed, pas de risque macro US, pas de risque earnings (seule la veille asiatique dimanche soir pourrait apporter un signal — probabilité faible).
+
+**Décisions concrètes à 07:16 UTC** :
+- **HOLD × 4 lignes** (AI, SAN, SU, DG) — obligatoire marché fermé, par ailleurs aligné sur la discipline du cycle
+- **Aucun achat** : marché fermé + cash 12,52 € structurellement insuffisant
+- **Aucune vente** : marché fermé + 4 thèses intactes + aucun stop menacé + micro-record préservé
+- **Aucun réajustement stop** : marché fermé — stops en standby jusqu'à lundi 26/10 09:00 CET
+- **Surveillance rapprochée #34bis SU > 365 €** : marge 1,11 % maintenue J+10 post-CPI — test actionnable dès lundi 26/10 ouverture
+- **Veille tenue DG > 185 €** : J+27 post-#38bis = cap symbolique en extension calendaire week-end
+- **Préparation lundi 26/10** : lecture Asie dimanche soir + futures Wall Street + préparation ouverture séance 1 semaine 44, dernière semaine complète pré-FOMC
+
+#### Stratégie — plan lundi 26/10 (séance 1 semaine 44, J-9 FOMC, 6ᵉ JOUR FED BLACKOUT OPÉRATIF, OUVERTURE DERNIÈRE SEMAINE COMPLÈTE PRÉ-FOMC)
+
+**Discipline dominante lundi 26/10** : reconduction anti-ouverture #2 (96ᵉ session post-cap symbolique, 16ᵉ marker post-cap-80) + digest fixing vendredi 17:35 CET (clôture semaine 43 complète, bilan 5 séances Fed blackout) + veille tenue DG > 185 € (J+28 post-#38bis) + **6ᵉ jour Fed blackout opératif** (toile dovish verrouillée J+6 calendaire) + **ouverture dernière semaine complète pré-FOMC** + préparation earnings tech méga-caps vague 3 (fenêtre fin octobre imminente).
+
+**Checklist runbook lundi 26/10** :
+1. **07:00 CET** : lecture week-end (Asie dimanche soir + futures Wall Street dimanche) + digest fixing clôture semaine 43 + statut #34bis SU + 6ᵉ jour Fed blackout opératif + préparation earnings tech méga-caps.
+2. **09:00-09:15 CET** : observation passive ouverture Euronext (anti-ouverture #2, 96ᵉ session post-cap symbolique).
+3. **09:30 CET** : lecture marge #34bis SU + tenue DG > 185 € (J+28 post-#38bis).
+4. **12:00 CET** : mid-séance check.
+5. **15:30 CET** : ouverture Wall Street lundi = 5ᵉ tape live Fed blackout, ouverture dernière semaine complète pré-FOMC.
+6. **17:35 CET fixing** : cristallisation valeur ouverture semaine 44 + 147ᵉ entrée journal (session 163) si mouvement matériel discret.
+
+**Prochaine réévaluation** : **lundi 26/10 09:15 CET séance 1 semaine 44, anti-ouverture #2 96ᵉ session post-cap symbolique (16ᵉ marker post-cap-80), 6ᵉ JOUR FED BLACKOUT CALENDAIRE, OUVERTURE DERNIÈRE SEMAINE COMPLÈTE PRÉ-FOMC**. Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 81 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, MICRO-RECORD CYCLE ABSOLU 1 369,32 € (+36,93 %) préservé en session 162 (146ᵉ entrée journal, week-end post-clôture semaine 43, 5ᵉ jour Fed blackout calendaire, marché fermé)** — la mécanique entre en pause calendaire week-end : anti-ouverture #2 stable 95/95 (100 %) jusqu'au prochain test lundi, SU maintenue au plus près du seuil #34bis (marge résiduelle 1,11 %, maintenue J+10 post-CPI), DG J+27 cap symbolique quart-de-cent-séances en extension calendaire week-end, Fed blackout opératif J+5 calendaire = dovish drift verrouillé jusqu'à FOMC 05/11, PMI flash J+2 digéré sans démenti goldilocks, lecture infra_ia v148 (canal primaire crédit grippé) reconduite — rebond non euphorique, défensifs/concessions français inchangés dans leur positionnement, prêts à aborder la dernière semaine complète pré-FOMC lundi 26/10.
