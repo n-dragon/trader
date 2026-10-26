@@ -13,9 +13,9 @@
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
 **Valeur investie (reconduite au dernier fixing officiel documenté = jeudi 01/10 17:35 CET) :** 1 356,80 €  
-**Valeur totale du portefeuille :** 1 369,32 € (**+36,93 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU PRÉSERVÉ, DIMANCHE 25/10 07:17 UTC — WEEK-END J+2 POST-CLÔTURE SEMAINE 43, 6ᵉ JOUR FED BLACKOUT CALENDAIRE, MARCHÉ FERMÉ, J-1 OUVERTURE SEMAINE 44, OBSERVATION PASSIVE OBLIGATOIRE JUSQU'À LUNDI 26/10 09:30 CET**)
+**Valeur totale du portefeuille :** 1 369,32 € (**+36,93 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU PRÉSERVÉ, LUNDI 26/10 07:16 UTC — PRÉ-MARCHÉ SÉANCE 1 SEMAINE 44, 7ᵉ JOUR FED BLACKOUT OPÉRATIF, J-10 FOMC 04-05/11, OUVERTURE DERNIÈRE SEMAINE COMPLÈTE PRÉ-FOMC DANS ~44 MIN, OBSERVATION PASSIVE OBLIGATOIRE JUSQU'À 09:30 CET POST-ANTI-OUVERTURE #2 (96ᵉ SESSION)**)
 
-> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-10-25 07:17 UTC (**dimanche 25 octobre 2026 — WEEK-END J+2 POST-CLÔTURE SEMAINE 43, 6ᵉ JOUR FED BLACKOUT CALENDAIRE, MARCHÉ FERMÉ, J-1 OUVERTURE SEMAINE 44**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 1,11 %) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 147ᵉ entrée journal (session 163 — dimanche 25/10, week-end J+2 post-clôture semaine 43, HOLD obligatoire marché fermé, 6ᵉ JOUR FED BLACKOUT CALENDAIRE, J-1 OUVERTURE SEMAINE 44). **Prochaine réévaluation : lundi 26/10 09:15 CET** (ouverture séance 1 semaine 44, anti-ouverture #2 96ᵉ session, 7ᵉ jour Fed blackout opératif, ouverture dernière semaine complète pré-FOMC).
+> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-10-26 07:16 UTC (**lundi 26 octobre 2026 — PRÉ-MARCHÉ SÉANCE 1 SEMAINE 44, 7ᵉ JOUR FED BLACKOUT OPÉRATIF, J-10 FOMC, OUVERTURE DERNIÈRE SEMAINE COMPLÈTE PRÉ-FOMC**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 1,11 %) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé, 96ᵉ anti-ouverture #2 imminente**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 148ᵉ entrée journal (session 164 — lundi 26/10 pré-marché, séance 1 semaine 44, HOLD mécanique anti-ouverture obligatoire, 7ᵉ JOUR FED BLACKOUT OPÉRATIF, J-10 FOMC). **Prochaine réévaluation : lundi 26/10 09:30 CET** (post-fenêtre anti-ouverture #2 96ᵉ session, lecture marge #34bis SU + tenue DG > 185 € J+29 post-#38bis).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -12596,3 +12596,92 @@ Les 4 thèses continuent à porter le portefeuille au micro-record cycle absolu 
 - **Scénario stop touché (probabilité ~5 %)** : choc exogène matériel (gap -5 % ou plus) → stop SU 328 € ou DG 176 € ou AI 173 € déclenché → sortie sèche automatique, plancher +20,43 % reste garanti.
 
 **Prochaine réévaluation** : **lundi 26/10 09:15 CET séance 1 semaine 44, anti-ouverture #2 96ᵉ session post-cap symbolique (16ᵉ marker post-cap-80), 7ᵉ JOUR FED BLACKOUT CALENDAIRE, OUVERTURE DERNIÈRE SEMAINE COMPLÈTE PRÉ-FOMC**. Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 82 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, MICRO-RECORD CYCLE ABSOLU 1 369,32 € (+36,93 %) préservé en session 163 (147ᵉ entrée journal, week-end J+2 post-clôture semaine 43, 6ᵉ jour Fed blackout calendaire, marché fermé, J-1 ouverture semaine 44)** — la mécanique poursuit sa pause calendaire week-end J+2 : anti-ouverture #2 stable 95/95 (100 %) jusqu'au prochain test lundi, SU maintenue au plus près du seuil #34bis (marge résiduelle 1,11 %, maintenue J+11 post-CPI), DG J+28 cap symbolique quart-de-cent-séances en extension calendaire week-end J+2, Fed blackout opératif J+6 calendaire = dovish drift verrouillé jusqu'à FOMC 05/11, PMI flash J+3 digéré sans démenti goldilocks, lecture infra_ia v150 (Bernstein Samsung > SK Hynix T3 + choc énergie/géopolitique vendredi 23/10) ajoute une couche de prudence sur cycliques/semi US sans impact direct sur défensifs/concessions français, prêts à aborder la dernière semaine complète pré-FOMC lundi 26/10 avec earnings tech méga-caps vague 3 (Alphabet 27/10, Microsoft 27-28/10, Meta 28/10, Apple 29/10) et print T3 SK Hynix (27-28/10) comme double-adjudication binaire pré-FOMC.
+
+---
+
+### 2026-10-26 07:16 UTC — Lundi 26/10 — PRÉ-MARCHÉ SÉANCE 1 SEMAINE 44 — 7ᵉ JOUR FED BLACKOUT OPÉRATIF — J-10 FOMC 04-05/11 — OUVERTURE DERNIÈRE SEMAINE COMPLÈTE PRÉ-FOMC (session 164)
+
+#### Contexte de marché
+
+- **Date / heure** : lundi 26 octobre 2026, 07:16 UTC (08:16 CET). **Pré-marché Euronext** : ouverture dans ~44 min (09:00 CET), fenêtre anti-ouverture #2 jusqu'à 09:30 CET (96ᵉ session, 16ᵉ marker post-cap-80). Wall Street ouverture 15:30 CET.
+- **J-10 FOMC 04-05/11** : 7ᵉ jour Fed blackout opératif (démarrage mardi 20/10). Toile dovish verrouillée J+7, plus aucune communication Fed officielle possible d'ici lundi 03/11 clôture pré-FOMC.
+- **J+5 digest CPI US consolidé** : lecture goldilocks dominante stable sur **264 h** (11 jours entiers) sans démenti observé.
+- **J+33 FOMC drift dovish** depuis pivot FOMC 24-25/09, **J+14 minutes FOMC** : lecture dovish consolidée sur 336 h sans démenti.
+- **J+3 digest PMI flash zone euro + US** : décélération modérée confirmant dovish drift, aucun surprise upside matériel.
+- **Ouverture dernière semaine complète pré-FOMC** : semaine 44 (26 → 30 octobre) marque la dernière semaine complète de cotation avant la décision FOMC 04-05/11.
+- **Catalyseurs semaine 44 attendus** : earnings tech méga-caps vague 3 — Alphabet mardi 27/10 after-close, Microsoft mardi-mercredi 27-28/10, Meta mercredi 28/10 after-close, Apple jeudi 29/10 after-close, Amazon jeudi 29/10 after-close. Print T3 SK Hynix mardi-mercredi 27-28/10 (double adjudication identifiée infra_ia v150-v151 avec FOMC 05/11).
+- **Veille Asie dimanche soir / lundi matin** : ouverture Tokyo/Shanghai/Hong-Kong après-week-end — pas de signal matériel exploitable au moment de la rédaction (07:16 UTC = Asie en cours de séance mais pas de digest consolidé). Hypothèse de travail : continuité relative post-selloff vendredi 23/10 (Dow −1,23 %, pétrole > 100 $, US-Iran, AmEx −3 %), avec décote possible à l'ouverture Euronext sur cycliques/semi européens.
+- **Signal infra_ia v150-v151** reconduit : ratification concurrentielle intra-oligopole (Bernstein : Samsung > SK Hynix en CA HBM T3) + choc exogène à deux faces (énergie/géopolitique). Lecture : rebond non euphorique, défensifs/concessions français inchangés dans leur positionnement, veille double adjudication binaire.
+
+#### État du portefeuille (reconduite intégrale au dernier fixing officiel documenté = jeudi 01/10 17:35 CET)
+
+| Ligne | Qté | PRU (€) | Cours (€) | Valeur (€) | P&L (€) | P&L (%) |
+|-------|-----|---------|-----------|------------|---------|---------|
+| AI.PA | 2 | 162,00 | 193,00 | 386,00 | +62,00 | +19,14 % |
+| SAN.PA | 3 | 87,00 | 97,30 | 291,90 | +30,90 | +11,84 % |
+| SU.PA | 1 | 220,00 | 361,00 | 361,00 | +141,00 | +64,09 % |
+| DG.PA | 1,70 | 122,80 | 187,00 | 317,90 | +109,04 | +52,28 % |
+| **Investi** | | | | **1 356,80** | **+342,94** | — |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 369,32** | **+369,32** | **+36,93 %** |
+
+#### Décisions et explication des mouvements — lundi 26/10 07:16 UTC
+
+**1. AUCUNE VENTE — DISCIPLINE PRÉ-MARCHÉ + ANTI-OUVERTURE #2 OBLIGATOIRE.** Euronext encore fermé (ouverture 09:00 CET dans ~44 min). Même après ouverture, la fenêtre anti-ouverture #2 (09:00 → 09:30 CET, 96ᵉ exécution) interdit toute transaction impulsive dans les 30 premières minutes. Les 4 lignes conservent mécaniquement le micro-record cycle absolu **1 369,32 € (+36,93 %)**. AI +19,14 %, SAN +11,84 %, SU +64,09 % (sommet cycle, marge 1,11 % du seuil #34bis), DG +52,28 % (28ᵉ séance au-dessus de 185 €). Aucun stop menacé au dernier fixing documenté.
+
+**2. AUCUN ACHAT — CASH STRUCTURELLEMENT INSUFFISANT + ANTI-OUVERTURE #2 OBLIGATOIRE.** Cash **12,52 €** très inférieur à tout prix d'achat unitaire (1 titre AI ≈ 193 €, SU ≈ 361 €, DG ≈ 187 €, SAN ≈ 97 €). Trésorerie ex-div SAN conservée comme munition défensive, à redéployer uniquement sur signal clair post-ouverture (consolidation défensive + digest ouverture semaine 44). Même en absence de contrainte cash, l'anti-ouverture #2 interdirait un achat dans la fenêtre 09:00-09:30 CET.
+
+**3. AUCUN RÉAJUSTEMENT STOP À 07:16 UTC.** Les stops SU 328 € trailing, DG 176 € technique, AI 173 € trailing sont verrouillés jusqu'à l'ouverture 09:00 CET minimum, idéalement post-fenêtre anti-ouverture #2 (09:30 CET). Aucun catalyseur ne justifie un ajustement discrétionnaire pré-marché.
+
+**4. SURVEILLANCE RAPPROCHÉE #34bis SU > 365 € — MARGE 1,11 % MAINTENUE J+12 POST-CPI, TEST ACTIONNABLE DÈS 09:30 CET.** SU au dernier fixing documenté = **361,00 €**, marge résiduelle **4,00 € = 1,11 %**. Lecture goldilocks CPI consolidée **264 h** (11 jours entiers). Fed blackout opératif J+7 figeant la toile dovish, le seuil pré-armé reste actif. **Déclencheur** : si SU tenu > 365 € ≥ 30 min sur volume solide post-09:30 CET → mécanique #34bis s'activerait automatiquement, portant le ratio à 33/33 et déclenchant une remontée du trailing stop (candidate : 345 €). **Risque de headwind** : v150 identifie Samsung > SK Hynix T3 (Bernstein) + choc énergie/géopolitique vendredi 23/10 = possible gap-down ouverture semi/cycliques lundi matin. SU n'est pas semi direct mais pourrait subir une sympathie-vente défensive si risk-off s'étend. Ne pas forcer la main.
+
+**5. VEILLE TENUE DG > 185 € — J+29 POST-#38bis (CAP SYMBOLIQUE QUART-DE-CENT-SÉANCES FRANCHI, J+1 POST-EXTENSION CALENDAIRE WEEK-END J+2).** DG 187,00 € au dernier fixing documenté, 29ᵉ séance consécutive au-dessus de 185 € (reconduite calendairement sur le week-end J+2, prochain fixing matériel = aujourd'hui 17:35 CET). Stop technique 176 € reste protecteur (-5,88 % du cours = cushion confortable). Marker long-cycle en extension inédite. DG = concession/infra française, moins exposée au choc énergie/géopolitique US-Iran que les cycliques US — probabilité élevée de tenir le palier à l'ouverture, mais le fixing officiel 17:35 CET reste le seul critère matériel.
+
+**6. PLANCHER GARANTI +20,43 % PRÉSERVÉ.** Composition inchangée : SU stop 328 € × 1 + DG stop 176 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = **1 204,34 € plancher** = **+20,43 % acquis structurellement**. Même scénario catastrophe à l'ouverture (gap-down -3 % sur toutes les lignes) laisse le plancher structurel intact tant que SU > 328 € et DG > 176 €.
+
+**7. RATIO ANTI-OUVERTURE #2 → 95/95 (100 %) STABLE PRÉ-MARCHÉ — 96ᵉ TEST IMMINENT.** Pas encore de session d'anti-ouverture ce lundi (ouverture dans ~44 min). Le ratio reste 95/95 (100 %) jusqu'à la 96ᵉ exécution à 09:00 CET (16ᵉ marker post-cap-80, jalon décennal + 6). Discipline maintenue à l'identique : **aucune exécution dans les 30 premières minutes de cotation**, même si SU gap-up > 365 € ou si DG gap-down < 185 €.
+
+**8. 148ᵉ ENTRÉE JOURNAL — SESSION 164 LUNDI PRÉ-MARCHÉ SÉANCE 1 SEMAINE 44 — 7ᵉ JOUR FED BLACKOUT OPÉRATIF — J-10 FOMC — OUVERTURE DERNIÈRE SEMAINE COMPLÈTE PRÉ-FOMC.** Prépare la lecture post-anti-ouverture #2 à 09:30 CET (session 165 potentielle si mouvement matériel), fixing 17:35 CET (cristallisation valeur ouverture semaine 44), earnings Alphabet after-close mardi 27/10.
+
+#### Explication synthétique des mouvements du jour — HOLD MÉCANIQUE PRÉ-MARCHÉ + ANTI-OUVERTURE #2 IMMINENTE
+
+**Aucun mouvement exécuté lundi 26/10 à 07:16 UTC — décision fondamentale = HOLD MÉCANIQUE OBLIGATOIRE PRÉ-MARCHÉ + ANTI-OUVERTURE #2 IMMINENTE.** Cinq raisons structurelles convergent :
+
+1. **Pré-marché Euronext** : à 07:16 UTC (08:16 CET), Euronext ouvre dans ~44 min. Aucune transaction exécutable techniquement. Fenêtre d'observation prépare lecture Asie post-ouverture + futures Wall Street.
+
+2. **Anti-ouverture #2 imminente (96ᵉ session)** : discipline absolue — pas d'exécution dans les 30 premières minutes de cotation. 95/95 (100 %) de respect historique de la règle doit être maintenu, aucune justification pour la rompre aujourd'hui.
+
+3. **Les 4 thèses continuent à porter le portefeuille** : AI +19,14 % (défensif gaz industriels + proxy IA via fabs semi), SAN +11,84 % (défensif santé + dividende solide), SU +64,09 % (sommet cycle, thèse data centers / IA, marge 1,11 % #34bis), DG +52,28 % (concessions + infra, 29ᵉ séance > 185 € = cap symbolique en extension). Aucun stop menacé. Toile dovish consolidée sur 456 h (19 jours), CPI goldilocks digéré 264 h (11 jours), PMI flash digéré J+3 sans démenti.
+
+4. **7ᵉ JOUR FED BLACKOUT OPÉRATIF = toile dovish verrouillée J+7** : plus aucune communication Fed officielle d'ici FOMC 05/11. Le drift dovish est verrouillé 10 jours encore. Signal infra_ia v150 (Bernstein Samsung > SK Hynix T3 + choc énergie/géopolitique vendredi 23/10 : Dow -1,23 %, pétrole > 100 $ US-Iran, AmEx -3 %) ajoute une couche de prudence : risk-off cyclique US possible à l'ouverture Euronext, mais défensifs/concessions français (AI, SAN, SU, DG) peu directement exposés.
+
+5. **Semaine 44 à catalyseurs denses imminents** : earnings tech méga-caps vague 3 (Alphabet 27/10, Microsoft 27-28/10, Meta 28/10, Apple 29/10, Amazon 29/10), print T3 SK Hynix (27-28/10) comme première adjudication binaire, puis FOMC 04-05/11 comme deuxième. **Préserver le micro-record cycle 1 369,32 € (+36,93 %) jusqu'à ces catalyseurs est la stratégie dominante** — toute action discrétionnaire pré-marché détruirait l'optionalité intégrée dans la mécanique #34bis SU et la veille DG.
+
+**Décisions concrètes à 07:16 UTC** :
+- **HOLD × 4 lignes** (AI, SAN, SU, DG) — pré-marché + anti-ouverture #2 obligatoire
+- **Aucun achat** : cash 12,52 € structurellement insuffisant + anti-ouverture #2
+- **Aucune vente** : 4 thèses intactes, aucun stop menacé, micro-record préservé, catalyseurs semaine 44 à venir
+- **Aucun réajustement stop** : attente ouverture 09:00 CET + fenêtre anti-ouverture #2 jusqu'à 09:30 CET
+- **Surveillance rapprochée #34bis SU > 365 €** : marge 1,11 % maintenue J+12 post-CPI — test actionnable dès 09:30 CET post-anti-ouverture
+- **Veille tenue DG > 185 €** : J+29 post-#38bis = cap symbolique quart-de-cent-séances en extension
+- **Préparation lecture 09:30 CET** : fixing post-anti-ouverture, statut #34bis SU, tenue DG, lecture Asie digérée, futures Wall Street
+
+#### Stratégie — plan séance 1 semaine 44 (lundi 26/10, J-9 FOMC post-ouverture, 7ᵉ JOUR FED BLACKOUT OPÉRATIF, EARNINGS TECH MÉGA-CAPS VAGUE 3 IMMINENTS)
+
+**Discipline dominante lundi 26/10 (post-07:16 UTC)** : exécution anti-ouverture #2 (96ᵉ session, 16ᵉ marker post-cap-80) + digest fixing ouverture + lecture marge #34bis SU + veille tenue DG > 185 € (J+29 post-#38bis) + **7ᵉ jour Fed blackout opératif** (toile dovish verrouillée J+7) + préparation earnings tech méga-caps vague 3 (Alphabet mardi after-close première adjudication) + print T3 SK Hynix 27-28/10.
+
+**Checklist runbook lundi 26/10 (reste de la journée)** :
+1. **09:00 CET** : ouverture Euronext — observation passive (anti-ouverture #2 96ᵉ session, 16ᵉ marker post-cap-80). **Discipline absolue : pas d'exécution dans les 30 premières minutes**.
+2. **09:30 CET** : lecture marge #34bis SU + tenue DG > 185 € (J+29 post-#38bis). Si SU > 365 € ≥ 30 min sur volume solide → mécanique #34bis s'active automatiquement (ratio 32/32 → 33/33, trailing stop remonté candidate 345 €). Sinon, reconduite.
+3. **12:00 CET** : mid-séance check — statut 4 lignes, stops, carnet 6 seuils.
+4. **15:30 CET** : ouverture Wall Street lundi = 5ᵉ tape live Fed blackout, ouverture dernière semaine complète pré-FOMC. Veille cycliques/semi US (SK Hynix, Micron, Nvidia) post-vendredi -1,23 % Dow.
+5. **17:35 CET fixing** : cristallisation valeur ouverture semaine 44 + 149ᵉ entrée journal (session 165) si mouvement matériel discret.
+6. **22:00 CET+** : préparation earnings Alphabet after-close mardi 27/10 (première adjudication tech méga-caps vague 3).
+
+**Scénarios ouverture lundi 26/10 (reconduits inchangés depuis entrée dimanche)** :
+- **Scénario goldilocks (~55 %)** : ouverture stable, SU 358-363 €, DG 185-189 €, AI 191-195 €, SAN 96-98 €. HOLD × 4 lignes, reconduite anti-ouverture #2 96ᵉ session, micro-record préservé.
+- **Scénario #34bis déclenché (~20 %)** : SU gap-up > 365 € sur volume (relais technique + rotation défensifs ou anticipation earnings tech positive) → #34bis s'active, ratio 33/33, trailing stop remonté 345 €.
+- **Scénario risk-off (~20 %)** : gap-down -1 à -3 % toutes lignes sur extension choc énergie/géopolitique vendredi. Stops SU 328 €, DG 176 €, AI 173 € protecteurs — aucun déclenché à -3 %. HOLD disciplinaire.
+- **Scénario stop touché (~5 %)** : choc exogène matériel (gap -5 % ou plus) → stop SU 328 € ou DG 176 € ou AI 173 € déclenché → sortie sèche automatique, plancher +20,43 % reste garanti.
+
+**Prochaine réévaluation** : **lundi 26/10 09:30 CET post-fenêtre anti-ouverture #2 (96ᵉ session post-cap symbolique, 16ᵉ marker post-cap-80), 7ᵉ JOUR FED BLACKOUT OPÉRATIF, OUVERTURE DERNIÈRE SEMAINE COMPLÈTE PRÉ-FOMC**. Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 82 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, MICRO-RECORD CYCLE ABSOLU 1 369,32 € (+36,93 %) préservé en session 164 (148ᵉ entrée journal, pré-marché séance 1 semaine 44, 7ᵉ jour Fed blackout opératif, J-10 FOMC, ouverture dernière semaine complète pré-FOMC)** — la mécanique reprend sa cadence quotidienne après la pause calendaire week-end J+2 : anti-ouverture #2 à exécuter dans ~44 min (96ᵉ test), SU maintenue au plus près du seuil #34bis (marge résiduelle 1,11 %, maintenue J+12 post-CPI, test actionnable 09:30 CET), DG J+29 cap symbolique quart-de-cent-séances en extension, Fed blackout opératif J+7 = dovish drift verrouillé jusqu'à FOMC 05/11, PMI flash J+3 digéré sans démenti goldilocks, lecture infra_ia v150 (Bernstein Samsung > SK Hynix T3 + choc énergie/géopolitique vendredi 23/10) ajoute une couche de prudence sur cycliques/semi US sans impact direct sur défensifs/concessions français, prêts à aborder la journée d'ouverture semaine 44 avec earnings tech méga-caps vague 3 (Alphabet mardi 27/10 après-close première adjudication) et print T3 SK Hynix (27-28/10) comme catalyseurs binaires pré-FOMC imminents.
