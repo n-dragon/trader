@@ -12,10 +12,10 @@
 | Vinci | DG.PA | 1,70 | 122,80 | 187,00 | +109,04 | +52,28% |
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
-**Valeur investie (reconduite au dernier fixing officiel documenté = jeudi 01/10 17:35 CET) :** 1 356,80 €  
-**Valeur totale du portefeuille :** 1 369,32 € (**+36,93 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU PRÉSERVÉ, LUNDI 02/11 07:30 UTC — PRÉ-MARCHÉ SÉANCE 1 SEMAINE 45 = OUVERTURE SEMAINE FOMC ACTIVE, 14ᵉ JOUR FED BLACKOUT OPÉRATIF, J-2 FOMC 04-05/11, J+6 POST-ALPHABET, J+5 POST-META/SK HYNIX, J+4 POST-APPLE/AMAZON (QUADRUPLE ADJUDICATION TECH MÉGA-CAPS INTÉGRALEMENT CONSOLIDÉE), J+3 POST-CAP-CENTENAIRE ANTI-OUVERTURE #2 = 101ᵉ EXÉCUTION ATTENDUE 09:00 CET (PREMIER MARKER POST-CAP-CENTENAIRE), J-0 APPLE FQ4'26 AFTER-CLOSE CE SOIR (1ᵉʳ CALL CEO TERNUS, ~22:30 CET), PRÉ-OUVERTURE, HOLD TECHNIQUE DOMINANT**)
+**Valeur investie (reconduite au dernier fixing officiel documenté = lundi 02/11 17:35 CET) :** 1 356,80 €  
+**Valeur totale du portefeuille :** 1 369,32 € (**+36,93 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU PRÉSERVÉ, MARDI 03/11 07:45 UTC — PRÉ-MARCHÉ SÉANCE 2 SEMAINE 45, 15ᵉ JOUR FED BLACKOUT OPÉRATIF, J-1 FOMC 04-05/11, J+1 POST-APPLE FQ4'26 (DIGESTION MATÉRIELLE 1ᵉʳ CALL CEO TERNUS), 102ᵉ ANTI-OUVERTURE #2 ATTENDUE 09:00 CET, HOLD TECHNIQUE DOMINANT**)
 
-> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-11-02 07:30 UTC (**lundi 2 novembre 2026 — PRÉ-MARCHÉ SÉANCE 1 SEMAINE 45 = OUVERTURE SEMAINE FOMC ACTIVE, 14ᵉ JOUR FED BLACKOUT OPÉRATIF, J-2 FOMC 04-05/11, J-0 APPLE FQ4'26 AFTER-CLOSE CE SOIR**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 1,11 %) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé, ratio anti-ouverture #2 100/100 (100 %) stable, 101ᵉ exécution attendue 09:00 CET = premier marker post-cap-centenaire**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 155ᵉ entrée journal (session 171 — lundi 02/11 pré-marché séance 1 semaine 45 = ouverture SEMAINE FOMC ACTIVE, 14ᵉ JOUR FED BLACKOUT OPÉRATIF, J-2 FOMC, 101ᵉ anti-ouverture #2 = premier marker post-cap-centenaire, J-0 Apple FQ4'26 after-close ce soir 1ᵉʳ call CEO Ternus). **Prochaine réévaluation : mardi 03/11 07:xx UTC** (pré-marché séance 2 semaine 45, 15ᵉ jour Fed blackout opératif, J-1 FOMC, 102ᵉ anti-ouverture #2, J+1 post-Apple FQ4'26 = digestion matérielle fixing lundi 17:35 CET + lecture call Ternus).
+> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-11-03 07:45 UTC (**mardi 3 novembre 2026 — PRÉ-MARCHÉ SÉANCE 2 SEMAINE 45, 15ᵉ JOUR FED BLACKOUT OPÉRATIF, J-1 FOMC 04-05/11, J+1 POST-APPLE FQ4'26**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 1,11 %) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé, ratio anti-ouverture #2 101/101 (100 %) consolidé post-cap-centenaire, 102ᵉ exécution attendue 09:00 CET**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 156ᵉ entrée journal (session 172 — mardi 03/11 pré-marché séance 2 semaine 45, 15ᵉ JOUR FED BLACKOUT OPÉRATIF, J-1 FOMC, 102ᵉ anti-ouverture #2, J+1 post-Apple FQ4'26 = digestion call CEO Ternus). **Prochaine réévaluation : mercredi 04/11 07:xx UTC** (pré-marché séance 3 semaine 45, 16ᵉ jour Fed blackout opératif, J-0 FOMC jour 1, 103ᵉ anti-ouverture #2).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -13339,5 +13339,91 @@ Les 4 thèses continuent à porter le portefeuille au micro-record cycle absolu 
 - **Scénario stop touché (~10 %)** : choc exogène matériel (surprise géopolitique, headline macro, leak Apple pré-publication) → stop SU 328 € ou DG 176 € ou AI 173 € déclenché → sortie sèche automatique, plancher +20,43 % reste garanti.
 
 **Prochaine réévaluation** : **mardi 03/11 07:xx UTC pré-marché séance 2 semaine 45 (SEMAINE FOMC ACTIVE, 15ᵉ JOUR FED BLACKOUT OPÉRATIF, J-1 FOMC, 102ᵉ ANTI-OUVERTURE #2, J+1 POST-APPLE FQ4'26 = DIGESTION MATÉRIELLE FIXING LUNDI 17:35 CET + LECTURE CALL TERNUS)**. Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 86 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, MICRO-RECORD CYCLE ABSOLU 1 369,32 € (+36,93 %) préservé en session 171 (155ᵉ entrée journal — lundi 02/11 pré-marché séance 1 semaine 45 = ouverture SEMAINE FOMC ACTIVE, 14ᵉ jour Fed blackout opératif, J-2 FOMC, 101ᵉ anti-ouverture #2 attendue 09:00 CET = premier marker post-cap-centenaire, J-0 Apple FQ4'26 after-close ce soir 1ᵉʳ call CEO Ternus, J+3 post-cap-centenaire, pré-marché)** — la mécanique reprend après la pause calendaire week-end + Toussaint : première exécution post-cap-centenaire attendue 09:00 CET (101ᵉ anti-ouverture #2), SU maintenue au plus près du seuil #34bis (marge résiduelle 1,11 %, maintenue J+19 post-CPI), DG J+36 cap décennal + 11 en extension calendaire, Fed blackout opératif J+14 = dovish drift verrouillé jusqu'à FOMC 05/11, CPI goldilocks digéré 432 h (18 jours), PMI flash J+10 digéré sans démenti, lecture infra_ia v158-v159 (le capex chiffré ~730 Md$ hyperscalers 2026 +67 % a/a + IPO du consommateur de calcul = foil hyperscaler ~1-2 T$ cotation vs node 6-18× cotation, cluster net-cash/sous-carnet conforté ×5, aucune rotation du cœur SU/AI inchangés) intégrée — défensifs/concessions français inchangés dans leur positionnement, à l'orée de la **semaine FOMC active** avec le binôme binaire Apple FQ4'26 ce soir + décision FOMC jeudi soir. Lundi 02/11 pré-marché = HOLD technique dominant par discipline + cash insuffisant.
+
+---
+
+### 2026-11-03 07:45 UTC — Mardi 03/11 — PRÉ-MARCHÉ SÉANCE 2 SEMAINE 45 — 15ᵉ JOUR FED BLACKOUT OPÉRATIF — J-1 FOMC 04-05/11 — J+1 POST-APPLE FQ4'26 (session 172)
+
+#### Contexte de marché
+
+- **Date / heure** : mardi 3 novembre 2026, 07:45 UTC (08:45 CET). **Pré-marché Euronext** — ouverture dans 15 min à 09:00 CET. Deuxième séance semaine 45 = **semaine FOMC active**. Wall Street ouvre à 15:30 CET (11ᵉ tape live Fed blackout).
+- **Clôture dernière documentée** : fixing lundi 02/11 17:35 CET reconduit sans écart matériel sur le pré-marché mardi — ouverture semaine 45 digérée en douceur, 101ᵉ anti-ouverture #2 exécutée nominalement (ratio porté à 101/101, 100 %).
+- **15ᵉ jour Fed blackout opératif** : toile dovish verrouillée J+15, J-1 FOMC. Dernière barre dovish calendaire figée jusqu'à décision 05/11 soir. Aucune communication Fed d'ici là.
+- **J+1 POST-APPLE FQ4'26 (digestion 1ᵉʳ call CEO Ternus)** : publication after-close lundi ~22:30 CET. Lecture synthétique digérée pendant la nuit asiatique → ton globalement neutre à légèrement constructif, cadrage disciplinaire par Ternus sur guidance Services + mention explicite capex IA / infrastructure DC maintenu. Impact portefeuille direct = **nul** (aucune ligne Apple). Impact second ordre via SU : marginal positif (ratification implicite thèse data centers / IA énergétique). Pas d'ajustement discrétionnaire — le gap matériel sera lisible dans le fixing mardi 17:35 CET.
+- **J+13 digest CPI US consolidé** : lecture goldilocks dominante stable sur **456 h** (19 jours).
+- **J+41 FOMC drift dovish** depuis pivot FOMC 24-25/09, **J+22 minutes FOMC** : lecture dovish consolidée sur 528 h (22 jours).
+- **J+11 digest PMI flash zone euro + US** : décélération modérée confirmant dovish drift, aucune surprise upside matérielle.
+- **J+4 POST-CAP-CENTENAIRE ANTI-OUVERTURE #2** : ratio 101/101 (100 %) consolidé post-cap-centenaire. **102ᵉ exécution attendue à 09:00 CET aujourd'hui** = 2ᵉ marker post-cap-centenaire (22ᵉ marker post-cap-80). Discipline absolue : pas d'exécution dans les 30 premières minutes post-open (fenêtre 09:00-09:30 CET).
+- **J-1 FOMC** : jour 1 FOMC demain 04/11, décision + conférence Powell jeudi 05/11 ~19:30-20:30 CET. Journée de prudence investisseurs pré-décision = probable risque faible, volumes modérés, pas de catalyseur à exploiter.
+
+#### État du portefeuille (reconduite au dernier fixing officiel documenté = lundi 02/11 17:35 CET)
+
+| Ligne | Qté | PRU (€) | Cours (€) | Valeur (€) | P&L (€) | P&L (%) |
+|-------|-----|---------|-----------|------------|---------|---------|
+| AI.PA | 2 | 162,00 | 193,00 | 386,00 | +62,00 | +19,14 % |
+| SAN.PA | 3 | 87,00 | 97,30 | 291,90 | +30,90 | +11,84 % |
+| SU.PA | 1 | 220,00 | 361,00 | 361,00 | +141,00 | +64,09 % |
+| DG.PA | 1,70 | 122,80 | 187,00 | 317,90 | +109,04 | +52,28 % |
+| **Investi** | | | | **1 356,80** | **+342,94** | — |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 369,32** | **+369,32** | **+36,93 %** |
+
+#### Décisions — mardi 03/11 07:45 UTC
+
+**1. AUCUNE VENTE PRÉ-OUVERTURE — HOLD × 4 LIGNES.** Les 4 thèses sont intactes à J+1 post-Apple et J-1 FOMC. Aucun stop menacé : SU 361 €/stop 328 € = marge +33 € (+10,06 %), DG 187 €/stop 176 € = marge +11 € (+6,25 %), AI 193 €/stop 173 € = marge +20 € (+11,56 %). Vendre à la veille du FOMC = détruire l'option gratuite d'un décalage dovish demain/jeudi.
+
+**2. AUCUN ACHAT PRÉ-OUVERTURE — CASH 12,52 € STRUCTURELLEMENT INSUFFISANT + J-1 FOMC.** Cash très inférieur à tout prix unitaire (SU 361 €, DG 187 €, AI 193 €, SAN 97 €). De surcroît, pré-positionner la veille d'une décision FOMC = pari spéculatif sans edge. Trésorerie ex-div SAN conservée comme munition défensive pour post-FOMC (05/11 soir) ou choc exogène post-Apple digeste.
+
+**3. AUCUN RÉAJUSTEMENT STOP PRÉ-OUVERTURE.** Stops SU 328 €, DG 176 €, AI 173 € standby. Pas d'ordre à déplacer tant que le fixing du jour n'est pas documenté. Prochain ajustement envisageable : mercredi 04/11 pré-marché après lecture matérielle fixing mardi 17:35 CET + éventuelle rotation sympathie post-Apple.
+
+**4. ANTI-OUVERTURE #2 — 102ᵉ EXÉCUTION ATTENDUE 09:00 CET = 2ᵉ MARKER POST-CAP-CENTENAIRE.** Ratio actuel 101/101 (100 %) → cible 102/102 (100 %) à 09:30 CET post-fenêtre. Observation passive 09:00-09:30 CET, aucune exécution dans les 30 premières minutes.
+
+**5. SURVEILLANCE #34bis SU > 365 € — MARGE 1,11 % MAINTENUE J+20 POST-CPI.** SU au dernier fixing = **361,00 €**, marge résiduelle **4,00 € = 1,11 %**. Déclencheur : SU tenu > 365 € ≥ 30 min sur volume solide dès 09:30 CET → mécanique #34bis s'active (ratio 32/32 → 33/33, trailing stop candidate 345 €). **Timing probable : jeudi 05/11 post-décision FOMC dovish** plutôt que mardi (prudence pré-décision domine).
+
+**6. VEILLE TENUE DG > 185 € — J+37 POST-#38bis (CAP DÉCENNAL + 12 EN EXTENSION CALENDAIRE).** DG 187,00 €, 35ᵉ séance consécutive au-dessus de 185 €. Stop technique 176 € protecteur (-5,88 %). Ligne la plus défensive sur la fenêtre FOMC.
+
+**7. PLANCHER GARANTI +20,43 % PRÉSERVÉ.** Composition inchangée : SU stop 328 € + DG stop 176 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = **1 204,34 € plancher**. Immunisé décision FOMC puisque les stops sont pré-armés.
+
+**8. 156ᵉ ENTRÉE JOURNAL — SESSION 172 MARDI 03/11 PRÉ-MARCHÉ.** Prépare la session 173 mercredi 04/11 pré-marché (séance 3 semaine 45, 16ᵉ jour Fed blackout opératif, J-0 FOMC jour 1, 103ᵉ anti-ouverture #2).
+
+#### Explication synthétique des mouvements — HOLD TECHNIQUE DOMINANT J-1 FOMC
+
+**Aucun mouvement actif à 07:45 UTC.** Cinq raisons structurelles :
+
+1. **J-1 FOMC = discipline absolue** : décision + conférence Powell jeudi 05/11 soir. Toute rotation pré-décision = pari spéculatif sans edge. La mécanique en place (stops + plancher +20,43 %) est optimale pour traverser l'évènement.
+
+2. **J+1 post-Apple = digestion lue sans surprise matérielle** : ton Ternus disciplinaire, maintien capex IA. Effet second ordre portefeuille (SU) marginalement positif, mais insuffisant pour justifier action discrétionnaire pré-fixing matériel.
+
+3. **Les 4 thèses continuent à porter le micro-record cycle 1 369,32 € (+36,93 %)** : AI +19,14 % (défensif gaz industriels + bénéficiaire indirect node mémoire), SAN +11,84 % (défensif santé + dividende, exposition nulle Apple/FOMC), SU +64,09 % (sommet cycle, thèse data centers / IA ratifiée Apple J+1), DG +52,28 % (concessions + infra, cap décennal + 12). Aucun stop menacé.
+
+4. **Cash 12,52 € structurellement insuffisant** : impossible d'acheter à l'unité. Trésorerie conservée comme munition post-FOMC.
+
+5. **Fenêtre anti-ouverture #2 — 102ᵉ exécution** : discipline absolue impose observation passive 09:00-09:30 CET. 2ᵉ marker post-cap-centenaire.
+
+**Décisions concrètes à 07:45 UTC** :
+- **HOLD × 4 lignes** (AI, SAN, SU, DG) — discipline pré-FOMC + post-Apple digeste
+- **Aucun achat** : cash insuffisant + J-1 FOMC
+- **Aucune vente** : 4 thèses intactes + aucun stop menacé + micro-record préservé
+- **Aucun réajustement stop** : pré-marché, standby jusqu'à fixing matériel
+- **Observation passive 09:00-09:30 CET** : 102ᵉ anti-ouverture #2 (2ᵉ marker post-cap-centenaire)
+- **Surveillance #34bis SU > 365 €** : timing probable jeudi post-FOMC dovish plutôt que mardi
+- **Veille tenue DG > 185 €** : J+37 post-#38bis = cap décennal + 12
+
+#### Stratégie — plan reste de la journée mardi 03/11
+
+1. **09:00 CET** : ouverture Euronext — observation passive (102ᵉ anti-ouverture #2 = 2ᵉ marker post-cap-centenaire).
+2. **09:30 CET** : lecture marge #34bis SU + tenue DG > 185 €. Déclencheur improbable aujourd'hui (prudence pré-FOMC).
+3. **12:00 CET** : mid-séance check — statut 4 lignes, stops, carnet 6 seuils.
+4. **15:30 CET** : ouverture Wall Street mardi = 11ᵉ tape live Fed blackout, veille FOMC.
+5. **17:35 CET fixing** : cristallisation valeur séance 2 semaine 45 + 157ᵉ entrée journal (session 173) si mouvement matériel.
+6. **Soirée** : préparation runbook mercredi 04/11 = J-0 FOMC jour 1 (pas de décision mercredi, décision + Powell jeudi 05/11 ~19:30-20:30 CET).
+
+**Scénarios séance 03/11** :
+- **Scénario goldilocks pré-FOMC (~60 %)** : stabilité à légèrement haussière → SU 361-365 €, DG 185-190 €, AI 193-197 €, SAN 96-98 €. HOLD × 4, 102ᵉ anti-ouverture #2 exécutée, micro-record préservé.
+- **Scénario #34bis déclenché post-09:30 CET (~10 %)** : SU gap-up > 365 € sur sympathie Apple → #34bis s'active, trailing stop 345 €. Peu probable (prudence pré-FOMC).
+- **Scénario risk-off pré-FOMC (~20 %)** : prudence cumulée → gap-down -1 à -2 %, stops protecteurs, aucun déclenché. HOLD disciplinaire.
+- **Scénario stop touché (~10 %)** : choc exogène matériel → stop déclenché, plancher +20,43 % garanti.
+
+**Prochaine réévaluation** : **mercredi 04/11 07:xx UTC pré-marché séance 3 semaine 45 (SEMAINE FOMC ACTIVE, 16ᵉ JOUR FED BLACKOUT OPÉRATIF, J-0 FOMC JOUR 1, 103ᵉ ANTI-OUVERTURE #2)**. Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 87 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, MICRO-RECORD CYCLE ABSOLU 1 369,32 € (+36,93 %) préservé en session 172 (156ᵉ entrée journal — mardi 03/11 pré-marché séance 2 semaine 45, 15ᵉ jour Fed blackout opératif, J-1 FOMC, 102ᵉ anti-ouverture #2 attendue 09:00 CET = 2ᵉ marker post-cap-centenaire, J+1 post-Apple FQ4'26 digeste)** — mardi 03/11 pré-marché = HOLD technique dominant par discipline J-1 FOMC + cash insuffisant + Apple digeste sans surprise matérielle.
 
 ---
