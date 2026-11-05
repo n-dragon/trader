@@ -12,10 +12,10 @@
 | Vinci | DG.PA | 1,70 | 122,80 | 187,00 | +109,04 | +52,28% |
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
-**Valeur investie (reconduite au dernier fixing officiel documenté = mardi 03/11 17:35 CET) :** 1 356,80 €  
-**Valeur totale du portefeuille :** 1 369,32 € (**+36,93 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU PRÉSERVÉ, MERCREDI 04/11 07:50 UTC — PRÉ-MARCHÉ SÉANCE 3 SEMAINE 45, 16ᵉ JOUR FED BLACKOUT OPÉRATIF, J-0 FOMC JOUR 1 (DÉCISION + POWELL JEUDI 05/11 ~19:30-20:30 CET), J+2 POST-APPLE FQ4'26, 103ᵉ ANTI-OUVERTURE #2 ATTENDUE 09:00 CET, HOLD TECHNIQUE OBLIGATOIRE**)
+**Valeur investie (reconduite au dernier fixing officiel documenté = mercredi 04/11 17:35 CET) :** 1 356,80 €  
+**Valeur totale du portefeuille :** 1 369,32 € (**+36,93 %** depuis ouverture — **MICRO-RECORD CYCLE ABSOLU PRÉSERVÉ, JEUDI 05/11 07:16 UTC — PRÉ-MARCHÉ SÉANCE 4 SEMAINE 45, 17ᵉ JOUR FED BLACKOUT OPÉRATIF, JOUR DÉCISION FOMC + CONFÉRENCE POWELL ~19:30-20:30 CET, J+3 POST-APPLE FQ4'26, 104ᵉ ANTI-OUVERTURE #2 ATTENDUE 09:00 CET, HOLD TECHNIQUE OBLIGATOIRE PRÉ-DÉCISION**)
 
-> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-11-04 07:50 UTC (**mercredi 4 novembre 2026 — PRÉ-MARCHÉ SÉANCE 3 SEMAINE 45, 16ᵉ JOUR FED BLACKOUT OPÉRATIF, J-0 FOMC JOUR 1, J+2 POST-APPLE FQ4'26**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 1,11 %) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé, ratio anti-ouverture #2 102/102 (100 %) consolidé post-cap-centenaire, 103ᵉ exécution attendue 09:00 CET**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 157ᵉ entrée journal (session 173 — mercredi 04/11 pré-marché séance 3 semaine 45, 16ᵉ JOUR FED BLACKOUT OPÉRATIF, J-0 FOMC jour 1, 103ᵉ anti-ouverture #2, J+2 post-Apple FQ4'26). **Prochaine réévaluation : jeudi 05/11 07:xx UTC** (pré-marché séance 4 semaine 45, 17ᵉ jour Fed blackout opératif, **JOUR DÉCISION FOMC + CONFÉRENCE POWELL ~19:30-20:30 CET**, 104ᵉ anti-ouverture #2).
+> Stops actifs : SU.PA **328,00 €** trailing (inchangé), **DG.PA 176,00 € technique (inchangé post-#38bis)**, AI.PA **173,00 €** trailing (inchangé). Mise à jour : 2026-11-05 07:16 UTC (**jeudi 5 novembre 2026 — PRÉ-MARCHÉ SÉANCE 4 SEMAINE 45, 17ᵉ JOUR FED BLACKOUT OPÉRATIF, JOUR DÉCISION FOMC + CONFÉRENCE POWELL ~19:30-20:30 CET, J+3 POST-APPLE FQ4'26**). Carnet **6 seuils actifs** : stops SU/DG/AI + #34bis SU > 365 € pré-armé (marge 1,11 %) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé, ratio anti-ouverture #2 103/103 (100 %) consolidé post-cap-centenaire, 104ᵉ exécution attendue 09:00 CET**. **Plancher garanti +20,43 %** inchangé (SU stop 328 € + DG stop 176 € + ex-div SAN +5,90 € = 1 204,34 € plancher). 158ᵉ entrée journal (session 174 — jeudi 05/11 pré-marché séance 4 semaine 45, 17ᵉ JOUR FED BLACKOUT OPÉRATIF, JOUR DÉCISION FOMC + POWELL SOIR, 104ᵉ anti-ouverture #2, J+3 post-Apple FQ4'26). **Prochaine réévaluation : vendredi 06/11 07:xx UTC** (pré-marché séance 5 semaine 45 — clôture semaine FOMC, J+1 post-décision FOMC + Powell = digestion matérielle du verdict macro, 105ᵉ anti-ouverture #2).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -13512,5 +13512,107 @@ Les 4 thèses continuent à porter le portefeuille au micro-record cycle absolu 
 - **Scénario stop touché (~5 %)** : choc exogène matériel (surprise géopolitique, headline macro surprise) → stop déclenché, plancher +20,43 % garanti.
 
 **Prochaine réévaluation** : **jeudi 05/11 07:xx UTC pré-marché séance 4 semaine 45 (SEMAINE FOMC ACTIVE, 17ᵉ JOUR FED BLACKOUT OPÉRATIF, JOUR DÉCISION FOMC + CONFÉRENCE POWELL ~19:30-20:30 CET, 104ᵉ ANTI-OUVERTURE #2)**. Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 88 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, MICRO-RECORD CYCLE ABSOLU 1 369,32 € (+36,93 %) préservé en session 173 (157ᵉ entrée journal — mercredi 04/11 pré-marché séance 3 semaine 45, 16ᵉ jour Fed blackout opératif, J-0 FOMC jour 1, 103ᵉ anti-ouverture #2 attendue 09:00 CET = 3ᵉ marker post-cap-centenaire, J+2 post-Apple FQ4'26 digeste)** — mercredi 04/11 pré-marché = HOLD technique obligatoire par discipline J-0 FOMC jour 1 + cash insuffisant + option gratuite décision dovish 36 h à préserver. Jeudi 05/11 = jour le plus critique du cycle (décision + Powell).
+
+---
+
+### 2026-11-05 07:16 UTC — Jeudi 05/11 — PRÉ-MARCHÉ SÉANCE 4 SEMAINE 45 — 17ᵉ JOUR FED BLACKOUT OPÉRATIF — JOUR DÉCISION FOMC + CONFÉRENCE POWELL ~19:30-20:30 CET — J+3 POST-APPLE FQ4'26 (session 174)
+
+#### Contexte de marché
+
+- **Date / heure** : jeudi 5 novembre 2026, 07:16 UTC (08:16 CET). **Pré-marché Euronext** — ouverture dans 44 min à 09:00 CET. Quatrième séance semaine 45 = **JOUR CRISTALLISATION FOMC** (décision 20:00 CET + conférence Powell ~20:30 CET). Wall Street ouvre à 15:30 CET (13ᵉ tape live Fed blackout, dernier avant verdict).
+- **Clôture dernière documentée** : fixing mercredi 04/11 17:35 CET — reconduite sans écart matériel notable. Les 4 lignes consolident en douceur à ~36 h → maintenant ~12 h de la décision. Volumes pré-FOMC typiquement raréfiés, bid/ask élargis.
+- **17ᵉ jour Fed blackout opératif** : **dernier jour du blackout calendaire** (blackout formel levé à l'issue du communiqué 20:00 CET). Toile dovish verrouillée depuis 408 h (17 jours). Cristallisation imminente — après ~12 h, la variance macro cumulée sera consolidée en verdict.
+- **J+3 POST-APPLE FQ4'26 (3ᵉ jour digestion)** : lecture 1ᵉʳ call CEO Ternus entièrement digérée sans surprise matérielle. Ton neutre à légèrement constructif, cadrage disciplinaire Services + maintien capex IA / infra DC. Impact portefeuille direct nul, second ordre via SU marginalement positif intégré au fixing mardi-mercredi.
+- **J+15 digest CPI US consolidé** : lecture goldilocks dominante stable sur **504 h** (21 jours). Dernière bougie macro avant verdict FOMC.
+- **J+43 FOMC drift dovish** depuis pivot FOMC 24-25/09, **J+24 minutes FOMC** : consolidation dovish sur 576 h (24 jours). **Cristallisation ce soir 20:00 CET (dans ~12 h)**.
+- **J+6 POST-CAP-CENTENAIRE ANTI-OUVERTURE #2** : ratio 103/103 (100 %) consolidé. **104ᵉ exécution attendue à 09:00 CET aujourd'hui** = 4ᵉ marker post-cap-centenaire (24ᵉ marker post-cap-80). Discipline absolue : pas d'exécution dans les 30 premières minutes post-open.
+- **JOUR DÉCISION FOMC** : communiqué 20:00 CET (dot plot + SEP si meeting extended) + conférence Powell ~20:30-21:30 CET. Fenêtre d'ouverture du blackout à l'issue. Consensus marché = baisse 25 bp (probabilité implicite CME FedWatch ~82 %), ton attendu équilibré dovish-mais-prudent. Scénarios binaires :
+  - **Dovish confirmé (~55 %)** : baisse 25 bp + ton accommodant sur trajectoire Q1'27 → rally 1-2 % risk-on, SU candidat #34bis.
+  - **Dovish amorti (~25 %)** : baisse 25 bp + ton équilibré/prudent sans guidance Q1 claire → stabilité, légère volatilité 0,5 %.
+  - **Hawkish surprise (~15 %)** : pause taux (0 bp) ou baisse 25 bp + ton restrictif → risk-off -1 à -2,5 %, aucun stop déclenché à nos niveaux.
+  - **Shock hawkish extrême (~5 %)** : pause + ton très restrictif → -3 % ou plus, stops SU 328 € / DG 176 € testés.
+
+#### État du portefeuille (reconduite au dernier fixing officiel documenté = mercredi 04/11 17:35 CET)
+
+| Ligne | Qté | PRU (€) | Cours (€) | Valeur (€) | P&L (€) | P&L (%) |
+|-------|-----|---------|-----------|------------|---------|---------|
+| AI.PA | 2 | 162,00 | 193,00 | 386,00 | +62,00 | +19,14 % |
+| SAN.PA | 3 | 87,00 | 97,30 | 291,90 | +30,90 | +11,84 % |
+| SU.PA | 1 | 220,00 | 361,00 | 361,00 | +141,00 | +64,09 % |
+| DG.PA | 1,70 | 122,80 | 187,00 | 317,90 | +109,04 | +52,28 % |
+| **Investi** | | | | **1 356,80** | **+342,94** | — |
+| **Cash** | | | | **12,52** | | |
+| **Total** | | | | **1 369,32** | **+369,32** | **+36,93 %** |
+
+#### Décisions — jeudi 05/11 07:16 UTC
+
+**1. AUCUNE VENTE PRÉ-OUVERTURE — HOLD × 4 LIGNES.** Les 4 thèses sont intactes à ~12 h de la décision FOMC. Aucun stop menacé : SU 361 €/stop 328 € = marge +33 € (+10,06 %), DG 187 €/stop 176 € = marge +11 € (+6,25 %), AI 193 €/stop 173 € = marge +20 € (+11,56 %). Vendre à ~12 h d'une décision consensuellement dovish (CME FedWatch 82 %) = détruire une option gratuite dont la valeur attendue est positive (EV mix pondéré ≈ +0,3 à +0,8 %).
+
+**2. AUCUN ACHAT PRÉ-OUVERTURE — CASH 12,52 € STRUCTURELLEMENT INSUFFISANT + JOUR FOMC.** Cash très inférieur à tout prix unitaire (SU 361 €, DG 187 €, AI 193 €, SAN 97 €). Pré-positionner le jour même du verdict macro = pari spéculatif avec un edge négatif (variance maximale). Trésorerie ex-div SAN conservée comme munition défensive pour **post-FOMC vendredi 06/11** si gap exploitable (dovish confirmé → pas d'urgence d'acheter au haut ; hawkish surprise → opportunité potentielle sur repli SAN/AI à prix discounted).
+
+**3. AUCUN RÉAJUSTEMENT STOP PRÉ-OUVERTURE.** Stops SU 328 €, DG 176 €, AI 173 € standby. Pas d'ordre à déplacer tant que le fixing post-Powell n'est pas documenté (~17:35 CET jeudi partiel + fixing vendredi 06/11 17:35 CET matériel post-digestion overnight US). **Prochain ajustement envisageable : vendredi 06/11 pré-marché** après lecture complète réaction euro + US + digestion asiatique.
+
+**4. ANTI-OUVERTURE #2 — 104ᵉ EXÉCUTION ATTENDUE 09:00 CET = 4ᵉ MARKER POST-CAP-CENTENAIRE.** Ratio actuel 103/103 (100 %) → cible 104/104 (100 %) à 09:30 CET post-fenêtre. Observation passive 09:00-09:30 CET, aucune exécution dans les 30 premières minutes. 24ᵉ marker post-cap-80.
+
+**5. SURVEILLANCE #34bis SU > 365 € — MARGE 1,11 % MAINTENUE J+22 POST-CPI, FENÊTRE D'EXÉCUTION OUVERTE CE SOIR.** SU au dernier fixing = **361,00 €**, marge résiduelle **4,00 € = 1,11 %**. **Timing optimal du cycle : jeudi 05/11 post-décision FOMC dovish (ce soir)** si scénario principal se matérialise. Mécanique #34bis = SU tenu > 365 € ≥ 30 min sur volume solide → ratio 32/32 → 33/33, trailing stop candidate 345 € (verrouillage gains cycle +60 % à +56,8 % plancher). Déclenchement improbable avant 15:30 CET Wall Street (pré-décision), probable en séance européenne vendredi matin si Powell confirme dovish.
+
+**6. VEILLE TENUE DG > 185 € — J+39 POST-#38bis (CAP DÉCENNAL + 14 EN EXTENSION CALENDAIRE).** DG 187,00 €, 37ᵉ séance consécutive au-dessus de 185 €. Stop technique 176 € protecteur (-5,88 %). Ligne la plus défensive sur la fenêtre FOMC — insensible aux taux par sa structure concession/infra long-terme indexée inflation + actifs réels.
+
+**7. PLANCHER GARANTI +20,43 % PRÉSERVÉ — IMMUNISÉ CRISTALLISATION FOMC.** Composition inchangée : SU stop 328 € + DG stop 176 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = **1 204,34 € plancher**. Même en scénario shock hawkish extrême (~5 %), les stops pré-armés déclenchent sorties sèches automatiques, plancher +20,43 % reste intangible. **La mécanique est entièrement calibrée pour traverser le verdict en mode autonome.**
+
+**8. 158ᵉ ENTRÉE JOURNAL — SESSION 174 JEUDI 05/11 PRÉ-MARCHÉ.** Prépare la session 175 vendredi 06/11 pré-marché (séance 5 semaine 45 = clôture semaine FOMC, J+1 post-décision FOMC + Powell = **digestion matérielle du verdict macro**, 105ᵉ anti-ouverture #2, fin Fed blackout opératif = reprise communication Fed normale).
+
+#### Explication synthétique des mouvements — HOLD TECHNIQUE OBLIGATOIRE PRÉ-DÉCISION FOMC
+
+**Aucun mouvement actif à 07:16 UTC.** Sept raisons structurelles :
+
+1. **Jour de cristallisation FOMC = discipline maximale absolue** : décision + conférence Powell dans ~12 heures. Aucune rotation discrétionnaire ne peut se justifier à ce point du cycle. La valeur attendue du HOLD (EV ≈ +0,3 à +0,8 % pondérée par les 4 scénarios) domine toute vente discrétionnaire, et le cash insuffisant empêche structurellement tout achat.
+
+2. **La mécanique est entièrement calibrée pour cristallisation autonome** : stops pré-armés sur les 3 lignes à risque (SU, DG, AI), carnet #34bis prêt à armer au moindre décalage dovish, plancher +20,43 % garanti y compris en shock hawkish extrême. Rien à modifier.
+
+3. **J+3 post-Apple entièrement digéré** : effet sympathie SU marginal mais positif intégré ; aucun signal exploitable restant.
+
+4. **Les 4 thèses continuent à porter le micro-record cycle 1 369,32 € (+36,93 %)** : AI +19,14 % (défensif + bénéficiaire indirect node mémoire), SAN +11,84 % (défensif santé, exposition nulle FOMC), SU +64,09 % (sommet cycle, candidat #34bis ce soir), DG +52,28 % (concessions/infra, cap décennal + 14).
+
+5. **Cash 12,52 € structurellement insuffisant** : impossible d'acheter à l'unité. Trésorerie conservée pour post-FOMC vendredi.
+
+6. **Fenêtre anti-ouverture #2 — 104ᵉ exécution** : discipline absolue impose observation passive 09:00-09:30 CET.
+
+7. **Volumes pré-FOMC raréfiés, bid/ask élargis** : la liquidité jeudi matin européenne pré-décision est structurellement mauvaise. Toute exécution discrétionnaire = slippage subi.
+
+**Décisions concrètes à 07:16 UTC** :
+- **HOLD × 4 lignes** (AI, SAN, SU, DG) — discipline jour FOMC + post-Apple digeste
+- **Aucun achat** : cash insuffisant + jour cristallisation FOMC
+- **Aucune vente** : 4 thèses intactes + aucun stop menacé + micro-record préservé + option gratuite dovish ~12 h
+- **Aucun réajustement stop** : pré-marché pré-décision, standby jusqu'à fixing vendredi 06/11
+- **Observation passive 09:00-09:30 CET** : 104ᵉ anti-ouverture #2 (4ᵉ marker post-cap-centenaire)
+- **Surveillance renforcée #34bis SU > 365 €** : fenêtre d'exécution s'ouvre ce soir post-Powell dovish
+- **Veille tenue DG > 185 €** : J+39 post-#38bis = cap décennal + 14
+
+#### Stratégie — plan reste de la journée jeudi 05/11 (JOUR DÉCISION FOMC)
+
+1. **09:00 CET** : ouverture Euronext — observation passive (104ᵉ anti-ouverture #2 = 4ᵉ marker post-cap-centenaire). Discipline absolue 30 premières minutes.
+2. **09:30 CET** : lecture marge #34bis SU + tenue DG > 185 €. Déclencheur improbable avant verdict US.
+3. **12:00 CET** : mid-séance check — statut 4 lignes, stops, carnet 6 seuils.
+4. **15:30 CET** : ouverture Wall Street jeudi = 13ᵉ tape live Fed blackout, **dernier jour avant levée blackout**. Volumes US pré-décision typiquement réduits.
+5. **17:35 CET fixing Euronext** : cristallisation partielle valeur séance 4 (pré-décision). Clôture européenne avant verdict US.
+6. **20:00 CET** : **COMMUNIQUÉ FOMC + DOT PLOT** (si meeting extended) → première réaction futures US.
+7. **~20:30-21:30 CET** : **CONFÉRENCE POWELL** → réaction matérielle finale. Lecture tonalité : accommodant/équilibré/restrictif.
+8. **Soirée** : digestion overnight asiatique en cours. Préparation runbook vendredi 06/11 = J+1 post-FOMC = session la plus matérielle du cycle pour lire verdict + armer #34bis si SU > 365 €.
+
+**Scénarios séance 05/11 (jusqu'à 17:35 CET fixing Euronext — pré-décision)** :
+- **Scénario stabilité pré-décision (~60 %)** : lignes quasi-stables → SU 360-363 €, DG 186-188 €, AI 192-194 €, SAN 96-98 €. HOLD × 4, 104ᵉ anti-ouverture #2 exécutée.
+- **Scénario positionnement dovish anticipé (~15 %)** : flux acheteurs pré-décision → SU 363-368 € (marge #34bis se tend à 0,5-0 %), DG 188-192 €. Pas d'action pré-fixing, armage #34bis uniquement sur confirmation post-Powell.
+- **Scénario positionnement hawkish anticipé (~15 %)** : flux vendeurs pré-décision → gap-down -0,5 à -1,5 %, aucun stop touché. HOLD disciplinaire.
+- **Scénario leak pré-décision (~5 %)** : fuite médiatique sur ton Powell → excursion directionnelle 1-2 % une direction ou l'autre, aucun stop à ces niveaux. HOLD.
+- **Scénario stop touché pré-décision (~5 %)** : choc exogène matériel (surprise géopolitique, headline macro surprise) → stop déclenché, plancher +20,43 % garanti.
+
+**Scénarios post-Powell soir 05/11** (hors périmètre fixing Euronext 17:35, mais préparation runbook vendredi) :
+- **Dovish confirmé (~55 %)** : baisse 25 bp + ton accommodant trajectoire Q1'27 → **futures SU +1 à +2 % overnight → test seuil 365 € vendredi matin probable** → armage #34bis.
+- **Dovish amorti (~25 %)** : baisse 25 bp + ton équilibré/prudent → stabilité, pas de déclencheur #34bis immédiat, surveillance maintenue.
+- **Hawkish surprise (~15 %)** : pause / ton restrictif → gap-down vendredi -1 à -2 %, aucun stop touché à nos niveaux (SU 328 €, DG 176 €, AI 173 €).
+- **Shock hawkish extrême (~5 %)** : stops testés → sorties sèches automatiques + plancher +20,43 % garanti.
+
+**Prochaine réévaluation** : **vendredi 06/11 07:xx UTC pré-marché séance 5 semaine 45 (CLÔTURE SEMAINE FOMC, J+1 POST-DÉCISION FOMC + POWELL = DIGESTION MATÉRIELLE VERDICT MACRO, 105ᵉ ANTI-OUVERTURE #2, FIN FED BLACKOUT OPÉRATIF)**. Stops actifs : SU.PA **328,00 €** trailing, DG.PA **176,00 €** technique, AI.PA **173,00 €** trailing. Carnet **6 seuils actifs**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 89 séances post-pivot FOMC 19 juin), plancher +20,43 % garanti, MICRO-RECORD CYCLE ABSOLU 1 369,32 € (+36,93 %) préservé en session 174 (158ᵉ entrée journal — jeudi 05/11 pré-marché séance 4 semaine 45, 17ᵉ jour Fed blackout opératif, JOUR DÉCISION FOMC + POWELL ~19:30-20:30 CET, 104ᵉ anti-ouverture #2 attendue 09:00 CET = 4ᵉ marker post-cap-centenaire, J+3 post-Apple FQ4'26 digeste)** — jeudi 05/11 pré-marché = HOLD technique obligatoire par discipline jour cristallisation FOMC + cash insuffisant + mécanique autonome parfaitement calibrée pour traverser le verdict macro en mode protégé. Vendredi 06/11 = jour de lecture matérielle + armage possible #34bis si SU > 365 € confirmé post-Powell dovish.
 
 ---
