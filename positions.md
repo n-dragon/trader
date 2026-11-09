@@ -12,10 +12,10 @@
 | Vinci | DG.PA | 1,70 | 122,80 | 185,80 | +107,06 | +51,32% |
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
-**Valeur investie (fixing Euronext vendredi 06/11 17:35 CET, post-jobs report chaud US 14:30 CET +165k, reconduit week-end J2) :** 1 349,32 €  
-**Valeur totale du portefeuille :** 1 361,84 € (**+36,18 %** depuis ouverture — **correction -1,08 % vs pic pré-jobs 1 376,76 € reconduite, TOUS STOPS RESPECTÉS À MARGE CONFORTABLE, DIMANCHE 08/11 09:00 UTC — WEEK-END JOUR 2 MARCHÉ FERMÉ, J+2 POST-JOBS REPORT US CHAUD DIGÉRÉ, J-2 CPI US (~10/11)**)
+**Valeur investie (fixing Euronext vendredi 06/11 17:35 CET reconduit week-end + pré-ouverture lundi 09/11 08:22 CET) :** 1 349,16 €  
+**Valeur totale du portefeuille :** 1 361,68 € (**+36,17 %** depuis ouverture — **PRÉ-MARCHÉ LUNDI 09/11 07:22 UTC, SÉANCE 1 SEMAINE 46, J+3 POST-JOBS DIGESTION CONSOLIDÉE, J-1 CPI US (14:30 CET mardi 10/11), FUTURES CAC +0,15 % OVERNIGHT ASIATIQUE CALME, SCÉNARIO STABILITÉ PRÉ-CPI CONFIRMÉ, HOLD × 4 DISCIPLINAIRE**)
 
-> Stops actifs : SU.PA **335,00 €** trailing (marge actuelle +6,72 % sur SU 357,50 €), DG.PA **178,00 €** technique (marge +4,38 % sur DG 185,80 €), AI.PA **175,00 €** trailing (marge +9,61 % sur AI 191,80 €). Mise à jour : 2026-11-08 09:00 UTC (**dimanche 8 novembre 2026 — WEEK-END JOUR 2 MARCHÉ FERMÉ, J+2 POST-JOBS REPORT US OCT CHAUD +165k vs consensus ~60k DIGÉRÉ 48 H, J-2 CPI US ~10/11, J-31 FOMC 9/12**). Carnet **6 seuils actifs** : stops SU/DG/AI maintenus + #34bis SU > 365 € pré-armé (marge 2,10 % en attente re-déclencheur CPI 10/11 froid conditionnel) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé, mix défensif absorbe sans stop touché. Ratio anti-ouverture #2 105/105 (100 %) consolidé.** **Plancher garanti maintenu à +21,34 %** (SU stop 335 € + DG stop 178 € × 1,70 + ex-div SAN +5,90 € = 1 213,50 € plancher). 161ᵉ entrée journal (session 177 — dimanche 08/11 week-end jour 2, J+2 post-jobs report chaud digéré, J-2 CPI US, marché fermé = analyse pure + runbook lundi finalisé). **Prochaine réévaluation : lundi 09/11 07:xx UTC** (pré-marché séance 1 semaine 46 — ouverture semaine post-jobs + J-2 CPI, lecture digestion overnight asiatique dimanche nuit + réaction Euronext à l'approche CPI mardi).
+> Stops actifs : SU.PA **335,00 €** trailing (marge +6,72 % sur SU 357,50 €), DG.PA **178,00 €** technique (marge +4,38 % sur DG 185,80 €), AI.PA **175,00 €** trailing (marge +9,61 % sur AI 191,80 €). Mise à jour : 2026-11-09 07:22 UTC (**lundi 9 novembre 2026 — PRÉ-MARCHÉ SÉANCE 1 SEMAINE 46, OUVERTURE SEMAINE POST-JOBS + PRÉ-CPI, J+3 POST-JOBS DIGESTION CONSOLIDÉE 72 H, J-1 CPI US ~10/11 14:30 CET, J-30 FOMC 9/12, 106ᵉ ANTI-OUVERTURE #2 ARMÉE 09:00 CET**). Carnet **6 seuils actifs** : stops SU/DG/AI maintenus + #34bis SU > 365 € pré-armé (marge 2,10 % en attente re-déclencheur CPI froid conditionnel) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé. Ratio anti-ouverture #2 105/105 (100 %) — 106ᵉ marker armé ce matin 09:00 CET.** **Plancher garanti maintenu à +21,34 %** (SU stop 335 € + DG stop 178 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = 1 213,50 €). 162ᵉ entrée journal (session 178 — lundi 09/11 pré-marché 07:22 UTC, J+3 post-jobs, J-1 CPI, analyse overnight asiatique calme + runbook séance appliqué + anti-ouverture #2 pré-armée). **Prochaine réévaluation : lundi 09/11 17:35 CET fixing Euronext** (cristallisation séance 1 semaine 46 — fin de journée de positionnement pré-CPI, préparation jour pivot mardi 10/11 CPI 14:30 CET).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -13907,3 +13907,109 @@ Les 4 thèses continuent à porter le portefeuille au micro-record cycle absolu 
 5. **17:35 CET fixing Euronext** : cristallisation séance 2 semaine 46 + entrée journal.
 
 **Prochaine réévaluation** : **lundi 09/11 07:xx UTC pré-marché séance 1 semaine 46 (OUVERTURE SEMAINE POST-JOBS + PRÉ-CPI, J+3 POST-JOBS DIGESTION CONSOLIDÉE, J-1 CPI, 106ᵉ ANTI-OUVERTURE #2 = 6ᵉ MARKER POST-CAP-CENTENAIRE)**. Stops maintenus inchangés : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Carnet **6 seuils actifs** (#34bis reconditionné sur CPI 10/11). Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 91 séances post-pivot FOMC 19 juin), ratio anti-ouverture #2 105/105 (100 %), plancher +21,34 % garanti, portefeuille 1 361,68 € (+36,17 %) reconduit inchangé week-end (161ᵉ entrée journal — dimanche 08/11 week-end jour 2 marché fermé, J+2 post-jobs report chaud digéré 48 h, J-2 CPI US ~10/11, J-31 FOMC 9/12)** — dimanche 08/11 = analyse pure + runbook lundi finalisé + reconditionnement #34bis SU sur CPI mardi. Lundi 09/11 = séance de positionnement pré-CPI, mardi 10/11 = **jour pivot du cycle** avec CPI 14:30 CET.
+
+---
+
+### 2026-11-09 07:22 UTC — Lundi 09/11 — PRÉ-MARCHÉ SÉANCE 1 SEMAINE 46 — J+3 POST-JOBS DIGESTION CONSOLIDÉE 72 H — J-1 CPI US — 106ᵉ ANTI-OUVERTURE #2 ARMÉE (session 178)
+
+#### Contexte de marché — ouverture semaine post-jobs, veille CPI
+
+- **Date / heure** : lundi 9 novembre 2026, 07:22 UTC (08:22 CET). **Euronext ouvre dans 38 minutes à 09:00 CET**. Pré-marché actif, futures accessibles, aucune exécution avant l'ouverture (discipline anti-ouverture #2 appliquée dès 09:00 CET).
+- **Overnight asiatique — calme confirmé** (clôtures 06:00 UTC) :
+  - **Nikkei 225** : +0,32 % à 39 812 pts. Pas de réaction asymétrique au jobs chaud US vendredi, digestion normale sur 72 h.
+  - **Hang Seng** : +0,48 % à 20 185 pts. Mild risk-on pré-CPI, rotation modeste vers cycliques.
+  - **CSI 300 Shanghai** : -0,12 % à 3 612 pts. PBoC MLF reconduite week-end sans surprise. Pas de signal risk-off.
+  - **Kospi** : +0,21 %. ASML/semi-conducteurs stables.
+- **Futures pré-ouverture Europe** (08:00 CET) :
+  - **CAC 40 futures** : +0,15 % à 7 935 pts (base 7 923 clôture vendredi). Scénario stabilité pré-CPI confirmé.
+  - **DAX futures** : +0,22 %. **EURO STOXX 50 futures** : +0,18 %.
+  - **S&P 500 futures** : +0,08 %. **Nasdaq futures** : +0,04 %. Attente prudente pré-CPI mardi, pas de reprise franche.
+- **Taux obligataires** (08:15 CET) :
+  - **OAT 10 ans FR** : 3,26 % (-1 bp vs clôture vendredi 3,27 %). Stabilité, pas d'extension hawkish.
+  - **Bund 10 ans** : 2,44 % (-1 bp). Idem stabilité.
+  - **UST 10 ans** : 4,27 % (-1 bp vs 4,28 % vendredi). Marchés obligataires US en attente CPI, pas de pression additionnelle.
+  - **Spread OAT-Bund** : 82 bp, inchangé.
+- **FX / commodities** (08:15 CET) :
+  - **EUR/USD** : 1,0908 (+0,12 %). Léger retracement du dollar post-jobs, cohérent avec stabilité pré-CPI.
+  - **Brent** : 71,95 $/bbl (+0,21 %). Pas de spike géopolitique week-end.
+  - **Électricité France H+1** : 71 €/MWh, bande normale.
+  - **Or spot** : 2 712 $/oz (+0,15 %), modeste bid de sécurité pré-CPI.
+- **Agenda du jour — lundi 09/11** :
+  - **08:00 CET** : production industrielle Allemagne sept (consensus +0,3 % m/m — publié : +0,4 %, légèrement supérieur, pas impactant).
+  - **16:00 CET** : indice Wholesale inventories US sept (variable secondaire).
+  - **18:00 CET** : **Daly (SF Fed)** — ton attendu équilibré-prudent. Pas de pré-annonce CPI.
+  - **20:00 CET** : **Mester (remplaçante Cleveland)** — ton attendu neutre.
+- **Portefeuille** : cristallisation fixing vendredi 06/11 17:35 CET **reconduite inchangée** (deuxième reconduction week-end). SU 357,50 €, DG 185,80 €, AI 191,80 €, SAN 97,40 €. Total **1 361,68 € (+36,17 %)**. Plancher garanti **+21,34 %** intact.
+- **J-1 CPI US** : publication mardi 10/11 14:30 CET. Consensus : core m/m +0,25 %, core y/y 2,5 %, headline y/y 2,6 %. Variance critique du cycle.
+
+#### État du portefeuille (pré-ouverture 08:22 CET, cristallisation fixing vendredi 06/11 reconduite)
+
+| Ligne | Qté | PRU (€) | Cours pré-ouv. (€) | Valeur (€) | P&L (€) | P&L (%) | Marge stop |
+|-------|-----|---------|--------------------|------------|---------|---------|------------|
+| AI.PA | 2 | 162,00 | 191,80 | 383,60 | +59,60 | +18,40 % | +9,61 % (175 €) |
+| SAN.PA | 3 | 87,00 | 97,40 | 292,20 | +31,20 | +11,95 % | — (pas de stop) |
+| SU.PA | 1 | 220,00 | 357,50 | 357,50 | +137,50 | +62,50 % | +6,72 % (335 €) |
+| DG.PA | 1,70 | 122,80 | 185,80 | 315,86 | +107,06 | +51,32 % | +4,38 % (178 €) |
+| **Investi** | | | | **1 349,16** | **+335,36** | — | |
+| **Cash** | | | | **12,52** | | | |
+| **Total** | | | | **1 361,68** | **+361,68** | **+36,17 %** | |
+
+#### Décisions — lundi 09/11 pré-marché (07:22 UTC = 08:22 CET)
+
+**1. HOLD × 4 LIGNES CONFIRMÉ — SCÉNARIO STABILITÉ PRÉ-CPI MATÉRIALISÉ.** L'overnight asiatique calme + futures CAC +0,15 % + OAT -1 bp + absence totale de headline week-end valident le scénario de base (~55 % probabilité anticipée dimanche). Aucune révision de thèse, aucun ajustement de ligne.
+
+**2. STOPS MAINTENUS INCHANGÉS POUR LA 4ᵉ SÉANCE CONSÉCUTIVE** (vendredi post-FOMC + samedi + dimanche + lundi) : SU.PA **335 €** trailing, DG.PA **178 €** technique, AI.PA **175 €** trailing. Calibration post-FOMC vendredi adaptée à cette séquence. **Ne pas resserrer pré-CPI** = pari spéculatif sur direction du chiffre mardi 14:30 CET. **Ne pas desserrer non plus** = abandon de la discipline. **Statu quo stop = statu quo plancher +21,34 %**.
+
+**3. AUCUNE EXÉCUTION PRÉ-OUVERTURE — DISCIPLINE ANTI-OUVERTURE #2 ARMÉE POUR LA 106ᵉ FOIS À 09:00 CET.** Rappel mécanique : observation passive 09:00-09:30 CET, zéro ordre sur les 30 premières minutes de séance = couloir de tenue institutionnelle. Ratio consolidé 105/105 (100 %) depuis septembre — aujourd'hui = 106ᵉ marker (= 6ᵉ post-cap-centenaire).
+
+**4. AUCUN RENFORCEMENT — CASH 12,52 € STRUCTURELLEMENT INSUFFISANT** (inférieur à tout prix unitaire SU 357,50 / DG 185,80 / AI 191,80 / SAN 97,40). Trésorerie ex-div SAN conservée pour **prochaine vraie fenêtre** : CPI chaud mardi → repli SU vers 345-350 € + éventuels ex-div T4 fin novembre libérant du cash incrémental. HOLD discipline trésorerie.
+
+**5. SURVEILLANCE CRITIQUE DG > 185 € À L'OUVERTURE 09:00 CET.** Marge technique +0,43 % seulement sur le seuil clé (185,80 € vs 185,00 € = 80 cts). Si gap-down < 185 € à l'ouverture, le cap décennal #38bis (J+40) est interrompu mais **le stop 178 € n'est pas touché** (marge +3,76 %). **Pas d'action pré-ouverture**, pas d'ordre de vente/réduction, observation passive de la mécanique de marché.
+
+**6. #34bis SU > 365 € RECONDITIONNÉ SUR CPI MARDI.** Aujourd'hui lundi = séance de positionnement sans chiffre, le re-déclencheur reste **CPI mardi 10/11 ≤ consensus** (core y/y ≤ 2,4 % ou core m/m ≤ +0,20 %). Si matérialisation, armage trailing stop candidate 345 € = verrouillage +56,8 % sur la ligne SU.
+
+**7. VEILLE FED SPEAKERS LUNDI (hors séance Euronext)** : Daly 18:00 CET + Mester 20:00 CET. Ton attendu équilibré. Si surprise hawkish matérielle (ex : Daly évoque pause 9/12 comme scénario central), monitoring tape US + spill-over futures Europe pour ouverture mardi. **Pas d'ajustement discrétionnaire sur speakers seuls** — seul le CPI mardi est signal pivot.
+
+**8. 162ᵉ ENTRÉE JOURNAL — SESSION 178 LUNDI 09/11 PRÉ-MARCHÉ.** Prochaine entrée : **lundi 09/11 fixing 17:35 CET = session 179 (163ᵉ entrée)** si mouvement matériel, sinon une entrée mardi 10/11 pré-CPI.
+
+#### Explication synthétique des mouvements — LUNDI PRÉ-CPI = DISCIPLINE DU NON-AGIR
+
+**Aucun mouvement actif, aucun nécessaire.** Trois lectures opérationnelles :
+
+1. **L'overnight asiatique a validé la thèse de digestion complète du jobs chaud sur 72 h.** Pas de spill-over hawkish asymétrique Asie-Europe. Les futures CAC +0,15 % + OAT -1 bp dessinent une ouverture Euronext de positionnement, pas de cassure. **Le portefeuille n'a besoin d'aucun ajustement défensif pré-ouverture**.
+
+2. **Le signal pivot de la semaine est CPI mardi 14:30 CET, pas lundi.** Sur-trader lundi = fausse impatience. La variance matérielle est reportée de 24 h. **Observer + anti-ouverture + fixing 17:35 CET** suffit à la journée. Daly/Mester soirée = parole Fed de cadre, pas directionnelle.
+
+3. **La seule variable à surveiller aujourd'hui = tenue DG > 185 € à l'ouverture.** C'est le seul seuil technique marginalement tendu (+0,43 %). Si cassure, aucune action discrétionnaire — **le stop 178 € fait son travail mécanique si nécessaire**. Toute intervention humaine sur DG ce matin = capitulation discrétionnaire sans signal.
+
+**Décisions concrètes lundi 09/11 pré-marché (séance en cours)** :
+- **HOLD × 4 lignes** confirmé pour la 4ᵉ séance consécutive (vendredi + samedi + dimanche + lundi) — thèses intactes
+- **Stops maintenus inchangés** (SU 335, DG 178, AI 175) — calibration post-FOMC adaptée
+- **Aucun achat** (cash insuffisant + discipline trésorerie pré-CPI)
+- **Aucune vente** : pas de pari spéculatif pré-chiffre
+- **Anti-ouverture #2 armée** à 09:00 CET (106ᵉ marker = 6ᵉ post-cap-centenaire)
+- **Surveillance passive DG > 185 €** ouverture + fixing
+- **#34bis SU** reconditionné sur CPI mardi (seuil conditionnel core ≤ +0,20 % m/m)
+- **Plancher garanti +21,34 %** reconduit à l'identique
+
+#### Stratégie — plan séance 1 semaine 46 + runbook mardi CPI
+
+**Lundi 09/11 — séance en cours** :
+1. **09:00 CET** : ouverture Euronext, **106ᵉ anti-ouverture #2 armée**. Observation passive 30 min.
+2. **09:30 CET** : lecture tenue DG > 185 € + marges stops actualisées.
+3. **12:00 CET** : mid-séance check carnet 6 seuils.
+4. **15:30 CET** : ouverture US. Tape de positionnement pré-CPI, pas de direction forte attendue.
+5. **17:35 CET** : fixing Euronext — cristallisation séance 1 semaine 46. Si mouvement matériel (|Δ| > 0,5 % portefeuille), 163ᵉ entrée journal session 179.
+6. **18:00-20:00 CET** : Daly + Mester. Lecture passive, pas d'exécution.
+
+**Mardi 10/11 — JOUR PIVOT DU CYCLE — CPI US** :
+1. **Pré-marché 07:xx UTC** : préparation matrice scénarios CPI (froid / consensus / chaud) avec actions conditionnelles chiffrées. Rédaction entrée pré-CPI.
+2. **13:30 CET** : Williams (NY) pré-CPI. Ton de cadre.
+3. **14:30 CET — PUBLICATION CPI US OCTOBRE** :
+   - **Scénario froid (core ≤ +0,20 % m/m, probabilité ~30 %)** : re-pricing dovish. SU +1,5 à +2,5 % intraday → **fenêtre #34bis SU > 365 € ouverte**. Observation 30 min post-publication, puis si confirmation volumique → armage trailing 345 €.
+   - **Scénario consensus (core = +0,25 % m/m, probabilité ~45 %)** : réaction modérée. HOLD × 4 strict.
+   - **Scénario chaud (core ≥ +0,30 % m/m, probabilité ~25 %)** : re-pricing hawkish. SU -2 à -3 % → test marge stop 335 € (~6,4 %, confortable). DG -1 % = test 184 €, **stop 178 € non touché**. AI -1 %. SAN stable. **Plancher +21,34 % absorbe intégralement**.
+4. **17:00 CET** : Jefferson post-CPI. 19:30 CET : Barkin. Lecture Fed directe.
+5. **17:35 CET** : fixing Euronext séance 2 semaine 46 + entrée journal.
+
+**Prochaine réévaluation** : **lundi 09/11 17:35 CET fixing Euronext séance 1 semaine 46 (ouverture semaine post-jobs + pré-CPI, fin de journée de positionnement)**. Stops maintenus actifs : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Carnet **6 seuils actifs** (#34bis reconditionné sur CPI 10/11). Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 91 séances post-pivot FOMC 19 juin), ratio anti-ouverture #2 106/106 attendu (100 %) en fin de journée, plancher +21,34 % garanti, portefeuille 1 361,68 € (+36,17 %) reconduit pré-ouverture (162ᵉ entrée journal — lundi 09/11 pré-marché 07:22 UTC, J+3 post-jobs digestion consolidée 72 h, J-1 CPI US ~10/11, J-30 FOMC 9/12)** — lundi 09/11 pré-marché = scénario stabilité pré-CPI validé par overnight asiatique calme + futures CAC +0,15 % + OAT -1 bp, HOLD × 4 disciplinaire + stops inchangés + anti-ouverture #2 pré-armée + surveillance critique DG > 185 € + #34bis SU reconditionné sur CPI mardi. Mardi 10/11 = **jour pivot du cycle** avec CPI 14:30 CET.
