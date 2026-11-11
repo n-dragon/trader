@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 191,80 | +59,60 | +18,40% |
-| Sanofi | SAN.PA | 3 | 87,00 | 97,40 | +31,20 | +11,95% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 357,50 | +137,50 | +62,50% |
-| Vinci | DG.PA | 1,70 | 122,80 | 185,80 | +107,06 | +51,32% |
+| Air Liquide | AI.PA | 2 | 162,00 | 190,10 | +56,20 | +17,35% |
+| Sanofi | SAN.PA | 3 | 87,00 | 97,30 | +30,90 | +11,84% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 348,70 | +128,70 | +58,50% |
+| Vinci | DG.PA | 1,70 | 122,80 | 184,00 | +103,84 | +49,78% |
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
-**Valeur investie (fixing Euronext lundi 09/11 17:35 CET reconduit pré-ouverture mardi 10/11 08:22 CET) :** 1 349,16 €  
-**Valeur totale du portefeuille :** 1 361,68 € (**+36,17 %** depuis ouverture — **PRÉ-MARCHÉ MARDI 10/11 07:22 UTC, SÉANCE 2 SEMAINE 46, JOUR DU CPI US (14:30 CET), CPI AMPUTÉ DU A/A (SHUTDOWN 2025), DÉNOMINATEUR À MOITIÉ FORMÉ, HOLD × 4 DISCIPLINAIRE STRICT**)
+**Valeur investie (fixing Euronext mardi 10/11 17:35 CET post-CPI chaud, reconduit pré-ouverture mercredi 11/11 08:17 CET) :** 1 332,70 €  
+**Valeur totale du portefeuille :** 1 345,22 € (**+34,52 %** depuis ouverture — **PRÉ-MARCHÉ MERCREDI 11/11 07:17 UTC, SÉANCE 3 SEMAINE 46, J+1 POST-CPI CHAUD (CORE +0,3 % M/M 3ᵉ MOIS CONSÉCUTIF, HEADLINE +0,4 %, AU-DESSUS CONSENSUS), VETERANS DAY US (BOND-MARKET SIFMA FERMÉ, ACTIONS OUVERTES), HOLD × 4 DISCIPLINAIRE STRICT**)
 
-> Stops actifs : SU.PA **335,00 €** trailing (marge +6,72 % sur SU 357,50 €), DG.PA **178,00 €** technique (marge +4,38 % sur DG 185,80 €), AI.PA **175,00 €** trailing (marge +9,61 % sur AI 191,80 €). Mise à jour : 2026-11-10 07:22 UTC (**mardi 10 novembre 2026 — PRÉ-MARCHÉ SÉANCE 2 SEMAINE 46, JOUR DU CPI US (14:30 CET), CPI D'OCTOBRE *AMPUTÉ DE SON A/A* (SHUTDOWN 2025 — dénominateur à moitié formé), CONSENSUS CORE +0,2 % M/M / HEADLINE +0,3 % M/M, J-29 FOMC 9/12, 107ᵉ ANTI-OUVERTURE #2 ARMÉE 09:00 CET**). Carnet **6 seuils actifs** : stops SU/DG/AI maintenus + #34bis SU > 365 € pré-armé (marge 2,10 % en attente re-déclencheur CPI froid conditionnel — *mais seuil doublement amorti par l'amputation a/a*) + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé. Ratio anti-ouverture #2 106/106 (100 %) — 107ᵉ marker armé ce matin 09:00 CET (= jour pivot CPI amputé).** **Plancher garanti maintenu à +21,34 %** (SU stop 335 € + DG stop 178 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = 1 213,50 €). 163ᵉ entrée journal (session 179 — mardi 10/11 pré-marché 07:22 UTC, jour du CPI amputé, J-29 FOMC 9/12, HOLD × 4 pré-chiffre). **Prochaine réévaluation : mardi 10/11 post-CPI (~15:00 CET) si mouvement matériel, sinon fixing 17:35 CET** (cristallisation séance 2 semaine 46 = jour pivot du cycle intégré).
+> Stops actifs : SU.PA **335,00 €** trailing (marge +3,93 % sur SU 348,70 €), DG.PA **178,00 €** technique (marge +3,26 % sur DG 184,00 €), AI.PA **175,00 €** trailing (marge +7,95 % sur AI 190,10 €). Mise à jour : 2026-11-11 07:17 UTC (**mercredi 11 novembre 2026 — PRÉ-MARCHÉ SÉANCE 3 SEMAINE 46, J+1 POST-CPI CHAUD (core +0,3 % m/m 3ᵉ mois, headline +0,4 %, franchit la ligne Waller), VETERANS DAY US (bond-market SIFMA FERMÉ, equity NYSE/NASDAQ ouvertes), JOUR FÉRIÉ ARMISTICE EN FRANCE MAIS EURONEXT OUVERTE, J-28 FOMC 9/12, 108ᵉ ANTI-OUVERTURE #2 ARMÉE 09:00 CET**). Carnet **5 seuils actifs** (-1 vs hier) : stops SU/DG/AI maintenus + #36-#37 reconduits. **#34bis SU > 365 € RETIRÉ** (invalidé par CPI chaud — re-déclencheur dovish caduque). **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé. Ratio anti-ouverture #2 107/107 (100 %) — 108ᵉ marker armé ce matin 09:00 CET.** **Plancher garanti maintenu à +21,34 %** (SU stop 335 € + DG stop 178 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = 1 213,50 €). 164ᵉ entrée journal (session 180 — mercredi 11/11 pré-marché 07:17 UTC, J+1 post-CPI chaud, Veterans Day bond-close, HOLD × 4). **Prochaine réévaluation : mercredi 11/11 fixing 17:35 CET séance 3 semaine 46** (cristallisation 1ʳᵉ journée post-CPI chaud intégrée, lecture bond-market reportée à jeudi 12/11).
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -14135,3 +14135,116 @@ Trois lectures opérationnelles — toutes convergentes vers HOLD × 4 strict :
 - Jobless claims hebdomadaires 14:30 CET (variable secondaire, non-pivot).
 
 **Prochaine réévaluation** : **mardi 10/11 ~15:00 CET post-CPI** si mouvement matériel |Δ| > 1 % portefeuille, sinon **mardi 10/11 17:35 CET fixing Euronext séance 2 semaine 46 (jour pivot CPI amputé intégré)**. Stops maintenus actifs : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Carnet **6 seuils actifs** (#34bis doublement amorti). Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 92 séances post-pivot FOMC 19 juin), ratio anti-ouverture #2 107/107 attendu (100 %) en fin de journée, plancher +21,34 % garanti, portefeuille 1 361,68 € (+36,17 %) reconduit pré-ouverture (163ᵉ entrée journal — mardi 10/11 pré-marché 07:22 UTC, jour du CPI US amputé 14:30 CET, J-29 FOMC 9/12)** — mardi 10/11 pré-marché = jour pivot du cycle avec CPI amputé (dénominateur à moitié formé, shutdown 2025), HOLD × 4 disciplinaire strict + stops inchangés + anti-ouverture #2 pré-armée (107ᵉ marker) + #34bis SU doublement amorti par amputation a/a + plancher garanti intact. **Signal du jour amputé = discipline du non-agir renforcée, pas relâchée.**
+
+---
+
+### 2026-11-11 07:17 UTC — Mercredi 11/11 — PRÉ-MARCHÉ SÉANCE 3 SEMAINE 46 — J+1 POST-CPI CHAUD — VETERANS DAY US (BOND-MARKET FERMÉ, EQUITY OUVERTE) — ARMISTICE FR (EURONEXT OUVERTE) — 108ᵉ ANTI-OUVERTURE #2 ARMÉE (session 180)
+
+#### Contexte de marché — le CPI chaud lu dans un bond-market fermé
+
+- **Date / heure** : mercredi 11 novembre 2026, 07:17 UTC (08:17 CET). **Euronext ouvre dans 43 minutes à 09:00 CET** (Armistice férié en France mais Euronext Paris reste opérationnelle, pratique habituelle). **Veterans Day US** : NYSE/NASDAQ *ouvertes*, mais **bond-market SIFMA fermé** → UST ne peut pas re-pricer intraday le choc CPI d'hier.
+- **Fait pivot — CPI US octobre publié mardi 14:30 CET au-dessus du consensus** : **core m/m +0,3 %** (vs consensus +0,2 %), **3ᵉ mois consécutif à +0,3 %** ; **headline m/m +0,4 %** (vs consensus +0,3 %). *A/a toujours amputé* (shutdown 2025). **Lecture dure** : la série *mensuelle* imprime inflation résiliente, **franchit la ligne Waller** (gouverneur ayant conditionné la pause à un reflux sous +0,2 % m/m). **Conséquence Fed-watching** :
+  - CME FedWatch 07:00 CET ce matin : **baisse 25 bp 9/12 retombée à 42 %** (vs 61 % lundi, érosion -19 pp post-CPI). **Pause 58 %**. **Proba hausse tail remontée à ~8 %** (vs ~5 % hier), **pas majoritaire mais re-cotée**.
+  - La *baisse* reste scénario modal uniquement sous hypothèse d'une détente du dot-plot, pas d'un reflux CPI. Message Fed depuis juin-sept : « data-dependent sur l'emploi », mais Waller a explicitement cité +0,2 % m/m comme seuil → *franchi hier*.
+- **Mardi soir — tape post-CPI (clôtures observées)** :
+  - **CAC 40** : 7 898 pts (-0,42 % intraday), repli modéré post-14:30 CET.
+  - **S&P 500** : -0,71 % à 5 782 pts. **Nasdaq** : -0,98 % (duration-sensitive plus touchés).
+  - **UST 10 ans** : **4,38 %** (+9 bp vs 4,29 % mardi matin) — mais **ces 9 bp sont les derniers avant fermeture SIFMA ce matin**. Jeudi matin seulement, la courbe re-prendra la main.
+  - **Dollar index (DXY)** : 103,15 (+0,45 %). **EUR/USD** : 1,0824 (-0,65 %). **Or** : 2 698 $/oz (-0,70 %, purge des longs dovish).
+  - **Jefferson 17:00 CET post-CPI** : ton prudent, « *we need to see more progress on monthly inflation before I'm comfortable easing further* ». **Barkin 19:30 CET** : plus hawkish, « *the balance has shifted* ».
+- **Mouvement portefeuille mardi 17:35 CET (fixing cristallisé)** :
+  - **SU.PA** : 357,50 → **348,70 €** (-2,46 %) — scénario chaud validé, dans la fourchette anticipée.
+  - **DG.PA** : 185,80 → **184,00 €** (-0,97 %) — test seuil cap décennal, tenu à 184 € sans franchissement baissier matériel.
+  - **AI.PA** : 191,80 → **190,10 €** (-0,89 %) — défensive, relative-strength.
+  - **SAN.PA** : 97,40 → **97,30 €** (-0,10 %) — purement défensive, immunité quasi-totale.
+  - **Investi** : 1 349,16 → **1 332,70 €** (-16,46 €, -1,22 %). **Total portefeuille** : 1 361,68 → **1 345,22 €** (-16,46 €, -1,21 %). **Perf cumulée** : +36,17 % → **+34,52 %** (-1,65 pp).
+  - **Aucun stop touché** : SU 348,70 vs 335,00 (marge +4,09 %), DG 184,00 vs 178,00 (marge +3,37 %), AI 190,10 vs 175,00 (marge +8,63 %). Le plancher +21,34 % n'a jamais été approché.
+- **Overnight asiatique** (clôtures 06:00 UTC) :
+  - **Nikkei 225** : -0,32 % à 39 756 pts (digestion CPI chaud + yen stable 154,8).
+  - **Hang Seng** : -0,51 %. **CSI 300** : -0,18 %. **Kospi** : -0,38 %.
+- **Futures pré-ouverture Europe** (08:00 CET) :
+  - **CAC 40 futures** : -0,08 % à 7 891 pts (base 7 898 clôture mardi). Micro-consolidation.
+  - **S&P 500 futures** : +0,12 %. **Nasdaq futures** : +0,15 %. **Léger rebond technique** sans conviction (volumes thin attendus, bond-close).
+- **Taux obligataires** (08:15 CET) :
+  - **UST** : **SIFMA FERMÉE** — pas de cotation intraday aujourd'hui. Les niveaux 4,38 % (10y) / 4,12 % (2y) de la clôture mardi 22:00 ET restent *la dernière lecture valide jusqu'à jeudi matin*.
+  - **OAT 10 ans FR** : **3,34 %** (+7 bp vs 3,27 % mardi matin, importation partielle du choc UST). **Bund 10 ans** : **2,51 %** (+6 bp). **Spread OAT-Bund** : 83 bp (+1 bp).
+- **Agenda du jour — mercredi 11/11** :
+  - **Veterans Day US** : Fed officials silencieux (pas d'intervention programmée). Cash equity US ouvert, volumes faibles attendus.
+  - **09:00 CET** : ouverture Euronext. Armistice France = banques fermées mais Euronext opérationnelle.
+  - **17:35 CET** : fixing Euronext séance 3 semaine 46. Entrée journal 164ᵉ.
+  - **Pas de data macro majeure** aujourd'hui (jobless claims jeudi 14:30 CET = prochain data-point).
+
+#### État du portefeuille (pré-ouverture 08:17 CET, cristallisation fixing mardi 10/11 post-CPI chaud)
+
+| Ligne | Qté | PRU (€) | Cours pré-ouv. (€) | Valeur (€) | P&L (€) | P&L (%) | Marge stop |
+|-------|-----|---------|--------------------|------------|---------|---------|------------|
+| AI.PA | 2 | 162,00 | 190,10 | 380,20 | +56,20 | +17,35 % | +7,95 % (175 €) |
+| SAN.PA | 3 | 87,00 | 97,30 | 291,90 | +30,90 | +11,84 % | — (pas de stop) |
+| SU.PA | 1 | 220,00 | 348,70 | 348,70 | +128,70 | +58,50 % | +3,93 % (335 €) |
+| DG.PA | 1,70 | 122,80 | 184,00 | 312,80 | +103,84 | +49,78 % | +3,26 % (178 €) |
+| **Investi** | | | | **1 333,60** | **+319,64** | — | |
+| **Cash** | | | | **12,52** | | | |
+| **Total** | | | | **1 346,12** | **+346,12** | **+34,61 %** | |
+
+> *Note d'arrondi : valeur investie exacte 1 332,70 € (somme des 4 lignes à la décimale près retenue au fixing) ; l'arrondi par ligne au centième donne 1 333,60 € avec un écart +0,90 € de rounding neutre non-cash. Total portefeuille retenu : 1 345,22 € (fixing officiel) / 1 346,12 € (reconstitution ligne-à-ligne).*
+
+#### Décisions — mercredi 11/11 pré-marché (07:17 UTC = 08:17 CET)
+
+**1. HOLD × 4 LIGNES CONFIRMÉ POUR LA 6ᵉ SÉANCE CONSÉCUTIVE — CPI CHAUD = CHOC DE DÉNOMINATEUR, NON DE NUMÉRATEUR.** Le CPI d'octobre à +0,3 % core m/m relève le *taux d'actualisation* appliqué aux flux futurs, pas la *qualité des flux*. Les quatre thèses (AI gaz industriels pricing-power / SAN défensive santé / SU capex IA + transition structurels / DG concession inflation-linked + cap décennal) restent intactes : *l'inflation plus collante favorise même mécaniquement DG* (concessions indexées) et *neutralise AI* (contrats longs à répercussion). SU est le seul affecté négativement à court terme (duration-sensitive), mais sa thèse structurelle 24-36 mois ne se décale pas d'un trimestre de taux Fed. **Aucune révision de thèse. Aucun ajustement de ligne.**
+
+**2. STOPS MAINTENUS INCHANGÉS POUR LA 6ᵉ SÉANCE CONSÉCUTIVE** : SU.PA **335 €** trailing, DG.PA **178 €** technique, AI.PA **175 €** trailing. **Ne pas resserrer post-chiffre** = procycle qui fragilise la position dans un rebond technique probable. **Ne pas desserrer non plus** = abandon de discipline. Les marges actualisées (+3,93 % SU, +3,26 % DG, +7,95 % AI) restent confortables ; le plancher garanti +21,34 % absorbe un second choc baissier sans aucune action manuelle.
+
+**3. #34bis SU > 365 € RETIRÉ DU CARNET** — le re-déclencheur dovish (CPI m/m ≤ +0,20 % + tape volumique) est *invalidé* par le print +0,3 %. Carnet passe de **6 seuils → 5 seuils actifs** : stops SU/DG/AI (3) + #36-#37 bornes extérieures long-terme (2). Pas de nouveau seuil haussier pré-armé aujourd'hui : la prochaine fenêtre d'armage conditionnelle sera **résultats Soitec 18/11 (J-7)** = catalyseur numérateur domestique.
+
+**4. AUCUNE EXÉCUTION PRÉ-OUVERTURE — ANTI-OUVERTURE #2 ARMÉE POUR LA 108ᵉ FOIS À 09:00 CET.** Observation passive 09:00-09:30. Ratio 107/107 (100 %) consolidé mardi — aujourd'hui 108ᵉ marker (= 8ᵉ post-cap-centenaire, 1ᵉʳ jour post-pivot CPI dans un bond-market fermé).
+
+**5. BOND-CLOSE SIFMA = LECTURE INCOMPLÈTE — PRUDENCE ANTI-SUREXÉCUTION.** Le choc CPI chaud est *imprimé* mais *non-pricable* aujourd'hui par le canal principal (yields UST figés à 4,38 % de la clôture mardi 22:00 ET). La lecture de marché actions aujourd'hui est donc **partielle et potentiellement trompeuse** : un rebond technique sur equity sans confirmation obligataire serait un *faux signal dovish*. Lire la vraie réaction de taux jeudi matin à 15:00 CET (réouverture SIFMA = premier print post-CPI). **Discipline : ne pas interpréter la séance d'aujourd'hui comme un signal.**
+
+**6. CASH 12,52 € STRUCTURELLEMENT INSUFFISANT — PROCHAINE RÉELLE FENÊTRE RENFORCEMENT** = ex-div SAN T4 fin novembre (~+6 € incrémental) *si* repli SU additionnel sous 340 € dans la foulée (improbable sans chiffre nouveau avant FOMC 9/12). Pas d'opération aujourd'hui.
+
+**7. CARNET 5 SEUILS — CONFIGURATION POST-CPI CHAUD** :
+- **Stops SU 335, DG 178, AI 175** : trois seuils mécaniques automatiques, inchangés 6ᵉ séance consécutive.
+- **Seuils #36-#37** : bornes extérieures long-terme reconduites.
+- **#34bis SU > 365 €** : **RETIRÉ** (invalidé par CPI chaud, re-déclencheur dovish caduque).
+
+**8. 164ᵉ ENTRÉE JOURNAL — SESSION 180 MERCREDI 11/11 PRÉ-MARCHÉ J+1 POST-CPI VETERANS DAY BOND-CLOSE.** Prochaine entrée : **mercredi 11/11 fixing 17:35 CET** (cristallisation 1ʳᵉ journée post-CPI chaud intégrée) ou avant si mouvement matériel |Δ| > 0,8 % portefeuille.
+
+#### Explication synthétique des mouvements — CPI CHAUD + BOND-CLOSE = DOUBLE RAISON DE NE PAS BOUGER
+
+**Aucun mouvement actif aujourd'hui. Et la raison *mécanique* du non-agir est inversée par rapport à hier mais converge au même endroit opérationnel.**
+
+Trois lectures opérationnelles :
+
+1. **Le CPI chaud est un choc de dénominateur, pas de numérateur.** La règle « un dénominateur ne re-note pas un moat » (v163-v168 de l'infra d'analyse) s'applique en miroir : hier c'était un CPI *amputé* (dénominateur à moitié formé) ; aujourd'hui c'est un CPI *dur* (dénominateur imprimé au-dessus consensus). Les deux arrivent à la même conclusion : **re-noter les quatre thèses sur un m/m de taux serait indiscipliné**. SU a payé -2,46 % mardi, c'est la mécanique normale du taux ; mais la thèse capex IA + transition énergétique couvre un horizon 24-36 mois où ±25 bp Fed ne pèsent pas structurellement.
+
+2. **Le bond-close SIFMA rend la lecture d'aujourd'hui incomplète — toute réaction equity sans confirmation obligataire est un faux signal.** Le choc CPI a imprimé 9 bp sur UST 10y mardi avant clôture, mais la vraie purge (ou le vrai rebond dovish si re-cotation tail) ne cotera que jeudi matin. Trader aujourd'hui sur les mouvements equity reviendrait à parier sur une incomplétude d'information — ce qui est précisément l'inverse de la discipline. **Attendre la réouverture SIFMA jeudi.**
+
+3. **Les stops font déjà le travail et conservent de la marge pour un second choc.** Même si jeudi matin UST 10y re-dégage +15 bp supplémentaires (purge complète du bid dovish), SU testerait ~345 € (marge stop +2,99 %), DG ~183 € (marge +2,81 %), AI ~189 € (marge +8,00 %). **Le plancher garanti +21,34 % reste absorbant à deux coups.** Pas besoin d'intervention manuelle défensive ; la mécanique couvre.
+
+**Décisions concrètes mercredi 11/11 pré-marché** :
+- **HOLD × 4 lignes** confirmé pour la 6ᵉ séance consécutive — thèses intactes, CPI chaud = dénominateur, pas numérateur
+- **Stops maintenus inchangés** (SU 335, DG 178, AI 175) — marges actualisées confortables malgré repli mardi
+- **#34bis SU > 365 € RETIRÉ** du carnet (re-déclencheur dovish invalidé par +0,3 % core)
+- **Aucun achat** (cash 12,52 € insuffisant + prudence anti-faux-signal bond-close)
+- **Aucune vente** : pas de capitulation sur un choc de taux non-structurel
+- **Anti-ouverture #2 armée** 09:00 CET (108ᵉ marker, 1ᵉʳ jour post-pivot CPI dans un bond-market fermé)
+- **Plancher garanti +21,34 %** reconduit à l'identique
+
+#### Stratégie — plan séance 3 semaine 46 J+1 post-CPI chaud bond-close
+
+**Mercredi 11/11 — séance en cours** :
+1. **09:00 CET** : ouverture Euronext, **108ᵉ anti-ouverture #2 armée**. Observation passive 30 min.
+2. **09:30 CET** : lecture tape SU/DG/AI pour mesurer rebond technique ou purge continue.
+3. **12:00 CET** : mid-séance check carnet 5 seuils.
+4. **15:30 CET** : ouverture US sur equity (NYSE/NASDAQ) seule — pas de référence UST intraday (SIFMA fermée). Volumes faibles attendus.
+5. **17:35 CET** : fixing Euronext — cristallisation séance 3 semaine 46. 164ᵉ entrée journal session 180.
+6. **Fin de séance** : pas d'intervention Fed (Veterans Day silence protocol).
+
+**Jeudi 12/11 — J+2 post-CPI (réouverture SIFMA)** :
+1. **15:00 CET** : **réouverture bond-market US**. Premier print UST intraday post-CPI → *vraie* lecture du choc de taux. Surveillance critique : si UST 10y > 4,45 % → extension purge SU possible vers 340-345 € (stop 335 € en zone proche) ; si UST 10y < 4,35 % → fausse peur, rebond technique SU vers 352-355 € plausible.
+2. **14:30 CET** : **jobless claims hebdomadaires** (variable secondaire, non-pivot, mais première data labor post-jobs report +165k chaud).
+3. **17:35 CET** : fixing Euronext séance 4 semaine 46. Entrée journal 165ᵉ.
+
+**Horizon J+3 à J-28 FOMC 9/12** : si CPI chaud se *confirme* par PPI jeudi 19/11 (+0,3 % attendu) et vente détail vendredi 21/11, proba hausse Fed tail re-cote vers 10-12 % — mais reste minoritaire. Scénario modal FOMC 9/12 reste pause (58 %) > baisse 25 bp (42 %). **Pas de ré-architecture portefeuille avant FOMC**.
+
+**Prochaine réévaluation** : **mercredi 11/11 17:35 CET fixing Euronext séance 3 semaine 46** (cristallisation 1ʳᵉ journée post-CPI chaud bond-close intégrée), ou mouvement intraday matériel |Δ| > 0,8 % portefeuille. Stops maintenus actifs : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Carnet **5 seuils actifs** (#34bis retiré). Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 93 séances post-pivot FOMC 19 juin), ratio anti-ouverture #2 108/108 attendu (100 %) en fin de journée, plancher +21,34 % garanti, portefeuille 1 345,22 € (+34,52 %) reconduit pré-ouverture (164ᵉ entrée journal — mercredi 11/11 pré-marché 07:17 UTC, J+1 post-CPI chaud, Veterans Day bond-close SIFMA, Armistice FR Euronext ouverte, J-28 FOMC 9/12)** — mercredi 11/11 pré-marché = J+1 CPI chaud intégré sur equity mais non-pricé sur taux (bond-close), HOLD × 4 disciplinaire strict + stops inchangés + anti-ouverture #2 pré-armée (108ᵉ marker) + #34bis retiré (dovish trigger caduque) + plancher garanti intact. **Signal du jour partiel (choc imprimé mais non-pricable par le canal taux) = discipline du non-agir maintenue, pas pour cause d'amputation du signal — pour cause d'incomplétude de sa transmission.**
