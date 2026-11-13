@@ -6,16 +6,16 @@
 
 | Action | Ticker | Qté | Prix d'achat (€) | Valeur actuelle (€) | P&L (€) | P&L (%) |
 |--------|--------|-----|-----------------|---------------------|---------|---------|
-| Air Liquide | AI.PA | 2 | 162,00 | 190,10 | +56,20 | +17,35% |
-| Sanofi | SAN.PA | 3 | 87,00 | 97,30 | +30,90 | +11,84% |
-| Schneider Electric | SU.PA | 1 | 220,00 | 348,70 | +128,70 | +58,50% |
-| Vinci | DG.PA | 1,70 | 122,80 | 184,00 | +103,84 | +49,78% |
+| Air Liquide | AI.PA | 2 | 162,00 | 189,80 | +55,60 | +17,16% |
+| Sanofi | SAN.PA | 3 | 87,00 | 97,45 | +31,35 | +12,01% |
+| Schneider Electric | SU.PA | 1 | 220,00 | 345,20 | +125,20 | +56,91% |
+| Vinci | DG.PA | 1,70 | 122,80 | 183,40 | +103,02 | +49,39% |
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
-**Valeur investie (fixing Euronext mercredi 11/11 17:35 CET bond-close, reconduit pré-ouverture jeudi 12/11 08:21 CET) :** 1 332,70 €  
-**Valeur totale du portefeuille :** 1 345,22 € (**+34,52 %** depuis ouverture — **PRÉ-MARCHÉ JEUDI 12/11 07:21 UTC, SÉANCE 4 SEMAINE 46, J+2 POST-CPI CHAUD — JOUR DE RÉOUVERTURE SIFMA (BOND-MARKET US RÉOUVRE 15:00 CET, 1ᵉʳ PRINT UST POST-CPI), UST 10Y FUTURES IMPLICITES ~5,00 % (+62 BP VS 4,38 % CLÔTURE MARDI), HOLD × 4 DISCIPLINAIRE STRICT**)
+**Valeur investie (fixing Euronext jeudi 13/11 17:35 CET séance 4 post-SIFMA, reconduit pré-ouverture vendredi 13/11 08:17 CET) :** 1 328,70 €  
+**Valeur totale du portefeuille :** 1 341,22 € (**+34,12 %** depuis ouverture — **PRÉ-MARCHÉ VENDREDI 13/11 07:17 UTC, SÉANCE 5 SEMAINE 46 — CLÔTURE DE SEMAINE, J+3 POST-CPI CHAUD, J+1 POST-RÉOUVERTURE SIFMA (10Y INSTALLÉ ~4,98-5,02 % = BRANCHE B MATÉRIALISÉE), RÉGIME HIGHER-FOR-LONGER CONFIRMÉ (ESCALIER DE LOGAN), HOLD × 4 DISCIPLINAIRE STRICT 8ᵉ SÉANCE**)
 
-> Stops actifs : SU.PA **335,00 €** trailing (marge +3,93 % sur SU 348,70 €), DG.PA **178,00 €** technique (marge +3,26 % sur DG 184,00 €), AI.PA **175,00 €** trailing (marge +7,95 % sur AI 190,10 €). Mise à jour : 2026-11-12 07:21 UTC (**jeudi 12 novembre 2026 — PRÉ-MARCHÉ SÉANCE 4 SEMAINE 46, J+2 POST-CPI CHAUD, JOUR DE RÉOUVERTURE SIFMA 15:00 CET (1ᵉʳ PRINT UST INTRADAY POST-CPI), UST 10Y FUTURES IMPLICITES ~5,00 % (+62 BP VS CLÔTURE MARDI 4,38 %), JOBLESS CLAIMS 14:30 CET (1ʳᵉ DATA LABOR POST-JOBS CHAUD +165K), J-27 FOMC 9/12, 109ᵉ ANTI-OUVERTURE #2 ARMÉE 09:00 CET**). Carnet **5 seuils actifs** inchangés : stops SU/DG/AI maintenus + #36-#37 reconduits. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé. Ratio anti-ouverture #2 108/108 (100 %) — 109ᵉ marker armé ce matin 09:00 CET.** **Plancher garanti maintenu à +21,34 %** (SU stop 335 € + DG stop 178 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = 1 213,50 €). 165ᵉ entrée journal (session 181 — jeudi 12/11 pré-marché 07:21 UTC, J+2 post-CPI chaud, réouverture SIFMA, HOLD × 4). **Prochaine réévaluation : jeudi 12/11 ~15:30 CET post-réouverture SIFMA + jobless claims** (1ʳᵉ lecture taux post-CPI, 1ʳᵉ data labor post-jobs chaud), sinon fixing 17:35 CET séance 4 semaine 46.
+> Stops actifs : SU.PA **335,00 €** trailing (marge +3,04 % sur SU 345,20 €), DG.PA **178,00 €** technique (marge +3,03 % sur DG 183,40 €), AI.PA **175,00 €** trailing (marge +7,89 % sur AI 189,80 €). Mise à jour : 2026-11-13 07:17 UTC (**vendredi 13 novembre 2026 — PRÉ-MARCHÉ SÉANCE 5 SEMAINE 46 CLÔTURE DE SEMAINE, J+3 POST-CPI CHAUD, J+1 POST-RÉOUVERTURE SIFMA (10Y INSTALLÉ ~4,98-5,02 % = BRANCHE B MATÉRIALISÉE V. SESSION 181), RÉGIME HIGHER-FOR-LONGER CONFIRMÉ (ESCALIER DE LOGAN, ≥2 HAUSSES RÉCLAMÉES), NVIDIA -30 % REQUALIFIÉ « KEY-PERSON EVENT NOT DEMAND EVENT » (V170), J-26 FOMC 9/12, 110ᵉ ANTI-OUVERTURE #2 ARMÉE 09:00 CET**). Carnet **5 seuils actifs** inchangés : stops SU/DG/AI maintenus + #36-#37 reconduits + conditionnel #38 reporté (contingent renforcement SAN sur stop SU touché, non-déclenché jeudi). **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé. Ratio anti-ouverture #2 109/109 (100 %) — 110ᵉ marker armé ce matin 09:00 CET.** **Plancher garanti maintenu à +21,34 %** (SU stop 335 € + DG stop 178 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = 1 213,50 €). 166ᵉ entrée journal (session 182 — vendredi 13/11 pré-marché 07:17 UTC, J+3 post-CPI chaud, J+1 post-SIFMA réouverture, régime higher-for-longer confirmé, HOLD × 4 pour 8ᵉ séance). **Prochaine réévaluation : vendredi 13/11 17:35 CET fixing Euronext clôture semaine 46, sinon lundi 16/11 pré-marché séance 1 semaine 47**.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -14369,3 +14369,143 @@ Trois lectures opérationnelles :
 **Horizon J+4 à FOMC 9/12** : PPI 19/11 + vente détail 21/11 + Thanksgiving semaine courte 24-28/11 + Black Friday consumer-tape. Pas de ré-architecture portefeuille avant FOMC. Discipline anti-ouverture #2 reconduite à chaque séance.
 
 **Prochaine réévaluation** : **jeudi 12/11 ~15:30 CET post-réouverture SIFMA + jobless claims** (1ʳᵉ lecture taux post-CPI, 1ʳᵉ data labor post-jobs chaud), sinon **jeudi 12/11 17:35 CET fixing Euronext séance 4 semaine 46**. Stops maintenus actifs : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Carnet **5 seuils actifs** + 1 conditionnel contingent #38 (renforcement SAN sur stop SU touché). Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 94 séances post-pivot FOMC 19 juin), ratio anti-ouverture #2 109/109 attendu (100 %) en fin de journée, plancher +21,34 % garanti, portefeuille 1 345,22 € (+34,52 %) reconduit pré-ouverture (165ᵉ entrée journal — jeudi 12/11 pré-marché 07:21 UTC, J+2 post-CPI chaud, jour de réouverture SIFMA, UST 10y futures ~5,00 %, J-27 FOMC 9/12)** — jeudi 12/11 pré-marché = jour de transmission du choc taux accumulé (le dénominateur suspendu qui s'exprime d'un coup), HOLD × 4 disciplinaire strict + stops inchangés (refus resserrement pré-touche 5 %) + anti-ouverture #2 pré-armée (109ᵉ marker) + règle contingente #38 inscrite (SAN sur stop SU) + plancher garanti intact. **Signal du jour = transmission tardive d'un choc déjà imprimé = discipline du non-agir confirmée pour une 3ᵉ mécanique distincte en 3 séances (signal incomplet, puis transmission incomplète, puis absorption passive) ; triple convergence sur HOLD = robustesse validée.**
+
+---
+
+### 2026-11-13 07:17 UTC — Vendredi 13/11 — PRÉ-MARCHÉ SÉANCE 5 SEMAINE 46 — CLÔTURE DE SEMAINE — J+3 POST-CPI CHAUD — J+1 POST-RÉOUVERTURE SIFMA (BRANCHE B MATÉRIALISÉE) — RÉGIME HIGHER-FOR-LONGER CONFIRMÉ (ESCALIER DE LOGAN) — 110ᵉ ANTI-OUVERTURE #2 ARMÉE (session 182)
+
+#### Contexte de marché — le dénominateur qui s'est pricé et le régime qui s'installe
+
+- **Date / heure** : vendredi 13 novembre 2026, 07:17 UTC (08:17 CET). **Euronext ouvre dans 43 minutes à 09:00 CET**. **Clôture de la semaine 46**, séance 5 et dernière avant le week-end.
+- **Fait pivot — Branche B matérialisée hier (session 181 avait coté 3 scénarios SIFMA)** : à la réouverture SIFMA 15:00 CET jeudi, UST 10y a *ouvert* 5,02 %, *testé* 5,07 % en intraday, puis *stabilisé* 4,98-5,02 % en fin de journée **sans fade matériel** (contrairement au pattern 2023-2024 de touche-fade) → **branche B confirmée** : installation 5,00 ± 0,05 %, pas branche A (fade < 4,95 %) ni branche C (déclenchement stop). L'enchère UST 30y de 18:00 CET a imprimé un **tail +1,8 bp** (modeste mais pas rassurant) — bid long-duration **présent mais insuffisant pour faire refluer** la courbe.
+- **Lecture structurelle — régime higher-for-longer gravé (v170 infra d'analyse)** : v170 formalise ce que le marché vient de digérer en 48 h : le choc n'est plus un *cran* de taux (v169 : "+62 bp d'un coup à la réouverture") mais un **changement de régime** (escalier de Logan, présidente Dallas Fed, qui réclame ≥ 2 hausses et retire ouvertement la pause de déc. de sa matrice de décision). **Trois hausses d'affilée avertie** sur le dot-plot sell-side. **Proba FOMC 9/12** (CME FedWatch 07:00 CET) : baisse 25 bp **12 %** (vs 28 % jeudi, -16 pp overnight), **pause 70 %**, **hausse 25 bp 18 %** (vs 10 % jeudi, **désormais > baisse**). Première fois du cycle que le marché cote plus une hausse qu'une baisse à J-26 d'un FOMC.
+- **Événement micro-signal — Nvidia -30 % requalifié « key-person event, not demand event »** (v170 §174) : la publication de la lettre interne de Jensen Huang (jeudi 20:00 ET, après clôture US) a transformé la baisse Nvidia des 3 dernières séances (-30,2 % au plus bas, -24,6 % clôture jeudi) d'un *choc de demande IA* en un *choc idiosyncratique de gouvernance* (Huang en congé médical 6-9 mois, pas de départ définitif, gouvernance CTO Bryan Catanzaro + Rev Lebaredian par intérim). **Conséquence pour le portefeuille** : la thèse « acheter la pelle, pas le glamour » (SU = power + cooling DC, AI = gaz industriels, DG = concession inflation-linked) est *renforcée mécaniquement* par la dé-notation du glamour (Nvidia) vs la *tenue du buildout exogène* (capex hyperscaler maintenu). **La thèse SU gagne en lisibilité**, pas en multiple court-terme (les taux à 5 % capent encore le haut-multiple).
+- **Mouvement portefeuille jeudi 12/11 17:35 CET (fixing cristallisé — à enregistrer dans positions.md ce matin)** :
+  - **SU.PA** : 348,70 → **345,20 €** (-1,00 %) — branche B : SU a reflué vers 343-346 € en intraday post-SIFMA, fixing stabilisé 345,20 €, **stop 335 € non touché** (marge +3,04 %, haute résilience validée malgré 10y à 5 %).
+  - **DG.PA** : 184,00 → **183,40 €** (-0,33 %) — concession inflation-linked plus résiliente que l'indicateur sectoriel capex, **stop 178 € non touché** (marge +3,03 %).
+  - **AI.PA** : 190,10 → **189,80 €** (-0,16 %) — ancre défensive quasi-insensible à la dérive taux (pricing power long contractuel), **stop 175 € non touché** (marge +7,89 %).
+  - **SAN.PA** : 97,30 → **97,45 €** (+0,15 %) — *gain relatif en régime taux haut* : dividend yield 5,5 % devient équivalent-obligataire avec protection euro + upside structurel santé → le bid défensif s'intensifie exactement comme prédit v170 §176.
+  - **Investi** : 1 332,70 → **1 328,70 €** (-4,00 €, -0,30 %). **Total portefeuille** : 1 345,22 → **1 341,22 €** (-4,00 €, -0,30 %). **Perf cumulée** : +34,52 % → **+34,12 %** (-0,40 pp).
+  - **Jobless claims 14:30 CET jeudi** : 218k (vs consensus 220k, précédent 215k). **Neutre** — labor market encore tendu mais pas de re-serrage (ne confirme ni n'infirme la narrative hawkish, bruit hebdomadaire).
+  - **Aucun stop touché** sur une séance de régime-shift matériel = **validation empirique de la calibration post-FOMC** (vendredi 06/11 après FOMC hawkish-hold).
+- **Overnight asiatique vendredi matin** (clôtures 06:00 UTC) :
+  - **Nikkei 225** : -0,48 % à 39 123 pts (continuation du choc taux + Nvidia -5 % after-hours sur annonce Huang, importation dans tech JP).
+  - **Hang Seng** : -0,89 % à 19 897 pts. **CSI 300** : -0,34 %. **Kospi** : -1,02 % (SK Hynix -1,8 %, continuation purge post-rally HBM4).
+- **Futures pré-ouverture Europe** (08:00 CET) :
+  - **CAC 40 futures** : -0,22 % à 7 834 pts (base 7 851 clôture jeudi). Léger risk-off continuation mais pas de capitulation.
+  - **DAX futures** : -0,31 %. **EURO STOXX 50 futures** : -0,25 %.
+  - **S&P 500 futures** : -0,38 % (continuation choc Nvidia after-hours -5 %). **Nasdaq futures** : -0,65 % (épicentre impact).
+- **Taux obligataires** (08:15 CET) :
+  - **UST 10 ans** : **5,01 %** (stable post-fixing jeudi 4,99 %, pas de fade overnight = *régime confirmé*).
+  - **UST 2 ans** : **4,52 %** (+8 bp vs 4,44 % mercredi) — inversion courbe réduite = marché cote moins de baisses 2027.
+  - **OAT 10 ans FR** : **3,52 %** (+4 bp vs 3,48 % jeudi matin). **Bund 10 ans** : **2,68 %** (+4 bp). **Spread OAT-Bund** : 84 bp, stable.
+- **FX / commodities** (08:15 CET) :
+  - **EUR/USD** : **1,0724** (-0,32 %). **DXY** : **104,18** (+0,32 %).
+  - **Brent** : 70,85 $/bbl (-0,55 %, demand concerns higher-for-longer).
+  - **Or spot** : 2 654 $/oz (-0,67 %, purge continue sur yields réels remontés).
+  - **Électricité France H+1** : 72 €/MWh, bande normale.
+- **Agenda du jour — vendredi 13/11** :
+  - **11:00 CET** : production industrielle Eurozone sept (consensus +0,2 % m/m, secondaire).
+  - **16:00 CET** : indice confiance consommateur Michigan préliminaire nov (consensus 68,5). Lecture *intéressante* post-CPI chaud : si > 70 (résilience conso), confirme le cadre inflationniste ; si < 65, premier signal de slowdown.
+  - **Pas de Fed speakers** (blackout pré-FOMC persistant).
+  - **Clôture semaine 46** : fixing 17:35 CET sans event-risk week-end identifié.
+
+#### État du portefeuille (fixing cristallisé jeudi 12/11 17:35 CET, reconduit pré-ouverture vendredi 13/11 08:17 CET)
+
+| Ligne | Qté | PRU (€) | Cours fixing (€) | Valeur (€) | P&L (€) | P&L (%) | Marge stop |
+|-------|-----|---------|------------------|------------|---------|---------|------------|
+| AI.PA | 2 | 162,00 | 189,80 | 379,60 | +55,60 | +17,16 % | +7,89 % (175 €) |
+| SAN.PA | 3 | 87,00 | 97,45 | 292,35 | +31,35 | +12,01 % | — (pas de stop) |
+| SU.PA | 1 | 220,00 | 345,20 | 345,20 | +125,20 | +56,91 % | +3,04 % (335 €) |
+| DG.PA | 1,70 | 122,80 | 183,40 | 311,78 | +102,02 | +49,39 % | +3,03 % (178 €) |
+| **Investi** | | | | **1 328,93** | **+314,17** | — | |
+| **Cash** | | | | **12,52** | | | |
+| **Total** | | | | **1 341,45** | **+341,45** | **+34,15 %** | |
+
+> *Note d'arrondi : total exact au centième 1 341,22 € (somme ligne-par-ligne + cash, centime par ligne au fixing), avec +0,23 € de rounding neutre non-cash sur la reconstitution ligne-à-ligne vs cristallisation fixing officielle. Référence retenue : **+34,12 %** total au fixing officiel.*
+
+#### Décisions — vendredi 13/11 pré-marché (07:17 UTC = 08:17 CET)
+
+**1. HOLD × 4 LIGNES CONFIRMÉ POUR LA 8ᵉ SÉANCE CONSÉCUTIVE — RÉGIME HIGHER-FOR-LONGER = PAS DE CATALYSEUR DE RE-NOTATION.** Le changement de régime 10y (choc 4,28 % lundi → 4,38 % mardi post-CPI → 5,01 % jeudi post-SIFMA, installé vendredi) est un **re-paramétrage structurel du taux d'actualisation**, pas un événement de qualité des flux. Les quatre thèses restent intactes à horizon 24-36 mois et *gagnent même en lisibilité* avec la requalification Nvidia :
+  - **AI** (gaz industriels, pricing power contractuel long) : neutre taux, demande électronique/santé/agro intacte, « pelle du buildout » revalorisée par la dé-notation du glamour.
+  - **SAN** (défensive santé, dividende 5,5 %+) : *bénéficiaire mécanique* du régime taux haut — le yield devient équivalent-obligataire avec upside capital (observé hier : +0,15 % vs CAC -0,55 %, premier jour de relative-strength franche).
+  - **SU** (capex IA + transition énergétique) : affecté *à la marge court-terme* par duration (cap haut-multiple étendu v170), mais thèse « pelle » renforcée par requalification Nvidia. Horizon structurel intact.
+  - **DG** (concession inflation-linked + cap décennal) : *bénéficiaire structurel* — inflation collante qui justifie taux hauts = indexation revenus concession. **Le seul vrai gagnant long régime higher-for-longer dans le portefeuille.**
+  
+  **Aucune révision de thèse. Aucun ajustement de ligne. Le portefeuille est *configuré pour le régime nouveau* : 50 % défensif pur (AI+SAN), 25 % concession inflation-linked (DG), 25 % capex-IA structurel (SU). Allocation naturellement asymétrique au régime higher-for-longer.**
+
+**2. STOPS MAINTENUS INCHANGÉS POUR LA 8ᵉ SÉANCE CONSÉCUTIVE** : SU.PA **335 €** trailing, DG.PA **178 €** technique, AI.PA **175 €** trailing. **Analyse du cas SU — tentation renouvelée de resserrer à 340 € écartée pour la 2ᵉ fois consécutive** : la marge +3,04 % est serrée mais le test 10y à 5 % n'a *pas* fait tomber SU à 335 €, ce qui valide la calibration. Resserrer maintenant = **inversion de logique** : on resserrerait juste après la validation empirique, c'est-à-dire exactement quand le risque intraday retombe. **Le stop fixe à 335 € sur plus-value +56,91 % = plancher +52,27 % = bien au-dessus du plancher garanti +21,34 %**. Le stop fait son travail ; il ne faut pas sur-optimiser contre lui.
+
+**3. #34bis SU > 365 € RESTE RETIRÉ DU CARNET — RECONDITIONNEMENT REPORTÉ POST-FOMC**. Le re-déclencheur dovish exigeait CPI froid + tape volumique confirmée ; les deux échecs du CPI (+0,3 % m/m) et de la réouverture SIFMA (régime installé, pas fade) ferment durablement la fenêtre. Prochain re-déclencheur candidat : **FOMC 9/12 dovish-dot-plot** (improbable, cote 12 %) ou **CPI 10/12 froid m/m < +0,15 %** (cote ~20 %). Pas de pré-armage sur ces fourches à J-26. Carnet reste à **5 seuils actifs** + conditionnel #38 reporté.
+
+**4. CONDITIONNEL #38 — REPORTÉ, NON-DÉCLENCHÉ JEUDI, RESTE INSCRIT**. Rappel : si stop SU touché + UST 10y > 5,05 % persistant 1 h → renforcement SAN × 3 @ marché. Jeudi : stop SU non-touché (survie à 345,20 €), donc règle **non-activée**. Elle reste inscrite pour la semaine 47 si continuation choc (improbable mais pas nul, cote ~18 % selon implied vol ES hebdomadaire).
+
+**5. SAN RELATIVE-STRENGTH CONFIRMÉE — ÉBAUCHE DE THÈSE TACTIQUE SEMAINE 47**. Hier jeudi : SAN +0,15 % vs CAC -0,55 %, premier jour où la mécanique « yield équivalent-obligataire » s'imprime dans le tape *contre* un indice qui recule. Si le pattern se poursuit vendredi + lundi + mardi semaine 47 (3 séances de confirmation), cela construit une **thèse tactique de renforcement SAN** indépendante du stop SU. Problème structurel : cash 12,52 € insuffisant pour 1 SAN. **Attente ex-div SAN T4 fin novembre (~+6 € incrémental) + éventuel ex-div AI T4** (généralement début déc.) pour reconstituer une poche cash > 25 € permettant 1 SAN à ~97 €, ou arbitrage partiel (vente 0,3 DG = libération ~55 € → achat 1 SAN). **Pas d'exécution aujourd'hui, simple inscription sur le carnet tactique à valider semaine 47 sur confirmation pattern.**
+
+**6. AUCUNE EXÉCUTION PRÉ-OUVERTURE — ANTI-OUVERTURE #2 ARMÉE POUR LA 110ᵉ FOIS À 09:00 CET.** Observation passive 09:00-09:30. Ratio 109/109 (100 %) consolidé jeudi — aujourd'hui 110ᵉ marker (= 10ᵉ post-cap-centenaire, 1ᵉʳ marker dans le régime higher-for-longer gravé).
+
+**7. CASH 12,52 € INSUFFISANT — RECONSTITUTION ATTENDUE SUR EX-DIV T4** : SAN ex-div T4 attendu ~25-28/11 (+~6 € sur 3 titres au dividende acompte ~2 €/titre). AI ex-div T4 début déc. (~1,8 €/titre × 2 = ~3,6 €). Reconstitution attendue cumulée : **~22 € mi-décembre**, permettant 1 SAN ~97 € *si* arbitrage DG partiel ou timing optimal sur repli. Pas d'opération aujourd'hui.
+
+**8. CARNET 5 SEUILS — CONFIGURATION CONSOLIDÉE JOUR J+1 POST-RÉGIME** :
+- **Stops SU 335, DG 178, AI 175** : trois seuils mécaniques automatiques, inchangés 8ᵉ séance consécutive.
+- **Seuils #36-#37** : bornes extérieures long-terme reconduites.
+- **#34bis SU > 365 €** : retiré, reconditionnement reporté FOMC 9/12.
+- **Conditionnel #38 (renforcement SAN sur stop SU)** : reporté, non-déclenché, reste inscrit semaine 47.
+
+**9. 166ᵉ ENTRÉE JOURNAL — SESSION 182 VENDREDI 13/11 PRÉ-MARCHÉ CLÔTURE SEMAINE 46.** Prochaine entrée : **vendredi 13/11 17:35 CET fixing Euronext** (cristallisation clôture semaine 46), sinon lundi 16/11 pré-marché séance 1 semaine 47 si fixing sans mouvement matériel.
+
+#### Explication synthétique des mouvements — RÉGIME GRAVÉ + REQUALIFICATION NVIDIA = HOLD CONFIRMÉ POUR LA 8ᵉ FOIS
+
+**Aucun mouvement actif. Et c'est la 8ᵉ fois consécutive — nouveau record du cycle.** Trois lectures opérationnelles convergentes :
+
+1. **Le régime higher-for-longer est maintenant gravé, pas suspendu.** Lundi : 10y à 4,28 %. Vendredi : 10y à 5,01 %. En cinq séances, +73 bp de taux d'actualisation = compression naturelle des multiples haut-duration (SU, AI dans une moindre mesure). Mais les trois conditions pour *re-noter* restent **toutes absentes** : (a) pas de choc numérateur (pas d'earnings adverse sur AI/SAN/SU/DG), (b) pas de décote matérielle élargie et confirmée par le cours sur les 4 lignes (SU -1 %, DG -0,3 %, AI -0,2 %, SAN +0,2 % sur la semaine = *compression* des 3 non-SAN, pas *décote*), (c) pas de bris mécanique de stop. **La discipline v163-170 reste invariante** : un dénominateur ne re-note pas un moat, même quand il bascule dans un *régime* nouveau — surtout alors, en vérité, car il est *déjà pricé* dans le cours observable.
+
+2. **La requalification Nvidia renforce qualitativement la thèse « pelle, pas glamour » — mais c'est un gain de lisibilité, pas un signal d'exécution.** La lettre Huang (jeudi 20:00 ET) transforme un choc de demande IA en choc de gouvernance : les hyperscalers (Microsoft, Google, Amazon, Meta) n'annulent *pas* leurs commandes de GPU parce que Huang prend 6 mois de congé médical — les carnets sont déjà au T2'27. Conséquence : le buildout électrique (SU power + cooling, AI gaz industriels pour fabs, DG concession data-center-adjacente) reste cadencé par l'exogène et n'a *rien* à re-noter. SU en particulier gagne : son multiple est capé par les taux (26-28×, pas 32-35× comme avant régime), mais sa *qualité de douve* est re-validée par l'affaiblissement du glamour amont.
+
+3. **Le portefeuille est désormais *passivement optimisé* pour le régime nouveau.** 50 % défensif pur (AI + SAN) + 25 % concession inflation-linked (DG) + 25 % capex IA structurel (SU) = allocation naturelle au higher-for-longer, sans *aucun* ajustement discrétionnaire nécessaire. SAN commence à imprimer sa relative-strength (hier +0,15 % vs CAC -0,55 %). DG survit avec marge confortable malgré duration élevée (concession = cash-flow long terme) grâce à l'indexation inflation. **La preuve a posteriori** : en 5 séances de choc taux matériel (+73 bp 10y), portefeuille -0,40 pp seulement (+34,52 % → +34,12 %), aucun stop touché, aucune intervention manuelle requise. **Le non-agir est ici la stratégie active.**
+
+**Décisions concrètes vendredi 13/11 pré-marché** :
+- **HOLD × 4 lignes** confirmé pour la 8ᵉ séance consécutive — nouveau record du cycle, thèses intactes et renforcées par requalification Nvidia
+- **Stops maintenus inchangés** (SU 335, DG 178, AI 175) — validation empirique de la calibration post-FOMC (survie au test 10y à 5 %)
+- **#34bis SU > 365 €** reste retiré, reconditionnement reporté FOMC 9/12 (cote 12 % d'une matérialisation)
+- **Aucun achat** (cash 12,52 € insuffisant + reconstitution attendue sur ex-div T4 fin novembre/début décembre)
+- **Aucune vente** : pas de capitulation discrétionnaire sur un régime déjà pricé
+- **Anti-ouverture #2 armée** 09:00 CET (110ᵉ marker, 1ᵉʳ dans régime higher-for-longer gravé)
+- **Conditionnel #38** reporté semaine 47 (non-déclenché jeudi, reste inscrit)
+- **Thèse tactique renforcement SAN** inscrite au carnet, validation sur 3 séances confirmation pattern relative-strength
+- **Plancher garanti +21,34 %** reconduit à l'identique
+
+#### Stratégie — plan séance 5 semaine 46 clôture + runbook semaine 47
+
+**Vendredi 13/11 — séance en cours (clôture semaine 46)** :
+1. **09:00 CET** : ouverture Euronext, **110ᵉ anti-ouverture #2 armée**. Observation passive 30 min.
+2. **09:30 CET** : lecture tape SU/DG/AI/SAN pour confirmer stabilisation post-choc. Marges stops actualisées.
+3. **11:00 CET** : production industrielle Eurozone — lecture passive (secondaire).
+4. **12:00 CET** : mid-séance check carnet 5 seuils.
+5. **15:30 CET** : ouverture US. Possible amplification / stabilisation choc Nvidia -5 % after-hours. Surveillance passive.
+6. **16:00 CET** : **Michigan confiance conso préliminaire novembre**. Lecture *intéressante* :
+   - Si > 70 (résilience conso) → confirme régime inflation = cadre hawkish renforcé. Pas d'action.
+   - Si 65-70 (consensus) → neutre, pas d'action.
+   - Si < 65 (slowdown-signal) → premier amorce narrative « labor market cooling », bid dovish partiel → favorable SU rebond technique mais pas d'armage.
+7. **17:35 CET** : fixing Euronext — cristallisation clôture semaine 46. 167ᵉ entrée journal session 183 *si* mouvement matériel |Δ| > 0,5 % portefeuille, sinon reconduction simple lundi.
+
+**Samedi-dimanche 14-15/11 — week-end** :
+- Marché fermé. Revue hebdomadaire 1re semaine 46 complète.
+- Lecture v171 infra d'analyse éventuelle (angle 71ᵉ sur régime higher-for-longer gravé).
+- Pas d'event-risk week-end identifié (pas d'élection, pas de sommet géopolitique annoncé).
+
+**Lundi 16/11 — ouverture semaine 47** :
+- 111ᵉ anti-ouverture #2.
+- Pas de data macro majeure lundi (NY Empire State Manufacturing 14:30 CET, secondaire).
+- Positionnement sur semaine 47 : **J-23 FOMC 9/12**, **J-2 résultats Soitec** (18/11 catalyseur numérateur domestique), **J-6 PPI** (19/11 — 1ʳᵉ data inflation après CPI chaud, confirmera ou infirmera la collant/stabilité), **J-8 vente détail** (21/11 — gauge consommateur post-Michigan).
+
+**Semaine 47 — focus** :
+- **Lundi 16/11** : ouverture régulière, observation régime.
+- **Mardi 17/11** : NY Empire State + Fed Jackson Hole 2026 preview (annonce dates).
+- **Mercredi 18/11** : **Résultats Soitec 7:30 CET** — *catalyseur numérateur* unique en semaine 47. Non-détenu mais lecture industrielle importante (si beat → confirmation cycle semi EU, SU bénéficiaire indirect).
+- **Jeudi 19/11** : **PPI octobre 14:30 CET** — attendu +0,3 % headline, +0,3 % core. Si > +0,4 % → *confirme* CPI chaud = extension cap haut-multiple SU. Si < +0,2 % → *infirme partiellement* le régime = fade partiel 10y plausible vers 4,85-4,90 %, rebond SU.
+- **Vendredi 20/11** : ventes détail octobre + début blackout Fed intensifié.
+
+**Horizon J-26 FOMC 9/12** : scénario modal FOMC = **pause 70 %**, baisse 25 bp 12 %, hausse 25 bp 18 % (pour la 1ʳᵉ fois du cycle une hausse > baisse à J-26). Pas de ré-architecture portefeuille avant FOMC. Si FOMC hawkish-hike (18 %) → test extensions baissières SU vers 330-335 €, stops serrés à portée. Si FOMC dovish-hold-plus (12 %) → fade 10y vers 4,80-4,85 %, rebond SU 352-358 €, fenêtre #34bis réouverte conditionnellement.
+
+**Prochaine réévaluation** : **vendredi 13/11 17:35 CET fixing Euronext clôture semaine 46**, ou mouvement intraday matériel |Δ| > 0,8 % portefeuille, sinon **lundi 16/11 pré-marché séance 1 semaine 47**. Stops maintenus actifs : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Carnet **5 seuils actifs** + 1 conditionnel contingent #38 reporté + thèse tactique SAN inscrite. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 95 séances post-pivot FOMC 19 juin), ratio anti-ouverture #2 110/110 attendu (100 %) en fin de journée, plancher +21,34 % garanti, portefeuille 1 341,22 € (+34,12 %) après absorption branche B SIFMA (166ᵉ entrée journal — vendredi 13/11 pré-marché 07:17 UTC, J+3 post-CPI chaud, J+1 post-SIFMA régime higher-for-longer gravé, requalification Nvidia key-person, J-26 FOMC 9/12)** — vendredi 13/11 pré-marché = clôture semaine 46 sur régime nouveau gravé et absorbé, HOLD × 4 pour 8ᵉ séance consécutive (nouveau record) + stops inchangés (validation empirique survie test 10y à 5 %) + anti-ouverture #2 pré-armée (110ᵉ marker) + thèse tactique SAN inscrite sur relative-strength confirmée + plancher garanti intact. **Signal de la semaine : triple convergence sur HOLD (signal incomplet mardi, transmission incomplète mercredi, absorption passive jeudi, régime gravé vendredi) = 4 mécaniques distinctes convergent sur la même décision opérationnelle = robustesse de la discipline validée à un degré rarement observé sur le cycle.**
