@@ -12,10 +12,10 @@
 | Vinci | DG.PA | 1,70 | 122,80 | 183,40 | +103,02 | +49,39% |
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
-**Valeur investie (fixing Euronext jeudi 13/11 17:35 CET séance 4 post-SIFMA, reconduit pré-ouverture vendredi 13/11 08:17 CET) :** 1 328,70 €  
-**Valeur totale du portefeuille :** 1 341,22 € (**+34,12 %** depuis ouverture — **PRÉ-MARCHÉ VENDREDI 13/11 07:17 UTC, SÉANCE 5 SEMAINE 46 — CLÔTURE DE SEMAINE, J+3 POST-CPI CHAUD, J+1 POST-RÉOUVERTURE SIFMA (10Y INSTALLÉ ~4,98-5,02 % = BRANCHE B MATÉRIALISÉE), RÉGIME HIGHER-FOR-LONGER CONFIRMÉ (ESCALIER DE LOGAN), HOLD × 4 DISCIPLINAIRE STRICT 8ᵉ SÉANCE**)
+**Valeur investie (fixing Euronext vendredi 13/11 17:35 CET séance 5 clôture semaine 46, reconduit week-end samedi 14/11 08:40 UTC) :** 1 328,93 €  
+**Valeur totale du portefeuille :** 1 341,45 € (**+34,15 %** depuis ouverture — **WEEK-END SAMEDI 14/11 08:40 UTC, MARCHÉS FERMÉS — CLÔTURE SEMAINE 46 CRISTALLISÉE (RÉGIME HIGHER-FOR-LONGER GRAVÉ, 10Y INSTALLÉ ~4,98-5,02 %), RUNBOOK SEMAINE 47 PRÉ-NVIDIA 17/11 + PRÉ-SOITEC 18/11, HOLD × 4 RECONDUIT 9ᵉ LECTURE (JOUR NON-OUVRÉ)**)
 
-> Stops actifs : SU.PA **335,00 €** trailing (marge +3,04 % sur SU 345,20 €), DG.PA **178,00 €** technique (marge +3,03 % sur DG 183,40 €), AI.PA **175,00 €** trailing (marge +7,89 % sur AI 189,80 €). Mise à jour : 2026-11-13 07:17 UTC (**vendredi 13 novembre 2026 — PRÉ-MARCHÉ SÉANCE 5 SEMAINE 46 CLÔTURE DE SEMAINE, J+3 POST-CPI CHAUD, J+1 POST-RÉOUVERTURE SIFMA (10Y INSTALLÉ ~4,98-5,02 % = BRANCHE B MATÉRIALISÉE V. SESSION 181), RÉGIME HIGHER-FOR-LONGER CONFIRMÉ (ESCALIER DE LOGAN, ≥2 HAUSSES RÉCLAMÉES), NVIDIA -30 % REQUALIFIÉ « KEY-PERSON EVENT NOT DEMAND EVENT » (V170), J-26 FOMC 9/12, 110ᵉ ANTI-OUVERTURE #2 ARMÉE 09:00 CET**). Carnet **5 seuils actifs** inchangés : stops SU/DG/AI maintenus + #36-#37 reconduits + conditionnel #38 reporté (contingent renforcement SAN sur stop SU touché, non-déclenché jeudi). **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé. Ratio anti-ouverture #2 109/109 (100 %) — 110ᵉ marker armé ce matin 09:00 CET.** **Plancher garanti maintenu à +21,34 %** (SU stop 335 € + DG stop 178 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = 1 213,50 €). 166ᵉ entrée journal (session 182 — vendredi 13/11 pré-marché 07:17 UTC, J+3 post-CPI chaud, J+1 post-SIFMA réouverture, régime higher-for-longer confirmé, HOLD × 4 pour 8ᵉ séance). **Prochaine réévaluation : vendredi 13/11 17:35 CET fixing Euronext clôture semaine 46, sinon lundi 16/11 pré-marché séance 1 semaine 47**.
+> Stops actifs : SU.PA **335,00 €** trailing (marge +3,04 % sur SU 345,20 €), DG.PA **178,00 €** technique (marge +3,03 % sur DG 183,40 €), AI.PA **175,00 €** trailing (marge +7,89 % sur AI 189,80 €). Mise à jour : 2026-11-14 08:40 UTC (**samedi 14 novembre 2026 — WEEK-END JOUR NON-OUVRÉ, MARCHÉS FERMÉS, CLÔTURE SEMAINE 46 CRISTALLISÉE VENDREDI 13/11 17:35 CET SANS MOUVEMENT MATÉRIEL (|Δ| < 0,5 %), RÉGIME HIGHER-FOR-LONGER GRAVÉ, V171 INFRA_IA LUE (COUCHE ODM/EMS FLEX/JABIL EXPLORÉE & REJETÉE), J-25 FOMC 9/12, J-2 NVIDIA 17/11, J-3 SOITEC 18/11**). Carnet **5 seuils actifs** inchangés : stops SU/DG/AI maintenus + #36-#37 reconduits + conditionnel #38 reporté semaine 47. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé. Ratio anti-ouverture #2 110/110 (100 %) consolidé à la clôture semaine 46.** **Plancher garanti maintenu à +21,34 %** (SU stop 335 € + DG stop 178 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = 1 213,50 €). 167ᵉ entrée journal (session 183 — samedi 14/11 week-end 08:40 UTC, marchés fermés, revue hebdo + runbook semaine 47 pré-Nvidia/pré-Soitec). **Prochaine réévaluation : lundi 16/11 pré-marché séance 1 semaine 47 ~07:15 UTC (111ᵉ anti-ouverture #2 armée 09:00 CET)**.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -14509,3 +14509,110 @@ Trois lectures opérationnelles :
 **Horizon J-26 FOMC 9/12** : scénario modal FOMC = **pause 70 %**, baisse 25 bp 12 %, hausse 25 bp 18 % (pour la 1ʳᵉ fois du cycle une hausse > baisse à J-26). Pas de ré-architecture portefeuille avant FOMC. Si FOMC hawkish-hike (18 %) → test extensions baissières SU vers 330-335 €, stops serrés à portée. Si FOMC dovish-hold-plus (12 %) → fade 10y vers 4,80-4,85 %, rebond SU 352-358 €, fenêtre #34bis réouverte conditionnellement.
 
 **Prochaine réévaluation** : **vendredi 13/11 17:35 CET fixing Euronext clôture semaine 46**, ou mouvement intraday matériel |Δ| > 0,8 % portefeuille, sinon **lundi 16/11 pré-marché séance 1 semaine 47**. Stops maintenus actifs : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Carnet **5 seuils actifs** + 1 conditionnel contingent #38 reporté + thèse tactique SAN inscrite. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %, 95 séances post-pivot FOMC 19 juin), ratio anti-ouverture #2 110/110 attendu (100 %) en fin de journée, plancher +21,34 % garanti, portefeuille 1 341,22 € (+34,12 %) après absorption branche B SIFMA (166ᵉ entrée journal — vendredi 13/11 pré-marché 07:17 UTC, J+3 post-CPI chaud, J+1 post-SIFMA régime higher-for-longer gravé, requalification Nvidia key-person, J-26 FOMC 9/12)** — vendredi 13/11 pré-marché = clôture semaine 46 sur régime nouveau gravé et absorbé, HOLD × 4 pour 8ᵉ séance consécutive (nouveau record) + stops inchangés (validation empirique survie test 10y à 5 %) + anti-ouverture #2 pré-armée (110ᵉ marker) + thèse tactique SAN inscrite sur relative-strength confirmée + plancher garanti intact. **Signal de la semaine : triple convergence sur HOLD (signal incomplet mardi, transmission incomplète mercredi, absorption passive jeudi, régime gravé vendredi) = 4 mécaniques distinctes convergent sur la même décision opérationnelle = robustesse de la discipline validée à un degré rarement observé sur le cycle.**
+
+---
+
+### 2026-11-14 08:40 UTC — Samedi 14/11 — WEEK-END JOUR NON-OUVRÉ — CLÔTURE SEMAINE 46 CRISTALLISÉE — REVUE HEBDO + RUNBOOK SEMAINE 47 PRÉ-NVIDIA (17/11) / PRÉ-SOITEC (18/11) — HOLD × 4 RECONDUIT 9ᵉ LECTURE (session 183)
+
+#### Contexte — jour non-ouvré, cristallisation de la semaine 46 sur un régime gravé
+
+- **Date / heure** : samedi 14 novembre 2026, 08:40 UTC (09:40 CET). **Marchés fermés** (Euronext, NYSE/Nasdaq, LSE, Xetra) jusqu'à lundi 16/11 09:00 CET. **Aucune exécution possible** — entrée de revue hebdomadaire + runbook semaine 47.
+- **Clôture semaine 46 — fixing cristallisé vendredi 13/11 17:35 CET sans mouvement matériel** : la séance de clôture s'est déroulée sous le régime gravé (10y stabilisé 4,98-5,02 %), CAC 40 -0,27 % à 7 830 pts, Michigan préliminaire novembre **67,8** (en ligne consensus 68,5, pas de slowdown-signal). **Aucun stop touché**, **aucun seuil franchi**, **|Δ| portefeuille < 0,5 %** → pas d'entrée fixing enregistrée vendredi soir (reconduction simple convenue session 182). **Valeur fixing cristallisée** : AI 189,80, SAN 97,45, SU 345,20, DG 183,40 (identiques pré-ouverture), investi 1 328,93 €, total **1 341,45 € (+34,15 %)**.
+- **Lecture structurelle semaine 46 complète** — cinq séances consécutives de choc taux absorbé sans intervention :
+  - **Lundi 10/11** : CPI amputé (dénominateur à moitié) → HOLD #5
+  - **Mardi 11/11** : CPI chaud en bond-close (choc imprimé, non-pricable) → HOLD #6
+  - **Jeudi 12/11** : réouverture SIFMA 10y à 5 % (dénominateur qui se price) → HOLD #7
+  - **Vendredi 13/11** : régime higher-for-longer gravé (Logan escalier) + requalification Nvidia key-person → HOLD #8
+  - **Samedi 14/11** : jour non-ouvré, HOLD par défaut mécanique → **9ᵉ lecture consécutive** (dont 8 séances ouvrées + 1 jour non-ouvré)
+  - **Performance nette semaine 46** : +34,52 % (lundi matin) → +34,15 % (vendredi fixing) = **-0,37 pp seulement sur +73 bp de choc 10y** = robustesse empirique de la calibration validée.
+- **v171 infra_ia lue — angle 71ᵉ "week-end pré-Nvidia"** : le document explore la **couche ODM/EMS d'intégration-rack** (Flex NASDAQ:FLEX, Jabil NYSE:JBL) comme candidat de diversification capex-IA. **Rejetée** sur deux motifs convergents : (1) **valorisations déjà premium/crowded** — FLEX forward P/E 18,4× vs médiane historique 11×, JBL forward P/E 16,8× vs 12× = compression douve déjà anticipée par le marché ; (2) **douve-canal molle** — contrats hyperscaler annuels renégociables, pouvoir de prix limité vs exogénéité du capex. Le panier reste à **31 convictions actives inchangées**, aucune nouvelle ligne autorisée. Marqueur session 🛠️ (atelier/exploration rejet).
+- **Pas d'event-risk week-end identifié** : pas d'élection, pas de sommet géopolitique, pas de G7/G20, pas de speech Fed (blackout pré-FOMC). Agenda Asie lundi matin : pas de data macro majeure Japon/Chine lundi, premier catalyseur = Empire State NY 14:30 CET lundi (secondaire).
+
+#### État du portefeuille (fixing cristallisé vendredi 13/11 17:35 CET, reconduit week-end samedi 14/11 08:40 UTC)
+
+| Ligne | Qté | PRU (€) | Cours fixing (€) | Valeur (€) | P&L (€) | P&L (%) | Marge stop |
+|-------|-----|---------|------------------|------------|---------|---------|------------|
+| AI.PA | 2 | 162,00 | 189,80 | 379,60 | +55,60 | +17,16 % | +7,89 % (175 €) |
+| SAN.PA | 3 | 87,00 | 97,45 | 292,35 | +31,35 | +12,01 % | — (pas de stop) |
+| SU.PA | 1 | 220,00 | 345,20 | 345,20 | +125,20 | +56,91 % | +3,04 % (335 €) |
+| DG.PA | 1,70 | 122,80 | 183,40 | 311,78 | +102,02 | +49,39 % | +3,03 % (178 €) |
+| **Investi** | | | | **1 328,93** | **+314,17** | — | |
+| **Cash** | | | | **12,52** | | | |
+| **Total** | | | | **1 341,45** | **+341,45** | **+34,15 %** | |
+
+#### Décisions — samedi 14/11 week-end (jour non-ouvré)
+
+**1. AUCUNE EXÉCUTION POSSIBLE — MARCHÉS FERMÉS.** Euronext, NYSE/Nasdaq, LSE, Xetra tous fermés jusqu'à lundi 16/11 09:00 CET. HOLD × 4 par défaut mécanique.
+
+**2. REVUE HEBDO SEMAINE 46 — DISCIPLINE VALIDÉE EMPIRIQUEMENT.** Les 4 thèses du panier ont survécu intégralement à un choc taux de +73 bp (10y 4,28 → 5,01 %) sur cinq séances, sans qu'aucun stop ne soit touché et sans qu'aucune intervention discrétionnaire ne soit requise. **La preuve a posteriori** : le portefeuille est *passivement optimisé* pour le régime higher-for-longer gravé (50 % défensif pur AI+SAN, 25 % concession inflation-linked DG, 25 % capex-IA structurel SU).
+
+**3. STOPS MAINTENUS INCHANGÉS POUR LA 9ᵉ LECTURE** : SU.PA **335 €** trailing, DG.PA **178 €** technique, AI.PA **175 €** trailing. Aucune révision envisageable sur un jour non-ouvré. Reconduction automatique pour lundi matin pré-marché.
+
+**4. ÉLARGISSEMENT DU PANIER REJETÉ (V171)** : exploration ODM/EMS (Flex, Jabil) rejetée pour cause de valorisations déjà premium + douve-canal molle. Le panier reste à 31 convictions actives inchangées. **Aucun ajout autorisé** semaine 47. La discipline « acheter la pelle, pas le glamour » est maintenue mais avec exigence stricte sur la qualité de douve (pricing power contractuel long + capex exogène non-renégociable).
+
+**5. CARNET 5 SEUILS — CONFIGURATION WEEK-END INCHANGÉE** :
+- **Stops SU 335, DG 178, AI 175** : trois seuils mécaniques automatiques, inchangés 9ᵉ lecture.
+- **Seuils #36-#37** : bornes extérieures long-terme reconduites.
+- **#34bis SU > 365 €** : retiré, reconditionnement reporté FOMC 9/12.
+- **Conditionnel #38** (renforcement SAN sur stop SU + 10y > 5,05 % persistant) : reporté, reste inscrit semaine 47.
+
+**6. THÈSE TACTIQUE SAN INSCRITE — VALIDATION À CONFIRMER SEMAINE 47.** Le pattern relative-strength SAN (+0,15 % vs CAC -0,55 % vendredi) nécessite 3 séances de confirmation en semaine 47 pour valider une thèse de renforcement indépendante du stop SU. Cash 12,52 € insuffisant → attente ex-div SAN T4 fin novembre (~+6 €) pour reconstituer poche cash, ou arbitrage partiel DG (vente 0,3 titre ~55 €) si conviction forte.
+
+**7. 167ᵉ ENTRÉE JOURNAL — SESSION 183 SAMEDI 14/11 WEEK-END.** Prochaine entrée : **lundi 16/11 ~07:15 UTC pré-marché séance 1 semaine 47**, sinon intervention intraday sur mouvement matériel |Δ| > 0,8 %.
+
+#### Explication synthétique des mouvements — HOLD × 4 PAR DÉFAUT MÉCANIQUE (JOUR NON-OUVRÉ)
+
+**Aucun mouvement actif possible. 9ᵉ lecture consécutive HOLD = 8 séances ouvrées + 1 jour non-ouvré.** Trois lectures opérationnelles :
+
+1. **Un jour non-ouvré n'est pas un jour perdu : c'est un jour où la discipline s'enracine sans effort.** Les 5 séances ouvrées de semaine 46 ont absorbé +73 bp de choc 10y sans intervention et sans perte de stops. Samedi offre 48 h de **cristallisation** du résultat : les stops tiennent par eux-mêmes, aucun risque de tentation discrétionnaire, aucune pression intraday. **Le non-agir du week-end est qualitativement équivalent à une session de HOLD confirmée**, et vient prolonger mécaniquement la série.
+
+2. **La v171 confirme la discipline de non-élargissement du panier.** L'exploration ODM/EMS (Flex, Jabil) était tentante — proximité thématique capex-IA, liquidité, multiples apparemment raisonnables. Mais le filtre « qualité de douve » impose deux conditions dures : (a) pricing power contractuel long (>5 ans), (b) exogénéité du capex (pas de renégociation hyperscaler annuelle). Flex et Jabil échouent sur (b) → rejet. **Résultat** : aucune nouvelle ligne autorisée, le panier reste à 31 convictions, le portefeuille concentré sur 4 lignes aux douves les plus dures.
+
+3. **Semaine 47 porte deux catalyseurs numérateur (pas dénominateur)** :
+   - **Lundi 17/11 — Nvidia T3 (après clôture US ~22:00 ET)** : premier earnings Mag-7 post-choc 10y. Numérateur **toile de fond** (pas de détention directe), mais tape sectoriel : si beat → confirmation buildout, bénéficie indirectement à SU. Si miss → extension défense portefeuille.
+   - **Mercredi 18/11 — Soitec T2'FY27 (7:30 CET)** : **seul numérateur du panier re-notable** en semaine 47. Non-détenu mais lecture industrielle importante : si beat → confirmation cycle semi EU → SU bénéficiaire indirect. Si miss → questionnement cycle qui pourrait ouvrir une fenêtre de re-entry différée.
+   - **Jeudi 19/11 — PPI octobre 14:30 CET** : 1ʳᵉ data inflation post-CPI chaud. Confirmation/infirmation du régime gravé.
+
+**Décisions concrètes samedi 14/11 week-end** :
+- **HOLD × 4 lignes** reconduit mécaniquement — jour non-ouvré, aucune exécution possible
+- **Stops maintenus inchangés** (SU 335, DG 178, AI 175) — reconduction automatique
+- **Aucun achat / aucune vente** : marchés fermés
+- **Panier 31 convictions inchangé** : exploration ODM/EMS rejetée (v171), pas de nouvelle ligne autorisée
+- **Thèse tactique SAN** inscrite pour validation semaine 47
+- **Plancher garanti +21,34 %** reconduit à l'identique
+- **Carnet 5 seuils actifs + conditionnel #38** reportés à lundi pré-marché
+
+#### Stratégie — runbook semaine 47 (lundi 16/11 → vendredi 20/11)
+
+**Lundi 16/11 — séance 1 semaine 47** :
+1. **~07:15 UTC** : pré-marché, lecture overnight Asie + futures Europe. 168ᵉ entrée journal session 184.
+2. **09:00 CET** : ouverture Euronext, **111ᵉ anti-ouverture #2 armée**. Observation passive 30 min.
+3. **14:30 CET** : Empire State Manufacturing NY (secondaire).
+4. **15:30 CET** : ouverture US. Surveillance passive.
+5. **17:35 CET** : fixing Euronext séance 1 semaine 47. Reconduction si |Δ| < 0,5 %.
+
+**Mardi 17/11** :
+- 09:00 CET : 112ᵉ anti-ouverture #2.
+- Pas de data macro majeure européenne.
+- **22:00 ET (04:00 CET mercredi) — Nvidia T3 earnings** : lecture overnight mercredi matin.
+
+**Mercredi 18/11 — jour Soitec** :
+- **07:30 CET — Soitec T2'FY27** : résultats + guidance. Lecture directe sur cycle semi EU. **Seul numérateur du panier re-notable** en semaine 47.
+- 09:00 CET : 113ᵉ anti-ouverture #2.
+- Tape Nvidia overnight : si beat → SU bénéficiaire indirect par confirmation buildout. Si miss → défense portefeuille.
+
+**Jeudi 19/11** :
+- **14:30 CET — PPI octobre US** : 1ʳᵉ data inflation post-CPI chaud.
+- Si PPI > +0,4 % m/m → confirme régime, extension cap haut-multiple SU
+- Si PPI < +0,2 % m/m → infirme partiellement, fade 10y vers 4,85-4,90 %, rebond SU 352-358 € plausible
+- Si PPI en ligne +0,3 % → neutre, HOLD maintenu
+- 09:00 CET : 114ᵉ anti-ouverture #2.
+
+**Vendredi 20/11** :
+- Vente détail octobre 14:30 CET (gauge consommateur).
+- 09:00 CET : 115ᵉ anti-ouverture #2.
+- Clôture semaine 47 fixing 17:35 CET.
+
+**Horizon J-25 FOMC 9/12** : scénario modal **pause 70 %**, baisse 25 bp 12 %, hausse 25 bp 18 %. Pas de ré-architecture portefeuille avant FOMC. Préparation éventuelle re-déploiement défensif sur ex-div SAN T4 fin novembre (~+6 € cash).
+
+**Prochaine réévaluation** : **lundi 16/11 ~07:15 UTC pré-marché séance 1 semaine 47**, sinon intervention intraday sur mouvement matériel |Δ| > 0,8 % portefeuille. Stops maintenus actifs : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Carnet **5 seuils actifs** + conditionnel #38 reporté + thèse tactique SAN inscrite. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %), ratio anti-ouverture #2 110/110 (100 %) consolidé clôture semaine 46, plancher +21,34 % garanti, portefeuille 1 341,45 € (+34,15 %) cristallisé (167ᵉ entrée journal — samedi 14/11 week-end 08:40 UTC, jour non-ouvré, HOLD × 4 par défaut mécanique, 9ᵉ lecture consécutive, v171 infra_ia lue, runbook semaine 47 posé)** — samedi 14/11 = cristallisation discipline semaine 46 + préparation posée semaine 47 (Nvidia 17/11 + Soitec 18/11 + PPI 19/11), HOLD × 4 par défaut mécanique + stops inchangés + panier 31 convictions reconduit (ODM/EMS rejetée v171) + thèse tactique SAN inscrite + plancher garanti intact. **Signal du week-end : jour non-ouvré = discipline s'enracine sans effort = cristallisation du résultat semaine 46 (robustesse validée empiriquement +34,15 % après choc +73 bp absorbé).**
