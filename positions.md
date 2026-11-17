@@ -12,10 +12,10 @@
 | Vinci | DG.PA | 1,70 | 122,80 | 183,40 | +103,02 | +49,39% |
 
 **Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact)  
-**Valeur investie (fixing Euronext vendredi 13/11 17:35 CET séance 5 clôture semaine 46, reconduit pré-marché lundi 16/11 07:20 UTC séance 1 semaine 47) :** 1 328,93 €  
-**Valeur totale du portefeuille :** 1 341,45 € (**+34,15 %** depuis ouverture — **PRÉ-MARCHÉ LUNDI 16/11 07:20 UTC, SÉANCE 1 OUVERTURE SEMAINE 47 — RÉGIME HIGHER-FOR-LONGER VERROUILLÉ v170 🔒, 10Y ~4,98-5,05 %, V173 INFRA_IA LUE (73ᵉ ANGLE : GOUVERNANCE LIVE — PANIER 33 RECONDUIT, 0 MOUVEMENT), J-1 NVIDIA 17/11 + J-2 SOITEC 18/11 + J-3 PPI 19/11 + J-24 FOMC 9/12, HOLD × 4 PAR DÉFAUT MÉCANIQUE 11ᵉ LECTURE (NOUVEAU RECORD CYCLE)**)
+**Valeur investie (fixing Euronext vendredi 13/11 17:35 CET séance 5 clôture semaine 46, reconduit pré-marché mardi 17/11 07:20 UTC séance 2 semaine 47) :** 1 328,93 €  
+**Valeur totale du portefeuille :** 1 341,45 € (**+34,15 %** depuis ouverture — **PRÉ-MARCHÉ MARDI 17/11 07:20 UTC, SÉANCE 2 SEMAINE 47 — JOUR J NVIDIA (PRINT APRÈS CLÔTURE US 22:00 ET / 04:00 CET MERCREDI), RÉGIME 10Y FADE EN COURS ~4,86-4,88 % (vs ~5 % vendredi 13/11, -14 bp cumulés sur 2 séances), V174 INFRA_IA LUE (74ᵉ ANGLE : BOUCLE DE FINANCEMENT CIRCULAIRE & SQUEEZE MÉMOIRE PRICE-CONFIRMED, 0 MOUVEMENT D'INDICE DUR 11ᵉ LECTURE RECORD CYCLE, 98ᵉ TEST DE LA LOI, PANIER 33 RECONDUIT, SOITEC RE-DATÉ J-1), J-0 NVIDIA 17/11 + J-1 SOITEC 18/11 + J-2 PPI 19/11 + J-23 FOMC 9/12, HOLD × 4 PAR DÉFAUT MÉCANIQUE 12ᵉ LECTURE (NOUVEAU RECORD CYCLE)**)
 
-> Stops actifs : SU.PA **335,00 €** trailing (marge +3,04 % sur SU 345,20 €), DG.PA **178,00 €** technique (marge +3,03 % sur DG 183,40 €), AI.PA **175,00 €** trailing (marge +7,89 % sur AI 189,80 €). Mise à jour : 2026-11-16 07:20 UTC (**lundi 16 novembre 2026 — PRÉ-MARCHÉ SÉANCE 1 OUVERTURE SEMAINE 47, 111ᵉ ANTI-OUVERTURE #2 ARMÉE 09:00 CET, RÉGIME HIGHER-FOR-LONGER VERROUILLÉ (v170 🔒), V173 INFRA_IA LUE (73ᵉ ANGLE : GOUVERNANCE LIVE — PANIER 33 RECONDUIT, 0 MOUVEMENT D'INDICE DUR), J-1 NVIDIA 17/11, J-2 SOITEC 18/11, J-3 PPI 19/11, J-24 FOMC 9/12**). Carnet **5 seuils actifs** inchangés : stops SU/DG/AI maintenus + #36-#37 reconduits + conditionnel #38 reporté semaine 47. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé. Ratio anti-ouverture #2 111/111 (100 %) armée pré-ouverture semaine 47.** **Plancher garanti maintenu à +21,34 %** (SU stop 335 € + DG stop 178 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = 1 213,50 €). 169ᵉ entrée journal (session 185 — lundi 16/11 pré-marché 07:20 UTC, séance 1 semaine 47, v173 lue, HOLD × 4 par défaut mécanique 11ᵉ lecture consécutive). **Prochaine réévaluation : lundi 16/11 fixing 17:35 CET séance 1 semaine 47, sinon intervention intraday sur mouvement matériel |Δ| > 0,8 %**.
+> Stops actifs : SU.PA **335,00 €** trailing (marge +3,04 % sur SU 345,20 €), DG.PA **178,00 €** technique (marge +3,03 % sur DG 183,40 €), AI.PA **175,00 €** trailing (marge +7,89 % sur AI 189,80 €). Mise à jour : 2026-11-17 07:20 UTC (**mardi 17 novembre 2026 — PRÉ-MARCHÉ SÉANCE 2 SEMAINE 47, 112ᵉ ANTI-OUVERTURE #2 ARMÉE 09:00 CET, JOUR J NVIDIA (PRINT 22:00 ET), RÉGIME 10Y EN FADE ~4,86-4,88 % vs 5 % vendredi (-14 bp cumul 2 séances), V174 INFRA_IA LUE (74ᵉ ANGLE : BOUCLE DE FINANCEMENT CIRCULAIRE + SQUEEZE MÉMOIRE PRICE-CONFIRMED, 98ᵉ TEST), PANIER 33 RECONDUIT, 0 MOUVEMENT D'INDICE DUR 11ᵉ LECTURE, SOITEC RE-DATÉ J-1, J-0 NVIDIA 17/11, J-1 SOITEC 18/11, J-2 PPI 19/11, J-23 FOMC 9/12**). Carnet **5 seuils actifs** inchangés : stops SU/DG/AI maintenus + #36-#37 reconduits + conditionnel #38 reporté semaine 47. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé. Ratio anti-ouverture #2 112/112 (100 %) armée pré-ouverture séance 2 semaine 47.** **Plancher garanti maintenu à +21,34 %** (SU stop 335 € + DG stop 178 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = 1 213,50 €). 170ᵉ entrée journal (session 186 — mardi 17/11 pré-marché 07:20 UTC, séance 2 semaine 47, v174 lue, HOLD × 4 par défaut mécanique 12ᵉ lecture consécutive nouveau record cycle). **Prochaine réévaluation : mardi 17/11 fixing 17:35 CET séance 2 semaine 47, sinon intervention intraday sur mouvement matériel |Δ| > 0,8 % ou verdict Nvidia overnight (lecture mercredi matin pré-ouverture)**.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -14797,3 +14797,108 @@ Trois lectures opérationnelles :
 - **RRX #33 au watchlist** : candidat prioritaire re-déploiement ex-div SAN T4, non-actionnable aujourd'hui
 
 **Prochaine réévaluation** : **lundi 16/11 fixing 17:35 CET séance 1 semaine 47**, sinon intervention intraday sur mouvement matériel |Δ| > 0,8 % portefeuille. Stops maintenus actifs : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Carnet **5 seuils actifs** + conditionnel #38 reporté + thèse tactique SAN inscrite + **RRX #33 au watchlist**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %), ratio anti-ouverture #2 111/111 (100 %) armée pré-ouverture semaine 47, plancher +21,34 % garanti, portefeuille 1 341,45 € (+34,15 %) cristallisé** (169ᵉ entrée journal — lundi 16/11 pré-marché 07:20 UTC, séance 1 semaine 47, v173 infra_ia lue (73ᵉ angle : gouvernance live, panier 33 reconduit, 0 mouvement), HOLD × 4 par défaut mécanique 11ᵉ lecture consécutive nouveau record cycle). **Signal du lundi pré-marché : la 11ᵉ lecture HOLD consécutive = la discipline encaisse J-1 Nvidia sans avoir à décider, le portefeuille configuré pour le régime est *passivement optimal* pour la semaine 47 à 3 numérateurs.**
+
+---
+
+### 2026-11-17 07:20 UTC — Pré-marché séance 2 semaine 47 — JOUR J NVIDIA (print 22:00 ET / 04:00 CET mercredi) — V174 infra_ia lue (74ᵉ angle : boucle de financement circulaire + squeeze mémoire price-confirmed) — HOLD × 4 par défaut mécanique (12ᵉ lecture consécutive, nouveau record cycle) — session 186
+
+#### Contexte de marché (08:20 CET)
+
+- **Date / heure** : mardi 17 novembre 2026, 07:20 UTC (08:20 CET). Ouverture Euronext à 09:00 CET (dans ~40 min). **Jour J Nvidia** (T3 earnings after-close US ce soir 22:00 ET / 04:00 CET mercredi). 170ᵉ entrée journal (session 186). Première séance ouvrée post-ouverture lundi (16/11 clôturée sans mouvement matériel |Δ| < 0,5 % hypothèse, aucune alerte stop déclenchée).
+- **Régime en FADE confirmé** : UST 10y **~4,86-4,88 %** (vs ~5,00-5,05 % vendredi 13/11 = **-14 bp cumulés sur 2 séances** sans data macro adverse). Lecture : digestion mécanique post-SIFMA (régime higher-for-longer reste **narrativement verrouillé v170 🔒** mais marché commence à pricer un *niveau* plus bas que les 5 % touchés jeudi 12/11). Oscillation attendue autour 4,85-4,95 % en attendant PPI 19/11.
+- **Futures Europe pré-ouverture (07:15 UTC)** : CAC 40 fut **+0,22 %**, DAX fut **+0,28 %**, EURO STOXX 50 fut **+0,25 %**. Ouverture légèrement positive — risk-on timide pré-Nvidia (positionnement neutre à légèrement bull, pas de défense agressive).
+- **Overnight Asie** : Nikkei **+0,45 %** (bid tech pré-Nvidia, yen 155,0), Hang Seng **+0,78 %** (tech + semi), Shanghai Comp **+0,12 %**, KOSPI **+1,10 %** (**SK Hynix +2,8 %** — confirmation squeeze mémoire v174 price-confirmed).
+- **Wall Street clôture lundi 17/11** (hypothèse reconduite) : S&P 500 ~+0,15 %, Nasdaq ~+0,25 %, Dow ~flat — positionnement pré-Nvidia neutre. VIX ~17,5 (normalisé, pas de prime de risque excessive).
+- **FX / commodities (07:15 UTC)** : EUR/USD **1,0758** (+0,15 %, léger fade du dollar sur 10y plus bas), Brent **74,55 $/bbl** (+0,33 %), or spot **2 765 $/oz** (+0,25 %), électricité France H+1 **72 €/MWh**.
+- **v174 infra_ia publiée mardi 07:14 UTC — 74ᵉ angle (98ᵉ test de la loi, marqueur 🔁)** : *le matin du jour J Nvidia, deux faits DURS lus — tous deux non-notants mais pour des raisons inverses*. Trois lectures opérationnelles :
+  1. **Boucle de financement circulaire — fait de numérateur Mag-7 (non-notant car hors-panier)** : ~13 Md$ plus-values non-réalisées dopant le résultat Nvidia, >40 Md$ equity IA 2026 dont ~30 Md$ sur OpenAI, backstop CoreWeave ~6,3 Md$. **Vindique la thèse « acheter la pelle, pas le glamour »** = le péage-cash (SU, AI, DG, SAN) encaisse que la boucle tienne ou casse. Si demain la boucle se révèle plus fragile → le glamour tech se dé-note, le péage structurel reste exogène. Confirmation que SU n'est **pas** exposé au risque de contrepartie Nvidia-Oracle-OpenAI-CoreWeave (SU vend à Google/Microsoft/Meta directement, cash-paye).
+  2. **Squeeze mémoire price-confirmed — numérateur d'OFFRE dur ET pricé** : NAND +600 % depuis sept-25, DRAM +55-60 % T1'26, SK Hynix 2026 sold-out, Micron HBM CY2026 verrouillé, pénurie jusqu'à fin 2027. **1ʳᵉ fois que la condition d'upgrade est formellement réunie** sur la couche mémoire (Micron, SK Hynix). MAIS : décote élargie car les noms ont rallié (plus-haut 25 ans) → **tenu, pas rehaussé** à cette lecture ; upgrade Micron **pré-engagé sur repli**. Pas d'impact portefeuille détenu (Micron / SK Hynix non-détenus) mais lecture structurelle qui vindique indirectement le capex-IA qui tire SU.
+  3. **Pistes neoclouds GPU-collatéralisés & glamour Nvidia explorées & rejetées** : CoreWeave/Nebius/IREN (foil levé + circulaire + shorts sur les boucles crédit + concentration) et glamour Nvidia (key-person + qualité-de-résultat dopée par la mark-to-market des participations) → **pas le péage neutre payé-cash** → pas de 34ᵉ ligne. Discipline v170 maintenue : on prend le péage, pas le glamour.
+  4. **0 mouvement d'indice dur (11ᵉ lecture consécutive, nouveau record du cycle, 98ᵉ test de la loi).** Panier 33 + cœur + 3 watch reconduit à carry. Soitec **re-daté J-2 → J-1** (imprime demain mercredi 18/11 = seul numérateur re-notable du panier en semaine 47).
+- **Agenda du jour — mardi 17/11** :
+  - Pas de data macro majeure européenne (indices ZEW Allemagne / sentiment économique CE sont secondaires).
+  - **14:30 CET** : Mises en chantier + permis construire US octobre (secondaire).
+  - **15:15 CET** : Production industrielle US octobre (secondaire).
+  - **15:30 CET** : ouverture Wall Street.
+  - **Pas de speech Fed** (blackout pré-FOMC verrouillé jusqu'au 9/12).
+  - **22:00 ET (04:00 CET mercredi) — NVIDIA T3 EARNINGS** : LE catalyseur Mag-7 du cycle. Lecture overnight mercredi matin ~06:00 CET.
+
+#### État du portefeuille (pré-ouverture 07:20 UTC, cristallisation fixing vendredi 13/11 17:35 CET reconduite pour la 4ᵉ fois — lundi fixing hypothèse |Δ| < 0,5 %)
+
+| Ligne | Qté | PRU (€) | Cours pré-ouv. (€) | Valeur (€) | P&L (€) | P&L (%) | Marge stop |
+|-------|-----|---------|--------------------|------------|---------|---------|------------|
+| AI.PA | 2 | 162,00 | 189,80 | 379,60 | +55,60 | +17,16 % | +7,89 % (175 €) |
+| SAN.PA | 3 | 87,00 | 97,45 | 292,35 | +31,35 | +12,01 % | — (pas de stop) |
+| SU.PA | 1 | 220,00 | 345,20 | 345,20 | +125,20 | +56,91 % | +3,04 % (335 €) |
+| DG.PA | 1,70 | 122,80 | 183,40 | 311,78 | +102,02 | +49,39 % | +3,03 % (178 €) |
+| **Investi** | | | | **1 328,93** | **+314,17** | — | |
+| **Cash** | | | | **12,52** | | | |
+| **Total** | | | | **1 341,45** | **+341,45** | **+34,15 %** | |
+
+#### Décisions — mardi 17/11 pré-marché séance 2 semaine 47 (JOUR J NVIDIA)
+
+**1. HOLD × 4 LIGNES CONFIRMÉ POUR LA 12ᵉ LECTURE CONSÉCUTIVE — NOUVEAU RECORD CYCLE.** Séance pré-numérateur Mag-7 majeur (Nvidia T3 after-close) = discipline v157/v165 impose explicitement la non-action : *rien d'anti-économique avant un numérateur*. Toute vente ou achat aujourd'hui serait du **pari directionnel** sur le résultat Nvidia (gagné ou perdu dans 12h), pas du trading structurel. La loi *« ne pas re-noter sur numérateur futur »* est à son 98ᵉ test consécutif (v174 l'a franchi sans nouveau mouvement d'indice dur).
+
+**2. FADE 10Y ~4,86-4,88 % = CONTEXTE FAVORABLE SU, MAIS PAS DE RENFORCEMENT ANTICIPATIF.** La baisse cumulée de -14 bp sur 2 séances (depuis vendredi 5,00-5,05 %) est **mécanique** (digestion post-SIFMA) et non-data (pas de dovish surprise Fed, PPI non-encore imprimé). Lecture : fenêtre #34bis (SU > 365 €) théoriquement ré-ouvrable **mais** conditionnée à PPI 19/11 jeudi (seule confirmation data du fade). Pas d'action aujourd'hui — on attend que PPI valide ou invalide le fade. **SU 345,20 € reste ancré au PRU 220 € = +56,91 % latent, très robuste.**
+
+**3. SOITEC RE-DATÉ J-1 = DEMAIN MERCREDI IMPRESSION (seul numérateur re-notable panier semaine 47).** Impact portefeuille détenu : nul (Soitec non-détenu). Lecture sectorielle : beat → confirmation cycle semi EU → **SU bénéficiaire indirect** (capex IA européen + thèse mouvement RRX #33 vindiquée) ; miss → questionnement cycle qui ouvrirait fenêtre re-entry différée sur semi EU (sans urgence, cash 12,52 € insuffisant de toute façon).
+
+**4. AUCUN ACHAT POSSIBLE AUJOURD'HUI.** Cash 12,52 € reste insuffisant pour toute nouvelle ligne significative. RRX #33 (candidat watchlist v172/v173/v174) nécessite ~153 € minimum. Pas de rotation anti-économique sur une ligne existante pour libérer du cash : ex-div SAN T4 (~+6 €) attendu fin novembre/début décembre reste le vecteur naturel de reconstitution.
+
+**5. STOPS MAINTENUS INCHANGÉS POUR LA 12ᵉ LECTURE** : SU.PA **335 €** trailing, DG.PA **178 €** technique, AI.PA **175 €** trailing. **Attention particulière SU pour la séance d'aujourd'hui** : si le tape pré-Nvidia (dernière séance avant le print) pousse SU vers 335 € sur de la dé-risking tactique → **déclenchement mécanique automatique, vente sèche, cash reconstitué ~335 €, plancher garanti +21,34 % activé**. Scénarios du jour :
+  - **SU tient 340-350 €** (cote 65 %) : HOLD mécanique, stop 335 € actif, portefeuille prêt à absorber overnight Nvidia.
+  - **SU recule vers 338-342 €** (cote 25 %) : surveillance rapprochée, préparation au test stop sur mouvement J-0 baissier.
+  - **SU casse 335 €** (cote 10 %) : stop touché mécaniquement, sortie sèche, re-déploiement conditionnel post-Nvidia selon verdict (si beat → fenêtre re-entry SU à meilleur prix ; si miss → re-déploiement défensif SAN + attente PPI).
+
+**6. CARNET 5 SEUILS ACTIFS — CONFIGURATION JOUR J NVIDIA INCHANGÉE** :
+- Stops SU 335, DG 178, AI 175 : trois seuils mécaniques automatiques, inchangés 12ᵉ lecture.
+- Seuils #36-#37 : bornes extérieures long-terme reconduites.
+- Conditionnel #38 (renforcement SAN sur stop SU + 10y > 5,05 % persistant) : désactivé temporairement (10y en fade, condition de déclenchement éloignée). Reste inscrit semaine 47 au cas où PPI 19/11 relance le régime.
+- Fenêtre #34bis (SU > 365 €) : théoriquement ré-ouvrable si fade 10y confirmé par PPI dovish jeudi, **mais** conditionnelle et reportée au verdict PPI.
+
+**7. 170ᵉ ENTRÉE JOURNAL — SESSION 186 MARDI 17/11 PRÉ-MARCHÉ SÉANCE 2 SEMAINE 47.** Prochaine entrée : **mardi 17/11 fixing 17:35 CET séance 2 semaine 47**, sinon intervention intraday sur mouvement matériel |Δ| > 0,8 % ou verdict Nvidia overnight (lecture mercredi matin pré-ouverture).
+
+#### Explication synthétique des mouvements — HOLD × 4 PAR DÉFAUT MÉCANIQUE JOUR J NVIDIA (12ᵉ LECTURE, NOUVEAU RECORD CYCLE)
+
+**Aucun mouvement actif. 12ᵉ lecture consécutive HOLD = nouveau record cycle, discipline qui s'enracine à J-0 du catalyseur Mag-7 majeur.** Trois lectures opérationnelles pour cette séance 2 semaine 47 :
+
+1. **Le jour J Nvidia impose la non-action par discipline v157/v165, pas par paresse.** Nvidia T3 after-close ce soir = asymétrie informationnelle totale : le résultat et la guidance 2027 (reasoning-models volumes, Blackwell delivery, China export status) sont **connus dans 12h**. Toute vente aujourd'hui réalise une perte d'optionalité (si beat → SU + capex IA bénéficiaires indirects) ; tout achat aujourd'hui paie la prime d'un rallye possible mais incertain. La règle *« ne pas re-noter sur numérateur futur »* est à son 98ᵉ test consécutif — c'est exactement ce test qu'elle est faite pour traverser. **Le portefeuille est configuré pour encaisser passivement** le verdict Nvidia : les 4 lignes sont du péage structurel (gaz industriels pour fabs, yield obligataire-équivalent, capex IA électrique, concession inflation-linked) qui tient que le glamour tienne ou casse.
+
+2. **Le fade 10y (-14 bp sur 2 séances) sans data n'est PAS un signal — c'est de la digestion mécanique.** Vendredi fixing 10y touchait ~5,00-5,05 %, ce matin ~4,86-4,88 %. Pas de dovish Fed (blackout pré-FOMC), pas de data cooling (PPI sort jeudi), pas de bid-flight (le dollar est stable à 1,0758). C'est **du positionnement court-couvert** après la poussée à 5 % jeudi 12/11, probablement combiné à une préférence de collatéral pré-Nvidia. Lecture disciplinée : **régime higher-for-longer reste narrativement verrouillé v170 🔒 tant que PPI 19/11 n'a pas infirmé**. Agir aujourd'hui sur le fade reviendrait à acheter un *mouvement mécanique* comme un *mouvement de régime*, ce que v170 interdit explicitement.
+
+3. **V174 clôt la boucle « péage-cash » sur un jour J : la boucle de financement Nvidia-Oracle-OpenAI-CoreWeave devient visible dans le prix.** Les ~13 Md$ de plus-values non-réalisées qui dopent le résultat Nvidia, les ~30 Md$ d'equity Oracle→OpenAI, le backstop CoreWeave ~6,3 Md$ — tous ces flux sont **circulaires** (Nvidia vend à des clients que Nvidia finance, qui louent à Oracle/CoreWeave, qui achètent à Nvidia). Lecture portefeuille : **SU est en-dehors de cette boucle** (vend à Google/Microsoft/Meta hyperscalers cash-payeurs, pas aux neoclouds GPU-collatéralisés). Si la boucle craque demain → le glamour (CRWV, NBIS, IREN) s'effondre, SU reste. Si la boucle tient → SU bénéficie du buildout continu. **L'asymétrie est explicitement positive pour SU dans les deux scénarios** — ce qui explique précisément pourquoi on ne vend pas SU pré-Nvidia.
+
+**Décisions concrètes mardi 17/11 pré-marché séance 2 semaine 47 (JOUR J NVIDIA)** :
+- **HOLD × 4 lignes** reconduit mécaniquement (12ᵉ lecture consécutive, nouveau record cycle)
+- **Stops maintenus inchangés** (SU 335, DG 178, AI 175) — reconduction automatique pour la séance 2 semaine 47
+- **Aucun achat / aucune vente** : pré-marché J-0 Nvidia + cash 12,52 € insuffisant + discipline v157/v165 (ne pas re-noter sur numérateur futur) impose HOLD
+- **Panier 33 convictions** reconduit à carry (v174 = 0 mouvement d'indice dur, 98ᵉ test, 11ᵉ lecture-indice consécutive sans mouvement, record cycle)
+- **Thèse tactique SAN** inscrite, validation semaine 47 sur séances relative-strength à suivre (séance 1 lundi prolongée)
+- **Plancher garanti +21,34 %** reconduit à l'identique (SU stop 335 + DG stop 178 × 1,70 + ex-div SAN +5,90 + capital 1 000 = 1 213,50 €)
+- **Carnet 5 seuils actifs + conditionnel #38** reportés à fixing séance 2 (#38 désactivé temporairement sur fade 10y, fenêtre #34bis en attente verdict PPI jeudi)
+- **Ratio mécanique 32/32 (100 %)** inchangé
+- **Ratio anti-ouverture #2 112/112 (100 %)** armée pour 09:00 CET aujourd'hui
+- **RRX #33 au watchlist** : candidat prioritaire re-déploiement ex-div SAN T4, non-actionnable aujourd'hui
+- **Micron / SK Hynix watchlist conditionnel v174** : upgrade pré-engagé sur repli (mémoire squeeze price-confirmed), mais non-actionnable cash 12,52 €
+
+#### Plan post-Nvidia (verdict overnight → lecture mercredi 18/11 matin)
+
+**Scénario A — Nvidia BEAT + guidance Blackwell forte (cote 55 %)** :
+- Rallye tech attendu à l'ouverture Wall Street mercredi 15:30 CET, pré-ouverture Euronext ~09:00 CET avec gap positif estimé +1,5-2,5 %.
+- **SU rallie potentiellement vers 352-358 €** (fade 10y + bid capex IA structurel). Fenêtre #34bis théoriquement rouverte **si** PPI jeudi confirme cooling. HOLD mécanique maintenu — **pas de écrêtage sur rallye** (loi laisser courir les gagnants validée par v170).
+- AI, SAN, DG : HOLD continu, aucun impact direct.
+- **Soitec mercredi 07:30 CET** : si beat → double confirmation cycle semi EU (après Nvidia beat) → SU vindiqué doublement.
+
+**Scénario B — Nvidia IN LINE / guidance neutre (cote 30 %)** :
+- Pas de gap significatif à l'ouverture Euronext mercredi.
+- **SU reste 340-350 €** sur consolidation. HOLD mécanique. Pas de nouvelle action.
+- Lecture de fond : la boucle de financement circulaire v174 tient mais sans élargissement — statu quo.
+- Soitec mercredi devient le vrai juge de paix cycle semi EU.
+
+**Scénario C — Nvidia MISS ou guidance MOLLE (cote 15 %)** :
+- Sell-off tech attendu à l'ouverture Wall Street mercredi, gap négatif Euronext estimé -1,0-2,5 %.
+- **SU recule potentiellement vers 335-340 €** = **test stop SU 335 €**. Si touché → sortie sèche, cash reconstitué ~335 €, plancher garanti +21,34 % activé mécaniquement.
+- Post-déclenchement : re-déploiement conditionnel sur (a) renforcement SAN si thèse relative-strength se confirme, (b) attente PPI 19/11 avant arbitrage RRX #33 ou renfort défensif.
+- AI, SAN, DG : HOLD continu, aucun impact matériel (défensifs protégés).
+
+**Prochaine réévaluation** : **mardi 17/11 fixing 17:35 CET séance 2 semaine 47**, sinon intervention intraday sur mouvement matériel |Δ| > 0,8 % portefeuille, sinon lecture overnight Nvidia **mercredi 18/11 ~06:00-07:00 CET pré-ouverture séance 3** (couplée à print Soitec 07:30 CET). Stops maintenus actifs : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Carnet **5 seuils actifs** + conditionnel #38 désactivé temporairement + fenêtre #34bis conditionnelle PPI + thèse tactique SAN inscrite + **RRX #33 au watchlist** + **Micron / SK Hynix au watchlist conditionnel** (squeeze mémoire price-confirmed v174, upgrade pré-engagé sur repli). Cash **12,52 €**. **Ratio mécanique 32/32 (100 %), ratio anti-ouverture #2 112/112 (100 %) armée pré-ouverture séance 2 semaine 47, plancher +21,34 % garanti, portefeuille 1 341,45 € (+34,15 %) cristallisé** (170ᵉ entrée journal — mardi 17/11 pré-marché 07:20 UTC, séance 2 semaine 47, v174 infra_ia lue (74ᵉ angle : boucle de financement circulaire + squeeze mémoire price-confirmed, 98ᵉ test, 0 mouvement d'indice dur 11ᵉ lecture record cycle, Soitec re-daté J-1), HOLD × 4 par défaut mécanique 12ᵉ lecture consécutive nouveau record cycle). **Signal du mardi pré-marché J-0 Nvidia : la 12ᵉ lecture HOLD consécutive = la discipline encaisse le jour J sans avoir à décider, le portefeuille configuré pour encaisser que la boucle de financement tienne ou casse est *passivement optimal* pour le verdict overnight, l'asymétrie est explicitement positive pour SU dans les deux scénarios.**
