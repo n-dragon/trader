@@ -15139,3 +15139,69 @@ Trois lectures opérationnelles :
 **Horizon J-18 FOMC 9/12** : scénario modal **hausse 25 bp 76-84 % pricée** (inchangé-cohérent avec régime v170 + PPI cœur +0,5 % m/m 2ᵉ mois), pause 15-20 %, baisse ~0 %. Pas de ré-architecture portefeuille avant FOMC. **Re-déploiement cash ex-div SAN T4 (~+6 €)** candidat prioritaire semaine 48 — options hiérarchisées : (a) Nexans #34 v175 (cheap/Euronext, douve HVDC) prio 1 par défaut, (b) renfort SAN tactique si relative-strength validée, (c) RRX #33 v172 si prix ≤ 170 $, (d) attente fixing FOMC pour clarification régime (option passive).
 
 **Prochaine réévaluation** : **lundi 23/11 ~07:15 UTC pré-marché séance 1 ouverture semaine 48** (lecture live fixing clôture semaine 47 cristallisé), sinon révision dimanche 22/11 session 188-bis uniquement si v176 infra_ia publiée. Aucune intervention intraday possible (marchés fermés). Stops maintenus actifs : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Carnet **5 seuils actifs** + conditionnel #38 désactivé + fenêtre #34bis reportée FOMC + thèse tactique SAN inscrite + **RRX #33 au watchlist** + **Nexans #34 nouveau au watchlist prio 1** + **Micron / SK Hynix watchlist conditionnel prio 3**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %), ratio anti-ouverture #2 115/115 (100 %) consolidé clôture semaine 47, plancher +21,34 % garanti, portefeuille 1 341,45 € (+34,15 %) cristallisé** (172ᵉ entrée journal — samedi 21/11 week-end 08:35 UTC, jour non-ouvré #1, HOLD × 4 par défaut mécanique, **14ᵉ lecture consécutive = nouveau record cycle**, runbook semaine 48 posé). **Signal du week-end clôture semaine 47 post-double-beat : jour non-ouvré = discipline s'enracine sans effort = cristallisation du résultat semaine 47 (robustesse validée empiriquement +34,15 % sous Nvidia BLOWOUT + Soitec BEAT absorbés sans re-noter), l'asymétrie « acheter la pelle, pas le glamour » (v170) tient sous le test de deux beats consécutifs positifs.**
+
+---
+
+### 2026-11-22 08:15 UTC — Dimanche 22/11 — WEEK-END JOUR NON-OUVRÉ #2 — J-1 OUVERTURE SEMAINE 48 — HOLD × 4 RECONDUIT (15ᵉ LECTURE CONSÉCUTIVE, NOUVEAU RECORD CYCLE) — session 188-bis
+
+#### Contexte — jour non-ouvré #2, J-1 ouverture semaine 48 pré-Thanksgiving
+
+- **Date / heure** : dimanche 22 novembre 2026, 08:15 UTC (09:15 CET). **Marchés fermés** (Euronext, NYSE/Nasdaq, LSE, Xetra, TSE) jusqu'à lundi 23/11 09:00 CET (dans ~24 h). **Aucune exécution possible** — entrée minimale de reconduction mécanique. 173ᵉ entrée journal (session 188-bis).
+- **Pas de v176 infra_ia publiée ce week-end** : la dernière édition reste **v175** (vendredi 20/11, 75ᵉ angle câble HVDC, Nexans #34 ajoutée ligne 34, Prysmian rejeté premium). La publication week-end n'était pas pré-engagée en session 188, et aucun fait de marché neuf (pas de speech Fed en blackout pré-FOMC, pas de G7/G20, pas d'élection) ne requiert une relecture structurelle anticipée. **Discipline du journal respectée** : *un dimanche sans nouvelle édition infra_ia = reconduction mécanique sans lecture rajoutée*.
+- **Pas d'event-risk week-end identifié post-samedi** : pas de speech Fed (blackout pré-FOMC verrouillé jusqu'au 9/12), pas de sommet géopolitique dur, pas de data macro majeure Japon/USA en pré-ouverture lundi. Agenda Asie lundi matin (secondaire) : exportations Thaïlande, **LPR Chine** (taux préférentiel). Premier catalyseur daté semaine 48 US : **PMI flash Markit novembre lundi 23/11 15:45 CET** (secondaire, non-décisionnel hors surprise ±3 pts).
+- **Lecture structurelle minimale** : la cristallisation du résultat semaine 47 (double-beat Nvidia BLOWOUT + Soitec BEAT absorbés sans re-noter, portefeuille **+34,15 %** cristallisé) tient 48 h de verrouillage mécanique week-end. **15ᵉ lecture HOLD consécutive = 12 séances ouvrées + 3 jours non-ouvrés cumulés** (lun. 16 → dim. 22 du cycle courant).
+
+#### État du portefeuille (fixing cristallisé vendredi 13/11 17:35 CET, reconduit week-end dimanche 22/11 08:15 UTC — 9ᵉ reconduction)
+
+| Ligne | Qté | PRU (€) | Cours fixing (€) | Valeur (€) | P&L (€) | P&L (%) | Marge stop |
+|-------|-----|---------|------------------|------------|---------|---------|------------|
+| AI.PA | 2 | 162,00 | 189,80 | 379,60 | +55,60 | +17,16 % | +7,89 % (175 €) |
+| SAN.PA | 3 | 87,00 | 97,45 | 292,35 | +31,35 | +12,01 % | — (pas de stop) |
+| SU.PA | 1 | 220,00 | 345,20 | 345,20 | +125,20 | +56,91 % | +3,04 % (335 €) |
+| DG.PA | 1,70 | 122,80 | 183,40 | 311,78 | +102,02 | +49,39 % | +3,03 % (178 €) |
+| **Investi** | | | | **1 328,93** | **+314,17** | — | |
+| **Cash** | | | | **12,52** | | | |
+| **Total** | | | | **1 341,45** | **+341,45** | **+34,15 %** | |
+
+> *Note méthodologique :* 9ᵉ reconduction de la cristallisation fixing vendredi 13/11 (lundi 16/11 → dimanche 22/11, |Δ| cumul supposé < 1,5 %, aucun stop touché). Lecture live fixing clôture semaine 47 à consolider en session 189 lundi 23/11 pré-marché.
+
+#### Décisions — dimanche 22/11 week-end (jour non-ouvré #2, J-1 semaine 48)
+
+**1. AUCUNE EXÉCUTION POSSIBLE — MARCHÉS FERMÉS.** Euronext, NYSE/Nasdaq, LSE, Xetra, TSE tous fermés jusqu'à lundi 23/11 09:00 CET. HOLD × 4 par défaut mécanique, **15ᵉ lecture consécutive = nouveau record cycle** (1 palier au-dessus du record établi samedi en session 188).
+
+**2. PAS DE V176 INFRA_IA — RECONDUCTION SANS RELECTURE STRUCTURELLE.** La semaine 47 a imprimé deux numérateurs datés positifs (Nvidia BLOWOUT + Soitec BEAT) absorbés en v175 vendredi, confirmés en non-mouvement samedi en session 188 (revue hebdo + runbook semaine 48). Aucune piste neuve explorée dimanche : **discipline respectée, reconduction mécanique sans effort**. Le panier 34 convictions (gisement v175 : Nexans #34 ajoutée, 99ᵉ test de la loi tenu, 0 mouvement d'indice dur 12ᵉ lecture) reste la carte opérationnelle active pour semaine 48.
+
+**3. STOPS MAINTENUS INCHANGÉS POUR LA 15ᵉ LECTURE** : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Aucune révision envisageable sur un jour non-ouvré. Reconduction automatique pour lundi matin pré-marché. **Resserrage éventuel SU** (vers 340-342 € si fixing réel SU > 352 €) reporté à session 189 lundi 23/11 sur lecture live tape.
+
+**4. WATCHLIST RE-DÉPLOIEMENT EX-DIV SAN T4 INCHANGÉE** : prio 1 **Nexans #34** (v175, cheap/Euronext, douve HVDC, fwd ~16× 2027, carnet HV record 6,7 Md€), prio 2 **RRX #33** (v172, si prix d'entrée ≤ 170 $), prio 3 **Micron / SK Hynix** (v174, conditionnel sur repli). Décision arbitrée mardi 24/11 après lecture ex-div SAN effective (~+6 € cash estimé) + fixing SAN relative-strength validé/infirmé sur 3 séances semaine 47.
+
+**5. CARNET 5 SEUILS — CONFIGURATION WEEK-END INCHANGÉE** :
+- **Stops SU 335, DG 178, AI 175** : trois seuils mécaniques automatiques, inchangés 15ᵉ lecture.
+- **Seuils #36-#37** : bornes extérieures long-terme reconduites.
+- **Conditionnel #38** (renforcement SAN sur stop SU + 10y > 5,05 % persistant) : désactivé (10y ~4,9-5,0 % ne touche pas 5,05 % persistant), reste inscrit semaine 48.
+- **Fenêtre #34bis** (SU > 365 €) : reportée au FOMC 9/12 (10y re-ancré après fade avorté).
+
+**6. 173ᵉ ENTRÉE JOURNAL — SESSION 188-bis DIMANCHE 22/11 WEEK-END JOUR NON-OUVRÉ #2.** Prochaine entrée : **lundi 23/11 ~07:15 UTC pré-marché séance 1 ouverture semaine 48** (session 189, lecture live fixing clôture semaine 47 cristallisé, 116ᵉ anti-ouverture #2 armée 09:00 CET). Aucune intervention intraday possible (marchés fermés dimanche).
+
+#### Explication synthétique des mouvements — HOLD × 4 par défaut mécanique (jour non-ouvré #2, 15ᵉ lecture consécutive, J-1 semaine 48)
+
+**Aucun mouvement actif possible. 15ᵉ lecture consécutive HOLD = 12 séances ouvrées + 3 jours non-ouvrés cumulés sur le cycle actuel = nouveau record 1 palier au-dessus de samedi.** Trois lectures opérationnelles pour ce dimanche J-1 ouverture semaine 48 :
+
+1. **Un dimanche sans nouvelle édition infra_ia = jour de pure cristallisation discipline.** La semaine 47 est close, le double-beat est absorbé sans re-noter (loi v175 tenue à son 99ᵉ test), les stops mécaniques tiennent par eux-mêmes, et aucun fait de marché neuf ne requiert une relecture anticipée. Le non-agir du dimanche prolonge mécaniquement la série au 15ᵉ palier sans dépense cognitive — **c'est la meilleure utilisation possible d'un jour non-ouvré #2** : verrouiller le résultat sans tentation discrétionnaire, et préserver toute l'énergie décisionnelle pour la lecture live du fixing lundi.
+
+2. **La configuration pelles-cash neutres-de-couche reste empiriquement vindiquée après 48h de digestion.** SU (capex IA structurel, +56,91 %), DG (concession indexée, +49,39 %), AI (gaz industriels, +17,16 %), SAN (yield défensif, +12,01 %) couvrent les 4 étages de robustesse régime (higher-for-longer intact PPI-confirmé, 10y re-ancré ~4,9-5,0 %, hausse Fed 9/12 76-84 % pricée). Portefeuille +34,15 % cumulé depuis ouverture, plancher garanti +21,34 % intact. **Le dimanche ajoute au bilan empirique : la discipline tient sans intervention sur 2 jours non-ouvrés consécutifs.**
+
+3. **La semaine 48 s'ouvre demain avec le catalyseur ex-div SAN mardi en ligne de mire.** Le re-déploiement cash ex-div SAN T4 (~+6 €) sera le premier événement décisionnel du cycle à J-18 FOMC. Trois priorités hiérarchisées prêtes à instruire : **(a) Nexans #34** cheap/Euronext v175 (défaut par défaut), **(b) renfort SAN tactique** si relative-strength validée lundi, **(c) RRX #33** v172 (si prix ≤ 170 $). L'arbitrage se fera mardi 24/11 sur base : (i) niveau cash post-ex-div effectif, (ii) régime 10y à J-16 FOMC, (iii) prix d'entrée Nexans à la date.
+
+**Décisions concrètes dimanche 22/11 week-end J-1 semaine 48** :
+- **HOLD × 4 lignes** reconduit mécaniquement — jour non-ouvré #2, aucune exécution possible (15ᵉ lecture consécutive, nouveau record cycle)
+- **Stops maintenus inchangés** (SU 335, DG 178, AI 175) — reconduction automatique pour lundi matin
+- **Aucun achat / aucune vente** : marchés fermés
+- **Panier 34 convictions v175 reconduit à carry** (Nexans #34 ajoutée nette vendredi, Soitec tenu 8 catalyseur tiré positif, 99ᵉ test de la loi)
+- **Plancher garanti +21,34 %** reconduit à l'identique (SU stop 335 + DG stop 178 × 1,70 + ex-div SAN +5,90 + capital 1 000 = 1 213,50 €)
+- **Carnet 5 seuils actifs + conditionnel #38** reportés lundi pré-marché (#38 désactivé, fenêtre #34bis reportée FOMC 9/12)
+- **Ratio mécanique 32/32 (100 %)** inchangé
+- **Ratio anti-ouverture #2 115/115 (100 %)** consolidé clôture semaine 47, 116ᵉ armée demain pré-ouverture
+- **Watchlist re-déploiement ex-div SAN T4** reconduite (Nexans #34 prio 1 par défaut, renfort SAN prio 1-bis si RS validée, RRX #33 prio 2, Micron/SK Hynix prio 3 conditionnel)
+
+**Prochaine réévaluation** : **lundi 23/11 ~07:15 UTC pré-marché séance 1 ouverture semaine 48** (lecture live fixing clôture semaine 47 cristallisé, session 189, 116ᵉ anti-ouverture #2 armée 09:00 CET). Aucune intervention intraday possible dimanche (marchés fermés). Stops maintenus actifs : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Carnet **5 seuils actifs** + conditionnel #38 désactivé + fenêtre #34bis reportée FOMC + thèse tactique SAN inscrite + **Nexans #34 au watchlist prio 1** + **RRX #33 au watchlist prio 2** + **Micron / SK Hynix watchlist conditionnel prio 3**. Cash **12,52 €**. **Ratio mécanique 32/32 (100 %), ratio anti-ouverture #2 115/115 (100 %) consolidé clôture semaine 47, plancher +21,34 % garanti, portefeuille 1 341,45 € (+34,15 %) cristallisé** (173ᵉ entrée journal — dimanche 22/11 week-end 08:15 UTC, jour non-ouvré #2, HOLD × 4 par défaut mécanique, **15ᵉ lecture consécutive = nouveau record cycle, 1 palier au-dessus de samedi**). **Signal du dimanche week-end J-1 ouverture semaine 48 : le non-ouvré #2 ancre la discipline sans effort = cristallisation prolongée du résultat semaine 47 (double-beat absorbé sans re-noter, +34,15 % cumulé), la semaine 48 s'ouvre demain avec le catalyseur ex-div SAN T4 mardi en ligne de mire + PMI flash Markit lundi secondaire + FOMC J-18 en toile de fond.**
