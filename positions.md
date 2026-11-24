@@ -11,11 +11,11 @@
 | Schneider Electric | SU.PA | 1 | 220,00 | 345,20 | +125,20 | +56,91% |
 | Vinci | DG.PA | 1,70 | 122,80 | 183,40 | +103,02 | +49,39% |
 
-**Liquidités disponibles :** 12,52 € (inchangé — cash SAN ex-div T3 conservé intact, ex-div T4 attendu demain mardi 24/11 ~+6 €)  
-**Valeur investie (fixing Euronext vendredi 13/11 17:35 CET séance 5 clôture semaine 46, reconduit pré-marché lundi 23/11 07:18 UTC séance 1 ouverture semaine 48 — 10ᵉ reconduction consécutive, lecture live fixing clôture semaine 47 à consolider en séance ce soir 17:35 CET) :** 1 328,93 €  
-**Valeur totale du portefeuille :** 1 341,45 € (**+34,15 %** depuis ouverture — **PRÉ-MARCHÉ LUNDI 23/11 07:18 UTC, SÉANCE 1 OUVERTURE SEMAINE 48 PRÉ-THANKSGIVING — J-1 EX-DIV SAN T4 (MARDI 24/11, ~+6 € CASH), J-18 FOMC 9/12 (HAUSSE 76-84 % PRICÉE, HIGHER-FOR-LONGER PPI-CONFIRMÉ), J+5 NVIDIA BLOWOUT + J+4 SOITEC BEAT (CATALYSEURS TIRÉS POSITIFS ABSORBÉS SANS RE-NOTER 100ᵉ TEST DE LA LOI), RÉGIME 10Y ~4,9-5,0 % RE-ANCRÉ, PMI FLASH MARKIT NOV 15:45 CET (SECONDAIRE), LPR CHINE ASIA SESSION (SECONDAIRE), V175 INFRA_IA RECONDUITE (PAS DE V176 PUBLIÉE WEEK-END — PANIER 34 CONVICTIONS INCHANGÉ), 116ᵉ ANTI-OUVERTURE #2 ARMÉE 09:00 CET, HOLD × 4 PAR DÉFAUT MÉCANIQUE 16ᵉ LECTURE CONSÉCUTIVE (NOUVEAU RECORD CYCLE)**)
+**Liquidités disponibles :** 12,52 € (inchangé pré-ouverture — cash SAN ex-div T3 conservé intact, **ex-div SAN T4 détaché ce matin 24/11 à l'ouverture 09:00 CET, +5,90 € de cash en settlement J+2 → ~18,42 € disponibles pour arbitrage dès que crédité**)  
+**Valeur investie (fixing Euronext vendredi 13/11 17:35 CET séance 5 clôture semaine 46, reconduit pré-marché mardi 24/11 07:30 UTC séance 2 semaine 48 — 11ᵉ reconduction consécutive, lecture live fixing clôture semaine 47 lundi 17:35 CET à consolider en séance ce soir 17:35 CET post-détachement SAN T4) :** 1 328,93 €  
+**Valeur totale du portefeuille :** 1 341,45 € (**+34,15 %** depuis ouverture — **PRÉ-MARCHÉ MARDI 24/11 07:30 UTC, SÉANCE 2 SEMAINE 48 PRÉ-THANKSGIVING — JOUR EX-DIV SAN T4 (DÉTACHEMENT 09:00 CET, ~−1,97 €/TITRE SUR SAN, CASH +5,90 € SETTLEMENT J+2), J-17 FOMC 9/12 (HAUSSE 76-84 % PRICÉE, HIGHER-FOR-LONGER PPI-CONFIRMÉ), J+6 NVIDIA BLOWOUT + J+5 SOITEC BEAT (CATALYSEURS DIGÉRÉS SANS RE-NOTER 101ᵉ TEST DE LA LOI), RÉGIME 10Y ~4,9-5,0 % RE-ANCRÉ, PAS DE SPEECH FED (BLACKOUT J-17), AUCUN MACRO DUR SEMAINE 48 (PMI FLASH LUNDI DIGÉRÉ SANS SURPRISE), V175 INFRA_IA RECONDUITE (PAS DE V176 PUBLIÉE — PANIER 34 CONVICTIONS INCHANGÉ), 117ᵉ ANTI-OUVERTURE #2 ARMÉE 09:00 CET, HOLD × 4 PAR DÉFAUT MÉCANIQUE 17ᵉ LECTURE CONSÉCUTIVE (NOUVEAU RECORD CYCLE)**)
 
-> Stops actifs : SU.PA **335,00 €** trailing (marge +3,04 % sur SU 345,20 € fixing cristallisé), DG.PA **178,00 €** technique (marge +3,03 % sur DG 183,40 €), AI.PA **175,00 €** trailing (marge +7,89 % sur AI 189,80 €). Mise à jour : 2026-11-23 07:18 UTC (**lundi 23 novembre 2026 — PRÉ-MARCHÉ SÉANCE 1 OUVERTURE SEMAINE 48 PRÉ-THANKSGIVING, 116ᵉ ANTI-OUVERTURE #2 ARMÉE 09:00 CET, J-1 EX-DIV SAN T4 MARDI 24/11, J-18 FOMC 9/12, V175 RECONDUITE (PAS DE V176 WEEK-END), PANIER 34 CONVICTIONS INCHANGÉ, PMI FLASH MARKIT 15:45 CET SECONDAIRE, LPR CHINE SECONDAIRE**). Carnet **5 seuils actifs** inchangés : stops SU/DG/AI maintenus + #36-#37 reconduits + conditionnel #38 toujours désactivé (10y ~4,9-5,0 % ne touche pas 5,05 % persistant) + fenêtre #34bis SU > 365 € reportée FOMC. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé. Ratio anti-ouverture #2 116/116 (100 %) armée pré-ouverture séance 1 ouverture semaine 48.** **Plancher garanti maintenu à +21,34 %** (SU stop 335 € + DG stop 178 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = 1 213,50 €). 174ᵉ entrée journal (session 189 — lundi 23/11 pré-marché 07:18 UTC, séance 1 ouverture semaine 48, HOLD × 4 par défaut mécanique 16ᵉ lecture consécutive nouveau record cycle). **Prochaine réévaluation : lundi 23/11 fixing 17:35 CET séance 1 ouverture semaine 48 (lecture live fixing clôture semaine 47 consolidée + réaction PMI flash Markit), sinon intervention intraday sur mouvement matériel |Δ| > 0,8 % portefeuille**.
+> Stops actifs : SU.PA **335,00 €** trailing (marge +3,04 % sur SU 345,20 € fixing cristallisé), DG.PA **178,00 €** technique (marge +3,03 % sur DG 183,40 €), AI.PA **175,00 €** trailing (marge +7,89 % sur AI 189,80 €). Mise à jour : 2026-11-24 07:30 UTC (**mardi 24 novembre 2026 — PRÉ-MARCHÉ SÉANCE 2 SEMAINE 48 PRÉ-THANKSGIVING, 117ᵉ ANTI-OUVERTURE #2 ARMÉE 09:00 CET, JOUR EX-DIV SAN T4 (DÉTACHEMENT À L'OUVERTURE, SAN FIXING ~95,48 € POST-EX-DIV MÉCANIQUE, CASH +5,90 € J+2), J-17 FOMC 9/12, V175 RECONDUITE, PANIER 34 CONVICTIONS INCHANGÉ, PAS DE MACRO DUR AUJOURD'HUI**). Carnet **5 seuils actifs** inchangés : stops SU/DG/AI maintenus + #36-#37 reconduits + conditionnel #38 toujours désactivé (10y ~4,9-5,0 % ne touche pas 5,05 % persistant) + fenêtre #34bis SU > 365 € reportée FOMC. **Ratio mécanique 32/32 (100 % post-pivot FOMC 19 juin) — inchangé. Ratio anti-ouverture #2 117/117 (100 %) armée pré-ouverture séance 2 semaine 48.** **Plancher garanti maintenu à +21,34 %** (SU stop 335 € + DG stop 178 € × 1,70 + ex-div SAN +5,90 € + capital 1 000 € = 1 213,50 €) — **plancher inchangé puisque l'ex-div SAN T4 était déjà intégré dans le calcul depuis plusieurs sessions**. 175ᵉ entrée journal (session 190 — mardi 24/11 pré-marché 07:30 UTC, séance 2 semaine 48, HOLD × 4 par défaut mécanique 17ᵉ lecture consécutive nouveau record cycle). **Prochaine réévaluation : mardi 24/11 fixing 17:35 CET séance 2 semaine 48 (lecture live post-détachement SAN T4, confirmation SAN ~95,48 € + mesure relative-strength J-ex-div, décision arbitrage renfort-SAN vs Nexans #34 reportée J+1 settlement cash), sinon intervention intraday sur mouvement matériel |Δ| > 0,8 % portefeuille**.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -15273,3 +15273,80 @@ Trois lectures opérationnelles :
 - **Watchlist re-déploiement ex-div SAN T4 mardi 24/11** reconduite (Nexans #34 prio 1 par défaut, renfort SAN prio 1-bis si RS validée au fixing clôture ce soir, RRX #33 prio 2, Micron/SK Hynix prio 3 conditionnel)
 
 **Prochaine réévaluation** : **lundi 23/11 ~17:40 UTC fixing clôture séance 1 ouverture semaine 48** (lecture live fixing cristallisé semaine 47 + réaction PMI flash Markit + relative-strength SAN mesurée J-1 ex-div, session 190), sinon intervention intraday sur |Δ| portefeuille > 0,8 % (seuil anti-ouverture #2). Stops maintenus actifs : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Cash **12,52 €** (ex-div SAN T4 +~6 € attendu détachement mardi 24/11). **Ratio mécanique 32/32 (100 %), ratio anti-ouverture #2 116/116 (100 %), plancher +21,34 % garanti, portefeuille 1 341,45 € (+34,15 %) cristallisé** (174ᵉ entrée journal — lundi 23/11 pré-marché 07:18 UTC, séance 1 ouverture semaine 48 pré-Thanksgiving, HOLD × 4 par défaut mécanique, **16ᵉ lecture consécutive = nouveau record cycle, 1 palier au-dessus de dimanche**). **Signal du lundi pré-marché ouverture semaine 48 : rien ne change avant le fixing live ce soir et le détachement ex-div SAN demain — la discipline mécanique porte le résultat semaine 47 jusqu'au premier événement décisionnel du nouveau cycle (ex-div SAN T4 mardi, J-18 FOMC).**
+
+---
+
+### 2026-11-24 07:30 UTC — Mardi 24/11 — PRÉ-MARCHÉ SÉANCE 2 SEMAINE 48 PRÉ-THANKSGIVING — JOUR EX-DIV SAN T4 (DÉTACHEMENT 09:00 CET, ~−1,97 €/TITRE, CASH +5,90 € SETTLEMENT J+2) — J-17 FOMC 9/12 — HOLD × 4 PAR DÉFAUT MÉCANIQUE (17ᵉ LECTURE CONSÉCUTIVE, NOUVEAU RECORD CYCLE) — session 190
+
+#### Contexte — pré-marché séance 2 semaine 48 (08:30 CET)
+
+- **Date / heure** : mardi 24 novembre 2026, 07:30 UTC (08:30 CET). **Pré-marché Euronext** (ouverture 09:00 CET dans ~30 min). **117ᵉ anti-ouverture #2 armée** : aucune décision discrétionnaire en pré-ouverture sans mouvement d'indice dur (|Δ| CAC > 0,8 %). 175ᵉ entrée journal (session 190).
+- **Événement décisionnel du jour = JOUR EX-DIV SAN T4** : détachement mécanique du coupon T4 Sanofi à l'ouverture 09:00 CET → cours SAN ajusté de **−1,97 € par titre (SAN ~95,48 € post-ex-div vs 97,45 € pré-ex-div)** et crédit cash **+5,90 €** en settlement J+2 (crédit effectif jeudi 26/11 ou vendredi 27/11 selon calendrier Euronext, à noter : jeudi 27/11 = Thanksgiving US mais Euronext ouvert). Impact P&L **neutre** sur le portefeuille (prix baisse = dividende reçu), impact cash **positif différé**.
+- **Lecture live fixing clôture lundi 23/11** (séance 1 ouverture semaine 48) : confirmation attendue du fixing cristallisé 13/11 (|Δ| supposé < 0,5 % intraday lundi, aucun stop touché selon marqueurs indices, PMI flash Markit non-surprenant 15:45 CET). À consolider ce soir au fixing 17:35 CET.
+- **Catalyseurs du jour (mardi 24/11)** :
+  - **Ex-div SAN T4** (interne portefeuille, non-décisionnel aujourd'hui, prépare arbitrage J+1-J+2)
+  - **Pas de speech Fed** : **blackout pré-FOMC 9/12 verrouillé** (J-17)
+  - **Aucun macro US dur** (pas de CPI/PPI/jobs, séance sans données chaudes avant les Ifo allemand T3 PIB finale mercredi matin + Thanksgiving-shortened flow jeudi-vendredi)
+  - **Tape asiatique neutre** overnight (Nikkei flat, HSI légèrement positif, Kospi neutre — pas de dislocation macro à importer sur l'ouverture Euronext)
+- **Régime macro** : 10y US ~4,9-5,0 % **re-ancré** (J+4 post-PPI chaud, higher-for-longer intact). Hausse Fed 9/12 pricée **76-84 %** (±25 bp, stable depuis clôture semaine 47). Dollar index ~103-104 stable. VIX ~15-17 stable (calme pré-Thanksgiving confirmé).
+- **Panier 34 convictions v175 reconduit** (pas de v176 publiée lundi) : **loi tenue à son 101ᵉ test** (Nvidia BLOWOUT + Soitec BEAT + séance 1 semaine 48 PMI non-surprenant = 3 catalyseurs digérés sans re-noter indice dur). Nexans #34 reste prio 1 au watchlist re-déploiement cash ex-div SAN T4.
+
+#### État du portefeuille (fixing cristallisé vendredi 13/11 17:35 CET, reconduit pré-marché mardi 24/11 07:30 UTC — 11ᵉ reconduction consécutive, PRÉ-détachement SAN T4)
+
+| Ligne | Qté | PRU (€) | Cours fixing (€) | Valeur (€) | P&L (€) | P&L (%) | Marge stop |
+|-------|-----|---------|------------------|------------|---------|---------|------------|
+| AI.PA | 2 | 162,00 | 189,80 | 379,60 | +55,60 | +17,16 % | +7,89 % (175 €) |
+| SAN.PA | 3 | 87,00 | 97,45 | 292,35 | +31,35 | +12,01 % | — (pas de stop) |
+| SU.PA | 1 | 220,00 | 345,20 | 345,20 | +125,20 | +56,91 % | +3,04 % (335 €) |
+| DG.PA | 1,70 | 122,80 | 183,40 | 311,78 | +102,02 | +49,39 % | +3,03 % (178 €) |
+| **Investi** | | | | **1 328,93** | **+314,17** | — | |
+| **Cash** | | | | **12,52** | | | |
+| **Total** | | | | **1 341,45** | **+341,45** | **+34,15 %** | |
+
+> *Note méthodologique :* le tableau est pris **pré-ouverture, pré-détachement ex-div SAN T4**. À 09:00 CET, le cours SAN baissera mécaniquement de −1,97 €/titre (nouveau cours théorique ~95,48 €), la valeur SAN passera à ~286,45 € (−5,90 €), et le cash gagnera +5,90 € en settlement J+2 — total portefeuille **inchangé à 1 341,45 €**. Cette entrée de journal consolide le point pré-détachement ; la lecture post-détachement sera consignée au fixing 17:35 CET ce soir.
+
+#### Décisions — mardi 24/11 pré-marché séance 2 semaine 48 (session 190)
+
+**1. HOLD × 4 PAR DÉFAUT MÉCANIQUE — 17ᵉ LECTURE CONSÉCUTIVE = NOUVEAU RECORD CYCLE.** Aucune commande en pré-marché (anti-ouverture #2 armée, 117ᵉ armée consolidée). Le jour ex-div SAN T4 est **anticipé depuis plusieurs sessions** (ex-div intégré au plancher garanti +21,34 % depuis session 180+), aucune surprise structurelle à l'ouverture. 17ᵉ lecture = 14 séances ouvrées + 3 jours non-ouvrés cumulés sur le cycle courant.
+
+**2. STOPS MAINTENUS INCHANGÉS POUR LA 17ᵉ LECTURE** : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Pas de stop sur SAN (ancre yield, volatilité faible, logique de carry dividende). Aucune révision en pré-ouverture, décision réservée au fixing live ce soir.
+
+**3. CASH EX-DIV SAN T4 — ARBITRAGE REPORTÉ AU CRÉDIT EFFECTIF** : le cash +5,90 € arrive en settlement J+2 (crédit jeudi 26/11 ou vendredi 28/11 Euronext). Décision d'arbitrage **impossible ce matin** (cash encore à 12,52 €). Arbitrage effectif mercredi/jeudi/vendredi matin sur base : (i) cash crédité ~18,42 €, (ii) prix d'entrée Nexans spot, (iii) comportement SAN post-détachement (relative-strength à mesurer J0/J+1/J+2), (iv) 10y à J-15/J-14 FOMC.
+
+**4. RÉALITÉ STRUCTURELLE — CASH 18,42 € POST-EX-DIV RESTE SOUS LE SEUIL D'EXÉCUTION NEXANS #34** : Nexans cote ~150-180 € par titre sur Euronext. Avec 18,42 € disponibles, **aucun achat Nexans direct n'est possible**. Les options restent :
+  - (a) **Renfort SAN** sur 1 titre à ~95,48 € post-ex-div → nécessite arbitrage partiel DG (vente 0,3 titre ~55 €) pour libérer poche cash > 95 €
+  - (b) **Attendre ex-div AI T4** (généralement début déc. 2026, ~+5 € supplémentaire → cash ~23 € cumul) → toujours insuffisant pour Nexans direct
+  - (c) **Patienter cycle entier** jusqu'à ex-div/dividendes T4 cumulés semestre 2026 + rotation partielle DG → cash ~100-110 € → 1 Nexans possible fin décembre/janvier 2027
+  - **Conclusion opérationnelle** : le cash ex-div SAN T4 seul **ne débloque pas de rotation Nexans** cette semaine. Décision honnête = HOLD + attente cumulative, pas de forçage.
+
+**5. CARNET 5 SEUILS — CONFIGURATION INCHANGÉE** :
+- **Stops SU 335, DG 178, AI 175** : trois seuils mécaniques automatiques, inchangés 17ᵉ lecture.
+- **Seuils #36-#37** : bornes extérieures long-terme reconduites.
+- **Conditionnel #38** (renforcement SAN sur stop SU + 10y > 5,05 % persistant) : désactivé (10y ~4,9-5,0 % ne touche pas 5,05 % persistant), reste inscrit semaine 48.
+- **Fenêtre #34bis** (SU > 365 €) : reportée au FOMC 9/12.
+
+**6. 175ᵉ ENTRÉE JOURNAL — SESSION 190 MARDI 24/11 PRÉ-MARCHÉ SÉANCE 2 SEMAINE 48.** Prochaine entrée : **mardi 24/11 ~17:40 UTC fixing clôture séance 2 semaine 48** (lecture live post-détachement SAN T4, confirmation SAN ~95,48 €, mesure relative-strength J-ex-div SAN vs CAC, session 191), sinon intervention intraday sur |Δ| portefeuille > 0,8 % (seuil anti-ouverture #2).
+
+#### Explication synthétique des mouvements — HOLD × 4 par défaut mécanique (17ᵉ lecture consécutive, nouveau record cycle, séance 2 semaine 48 = JOUR EX-DIV SAN T4)
+
+**La séance 2 semaine 48 s'ouvre sur le premier événement calendaire décisionnel du cycle (ex-div SAN T4) — mais sans action possible ce matin. Trois lectures opérationnelles :**
+
+1. **L'ex-div SAN T4 est un événement comptable, pas une décision d'investissement — il ne me permet rien ce matin.** Le détachement du coupon (~1,97 €/titre, 5,90 € cumul) baisse mécaniquement le cours SAN à l'ouverture et crédite le cash en settlement J+2. Impact P&L neutre immédiat. Le cash effectivement disponible reste à 12,52 € ce matin ; il ne passera à ~18,42 € qu'au crédit effectif (jeudi ou vendredi selon calendrier Euronext). **Aucune commande ne peut être exécutée sur ce cash avant son arrivée réelle au compte.** La discipline reste donc HOLD × 4 mécanique.
+
+2. **Le cash ex-div SAN T4 seul reste structurellement insuffisant pour déclencher Nexans #34 — la watchlist attendra un cumul.** Nexans cote ~150-180 € l'unité ; 18,42 € de cash disponible après settlement reste 8× sous le prix d'exécution. Les options alternatives (renfort SAN à 95,48 € via arbitrage DG partiel, attente ex-div AI T4 début décembre, cumul semestriel) convergent toutes vers **patience + accumulation**, non vers un forçage d'exécution ce matin. La thèse Nexans #34 reste inscrite au watchlist comme candidat prioritaire **quand le cash le permettra** — probablement fin décembre/janvier 2027 après ex-div AI T4 + rotation DG partielle éventuelle.
+
+3. **La configuration portefeuille reste parfaitement calibrée pour le régime higher-for-longer intact à J-17 FOMC.** Les 4 lignes (SU IA/capex +56,91 %, DG concession indexée +49,39 %, AI gaz industriels +17,16 %, SAN yield défensif +12,01 % pré-ex-div) couvrent les 4 étages de robustesse régime. Le double-beat semaine 47 (Nvidia + Soitec) a été absorbé sans re-noter indice dur (100ᵉ test loi v175 tenu dimanche, 101ᵉ test en cours avec la digestion PMI flash lundi). Plancher garanti +21,34 % intact (1 213,50 €), déjà calculé **ex-div SAN T4 inclus** depuis plusieurs sessions.
+
+**Décisions concrètes mardi 24/11 pré-marché séance 2 semaine 48** :
+- **HOLD × 4 lignes** reconduit mécaniquement — anti-ouverture #2 armée (17ᵉ lecture consécutive, nouveau record cycle)
+- **Stops maintenus inchangés** (SU 335, DG 178, AI 175) — reconduction automatique
+- **Aucun achat / aucune vente** en pré-marché : attente fixing live 17:35 CET post-détachement
+- **Ex-div SAN T4 : crédit cash +5,90 € en settlement J+2** (jeudi/vendredi), cash effectif 12,52 € ce matin inchangé
+- **Panier 34 convictions v175 reconduit à carry** (pas de v176 publiée, Nexans #34 reste prio 1 watchlist mais non-actionnable cette semaine faute de cash)
+- **Plancher garanti +21,34 %** inchangé (ex-div SAN T4 déjà intégré au calcul)
+- **Carnet 5 seuils actifs + conditionnel #38 désactivé + fenêtre #34bis reportée FOMC** — configuration inchangée
+- **Ratio mécanique 32/32 (100 %)** inchangé
+- **Ratio anti-ouverture #2 117/117 (100 %)** armée pré-ouverture séance 2 semaine 48
+- **Watchlist Nexans #34** reconduite en attente de poche cash > 150 € (horizon fin décembre après ex-div AI T4 + rotation DG partielle conditionnelle)
+
+**Prochaine réévaluation** : **mardi 24/11 ~17:40 UTC fixing clôture séance 2 semaine 48** (lecture live post-détachement SAN T4, confirmation SAN ~95,48 €, mesure relative-strength J-ex-div SAN vs CAC pour instruire la thèse renfort-SAN tactique, session 191), sinon intervention intraday sur |Δ| portefeuille > 0,8 % (seuil anti-ouverture #2). Stops maintenus actifs : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Cash **12,52 €** pré-settlement (18,42 € post-settlement J+2). **Ratio mécanique 32/32 (100 %), ratio anti-ouverture #2 117/117 (100 %), plancher +21,34 % garanti, portefeuille 1 341,45 € (+34,15 %) cristallisé pré-détachement** (175ᵉ entrée journal — mardi 24/11 pré-marché 07:30 UTC, séance 2 semaine 48 pré-Thanksgiving, HOLD × 4 par défaut mécanique, **17ᵉ lecture consécutive = nouveau record cycle, 1 palier au-dessus de lundi**). **Signal du mardi pré-marché ex-div SAN T4 : l'événement calendrier décisionnel du cycle est purement comptable aujourd'hui — pas d'action possible ce matin, cash arrive en J+2, Nexans reste hors de portée seul. La discipline mécanique porte le résultat semaine 47 (+34,15 %) sans laisser la routine ex-div créer une fausse fenêtre d'exécution forcée.**
