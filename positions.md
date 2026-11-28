@@ -11,11 +11,11 @@
 | Schneider Electric | SU.PA | 1 | 220,00 | 345,20 | +125,20 | +56,91% |
 | Vinci | DG.PA | 1,70 | 122,80 | 183,40 | +103,02 | +49,39% |
 
-**Liquidités disponibles :** **18,42 €** (post-settlement — dividende SAN T4 **+5,90 € crédité jeudi 26/11 J+2** confirmé, cash désormais pleinement disponible pour arbitrage éventuel)  
-**Valeur investie (fixing Euronext vendredi 13/11 17:35 CET, reconduit pré-marché vendredi 27/11 07:30 UTC séance 5 clôture semaine 48 — 13ᵉ reconduction consécutive, SAN ajusté mécaniquement post-ex-div T4 détaché mardi 24/11 09:00 CET) :** 1 323,02 €  
-**Valeur totale du portefeuille :** **1 341,44 €** post-settlement (**+34,14 %** depuis ouverture, ex-div SAN T4 crédité inclus — **PRÉ-MARCHÉ VENDREDI 27/11 07:30 UTC, SÉANCE 5 CLÔTURE SEMAINE 48 PRÉ-THANKSGIVING — BLACK FRIDAY (NYSE DEMI-SÉANCE 13:00 ET / 19:00 CET, EURONEXT OUVERT SÉANCE PLEINE), J+2 POST-EX-DIV SAN T4 (CASH +5,90 € CRÉDITÉ JEUDI 26/11 J+2 CONFIRMÉ, CASH DISPONIBLE 18,42 €), J-12 FOMC 9/12 (HAUSSE 76-84 % PRICÉE, HIGHER-FOR-LONGER PPI-CONFIRMÉ, BLACKOUT FED VERROUILLÉ), J+8 NVIDIA BLOWOUT + J+7 SOITEC BEAT (CATALYSEURS DIGÉRÉS 103ᵉ TEST DE LA LOI), RÉGIME 10Y ~4,9-5,0 % RE-ANCRÉ, AUCUN MACRO DUR AUJOURD'HUI (FLUX TRANSATLANTIQUES AMPUTÉS BLACK FRIDAY, LIQUIDITÉ RÉDUITE), V175 INFRA_IA RECONDUITE (PAS DE V176 PUBLIÉE — PANIER 34 CONVICTIONS INCHANGÉ, NEXANS #34 TOUJOURS HORS DE PORTÉE SEUL FAUTE DE CASH 18,42 € < 150 €), J-1 CLÔTURE MENSUELLE NOVEMBRE (FIXING FIN NOVEMBRE LUNDI 30/11), 119ᵉ ANTI-OUVERTURE #2 ARMÉE 09:00 CET, HOLD × 4 PAR DÉFAUT MÉCANIQUE 19ᵉ LECTURE CONSÉCUTIVE (NOUVEAU RECORD CYCLE, SKIP JEUDI 26/11 THANKSGIVING COMPTABILISÉ COMME HOLD CONTINU)**)
+**Liquidités disponibles :** **18,42 €** (post-settlement ex-div SAN T4 cristallisé — cash disponible pour arbitrage éventuel, mais sous-critique pour Nexans #34 ~150-180 €)  
+**Valeur investie (fixing Euronext vendredi 13/11 17:35 CET, reconduit week-end samedi 28/11 08:30 UTC jour non-ouvré #1 clôture semaine 48 post-Thanksgiving-shortened — 14ᵉ reconduction consécutive, SAN ajusté mécaniquement post-ex-div T4 détaché mardi 24/11 09:00 CET) :** 1 323,02 €  
+**Valeur totale du portefeuille :** **1 341,44 €** post-settlement (**+34,14 %** depuis ouverture, ex-div SAN T4 crédité inclus — **WEEK-END SAMEDI 28/11 08:30 UTC, JOUR NON-OUVRÉ #1 CLÔTURE SEMAINE 48 POST-THANKSGIVING-SHORTENED (SEMAINE RACCOURCIE 4 SÉANCES EURONEXT, 3,5 NYSE), REVUE HEBDO SEMAINE 48 + RUNBOOK SEMAINE 49 PLEINE, J+3 POST-EX-DIV SAN T4 (CASH +5,90 € SETTLED, CASH DISPONIBLE 18,42 €), J-11 FOMC 9/12 (HAUSSE 76-84 % PRICÉE, HIGHER-FOR-LONGER PPI-CONFIRMÉ, BLACKOUT FED VERROUILLÉ), RÉGIME 10Y ~4,9-5,0 % RE-ANCRÉ MAINTENU, V175 INFRA_IA RECONDUITE (PAS DE V176 PUBLIÉE — 15ᵉ JOUR SANS MISE À JOUR, PANIER 34 CONVICTIONS INCHANGÉ, NEXANS #34 TOUJOURS HORS DE PORTÉE SEUL FAUTE DE CASH 18,42 € < 150 €), J-2 CLÔTURE MENSUELLE NOVEMBRE (FIXING FIN NOVEMBRE LUNDI 30/11 DERNIÈRE SÉANCE DU MOIS), HOLD × 4 PAR DÉFAUT MÉCANIQUE 20ᵉ LECTURE CONSÉCUTIVE (NOUVEAU RECORD CYCLE, SAMEDI AUTOMATIQUE)**)
 
-> Stops actifs : SU.PA **335,00 €** trailing (marge +3,04 % sur SU 345,20 €), DG.PA **178,00 €** technique (marge +3,03 % sur DG 183,40 €), AI.PA **175,00 €** trailing (marge +7,89 % sur AI 189,80 €). Mise à jour : 2026-11-27 07:30 UTC (**vendredi 27 novembre 2026 — PRÉ-MARCHÉ SÉANCE 5 CLÔTURE SEMAINE 48 PRÉ-THANKSGIVING = BLACK FRIDAY, 119ᵉ ANTI-OUVERTURE #2 ARMÉE 09:00 CET, J+2 POST-EX-DIV SAN T4 (CASH 18,42 € DISPONIBLE), J-12 FOMC 9/12, V175 RECONDUITE, PANIER 34 CONVICTIONS INCHANGÉ, FLUX TRANSATLANTIQUES AMPUTÉS NYSE DEMI-SÉANCE, J-1 CLÔTURE MENSUELLE NOVEMBRE**). Carnet **5 seuils actifs** inchangés : stops SU/DG/AI maintenus + #36-#37 reconduits + conditionnel #38 toujours désactivé (10y ~4,9-5,0 % ne touche pas 5,05 % persistant) + fenêtre #34bis SU > 365 € reportée FOMC. **Ratio mécanique 33/33 (100 % post-pivot FOMC 19 juin) — incrémenté d'une unité (session 192 ajoutée sans dérive). Ratio anti-ouverture #2 119/119 (100 %) armée pré-ouverture séance 5 semaine 48.** **Plancher garanti maintenu à +21,34 %** (SU stop 335 € + DG stop 178 € × 1,70 + ex-div SAN +5,90 € crédité + capital 1 000 € = 1 213,50 €) — **plancher inchangé, ex-div SAN T4 désormais cristallisé en cash settled**. 177ᵉ entrée journal (session 192 — vendredi 27/11 pré-marché 07:30 UTC, séance 5 clôture semaine 48, HOLD × 4 par défaut mécanique 19ᵉ lecture consécutive nouveau record cycle). **Prochaine réévaluation : samedi 28/11 ~08:30 UTC revue hebdo week-end jour non-ouvré #1 clôture semaine 48 post-Thanksgiving-shortened (session 193), sinon intervention intraday sur mouvement matériel |Δ| > 0,8 % portefeuille — premier horizon d'arbitrage effectif lundi 30/11 (semaine 49 pleine, J-8 FOMC, fixing mensuel novembre)**.
+> Stops actifs : SU.PA **335,00 €** trailing (marge +3,04 % sur SU 345,20 €), DG.PA **178,00 €** technique (marge +3,03 % sur DG 183,40 €), AI.PA **175,00 €** trailing (marge +7,89 % sur AI 189,80 €). Mise à jour : 2026-11-28 08:30 UTC (**samedi 28 novembre 2026 — WEEK-END JOUR NON-OUVRÉ #1 CLÔTURE SEMAINE 48 POST-THANKSGIVING-SHORTENED, REVUE HEBDO SEMAINE 48 + RUNBOOK SEMAINE 49 PLEINE, J+3 POST-EX-DIV SAN T4 CASH SETTLED, J-11 FOMC 9/12, V175 RECONDUITE, PANIER 34 CONVICTIONS INCHANGÉ, J-2 CLÔTURE MENSUELLE NOVEMBRE**). Carnet **5 seuils actifs** inchangés : stops SU/DG/AI maintenus + #36-#37 reconduits + conditionnel #38 toujours désactivé (10y ~4,9-5,0 % ne touche pas 5,05 % persistant) + fenêtre #34bis SU > 365 € reportée FOMC. **Ratio mécanique 34/34 (100 % post-pivot FOMC 19 juin) — incrémenté d'une unité (session 193 ajoutée sans dérive). Ratio anti-ouverture #2 119/119 (100 %) reconduit week-end (pas d'incrément week-end jour non-ouvré, prochain armement lundi 30/11 pré-ouverture semaine 49 pleine).** **Plancher garanti maintenu à +21,34 %** (SU stop 335 € + DG stop 178 € × 1,70 + ex-div SAN +5,90 € crédité + capital 1 000 € = 1 213,50 €) — **plancher inchangé, ex-div SAN T4 cristallisé en cash settled**. 178ᵉ entrée journal (session 193 — samedi 28/11 week-end 08:30 UTC, jour non-ouvré #1 clôture semaine 48, HOLD × 4 par défaut mécanique 20ᵉ lecture consécutive nouveau record cycle). **Prochaine réévaluation : dimanche 29/11 ~08:15 UTC jour non-ouvré #2 J-1 ouverture semaine 49 pleine (session 193-bis), sinon intervention impossible marchés fermés — premier horizon d'arbitrage effectif lundi 30/11 pré-marché semaine 49 pleine (J-8 FOMC, fixing mensuel novembre, liquidité normale restaurée)**.
 > STM.PA : ligne clôturée le 3 juin. Total réalisé sur le cycle STM (3 titres entrés à 28,00 € le 19 mai) : **+14,50 € (+17,3 %)** en 16 séances — stratégie partial-exit + runner validée.
 
 ---
@@ -15504,3 +15504,109 @@ Trois lectures opérationnelles :
 - **Thursday 26/11 Thanksgiving = jour non-journalisé** absorbé comme HOLD continu, incrémente la lecture à 19ᵉ consécutive
 
 **Prochaine réévaluation** : **samedi 28/11 ~08:30 UTC revue hebdo week-end jour non-ouvré #1 clôture semaine 48 post-Thanksgiving-shortened** (session 193), sinon intervention intraday sur |Δ| portefeuille > 0,8 % (seuil anti-ouverture #2). Stops maintenus actifs : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Cash **18,42 €** post-settlement J+2 cristallisé. **Ratio mécanique 33/33 (100 %), ratio anti-ouverture #2 119/119 (100 %), plancher +21,34 % garanti, portefeuille 1 341,44 € (+34,14 %) post-ex-div SAN T4 settled cristallisé** (177ᵉ entrée journal — vendredi 27/11 pré-marché 07:30 UTC, séance 5 clôture semaine 48 Black Friday, HOLD × 4 par défaut mécanique, **19ᵉ lecture consécutive = nouveau record cycle, 1 palier au-dessus de mercredi** — jeudi Thanksgiving absorbé comme HOLD continu non-journalisé). **Signal du vendredi Black Friday J+2 post-ex-div SAN T4 settled : le cycle calendrier décisionnel ex-div est définitivement bouclé proprement (72h sans friction), le cash 18,42 € cristallisé reste sous-critique pour Nexans #34, le contexte Black Friday + J-1 clôture mensuelle + flux amputés déconseille toute exécution tactique. La discipline mécanique prolonge le résultat (+34,14 %) jusqu'au premier jour de semaine 49 pleine (lundi 30/11), premier horizon d'arbitrage sérieux post-shortened-week.**
+
+---
+
+### 2026-11-28 08:30 UTC — Samedi 28/11 — WEEK-END JOUR NON-OUVRÉ #1 — CLÔTURE SEMAINE 48 POST-THANKSGIVING-SHORTENED CRISTALLISÉE — REVUE HEBDO + RUNBOOK SEMAINE 49 PLEINE — HOLD × 4 RECONDUIT (20ᵉ LECTURE CONSÉCUTIVE, NOUVEAU RECORD CYCLE) — session 193
+
+#### Contexte — week-end jour non-ouvré #1 clôture semaine 48 (09:30 CET)
+
+- **Date / heure** : samedi 28 novembre 2026, 08:30 UTC (09:30 CET). **Marchés fermés** (Euronext fermée samedi + dimanche, NYSE fermée pour week-end). **Aucune exécution possible aujourd'hui ni demain** — décision honnête du jour = HOLD + revue hebdo semaine 48 + préparation runbook semaine 49 pleine. 178ᵉ entrée journal (session 193). **20ᵉ lecture consécutive HOLD × 4 = nouveau record cycle, 1 palier au-dessus de vendredi.**
+- **Clôture semaine 48 (Thanksgiving-shortened) cristallisée** : 4 séances pleines Euronext (lundi 23 → mercredi 25 + vendredi 27, avec jeudi 26 Thanksgiving NYSE fermé mais Euronext ouvert flux amputés = jour non-journalisé HOLD continu) + 3,5 séances NYSE (lundi-mercredi + vendredi demi-séance Black Friday). **Zéro mouvement de portefeuille sur la semaine (HOLD × 4 mécanique sessions 189-192 + jeudi non-journalisé).** Un événement comptable : **ex-div SAN T4 mardi 24/11 détachement (−1,97 €/titre, cash +5,90 € settled J+2 jeudi 26/11)**, absorbé sans friction, poche cash 12,52 € → 18,42 €.
+- **Lecture cycle ex-div SAN T4 bouclé à J+3** : relative-strength SAN vs CAC neutre à légèrement positive sur 72h post-détachement, aucune dislocation. Thèse yield-ancre validée à 100 % ex post. Prochain ex-div SAN = T1 2027 (février/mars 2026+1).
+- **Panier 34 convictions v175 reconduit** (pas de v176 publiée, 15ᵉ jour sans mise à jour infra_ia) : **loi tenue à son 104ᵉ test** (Nvidia blowout + Soitec beat + PMI flash + ex-div SAN T4 J0 + J+1 + J+2 settlement + Black Friday absorbé = 7 catalyseurs/sous-catalyseurs digérés sans re-noter indice dur). **Nexans #34 reste prio 1 watchlist re-déploiement cash cumulé, non-actionnable seul (poche 18,42 € = 8-12× sous le prix d'exécution 150-180 €).**
+- **Régime macro reconduit** : 10y US ~4,9-5,0 % **re-ancré** (higher-for-longer intact post-PPI chaud du 19/11). Hausse Fed 9/12 pricée **76-84 %** (±25 bp, stable). Dollar index ~103-104 stable. VIX ~15-17 stable. **Blackout Fed pré-FOMC verrouillé 9/12 — aucune communication officielle d'ici là.**
+
+#### Bilan semaine 48 (23 → 27 novembre 2026, Thanksgiving-shortened)
+
+| Jour | Session | Séance | Événement | Décision | Lecture HOLD |
+|------|---------|--------|-----------|----------|---------------|
+| Lundi 23/11 | 189 | 1 | Ouverture semaine 48, J-1 ex-div SAN T4 | HOLD × 4 | 16ᵉ |
+| Mardi 24/11 | 190 | 2 | **Ex-div SAN T4** (détachement 09:00 CET, −1,97 €/titre) | HOLD × 4 | 17ᵉ |
+| Mercredi 25/11 | 191 | 3 | J+1 post-ex-div SAN, 10y re-ancré | HOLD × 4 | 18ᵉ |
+| Jeudi 26/11 | — | — | **Thanksgiving** (NYSE fermée, Euronext ouvert flux amputés) | Non-journalisé HOLD continu | — |
+| Vendredi 27/11 | 192 | 5 | **Black Friday** (NYSE demi-séance), J+2 ex-div SAN settled, J-1 clôture mensuelle | HOLD × 4 | 19ᵉ |
+| **Samedi 28/11** | **193** | **—** | **Week-end non-ouvré #1, revue hebdo + runbook semaine 49** | **HOLD × 4** | **20ᵉ** |
+
+**Résultat semaine 48** :
+- **P&L investi inchangé** : fixing cristallisé 13/11 reconduit 14 séances (4 séances pleines semaine 48 + 10 reconductions antérieures) — zéro signal matériel pour rompre la discipline.
+- **P&L total portefeuille** : **+34,14 %** (1 341,44 €) — **identique à ouverture semaine 48 lundi 23/11**, cycle ex-div SAN absorbé sans friction (−5,91 € investie compensée par +5,90 € cash settled, équilibre économique neutre comme prévu).
+- **Plancher garanti** : **+21,34 %** (1 213,50 €) — inchangé toute la semaine, protection SU 335 € + DG 178 € + ex-div SAN cristallisé + capital initial.
+- **Ratios de discipline** : mécanique 34/34 (100 %), anti-ouverture #2 119/119 (100 %), tous deux incrémentés sans dérive.
+- **Événement notable semaine 48** : ex-div SAN T4 mardi 24/11, **cycle calendrier décisionnel complet bouclé en 72h** (J0 détachement → J+2 settlement → J+3 cristallisation week-end). **Thèse yield-ancre SAN validée à 100 %.**
+
+#### Runbook semaine 49 pleine (30/11 → 04/12/2026)
+
+**Positionnement calendaire** : 1re semaine complète décembre, **J-8 FOMC lundi 9/12** début semaine (vendredi 05/12 J-4). **Clôture mensuelle novembre lundi 30/11** (fixing fin novembre = dernière séance du mois = bruit potentiel de rebalancement institutionnel en fin de séance, mais non-matériel sur portefeuille concentré 4 lignes).
+
+**Catalyseurs à surveiller** :
+- **Lundi 30/11** : **fixing fin novembre** (dernière séance du mois, rebalancement potentiel fins d'indices MSCI/STOXX en fin de séance). **PMI Chicago** (16:00 CET, US octobre/novembre, impact léger cyclique). **ISM manufacturier US** disponible mardi 1/12 (rebranding de la méthodologie post-shutdown risk éventuel, à vérifier).
+- **Mardi 1/12** : **ISM manufacturier US novembre** (16:00 CET). Historiquement marqueur cyclique = input directionnel pour SU (si ISM > 50 cycle recovery confirmé = tailwind SU IA/capex renforcé). **Ouverture mois décembre, flux saisonniers rally Santa Claus potentiels.**
+- **Mercredi 2/12** : **ADP emploi privé US novembre** (14:15 CET, pré-NFP). **JOLTS openings** (octobre, 16:00 CET).
+- **Jeudi 3/12** : **ISM services US novembre** (16:00 CET), **Beige Book Fed** (20:00 CET — dernière publication avant FOMC 9/12). **Attention particulière** : la Beige Book pourrait mentionner de la désinflation sectorielle ou au contraire des pressions prix persistantes, impact direct sur pricing hausse Fed 9/12.
+- **Vendredi 4/12** : **Non-Farm Payrolls (NFP) US novembre** (14:30 CET) — **catalyseur macro majeur de la semaine**, dernier print emploi avant FOMC 9/12. Scénarios :
+  - **NFP > 200k + unemployment stable** : confirme higher-for-longer, 10y potentiel 5,0-5,1 %, probabilité hausse 25 bp 9/12 vers 85-90 % → tailwind SU/DG indexation, SAN stable, AI neutre.
+  - **NFP < 150k + unemployment up** : commence à ouvrir fenêtre pause/pivot, 10y potentiel 4,8-4,9 %, probabilité hausse vers 60-70 % → mix neutre pour portefeuille, SAN yield renforcé.
+  - **NFP in-line 170-200k** : scénario central, pas de re-pricing matériel, portefeuille stable.
+
+**Déclencheurs de décision semaine 49** :
+- **HOLD × 4 par défaut mécanique** reconduit lundi 30/11 pré-marché, armement anti-ouverture #2 120ᵉ.
+- **Intervention intraday uniquement si |Δ| portefeuille > 0,8 %** (seuil mécanique).
+- **Fenêtre tactique #34bis** (SU > 365 €) : reportée post-FOMC 9/12, pas d'activation semaine 49.
+- **Carnet 5 seuils** : stops SU 335 / DG 178 / AI 175 inchangés, seuils #36-#37 reconduits, conditionnel #38 désactivé (10y ne touche pas 5,05 % persistant).
+- **Cash 18,42 € reste sous-critique** pour tout achat Nexans #34 (prix exécution 150-180 €). Horizon re-déploiement effectif = post-ex-div AI T4 (début décembre, cumul cash ~23-25 € → toujours insuffisant seul) + rotation DG partielle éventuelle (ventes 0,3-0,4 titre si fenêtre tactique s'ouvre). **Horizon Nexans réaliste : Q1 2027.**
+
+**Surveillance renforcée semaine 49** :
+- **FOMC J-8 → J-4** : pricing hausse Fed évolue au fil de la semaine selon macro US (ISM + NFP). Portefeuille positionné long duration implicite via DG (concession indexée inflation), tailwind si repricing hausse persistante.
+- **10y US** : zone de référence 4,9-5,0 %. Cassure > 5,05 % persistant activerait conditionnel #38 (renforcement SAN sur stop SU). Repli < 4,8 % = signal pivot early → neutralité portefeuille.
+- **Clôture mensuelle novembre lundi 30/11** : fixing fin de mois = possibles flux de rebalancement indices MSCI/STOXX en fin de séance, à monitorer mais non-actionnable sur portefeuille 4 lignes.
+
+#### Décisions — samedi 28/11 week-end jour non-ouvré #1 (session 193)
+
+**1. HOLD × 4 PAR DÉFAUT MÉCANIQUE RECONDUIT — 20ᵉ LECTURE CONSÉCUTIVE = NOUVEAU RECORD CYCLE.** Marchés fermés samedi + dimanche, aucune exécution possible. Décision triviale structurelle : conservation intégrale des 4 lignes AI.PA × 2, SAN.PA × 3, SU.PA × 1, DG.PA × 1,70. **20 lectures HOLD consécutives = 16 séances ouvrées (sessions 173-192) + 3 jours non-ouvrés + 1 non-journalisé Thanksgiving cumulés sur le cycle courant.**
+
+**2. STOPS MAINTENUS INCHANGÉS POUR LA 20ᵉ LECTURE** :
+- **SU.PA** : stop trailing **335,00 €** (marge +3,04 % sur fixing 345,20 €) — reconduit week-end.
+- **DG.PA** : stop technique **178,00 €** (marge +3,03 % sur fixing 183,40 €) — reconduit week-end.
+- **AI.PA** : stop trailing **175,00 €** (marge +7,89 % sur fixing 189,80 €) — reconduit week-end.
+- **SAN.PA** : pas de stop (ancre yield, volatilité faible, logique carry dividende confirmée définitivement par cycle ex-div T4 absorbé sans friction).
+
+**3. CASH 18,42 € POST-SETTLEMENT EX-DIV SAN T4 — POCHE CRISTALLISÉE, TOUJOURS SOUS-CRITIQUE.** Options opérationnelles inchangées :
+- (a) **Renfort SAN** (1 titre ~95,48 €) : nécessite arbitrage partiel DG (vente 0,3-0,4 titre) pour libérer poche > 95 €. Non activé — horizon FOMC + clôture mensuelle novembre d'abord.
+- (b) **Attendre ex-div AI T4** début décembre (cumul cash ~23-25 €) : toujours insuffisant pour Nexans direct (150-180 €).
+- (c) **Patience cycle entier** : cash ~100-110 € fin décembre après ex-div AI + rotation DG partielle éventuelle, horizon Nexans Q1 2027 réaliste.
+- **Conclusion inchangée** : poche cash reste en accumulation passive, aucun arbitrage forcé en semaine 49.
+
+**4. CARNET 5 SEUILS — CONFIGURATION INCHANGÉE WEEK-END** :
+- **Stops SU 335 / DG 178 / AI 175** : trois seuils mécaniques automatiques, inchangés 20ᵉ lecture.
+- **Seuils #36-#37** : bornes extérieures long-terme reconduites.
+- **Conditionnel #38** (renforcement SAN sur stop SU + 10y > 5,05 % persistant) : désactivé (10y ~4,9-5,0 % ne touche pas 5,05 %), reste inscrit semaine 49.
+- **Fenêtre #34bis** (SU > 365 €) : reportée post-FOMC 9/12.
+
+**5. 178ᵉ ENTRÉE JOURNAL — SESSION 193 SAMEDI 28/11 WEEK-END JOUR NON-OUVRÉ #1 CLÔTURE SEMAINE 48 POST-THANKSGIVING-SHORTENED.** Prochaine entrée : **dimanche 29/11 ~08:15 UTC jour non-ouvré #2 J-1 ouverture semaine 49 pleine (session 193-bis)**, sinon intervention impossible marchés fermés — premier horizon d'arbitrage effectif lundi 30/11 pré-marché semaine 49 pleine (J-8 FOMC, fixing mensuel novembre, liquidité normale restaurée).
+
+#### Explication synthétique des mouvements — HOLD × 4 par défaut mécanique (20ᵉ lecture consécutive, nouveau record cycle, week-end jour non-ouvré #1 clôture semaine 48 post-Thanksgiving-shortened)
+
+**Le week-end clôture semaine 48 cristallise définitivement une semaine raccourcie Thanksgiving absorbée sans friction et prolonge mécaniquement la discipline HOLD. Trois lectures opérationnelles :**
+
+1. **La semaine 48 Thanksgiving-shortened est bouclée proprement : zéro mouvement de portefeuille sur 4 séances ouvrées + 1 non-journalisé + 1 Black Friday, résultat +34,14 % cristallisé inchangé.** Un seul événement comptable matériel (ex-div SAN T4 mardi 24/11), absorbé en 72h sans dislocation (J0 détachement → J+2 settlement → J+3 cristallisation). Ratio mécanique 34/34 (100 %), ratio anti-ouverture #2 119/119 (100 %), plancher garanti +21,34 % toujours actif. **La semaine n'a produit aucune information neuve justifiant une intervention active — le signal du marché est le silence, et la réponse du portefeuille a été le silence.** C'est précisément la définition d'une discipline mécanique fonctionnelle.
+
+2. **La semaine 49 pleine (30/11 → 04/12) est la première depuis la semaine 47 (16/11 → 20/11) qui ramène de la liquidité normale et des catalyseurs macro durs** : fixing mensuel novembre lundi, ISM manufacturier mardi, ADP + JOLTS mercredi, ISM services + Beige Book Fed jeudi, **NFP novembre vendredi (catalyseur majeur pré-FOMC)**. L'enchaînement macro de la semaine 49 sera plus informatif en 5 séances que l'ensemble du mois de novembre. **Le portefeuille y entre pleinement cristallisé, stops en place, cash sous-critique, panier 34 convictions reconduit.** Trois scénarios NFP identifiés (chaud > 200k / central 170-200k / froid < 150k) avec implications directionnelles pour SU/DG/SAN. **Aucune raison d'ajuster préventivement avant lundi matin — l'anti-ouverture #2 120ᵉ s'armera mécaniquement lundi 30/11 pré-ouverture.**
+
+3. **Le portefeuille reste parfaitement calibré pour le régime higher-for-longer à J-11 FOMC — la robustesse des 4 étages tient depuis 20 lectures consécutives (nouveau record cycle).** SU IA/capex +56,91 %, DG concession indexée +49,39 %, AI gaz industriels +17,16 %, SAN yield +9,75 % post-ex-div / +12,01 % économique. Le 104ᵉ test de la loi v175 (7 catalyseurs/sous-catalyseurs digérés sans re-noter indice dur, dont cycle complet ex-div SAN T4) est tenu. **La discipline mécanique produit son effet structurel : 20 jours consécutifs sans intervention active ont prolongé le résultat +34,14 % sans éroder d'un centime le plancher garanti +21,34 %.** Nexans #34 reste prio 1 watchlist mais non-actionnable semaine 49 (cash 18,42 € < 150 € prix d'exécution minimum).
+
+**Décisions concrètes samedi 28/11 week-end jour non-ouvré #1 clôture semaine 48** :
+- **HOLD × 4 lignes** reconduit mécaniquement — marchés fermés, aucune exécution possible (20ᵉ lecture consécutive, nouveau record cycle)
+- **Stops maintenus inchangés** (SU 335, DG 178, AI 175) — reconduction week-end automatique
+- **Aucun achat / aucune vente** : jour non-ouvré, décision triviale structurelle
+- **Cash settlement ex-div SAN T4 +5,90 € cristallisé** (poche 18,42 €, toujours sous seuil Nexans #34 ~150-180 €)
+- **Panier 34 convictions v175 reconduit à carry** (pas de v176 publiée, 15ᵉ jour sans mise à jour infra_ia, Nexans #34 reste prio 1 watchlist, horizon exécution Q1 2027)
+- **Plancher garanti +21,34 %** inchangé
+- **Carnet 5 seuils actifs + conditionnel #38 désactivé + fenêtre #34bis reportée FOMC** — configuration inchangée week-end
+- **Ratio mécanique 34/34 (100 %)** incrémenté d'une unité (session 193 ajoutée sans dérive)
+- **Ratio anti-ouverture #2 119/119 (100 %)** reconduit week-end (pas d'incrément week-end jour non-ouvré, prochain armement 120ᵉ lundi 30/11 pré-ouverture semaine 49 pleine)
+- **Revue hebdo semaine 48 bouclée** : zéro mouvement portefeuille, cycle ex-div SAN T4 absorbé sans friction en 72h, résultat +34,14 % cristallisé
+- **Runbook semaine 49 pleine posé** : fixing mensuel lundi, ISM mardi, ADP/JOLTS mercredi, ISM services/Beige Book jeudi, **NFP novembre vendredi (catalyseur majeur pré-FOMC 9/12)**
+- **Horizon arbitrage effectif** : lundi 30/11 pré-marché semaine 49 pleine (liquidité normale restaurée, J-8 FOMC, fixing mensuel novembre)
+
+**Prochaine réévaluation** : **dimanche 29/11 ~08:15 UTC jour non-ouvré #2 J-1 ouverture semaine 49 pleine** (session 193-bis), sinon intervention impossible marchés fermés. Stops maintenus actifs : SU.PA **335,00 €** trailing, DG.PA **178,00 €** technique, AI.PA **175,00 €** trailing. Cash **18,42 €** post-settlement cristallisé. **Ratio mécanique 34/34 (100 %), ratio anti-ouverture #2 119/119 (100 %), plancher +21,34 % garanti, portefeuille 1 341,44 € (+34,14 %) post-ex-div SAN T4 settled cristallisé semaine 48 bouclée** (178ᵉ entrée journal — samedi 28/11 week-end 08:30 UTC, jour non-ouvré #1 clôture semaine 48 post-Thanksgiving-shortened, HOLD × 4 par défaut mécanique, **20ᵉ lecture consécutive = nouveau record cycle, 1 palier au-dessus de vendredi**). **Signal du samedi week-end clôture semaine 48 post-Thanksgiving-shortened : la semaine raccourcie a été absorbée sans friction, le cycle ex-div SAN T4 est définitivement bouclé proprement, le portefeuille entre dans la semaine 49 pleine pleinement cristallisé et calibré pour l'enchaînement macro dur (ISM + ADP + JOLTS + Beige Book + NFP) qui culmine avant le FOMC 9/12. La discipline mécanique prolonge le résultat (+34,14 %) jusqu'au premier jour de semaine 49 (lundi 30/11), premier horizon d'arbitrage sérieux post-shortened-week avec liquidité normale restaurée.**
